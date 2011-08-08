@@ -1,0 +1,45 @@
+[LevelInfo0]
+Title="Oceanic"
+
+[LevelSummary]
+Title="Oceanic"
+
+[ZoneInfo0]
+LocationName="Centro superiore"
+
+[ZoneInfo1]
+LocationName="Corridoio a elle 1"
+
+[ZoneInfo10]
+LocationName="Fucile Shock"
+
+[ZoneInfo11]
+LocationName="Fucile Shock"
+
+[ZoneInfo12]
+LocationName="Cannone Flak"
+
+[ZoneInfo13]
+LocationName="Stanza razzo"
+
+[ZoneInfo2]
+LocationName="Centro-superiore"
+
+[ZoneInfo3]
+LocationName="Centro inferiore"
+
+[ZoneInfo4]
+LocationName="Centro-superiore"
+
+[ZoneInfo6]
+LocationName="Minigun"
+
+[ZoneInfo7]
+LocationName="Stanza centrale"
+
+[ZoneInfo8]
+LocationName="Corridoio a elle 2"
+
+[ZoneInfo9]
+LocationName="Centro-inferiore"
+

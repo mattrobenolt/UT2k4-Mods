@@ -1,0 +1,118 @@
+[LevelInfo0]
+Title="Tombe gemelle"
+
+[LevelSummary]
+Title="Tombe gemelle"
+Description="L'inverno è sceso sulle tombe e i morti non hanno pace. Questa elegante ricostruzione delle tombe gemelle dei fratelli Ramses III e Rudamon è notoriamente uno scenario veloce, brutale e insidioso, proprio come volevano i faraoni che vi sono sepolti."
+
+[ZoneInfo0]
+LocationName="Corridoio superiore blu"
+
+[ZoneInfo1]
+LocationName="Base blu"
+
+[ZoneInfo11]
+LocationName="Base rossa"
+
+[ZoneInfo12]
+LocationName="Corridoio inferiore rosso"
+
+[ZoneInfo13]
+LocationName="Piazzole di salto rosse"
+
+[ZoneInfo15]
+LocationName="Piazzole di salto blu"
+
+[ZoneInfo16]
+LocationName="Corridoio superiore rosso"
+
+[ZoneInfo17]
+LocationName="Tetto rosso"
+
+[ZoneInfo18]
+LocationName="Corridoio inferiore blu"
+
+[ZoneInfo19]
+LocationName="Corridoio superiore blu"
+
+[ZoneInfo2]
+LocationName="Area esterna"
+
+[ZoneInfo21]
+LocationName="Corridoio inferiore rosso"
+
+[ZoneInfo23]
+LocationName="Corridoio inferiore rosso"
+
+[ZoneInfo24]
+LocationName="Tetto blu"
+
+[ZoneInfo26]
+LocationName="Base rossa"
+
+[ZoneInfo27]
+LocationName="Corridoio inferiore blu"
+
+[ZoneInfo28]
+LocationName="Vestibolo blu"
+
+[ZoneInfo29]
+LocationName="Vestibolo blu"
+
+[ZoneInfo3]
+LocationName="Vestibolo rosso"
+
+[ZoneInfo30]
+LocationName="Corridoio superiore blu"
+
+[ZoneInfo31]
+LocationName="Corridoio superiore blu"
+
+[ZoneInfo32]
+LocationName="Corridoio superiore blu"
+
+[ZoneInfo33]
+LocationName="Stanza della bandiera blu"
+
+[ZoneInfo34]
+LocationName="Corridoio superiore blu"
+
+[ZoneInfo35]
+LocationName="Corridoio inferiore blu"
+
+[ZoneInfo36]
+LocationName="Base blu"
+
+[ZoneInfo37]
+LocationName="Corridoio inferiore blu"
+
+[ZoneInfo38]
+LocationName="Corridoio superiore blu"
+
+[ZoneInfo39]
+LocationName="Corridoio superiore rosso"
+
+[ZoneInfo4]
+LocationName="Vestibolo rosso"
+
+[ZoneInfo40]
+LocationName="Tetto blu"
+
+[ZoneInfo42]
+LocationName="Corridoio inferiore rosso"
+
+[ZoneInfo43]
+LocationName="Tetto rosso"
+
+[ZoneInfo5]
+LocationName="Corridoio superiore rosso"
+
+[ZoneInfo6]
+LocationName="Corridoio superiore rosso"
+
+[ZoneInfo8]
+LocationName="Stanza della bandiera rossa"
+
+[ZoneInfo9]
+LocationName="Corridoio superiore rosso"
+

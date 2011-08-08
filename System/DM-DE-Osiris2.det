@@ -1,0 +1,42 @@
+[LevelInfo0]
+Title="Osiris 2"
+
+[LevelSummary]
+Title="Osiris 2"
+Description="Der Sand vermischt sich mit Ihrem Schweiß und bildet eine klebrige Schicht auf Ihrer Haut, die unter Ihrer Panzerung juckt. Die Luft stinkt nach elektrostatischen Entladungen und getrocknetem Blut. Aus der Dunkelheit der Gräber unten ist ein unmenschlicher Todesschrei zu hören, der von einem Ihrer zahllosen Feinden stammt. Das Einzige, was Ihnen Leid tut, ist, dass nicht Sie ihn erledigen konnten. Zeit zu kämpfen."
+
+[ZoneInfo0]
+LocationName="Untergrundtempel"
+
+[ZoneInfo1]
+LocationName="Obere Gänge"
+
+[ZoneInfo10]
+LocationName="Flak Cannon-Raum"
+
+[ZoneInfo11]
+LocationName="Unterer Gang"
+
+[ZoneInfo2]
+LocationName="Obere Gänge"
+
+[ZoneInfo3]
+LocationName="Haupthof"
+
+[ZoneInfo4]
+LocationName="Superschild-Raum"
+
+[ZoneInfo5]
+LocationName="Obere Gänge"
+
+[ZoneInfo6]
+LocationName="Obere Gänge"
+
+[ZoneInfo7]
+LocationName="Unterer Gang"
+
+[ZoneInfo8]
+LocationName="Shock Rifle-Raum"
+
+[ZoneInfo9]
+LocationName="Rocket Launcher-Grab"

@@ -1,0 +1,187 @@
+[LevelInfo0]
+Title="Danni doppi"
+
+[LevelSummary]
+Title="Danni doppi"
+Description="Qualcuno direbbe che è da pazzi giocare in cima a una diga in pieno inverno. Da queste parti, chi lo fa viene chiamato "vittima"."
+
+[PhysicsVolume1]
+LocationName="Campo ghiacciato"
+
+[ZoneInfo0]
+LocationName="Stanza della bandiera blu"
+
+[ZoneInfo11]
+LocationName="Stanza posteriore blu"
+
+[ZoneInfo20]
+LocationName="Stanza posteriore blu"
+
+[ZoneInfo24]
+LocationName="Stanza della bandiera rossa"
+
+[ZoneInfo29]
+LocationName="Stanza posteriore rossa"
+
+[ZoneInfo30]
+LocationName="Sala d'ingresso blu"
+
+[ZoneInfo37]
+LocationName="Vestibolo blu"
+
+[ZoneInfo40]
+LocationName="Sala superiore sinistra blu"
+
+[ZoneInfo41]
+LocationName="Sala superiore sinistra blu"
+
+[ZoneInfo42]
+LocationName="Sala superiore destra blu"
+
+[ZoneInfo43]
+LocationName="Sala superiore destra blu"
+
+[ZoneInfo44]
+LocationName="Ascensore del tiratore rosso"
+
+[ZoneInfo45]
+LocationName="Stanza posteriore rossa"
+
+[ZoneInfo46]
+LocationName="Stanza posteriore rossa"
+
+[ZoneInfo47]
+LocationName="Sala d'ingresso rossa"
+
+[ZoneInfo48]
+LocationName="Vestibolo rosso"
+
+[ZoneInfo49]
+LocationName="Sala superiore sinistra rossa"
+
+[ZoneInfo5]
+LocationName="Stanza posteriore blu"
+
+[ZoneInfo50]
+LocationName="Sala superiore sinistra rossa"
+
+[ZoneInfo51]
+LocationName="Sala superiore destra rossa"
+
+[ZoneInfo52]
+LocationName="Sala superiore destra rossa"
+
+[ZoneInfo53]
+LocationName="Sala superiore destra rossa"
+
+[ZoneInfo54]
+LocationName="Vestibolo rosso"
+
+[ZoneInfo56]
+LocationName="Vestibolo superiore rosso"
+
+[ZoneInfo57]
+LocationName="Vestibolo superiore rosso"
+
+[ZoneInfo58]
+LocationName="Sala superiore sinistra rossa"
+
+[ZoneInfo59]
+LocationName="Corridoio sinistro rosso"
+
+[ZoneInfo6]
+LocationName="Ascensore del tiratore blu"
+
+[ZoneInfo60]
+LocationName="Sala superiore destra blu"
+
+[ZoneInfo61]
+LocationName="Vestibolo rosso"
+
+[ZoneInfo62]
+LocationName="Vestibolo rosso"
+
+[ZoneInfo63]
+LocationName="Corridoio sinistro rosso"
+
+[ZoneInfo64]
+LocationName="Corridoio sinistro rosso"
+
+[ZoneInfo65]
+LocationName="Corridoio sinistro rosso"
+
+[ZoneInfo66]
+LocationName="Vestibolo blu"
+
+[ZoneInfo67]
+LocationName="Corridoio destro rosso"
+
+[ZoneInfo68]
+LocationName="Corridoio destro rosso"
+
+[ZoneInfo69]
+LocationName="Vestibolo rosso"
+
+[ZoneInfo7]
+LocationName="Esterno"
+
+[ZoneInfo70]
+LocationName="Vestibolo blu"
+
+[ZoneInfo71]
+LocationName="Deposito rosso"
+
+[ZoneInfo72]
+LocationName="Deposito rosso"
+
+[ZoneInfo73]
+LocationName="Deposito rosso"
+
+[ZoneInfo74]
+LocationName="Corridoio destro rosso"
+
+[ZoneInfo75]
+LocationName="Vestibolo superiore blu"
+
+[ZoneInfo76]
+LocationName="Vestibolo superiore blu"
+
+[ZoneInfo77]
+LocationName="Sala superiore sinistra blu"
+
+[ZoneInfo78]
+LocationName="Corridoio sinistro blu"
+
+[ZoneInfo79]
+LocationName="Vestibolo blu"
+
+[ZoneInfo80]
+LocationName="Vestibolo blu"
+
+[ZoneInfo81]
+LocationName="Corridoio sinistro blu"
+
+[ZoneInfo82]
+LocationName="Corridoio sinistro blu"
+
+[ZoneInfo83]
+LocationName="Corridoio sinistro blu"
+
+[ZoneInfo84]
+LocationName="Corridoio destro blu"
+
+[ZoneInfo85]
+LocationName="Corridoio destro blu"
+
+[ZoneInfo87]
+LocationName="Deposito blu"
+
+[ZoneInfo88]
+LocationName="Deposito blu"
+
+[ZoneInfo89]
+LocationName="Deposito blu"
+
+[ZoneInfo90]
+LocationName="Corridoio destro blu"
+

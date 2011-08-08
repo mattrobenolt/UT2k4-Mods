@@ -1,0 +1,65 @@
+[LevelInfo0]
+Title="Sun Temple"
+
+[LevelSummary]
+Title="Sun Temple"
+
+[ZoneInfo0]
+LocationName="Campo abierto"
+
+[ZoneInfo10]
+LocationName="Pasadizos Dom B"
+
+[ZoneInfo11]
+LocationName="Sala superior Dom B"
+
+[ZoneInfo12]
+LocationName="Punto Dom B"
+
+[ZoneInfo13]
+LocationName="Pasadizos Dom A"
+
+[ZoneInfo14]
+LocationName="Pasadizos Dom A"
+
+[ZoneInfo15]
+LocationName="Entrada Dom A"
+
+[ZoneInfo16]
+LocationName="Sala superior Dom A"
+
+[ZoneInfo17]
+LocationName="Sala supeior Dom A"
+
+[ZoneInfo18]
+LocationName="Patio Dom A"
+
+[ZoneInfo2]
+LocationName="Entrada Dom B"
+
+[ZoneInfo23]
+LocationName="Punto Dom A"
+
+[ZoneInfo24]
+LocationName="Sala superior Dom B"
+
+[ZoneInfo3]
+LocationName="Sala de salto central"
+
+[ZoneInfo4]
+LocationName="Patio Dom B"
+
+[ZoneInfo5]
+LocationName="Pasadizos Dom B"
+
+[ZoneInfo6]
+LocationName="Pasadizos Dom B"
+
+[ZoneInfo7]
+LocationName="Pasadizos Dom A"
+
+[ZoneInfo8]
+LocationName="Pasadizos Dom A"
+
+[ZoneInfo9]
+LocationName="Pasadizos Dom B"

@@ -1,0 +1,51 @@
+[Public]
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUTClassic,Description="Armi e capacità di movimento configurabili (come la schivata a muro) in classico stile UT.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseSniper,Description="Sostituisce i fulminatori con i classici fucili di precisione.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseLightning,Description="Sostituisce i fucili di precisione con i fulminatori.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=UTClassic.ClassicSniperRifle,Description="Questo fucile di precisione spara proiettili veloci, ha un mirino telescopico a 10 ingrandimenti ed è un'arma letale a qualsiasi distanza, soprattutto se si sa mirare alla testa.")
+
+[ClassicSniperAmmo]
+ItemName="Proiettili di precisione"
+
+[ClassicSniperAmmoPickup]
+PickupMessage="Hai preso delle munizioni per fucile di precisione."
+
+[ClassicSniperRifle]
+Description="Questo fucile di precisione spara proiettili veloci, ha un mirino telescopico a 10 ingrandimenti ed è un'arma letale a qualsiasi distanza, soprattutto se si sa mirare alla testa."
+ItemName="Fucile di precisione"
+
+[ClassicSniperRiflePickup]
+PickupMessage="Hai il fucile di precisione."
+
+[DamTypeClassicHeadshot]
+DeathString="%k piazza un proiettile nella testa di %o."
+FemaleSuicide="%o si è sparata in testa."
+MaleSuicide="%o si è sparato in testa."
+
+[DamTypeClassicSniper]
+DeathString="%k apre un buco nel corpo di %o"
+FemaleSuicide="%o si è sparata a un piede."
+MaleSuicide="%o si è sparato a un piede."
+
+[MutUTClassic]
+DJString="Consente il doppio salto"
+WDString="Consente la schivata di muro"
+DDJString="Consente di schivare con un doppio salto"
+DJHelp="Se abilitato, i giocatori possono fare doppi salti nel punto di massima altezza."
+WDHelp="Se abilitato, i giocatori possono schivare utilizzando i muri."
+DDJHelp="Se abilitato, i giocatori possono fare un doppio salto nel punto di massima altezza dei salti di schivata."
+WeapString="Armi potenziate"
+WeapHelp="Se è attiva, le armi infliggono più danni."
+TranslocString="Translocatore accelerato"
+TranslocHelp="Se è attiva, il translocatore si ricarica più velocemente."
+FriendlyName="UT classico"
+Description="Armi e opzioni di movimento in classico stile UT."
+
+[MutUseLightning]
+FriendlyName="Fulminatori"
+Description="Sostituisce tutti i fucili di precisione con fulminatori."
+
+[MutUseSniper]
+FriendlyName="Fucili di precisione"
+Description="Sostituisce tutti i fulminatori con fucili di precisione."
+

@@ -1,0 +1,51 @@
+[LevelInfo0]
+Title="Torlan"
+
+[LevelSummary]
+Title="Torlan"
+Description="In den ausgetrockneten Randbezirken eines üppigen Dschungelkontinents kämpfen zwei befeindete Gruppen erbittert gegeneinander, um die Kontrolle über einen wichtigen Kommunikationsturm und die daneben liegende Stromversorgungseinheit zu erhalten. Der Damm, der das Wasser des nahegelegenen Dschungels staut und somit zu einem trockenen Flussbett geführt hat, verläuft durch das Schlachtfeld und bietet eine leichte Angriffsroute in feindliches Gebiet, was zur Eroberung des enorm wichtigen Kommunikationsturms führen kann."
+
+[Volume0]
+LocationName="BLAUE Basis"
+
+[Volume1]
+LocationName="Mittlere Schlucht"
+
+[Volume10]
+LocationName="Mittlerer Einstiegspunkt"
+
+[Volume11]
+LocationName="Mittlere Schlucht"
+
+[Volume12]
+LocationName="ROT 1. Power-Knoten"
+
+[Volume13]
+LocationName="Turmbrücke"
+
+[Volume2]
+LocationName="ROTE Basis"
+
+[Volume3]
+LocationName="BLAUER Turm"
+
+[Volume4]
+LocationName="ROTER Turm"
+
+[Volume5]
+LocationName="Mittlerer Power-Knoten"
+
+[Volume6]
+LocationName="ROT 2. Power-Knoten"
+
+[Volume7]
+LocationName="BLAU 2. Power-Knoten"
+
+[Volume8]
+LocationName="BLAU 1. Power-Knoten"
+
+[Volume9]
+LocationName="Mittlerer Turm"
+
+[ZoneInfo0]
+LocationName="Außen"

@@ -1,0 +1,34 @@
+[LevelInfo0]
+Title="Morfeo 3"
+
+[LevelSummary]
+Title="Morfeo 3"
+Description="La Liandri sapeva bene che il tetto del nuovissimo super grattacielo Galassia sarebbe stato un'eccellente arena. Grazie alla modernissima tecnologia dei solidi ipertensili, questi tre edifici raggiungono la strabiliante altezza di 18 chilometri. L'atmosfera rarefatta e la bassa gravità costituiscono una prova interessante per la capacità di adattamento agli ambienti estremi dei partecipanti al Torneo."
+
+[MessageTextureClient4]
+ScrollingMessage="%lp guida l'incontro con %lf frag"
+
+[PhysicsVolume1]
+LocationName="18 chilometri di altezza"
+
+[ZoneInfo0]
+LocationName="Interno della torre GIALLA"
+
+[ZoneInfo1]
+LocationName="Interno della torre BLU"
+
+[ZoneInfo2]
+LocationName="18 chilometri di altezza"
+
+[ZoneInfo3]
+LocationName="Interno della torre BLU"
+
+[ZoneInfo4]
+LocationName="Interno della torre GIALLA"
+
+[ZoneInfo5]
+LocationName="Interno della torre ROSSA"
+
+[ZoneInfo6]
+LocationName="Interno della torre ROSSA"
+

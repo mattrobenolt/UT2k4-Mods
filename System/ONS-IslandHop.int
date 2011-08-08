@@ -1,0 +1,97 @@
+[LevelInfo0]
+Title="Island Hop"
+
+[LevelSummary]
+Title="Island Hop"
+Description="This volcanic archipelago served once as a gateway in the human wars of the 21st century. Transformed for tournament use, a series of bridges now connects the islands. These bridges, though excellent use for ground based vehicles, do not provide a direct path to battle. Mantas will be the primary choice for transportation."
+
+[Volume0]
+LocationName="Southwest Island"
+
+[Volume1]
+LocationName="Southwest Island"
+
+[Volume11]
+LocationName="West Island"
+
+[Volume12]
+LocationName="Northwest Island"
+
+[Volume14]
+LocationName="Northwest Island"
+
+[Volume15]
+LocationName="Northeast Island"
+
+[Volume16]
+LocationName="Northeast Island"
+
+[Volume17]
+LocationName="Northeast Island"
+
+[Volume19]
+LocationName="East Island"
+
+[Volume2]
+LocationName="Southwest Island"
+
+[Volume20]
+LocationName="Small Northeast Island"
+
+[Volume22]
+LocationName="East Island"
+
+[Volume23]
+LocationName="Southeast Island"
+
+[Volume25]
+LocationName="Southeast Island"
+
+[Volume26]
+LocationName="Volcano"
+
+[Volume5]
+LocationName="West Island"
+
+[Volume9]
+LocationName="Small Southwest Island"
+
+[WaterVolume1]
+LocationName="Under Water"
+
+[WaterVolume18]
+LocationName="Under Water"
+
+[WaterVolume19]
+LocationName="Under Water"
+
+[WaterVolume20]
+LocationName="Under Water"
+
+[WaterVolume23]
+LocationName="Under Water"
+
+[WaterVolume24]
+LocationName="Under Water"
+
+[WaterVolume25]
+LocationName="Under Water"
+
+[WaterVolume26]
+LocationName="Under Water"
+
+[WaterVolume27]
+LocationName="Under Water"
+
+[WaterVolume28]
+LocationName="Under Water"
+
+[WaterVolume3]
+LocationName="Under Water"
+
+[WaterVolume31]
+LocationName="Under Water"
+
+[ZoneInfo1]
+LocationName="Outside"
+

@@ -1,0 +1,37 @@
+[LadderVolume0]
+LocationName="Base blu"
+
+[LadderVolume1]
+LocationName="Base rossa"
+
+[LevelInfo0]
+Title="Separazione"
+
+[LevelSummary]
+Title="Separazione"
+Description="Molti eoni fa, gli abitanti di queste rovine dimenticate evocarono un essere di tenebra, che poi imprigionarono e fecero addormentare con il sangue di infiniti sacrifici. Nella pausa fra una battaglia e l'altra, a volte è possibile udire la voce di questo titano che si ridesta dal sonno e ha sete di sangue."
+
+[Volume0]
+LocationName="Base blu"
+
+[Volume1]
+LocationName="Base rossa"
+
+[Volume3]
+LocationName="Nodo nord-est"
+
+[Volume4]
+LocationName="Nodo nord-ovest"
+
+[Volume5]
+LocationName="Nodo centrale"
+
+[Volume6]
+LocationName="Nodo sud-est"
+
+[Volume7]
+LocationName="Nodo sud-ovest"
+
+[ZoneInfo0]
+LocationName="Esterno"
+

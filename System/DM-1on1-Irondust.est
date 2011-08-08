@@ -1,0 +1,35 @@
+
+[LevelInfo0]
+Title="Irondust"
+
+[LevelSummary]
+Title="Irondust"
+Description="¿Pan comido? Sí, claro... ¡prepárate para convertirte en un veterano curtido!"
+
+[ZoneInfo1]
+LocationName="Ascensor de superescudo"
+
+[ZoneInfo10]
+LocationName="Ascensor izquierdo"
+
+[ZoneInfo2]
+LocationName="Ascensor derecho"
+
+[ZoneInfo4]
+LocationName="Arcos de cañón automático"
+
+[ZoneInfo5]
+LocationName="Zona de enlazadora"
+
+[ZoneInfo6]
+LocationName="Salud doble"
+
+[ZoneInfo7]
+LocationName="Zona de escudo"
+
+[ZoneInfo8]
+LocationName="Cámara circular"
+
+[ZoneInfo9]
+LocationName="Pasarela"
+

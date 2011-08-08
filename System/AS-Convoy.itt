@@ -1,0 +1,143 @@
+[HoldObjective1]
+
+DestructionMessage="Il deposito anteriore di armi è stato saccheggiato!"
+ObjectiveDescription="Apri il pannello per avanzare."
+Objective_Info_Attacker="Apri il pannello"
+Objective_Info_Defender="Difendi il pannello"
+
+[HoldObjective2]
+DestructionMessage="La piattaforma d'imbarco è stata estratta!"
+ObjectiveDescription="Estrai la piattaforma d'imbarco per continuare ad avanzare."
+Objective_Info_Attacker="Estrai la piattaforma d'imbarco"
+Objective_Info_Defender="Difendi la piattaforma d'imbarco"
+
+[HoldObjective3]
+DestructionMessage="I missili Nexus sono stati recuperati!"
+ObjectiveDescription="Recupera i missili Nexus per portare a termine la missione!"
+Objective_Info_Attacker="Recupera i missili Nexus"
+Objective_Info_Defender="Difendi i missili Nexus"
+
+[HoldObjective4]
+DestructionMessage="I portelli laterali sono stati aperti!"
+ObjectiveDescription="Usa il comando dei portelli laterali per proseguire."
+Objective_Info_Attacker="Apri i portelli laterali"
+Objective_Info_Defender="Difendi il comando dei portelli laterali"
+
+[HoldObjective5]
+DestructionMessage="Gli esplosivi sono in posizione!"
+ObjectiveDescription="Piazza gli esplosivi sul portello posteriore per accedere alla nave riparatrice."
+Objective_Info_Attacker="Piazza gli esplosivi presso il portello."
+Objective_Info_Defender="Difendi il portello"
+
+[HoldObjective6]
+DestructionMessage="I rinforzi sono in arrivo!"
+ObjectiveDescription="Apri il portello posteriore della nave riparatrice per avanzare."
+Objective_Info_Attacker="Apri il portello posteriore"
+Objective_Info_Defender="Difendi il portello posteriore"
+
+[InfoPod0]
+POD_Message="! ! ! I N D I E T R O ! ! !"
+
+[InfoPod19]
+POD_Message="SGANCIARSI QUI"
+
+[InfoPod20]
+POD_Message="SGANCIARSI QUI"
+
+[InfoPod21]
+POD_Message="SGANCIARSI QUI"
+
+[InfoPod30]
+POD_Message="! ! ! I N D I E T R O ! ! !"
+
+[LevelInfo0]
+Title="Convoglio"
+
+[LevelInfo9]
+Title="Convoglio"
+
+[LevelSummary]
+Title="Convoglio"
+Description="Questo scenario ricostruisce il recupero dei prototipi di missile 'Nexus', rubati dagli Hellion, effettuato dai militari dell'NGT. Le forze dell'NGT hanno scoperto dove si trova il deposito grazie a un localizzatore nascosto in queste armi devastanti. È stato possibile rilevare la posizione precisa dei missili solo durante il breve intervallo di tempo in cui sono stati trasportati all'aperto su Taron. I militari sono stati costretti ad attaccare proprio allora."
+
+[SceneSubtitles0]
+SubTitles=("Questo scenario ricostruisce il recupero dei prototipi di missile 'Nexus', rubati dagli Hellion, effettuato dai militari dell'NGT.","Le forze dell'NGT hanno scoperto dove si trova il deposito grazie a un localizzatore nascosto in queste armi devastanti.","È stato possibile rilevare la posizione precisa dei missili solo durante il breve intervallo di tempo in cui sono stati trasportati all'aperto su Taron. I militari sono stati costretti ad attaccare proprio allora.","Gli attaccanti devono prima trovare la via fino alla piattaforma d'inbarco Hellions, manipolare i controlli e allungare la piattaforma per poter continuare.",,"Una buona idea per gli attaccanti sarebbe di togliere questo pannello di controllo in modo che funzioni a loro favore invece che per Hellions. Così facendo l'equipaggiamento delle armi avanzerà più velocemente.",,"Gli attaccanti devono attraversare la piattaforma d'inbarco, raggiungere e minare la porta posteriore per accedere l'interno della nave riparatrice.",,"Per avanzare più in fretta apri la porta posteriore della nave riparatrice, in modo che gli attaccanti si trovino più vicino al prossimo obiettivo.",,"Una precauzione, dentro la navetta riparatrice c'è una tanica di gasolio, fai attenzione o potrebbe esplodere rendendo i tuoi progressi molto più difficili.",,"Gli attaccanti devono premere questo interuttore in modo di poter proseguire, controllare le porte laterali e continuare all'obiettivo finale.",,"Gli attaccanti devono arrivare al carrello di armi e una volta entrati devono premere l'interuttore per riconquistare il missile Nexus.")
+
+[Trigger_ASMessageTrigger0]
+Message="Attacco aereo in arrivo! Cercate immediatamente rifugio!"
+
+[TriggeredObjective0]
+DestructionMessage="Il rimorchio dei missili Nexus è stato aperto!"
+ObjectiveDescription="Raggiungi il rimorchio dei missili Nexus e aprilo"
+Objective_Info_Attacker="Raggiungi il rimorchio dei missili Nexus"
+Objective_Info_Defender="Difendi il rimorchio dei missili Nexus"
+
+[Volume1]
+LocationName="Veicolo d'attacco"
+
+[Volume12]
+LocationName="Torre posteriore dei tiratori"
+
+[Volume13]
+LocationName="Torre posteriore dei tiratori"
+
+[Volume14]
+LocationName="Piattaforma del minigun"
+
+[Volume15]
+LocationName="Piattaforma del minigun"
+
+[Volume16]
+LocationName="Torre anteriore dei tiratori"
+
+[Volume17]
+LocationName="Torre anteriore dei tiratori"
+
+[Volume2]
+LocationName="Rimorchio delle merci"
+
+[Volume3]
+LocationName="Veicolo della piattaforma d'imbarco"
+
+[Volume4]
+LocationName="Deposito anteriore di armi"
+
+[Volume5]
+LocationName="Rimorchio dei tubi"
+
+[Volume6]
+LocationName="Veicolo delle armi"
+
+[Volume7]
+LocationName="Tetto del rimorchio delle armi"
+
+[Volume8]
+LocationName="Piattaforma d'imbarco"
+
+[Volume9]
+LocationName="Piattaforma d'imbarco"
+
+[ZoneInfo1]
+LocationName="Esterno"
+
+[ZoneInfo2]
+LocationName="Ponte di comando della nave riparatrice"
+
+[ZoneInfo3]
+LocationName="Ponte superiore della nave riparatrice"
+
+[ZoneInfo4]
+LocationName="Ponte superiore della nave riparatrice"
+
+[ZoneInfo6]
+LocationName="Porta"
+
+[ZoneInfo7]
+LocationName="Nave riparatrice"
+
+[ZoneInfo8]
+LocationName="Interno del rimorchio delle armi"
+
+[ZoneInfo9]
+LocationName="Esterno"
+

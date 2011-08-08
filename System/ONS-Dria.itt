@@ -1,0 +1,55 @@
+[ClassicSniperAmmoPickup2]
+PickupMessage="Hai raccolto 20 cariche fulminanti."
+
+[LevelInfo0]
+Title="Dria"
+
+[LevelSummary]
+Title="Dria"
+Description="Situati tra le rovine dell'ultima fortezza Nali, questi campi ghiacciati sono stati luogo dell'ultima resistenza Nali contro gli Skaarj. Portando i loro massi giganti davanti alla città, gli Skaarj l'hanno assediata per tre settimane ed infine oltrepassato le mura distruggendo tutto. Ora questa arena è parte della modalità Energia, la vastità di questo scenario metterà alla prova la concentrazione e il lavoro di squadra anche dei migliori." 
+               
+[Volume0]
+LocationName="Base rossa"
+
+[Volume1]
+LocationName="Base blu"
+
+[Volume10]
+LocationName="Ponte nord della torre"
+
+[Volume11]
+LocationName="Ponte sud della torre"
+
+[Volume14]
+LocationName="Nodo nord"
+
+[Volume15]
+LocationName="Nodo nord-ovest"
+
+[Volume2]
+LocationName="Nodo ovest"
+
+[Volume3]
+LocationName="Nodo sud-est"
+
+[Volume4]
+LocationName="Nodo nord-est"
+
+[Volume5]
+LocationName="Nodo sud"
+
+[Volume6]
+LocationName="Nodo sud-ovest"
+
+[Volume7]
+LocationName="Node est"
+
+[Volume8]
+LocationName="Ponte nord"
+
+[Volume9]
+LocationName="Ponte sud"
+
+[ZoneInfo0]
+LocationName="Esterno"
+

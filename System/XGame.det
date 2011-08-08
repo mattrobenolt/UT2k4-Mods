@@ -1,0 +1,617 @@
+[Public]
+Object=(Name=XGame.AlienFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.AlienMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.JuggFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.JuggMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.MercFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.MercMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.NightFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.NightMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.RobotVoice,Class=Class,MetaClass=XGame.xVoicePack)
+
+[AlienFemaleVoice]
+TauntString[21]="Leck mich"
+TauntString[22]="Camper!"
+TauntString[23]="Dummbeutel!"
+TauntString[24]="Spammer!"
+TauntString[25]="Lutscher"
+TauntString[26]="Erzähl es jemand anderem"
+TauntString[27]="Du Schwachkopf!"
+VoicePackName="Weibliches Alien"
+
+[AlienMaleVoice]
+TauntString[21]="Leck mich"
+TauntString[22]="Camper!"
+TauntString[23]="Dummbeutel!"
+TauntString[24]="Spammer!"
+TauntString[25]="Lutscher"
+TauntString[26]="Erzähl es jemand anderem"
+TauntString[27]="Du Schwachkopf!"
+VoicePackName="Männliches Alien"
+
+[BloodRites]
+ChallengeName="Blutige Rituale"
+ChallengeDescription="Fordern Sie ein gegnerisches Team auf, um einen seiner Mitspieler zu spielen."
+
+[BossDM]
+GameName="Championship Match"
+
+[CLOnslaught]
+EntryLabels=("Hit & Run","Roadkill","Straßenschießerei","Armageddon","Straßenkrieger")
+
+[ChallengeGame]
+msgGotChallenged="Wir wurden herausgefordert"
+msgWeChallenged="Wir haben herausgefordert"
+msgFor="für"
+
+[ChampRosterFinal]
+TeamName="Championship Match"
+
+[ChampRosterSemiFinal]
+TeamName="Championship Match"
+
+[ComboBerserk]
+ExecMessage="Berserker!"
+
+[ComboDefensive]
+ExecMessage="Booster!"
+
+[ComboInvis]
+ExecMessage="Unsichtbar!"
+
+[ComboSpeed]
+ExecMessage="Geschwindigkeit!"
+
+[DMRosterBeatTeam]
+TeamName="Death Match"
+
+[DMRosterGael]
+TeamName="Death Match"
+
+[DMRosterLeviathan]
+TeamName="Death Match"
+
+[DMRosterOceanic]
+TeamName="Death Match"
+
+[DMRosterTrainingDay]
+TeamName="Death Match"
+
+[DamTypeIonVolume]
+DeathString="%o wurde von %k AUSGELÖSCHT!"
+FemaleSuicide="%o wurde AUSGELÖSCHT"
+MaleSuicide="%o wurde AUSGELÖSCHT"
+
+[IonCannonKillWarning]
+CountDownTrailer="..."
+WarningString="Ein Ionen-Satellit im Orbit zielt auf Sie!"
+
+[JuggFemaleVoice]
+TauntString[21]="Das Leben ist Schmerz, finde dich damit ab."
+TauntString[22]="Genau zwischen die Augen"
+TauntString[23]="Sammelt sie ein und packt sie in den Sack"
+TauntString[24]="Das war fies."
+TauntString[25]="Bluten kannst Du besser als schießen."
+TauntString[26]="Du bist schlecht."
+TauntString[27]="Leck mich"
+OtherString[32]="Ich kann meine Beine nicht spüren."
+OtherString[33]="Netter Schuss"
+VoicePackName="Weibl. Juggernaut"
+
+[JuggMaleVoice]
+TauntString[21]="Das Leben ist Schmerz, finde dich damit ab."
+TauntString[22]="Genau zwischen die Augen"
+TauntString[23]="Sammelt sie ein und packt sie in den Sack"
+TauntString[24]="Das war fies."
+TauntString[25]="Bluten kannst Du besser als schießen."
+TauntString[26]="Du bist schlecht."
+OtherString[32]="Ich kann meine Beine nicht spüren."
+OtherString[33]="Netter Schuss"
+VoicePackName="Männl. Juggernaut"
+
+[LavaVolume]
+LocationName="in Lava"
+
+[ManoEMano]
+ChallengeName="Anführerkampf"
+ChallengeDescription="Ein Kampf Mann gegen Mann zwischen Anführern."
+
+[MercFemaleVoice]
+TauntString[21]="Ducke dich schneller beim nächsten Mal"
+TauntString[22]="Halte still, verdammt"
+TauntString[23]="Heilige Scheiße"
+TauntString[24]="Halte einfach still, und ich mache es schnell."
+TauntString[25]="Tötet sie alle"
+TauntString[26]="Festgenagelt"
+TauntString[27]="Noch nicht einmal knapp"
+TauntString[28]="Aus dem Weg"
+TauntString[29]="Nimm das"
+TauntString[30]="Versuche, die Sicherheit auszuschalten"
+TauntAbbrev[24]="Halte einfach still."
+OtherString[32]="Nicht schlecht"
+VoicePackName="Weiblicher Söldner"
+
+[MercMaleVoice]
+TauntString[21]="Ducke dich schneller beim nächsten Mal"
+TauntString[22]="Halte still, verdammt"
+TauntString[23]="Heilige Scheiße"
+TauntString[24]="Halte einfach still, und ich mache es schnell."
+TauntString[25]="Tötet sie alle"
+TauntString[26]="Festgenagelt"
+TauntString[27]="Noch nicht einmal knapp"
+TauntString[28]="Aus dem Weg"
+TauntString[29]="Nimm das"
+TauntString[30]="Versuche, die Sicherheit auszuschalten"
+TauntString[31]="Du stirbst zu schnell."
+TauntAbbrev[24]="Halte einfach still."
+OtherString[32]="Nicht schlecht"
+VoicePackName="Männlicher Söldner"
+
+[MultiKillMessage]
+KillString[0]="Doppel-Kill!"
+KillString[1]="Multi-Kill!"
+KillString[2]="Mega-Kill!!"
+KillString[3]="ULTRA-KILL!!"
+KillString[4]="M O N S T E R K I L L !!!"
+KillString[5]="H A A R S T R Ä U B E N D !!!"
+KillString[6]="H E I L I G E   S C H E I S S E !"
+
+[MutFastWeapSwitch]
+FriendlyName="UT2003 Stil"
+Description="Schnelles Waffenwechseln und Ausweichmanöver im UT2003-Stil."
+
+[MutInstaGib]
+TranslocDisplayText="Translocator erlauben"
+BoostDisplayText="Teamkameraden-Boosts erlauben"
+TranslocDescText="Spieler erhalten einen Translocator in ihrem Inventar."
+BoostDescText="Teamkameraden bekommen einen gewaltigen Boost, wenn sie vom InstaGib Rifle getroffen werden."
+FriendlyName="InstaGib"
+Description="Sofortige Kills mit modifizierten Shock-Rifles."
+
+[MutNoAdrenaline]
+FriendlyName="Kein Adrenalin"
+Description="Adrenalin-Pickups werden von der Map entfernt."
+
+[MutQuadJump]
+FriendlyName="Vierfach-Sprung"
+Description="Wenn ein Doppelsprung einfach nicht genug ist."
+
+[MutRegen]
+FriendlyName="Regenerierung"
+Description="Regenerierung der Gesundheit"
+
+[MutSlomoDeath]
+FriendlyName="Zeitlupen-Leichen"
+Description="Der Tod hat keine Eile."
+
+[MutSpeciesStats]
+FriendlyName="Spez.-Statistik"
+Description="Für jede Spezies eigene Kampf-Statistiken."
+
+[MutUDamageReward]
+FriendlyName="U-Schaden-Belohnung"
+Description="Alle verbleibenden U-Schaden-Powerups werden vom Spieler weggeschleudert, wenn er getötet wird."
+
+[MutVampire]
+FriendlyName="Vampir"
+Description="Beschädigen des Gegners bringt Heilung."
+
+[MutZoomInstagib]
+FriendlyName="InstaGib mit Zoom"
+Description="Sofortige Kills mit modifizierten Shock-Rifles mit Scharfschützenfernrohren."
+
+[NightFemaleVoice]
+TauntString[21]="Frischfleisch"
+TauntString[22]="Ich muss dich zerbrechen."
+TauntString[23]="Ich werde deine Seele aufsaugen."
+TauntString[24]="Deine Seele ist verloren."
+TauntString[25]="Triff auf deinen Henker."
+TauntString[26]="Ich bin dein Tod."
+TauntString[27]="Keine Tränen, bitte ..."
+TauntString[28]="Der Schmerz reinigt dich."
+VoicePackName="Weibl. Albtraum"
+
+[NightMaleVoice]
+TauntString[21]="Frischfleisch"
+TauntString[22]="Ich muss dich zerbrechen."
+TauntString[23]="Ich werde deine Seele aufsaugen."
+TauntString[24]="Deine Seele ist verloren."
+TauntString[25]="Triff auf deinen Henker."
+TauntString[26]="Ich bin dein Tod."
+TauntString[27]="Keine Tränen, bitte ..."
+TauntString[28]="Der Schmerz reinigt dich."
+VoicePackName="Männl. Albtraum"
+
+[PhantomBloodReavers]
+TeamDescription="Die Blood Reavers, eine Organisation von Söldnern und ehemaligen Militärspezialisten, trachten vor allem nach Ruhm und Geld. Von dem Preisgeld für den Gewinn des Tournaments versprechen sie sich fast unbegrenzten Reichtum und Macht."
+TeamName="Blood Reavers"
+
+[PhantomDarkPhalanx]
+TeamDescription="Die Dark Phalanx besteht aus hoch-dekorierten Militärspezialisten, die sich im Krieg zwischen den Menschen und den Skaarj verdient gemacht haben. Jetzt präsentiert sich diese Elite im Tournament."
+TeamName="Dark Phalanx"
+
+[PhantomEpic]
+TeamDescription="Epic wurde 1991 gegründet und war schon immer ein Pionier für innovative PC-Spiele, neue Business-Modelle und fortschrittliche Spiele-Technologien. Epic wurde gegründet von Tim Sweeney (Jill of the Jungle, Unreal) und kurz darauf kamen auch Mark Rein (VP of Marketing), James Schmalz (Epic Pinball, Extreme Pinball, Unreal) und Cliff Bleszinski (Jazz Jackrabbit, Unreal) ins Team."
+TeamName="Epic Games, Inc."
+
+[PhantomNecrisBlackLegion]
+TeamDescription="Das mächtige Team der Necris Phayder-Assassinen strebt nach der Herrschaft im Tournament."
+TeamName="Necris Black Legion"
+
+[PhantomRawSteel]
+TeamDescription="In die Kampftruppe 'Raw Steel' werden nur Männer aufgenommen. Mit ihrer Synthese aus menschlichen Muskeln und Schaumstoffmetall zählt für 'Raw Steel' nur die pure Kraft."
+TeamName="Raw Steel"
+
+[RobotVoice]
+TauntString[21]="Stirb, Mensch!"
+TauntString[22]="Schneller, stärker, besser"
+TauntString[23]="Du wirst Angst vor mir haben."
+TauntString[24]="Fleisch ist ein Konstruktionsfehler."
+TauntString[25]="Mein Sieg ist dein Tod."
+TauntString[26]="Nicht inakzeptabel"
+TauntString[27]="Fehlerhafter Prozess terminiert"
+TauntString[28]="Sei Zeuge meiner Perfektion."
+TauntString[29]="Du stirbst zu schnell."
+TauntString[30]="Du bist eine leichte Beute."
+TauntString[31]="Deine Programmierung ist minderwertig."
+OtherString[32]="Umleitung wichtiger Systeme"
+OtherString[33]="Du passt dich gut an."
+VoicePackName="Bot"
+
+[SPECIES_Alien]
+SpeciesName="Alien"
+TauntAnimNames[8]="Schwanzwedeln"
+TauntAnimNames[9]="Gewehrprüfung"
+TauntAnimNames[10]="Entlassung"
+TauntAnimNames[11]="360"
+
+[SPECIES_Bot]
+SpeciesName="Bot"
+TauntAnimNames[8]="Willst du?"
+
+[SPECIES_Egypt]
+SpeciesName="Ägypter"
+
+[SPECIES_Jugg]
+SpeciesName="Juggernaut"
+TauntAnimNames[7]="Muskeln anspannen"
+TauntAnimNames[8]="Stampfen"
+TauntAnimNames[9]="Rücken kratzen"
+TauntAnimNames[10]="Hintern zeigen"
+TauntAnimNames[11]="Kopf kratzen"
+
+[SPECIES_Merc]
+SpeciesName="Mercenary"
+
+[SPECIES_Night]
+SpeciesName="Nacht"
+
+[SpecialKillMessage]
+DecapitationString="Kopfschuss!"
+
+[SpeciesSkaarj]
+SpeciesName="Skaarj"
+TauntAnimNames[4]="Haare hochschnippen"
+TauntAnimNames[5]="Schwingen"
+TauntAnimNames[6]="Scannen"
+TauntAnimNames[7]="Finger"
+TauntAnimNames[8]="Still"
+
+[SpeciesType]
+SpeciesName="Mensch"
+TauntAnimNames[0]="Zeigen"
+TauntAnimNames[1]="Locken"
+TauntAnimNames[2]="Anhalten"
+TauntAnimNames[3]="Grüßen"
+TauntAnimNames[4]="Beckenstoß"
+TauntAnimNames[5]="Hinternklaps"
+TauntAnimNames[6]="Kehle durchschneiden"
+TauntAnimNames[7]="Einzigartig"
+TauntAnimNames[8]="Team-Spott"
+TauntAnimNames[9]="Team-Leerlauf"
+
+[TeamApocalypse]
+TeamName="Apokalypse"
+
+[TeamBlackLegion]
+TeamName="Black Legion"
+
+[TeamBloodFists]
+TeamName="Blood Fists"
+
+[TeamBoneCrushers]
+TeamName="Bone Crushers"
+
+[TeamColdSteel]
+TeamName="Cold Steel"
+
+[TeamCorrupt]
+TeamDescription="Bis zu seiner Niederlage gegen Malcom im vierten offiziellen Tournament galt Xan Kriegor als unbesiegbar. Nach einer langen Pause ist er jetzt zurückgekehrt, um das Liandri-Team, The Corrupt, als Anführer zum Sieg zu führen. Xan gibt sich nicht mit den Vorrunden ab, da er sie für unter seiner Würde erachtet."
+TeamName="The Corrupt"
+
+[TeamCrusaders]
+TeamName="Crusaders"
+
+[TeamDragonBreath]
+TeamName="Dragonbreath"
+
+[TeamFirestorm]
+TeamName="Firestorm"
+
+[TeamGoliath]
+TeamDescription="Nach dem letztjährigen Gewinn des Tournaments durch Gorges Juggernauts sponsert die Axon Research Corporation jetzt Goliath. Das Unternehmen hofft auf ein Finale, an dem nur Juggernauts teilnehmen."
+TeamName="Goliath"
+
+[TeamHellions]
+TeamDescription="Die Hellions waren einst unter den Menschen als Piraten und Vagabunden gefürchtet und verachtet. Jetzt wollen sie sich als respektable Söldner verdingen. Sie nehmen am Wettkampf teil, um ihre Fähigkeiten vor potentiellen Kunden zu demonstrieren."
+TeamName="Hellions"
+
+[TeamIronGuard]
+TeamName="Iron Guard"
+
+[TeamIronSkull]
+TeamDescription="In diesem Jahr tritt der Iron Skull-Clan für das Skaarj-Empire an. Der Clan kämpft damit auch um seine Ehre, da er lange Zeit für den Verlust des Skaarj-Mutterschiffs in den Kriegen zwischen den Menschen und Skaarj verantwortlich gemacht wurde."
+TeamName="Iron Skull Skaarj"
+
+[TeamJuggernauts]
+TeamDescription="Gorge will unbedingt beweisen, dass seine Zeit als Tournament-Champion keine Ausnahme war. Er hat dafür wieder das Juggernaut-Team reaktiviert. Das Juggernaut-Team wird für das diesjährige Tournament von der Axon Research Corporation mit Rüstung und bio-genetischen Upgrades versorgt."
+TeamName="Juggernauts"
+
+[TeamNewBlacklegion]
+TeamDescription="Die Black Legion ist eine Gruppe genetisch furchtbar deformierter Testsubjekte, die aus einem Waffenexperiment hervorgingen. Ihr diesjähriger Führer, Abaddon, ist das derzeit fortschrittlichste Produkt dieser Testreihen. "
+TeamName="Black Legion"
+
+[TeamNewBloodfist]
+TeamDescription="Das Team Blood Fist ist das einzige rein kybernetische Team im Tournament. Die internen Programme dieser Krieger werden jedes Jahr aktualisiert, so dass sie im Laufe der Zeit immer tödlichere Gegner werden."
+TeamName="Blood Fist"
+
+[TeamNewFirestorm]
+TeamDescription="Die Mokara sind respektierte und gefürchtete Krieger. Die Elite-Einheit der Mokaka, die Einheit Firestorm, sendet jedes Jahr ihre besten Krieger zum Tournament."
+TeamName="Firestorm"
+
+[TeamNewIronGuard]
+TeamDescription="Brock und Lauren haben sich Malcolm während seiner Zeit als Tournament-Champion angeschlossen. Aufgrund von Zwistigkeiten und gegenseitigen Schuldzuweisungen im Zuge der unglaublichen Niederlage im letztjährigen Tournament hat sich das Team wieder aufgelöst. Brock und Lauren führen jetzt wieder ihr altes Team, Iron Guard, an. "
+TeamName="Iron Guard"
+
+[TeamNewSunblade]
+TeamDescription="Sun Blade besteht aus früheren Tempelwachen und Veteranen der Wüstenlegion. Sie sehen den Sieg im Tournament als ihre einzige Hoffnung auf ein Begräbnis und ein ewiges Leben im Tal der Könige von Luxor IV an."
+TeamName="Sun Blade"
+
+[TeamNewSuperNova]
+TeamDescription="Das Team Super Nova besteht aus Söldnern der 7. Söldnerflotte. Diese Krieger wollen mit der Teilnahme am Tournament ihre Schulden bei der Izanagi Corporation begleichen."
+TeamName="Super Nova"
+
+[TeamNightstalkers]
+TeamName="Nightstalkers"
+
+[TeamPainMachine]
+TeamName="Pain Machine"
+
+[TeamSunBlades]
+TeamName="Sun Blades"
+
+[TeamSupernova]
+TeamName="Super Nova"
+
+[TeamThundercrash]
+TeamDescription="Nach dem viel beachteten Streit mit Brock und Lauren hat sich Malcom wieder seinem früheren Team, Thunder Crash, angeschlossen. Malcom leidet derzeit noch unter einer Verletzung aus dem letztjährigen Wettbewerb. Aber man erwartet, dass er rechtzeitig zum Tournament-Finale wieder ganz kuriert ist."
+TeamName="Thunder Crash"
+
+[TeamVenom]
+TeamName="Venom"
+
+[TeamWarCry]
+TeamName="WarCry"
+
+[UT2003LadderInfo]
+CHAMP1.MenuName="Tournament Halbfinale"
+CHAMP2.MenuName="Tournament Finale"
+DM0.MenuName="Deathmatch Tutorial"
+
+[UT2K4DMRoster]
+TeamName="Death Match"
+
+[UT2K4GameProfile]
+msgSpecialAward[0]="Flak-Affe"
+msgSpecialAward[1]="Kombo-Flittchen!"
+msgSpecialAward[2]="Kopfjäger!"
+msgSpecialAward[3]="Straßengemetzel!"
+msgSpecialAward[4]="Hattrick"
+msgSpecialAward[5]="Unberührbarer"
+msgCheater="CHEATER!!!"
+msgCredits="Credits"
+msgCredit="Credit"
+msgChallengeGame="Herausforderungsspiel"
+msgAdditionalLadder="Zusätzliches Leiterspiel"
+msgMatch="Match"
+msgLadderGame="Leiterspiel"
+msgChampionship="Meisterschaft"
+
+[UT2K4LadderInfo]
+DM0.MenuName="Death Match Tutorial"
+
+[xBlueFlagBase]
+ObjectiveName="BLAUE Flagge"
+
+[xBombDelivery]
+ObjectiveStringSuffix=" Tor"
+
+[xBombHUDMessage]
+YouHaveFlagString="Ball bei Ihnen, an Feindbasis abliefern!"
+EnemyHasFlagString="Feind hat den Ball, zurückholen!"
+
+[xBombMessage]
+ReturnBlue="holt Ball zurück!"
+ReturnRed="holt Ball zurück!"
+ReturnedBlue="Ball zurück!"
+ReturnedRed="Ball zurück!"
+CaptureBlue="hat das Tor erzielt!"
+CaptureRed="hat das Tor erzielt!"
+DroppedBlue="ließ Ball fallen!"
+DroppedRed="ließ Ball fallen!"
+HasBlue="hat den Ball!"
+HasRed="hat den Ball!"
+
+[xBombSpawn]
+ObjectiveName="Erscheinen der Bomben"
+
+[xBombingRun]
+BRPropText="Ballkontakt-Verzögerung"
+BRPropText2="Ballwerfer verbraucht Translocator"
+BRDescText="Bei Auswahl muss ein Spieler einige Sekunden warten, nachdem er den Ball geworfen hat, bevor er ihn wieder aufsammelt."
+BRDescText2="Bei Auswahl muss ein Spieler einige Sekunden warten, nachdem er den Ball geworfen hat, bevor er den Translocator benutzen kann (oder bis jemand anderes den Ball fängt oder aufhebt)."
+BRHints=("Mit %BASEPATH 0% können Sie den Weg zur Basis des roten Teams und mit %BASEPATH 1% den Weg zur Basis des blauen Teams anzeigen.","Wenn Sie den Translocator abfeuern, wird die Translocator-Scheibe ausgesendet. Wenn Sie nochmals %FIRE% drücken, wird die Scheibe wieder eingeholt, während das Drücken auf %A:TFIRE% Sie umgehend zum Standort der Scheibe teleportiert (wenn Sie dorthin passen).","Während Sie den Ball tragen, können Sie Mitspieler anvisieren, indem Sie %ALTFIRE% drücken. Wenn Sie %FIRE% drücken, wird der Ball zum anvisierten Mitspieler befördert.","Wenn Sie nach dem Abschuss der Translocator-Scheibe %SWITCHWEAPON 10% drücken, können Sie durch die Augen der eingebauten Kamera blicken.","Wenn Sie %FIRE% drücken, während %ALTFIRE% immer noch gedrückt gehalten wird, nachdem Sie mit dem Translocator einen Teleport durchgeführt haben, wechseln Sie zur vorherigen Waffe zurück.")
+GameName="Bombing Run"
+Description="Bei jedem Level liegt am Anfang ein Ball in der Mitte des Spielfelds. Ihr Team kann Punkte sammeln, indem es den Ball in das gegnerische Tor schießt. Sie erhalten 7 Punkte, wenn Sie mit dem Ball durch das Tor springen, und 3 Punkte, wenn Sie den Ball ins Tor schießen. Der Ball kann an Mitspieler abgegeben werden und fällt zu Boden, wenn der Spieler, der ihn hat, getötet wird."
+
+[xCTFGame]
+GameName="Capture the Flag"
+Description="Ihr Team muss Punkte sammeln, indem es sich die Flagge des Gegners von dessen Basis holt und zu seiner eigenen Flagge bringt. Wenn der Flaggenträger getötet wird, fällt die Flagge zu Boden und ist für jedermann zugänglich. Wenn Ihre Teamflagge geholt worden ist, muss sie erst wieder zurückgeholt werden (indem Sie sie berühren, nachdem sie zu Boden gefallen ist), bevor Ihr Team wieder Punkte machen kann."
+
+[xDeathMatch]
+GameName="DeathMatch"
+Description="Jeder gegen jeden! Töten oder getötet werden. Der Spieler mit den meisten Frags gewinnt."
+
+[xDeathMessage]
+KilledString="ist tot durch"
+SomeoneString="jemand"
+
+[xDomMessage]
+YouControlBothPointsString="Ihr Team kontrolliert beide Punkte!"
+EnemyControlsBothPointsString="Feind kontrolliert beide Punkte!"
+
+[xDomPointA]
+PointName="A"
+ObjectiveName="Punkt A"
+
+[xDomPointB]
+PointName="B"
+ObjectiveName="Punkt B"
+
+[xDoubleDom]
+DDomPropsDisplayText[0]="Zeit für Punkte"
+DDomPropsDisplayText[1]="Deaktivierungszeit"
+DDomPropDescText[0]="Bestimmt, wie lange Domination-Punkte gehalten werden müssen, um einen Punkt zu erzielen."
+DDomPropDescText[1]="Bestimmt, wie lange Domination-Punkte deaktiviert sind, nachdem ein Punkt erzielt wurde."
+GameName="Double Domination"
+Description="Ihr Team holt Punkte, wenn es beide Kontrollpunkte zehn Sekunden lang hält. Durch Berührung des Punktes wird die Kontrolle übernommen. Nach den zehn Sekunden sind die Kontrollpunkte wieder neutral."
+
+[xFallingVolume]
+LocationName="fliegend"
+
+[xKillerMessagePlus]
+YouKilled="Getötet:"
+
+[xRedFlagBase]
+ObjectiveName="ROTE Flagge"
+
+[xTeamGame]
+GameName="Team Death Match"
+Description="Zwei Teams kämpfen gegeneinander um die Vorherrschaft auf dem Schlachtfeld. Das Team mit den meisten Frags gewinnt."
+
+[xUtil]
+NoPreference="Keine Waffenpräferenz"
+FavoriteWeapon="Lieblingswaffe:"
+AgilityString="Wendigkeit:"
+TacticsString="Teamtaktik:"
+AccuracyString="Genauigkeit:"
+AggressivenessString="Aggressivität:"
+
+[xVehicleCTFGame]
+VCTFHints=("Die Flagge kann nicht in einen Manta oder Raptor getragen werden.")
+GameName="Fahrzeug-CTF"
+Description="Wie traditionelles Capture The Flag, nur dass Fahrzeuge dabei sind! Die Flagge kann nur in Bodenfahrzeugen mitgenommen werden."
+
+[xVictimMessage]
+YouWereKilledBy="Getötet von"
+KilledByTrailer="!"
+
+[xVoicePack]
+AckString[0]="Positiv"
+AckString[1]="Ich habs"
+AckString[2]="Ich bin dran"
+AckString[3]="Roger"
+FFireString[0]="Ich bin in deinem Team!"
+FFireString[1]="Ich bin in deinem Team, Trottel!"
+FFireString[2]="Gleiches Team!"
+FFireAbbrev[1]="Dein Team, Trottel!"
+TauntString[0]="Und bleib unten"
+TauntString[1]="Will noch jemand etwas?"
+TauntString[2]="Bumm!"
+TauntString[3]="BRENNE!"
+TauntString[4]="Stirb, Schlampe!"
+TauntString[5]="Friss DAS!"
+TauntString[6]="Du kämpfst wie Nali."
+TauntString[7]="Hast du nicht mehr drauf?"
+TauntString[8]="Leck mich"
+TauntString[9]="Loser"
+TauntString[10]="MEIN Haus"
+TauntString[11]="Der Nächste bitte!"
+TauntString[12]="Oh JAAAH!"
+TauntString[13]="Dein Arsch gehört mir."
+TauntString[14]="Wiedersehen"
+TauntString[15]="Das MUSSTE wehtun."
+TauntString[16]="Nutzlos"
+TauntString[17]="Du spielst wie ein kleines Mädchen."
+TauntString[18]="Du wirst sterben."
+TauntString[19]="Gefällt dir das?"
+TauntString[20]="Du Flittchen"
+OrderString[0]="Basis verteidigen"
+OrderString[1]="Stellung halten."
+OrderString[2]="Basis angreifen."
+OrderString[3]="Deckung."
+OrderString[4]="Suchen & zerstören"
+OrderString[10]="Fahne holen."
+OrderString[11]="Flagge verteidigen"
+OrderString[12]="Alpha angreifen"
+OrderString[13]="Bravo angreifen"
+OrderString[14]="Ball holen"
+OrderAbbrev[0]="Verteidigen"
+OrderAbbrev[2]="Angreifen"
+OtherString[0]="Basis wird nicht verteidigt!"
+OtherString[1]="Jemand muss unsere Flagge zurückholen!"
+OtherString[2]="Ich habe die Flagge"
+OtherString[3]="Ich halte deinen Rücken frei"
+OtherString[4]="Ich wurde getroffen"
+OtherString[5]="Mann gefallen!"
+OtherString[6]="Ich bin ganz allein hier %l"
+OtherString[7]="Negativ!"
+OtherString[8]="Ich habe unsere Flagge"
+OtherString[9]="Ich bin in Position %l"
+OtherString[10]="Ich gehe rein!"
+OtherString[11]="Bereich ist sicher"
+OtherString[12]="Feindlicher Flaggenträger %l"
+OtherString[13]="Ich brauche Unterstützung %l"
+OtherString[14]="Unterwegs!"
+OtherString[15]="Feindlicher Ballträger %l"
+OtherString[16]="Alpha sicher!"
+OtherString[17]="Bravo sicher!"
+OtherString[18]="Alpha angreifen"
+OtherString[19]="Bravo angreifen"
+OtherString[20]="Die Basis wird angegriffen %l"
+OtherString[21]="Wir werden überrannt %l!"
+OtherString[22]="Unter schwerem Beschuss %l"
+OtherString[23]="Alpha verteidigen"
+OtherString[24]="Bravo verteidigen"
+OtherString[25]="Hol den Ball"
+OtherString[26]="Ich bin bei der Verteidigung"
+OtherString[27]="Ich bin beim Angriff"
+OtherString[28]="Punkt Alpha einnehmen"
+OtherString[29]="Punkt Bravo einnehmen"
+OtherString[30]="Sanitäter"
+OtherString[31]="Nett"
+OtherAbbrev[1]="Holt unsere Flagge!"
+OtherAbbrev[2]="Habe die Flagge"
+OtherAbbrev[3]="Ich halte deinen Rücken frei"
+OtherAbbrev[6]="Ganz allein!"
+OtherAbbrev[8]="Habe unsere Flagge"
+OtherAbbrev[9]="In Position"
+OtherAbbrev[12]="Feindlicher Flaggenträger"
+OtherAbbrev[13]="Ich brauche Unterstützung"
+OtherAbbrev[15]="Feindlicher Ballträger"
+OtherAbbrev[20]="Basis wird angegriffen"
+OtherAbbrev[21]="Werden überrannt"
+OtherAbbrev[22]="Unter schwerem Beschuss"
+
+
+

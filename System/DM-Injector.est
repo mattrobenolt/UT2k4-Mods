@@ -1,0 +1,49 @@
+[LevelInfo0]
+Title="Injector"
+
+[LevelSummary]
+Title="Injector"
+Description="Injector es un reciente complejo añadido al torneo. Se trata de un retorcido laberinto de imponente arquitectura, con conductos y generadores. Ten cuidado en los pasillos más estrechos ¡y mantén los ojos bien abiertos cuando vayas a por el superescudo! "
+
+[ZoneInfo0]
+LocationName="Superescudo"
+
+[ZoneInfo10]
+LocationName="Daño doble"
+
+[ZoneInfo11]
+LocationName="Sala de la muerte"
+
+[ZoneInfo12]
+LocationName="Codo"
+
+[ZoneInfo13]
+LocationName="Codo menor"
+
+[ZoneInfo14]
+LocationName="Munición de enlazadora"
+
+[ZoneInfo15]
+LocationName="Retrete"
+
+[ZoneInfo2]
+LocationName="Arma eléctrica"
+
+[ZoneInfo3]
+LocationName="Sala eléctrica"
+
+[ZoneInfo4]
+LocationName="Choque y biorifle"
+
+[ZoneInfo5]
+LocationName="LC y enlazadora"
+
+[ZoneInfo6]
+LocationName="Armario"
+
+[ZoneInfo8]
+LocationName="Hangar"
+
+[ZoneInfo9]
+LocationName="Daño doble"
+

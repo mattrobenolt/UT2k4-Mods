@@ -1,0 +1,35 @@
+
+[LevelInfo0]
+Title="Polvere di ferro"
+
+[LevelSummary]
+Title="Polvere di ferro"
+Description="Sembra facile? Lo dici tu. Preparati a essere ridotto in cenere!"
+
+[ZoneInfo1]
+LocationName="Ascensore del super schermo"
+
+[ZoneInfo10]
+LocationName="Ascensore sinistro"
+
+[ZoneInfo2]
+LocationName="Ascensore destro"
+
+[ZoneInfo4]
+LocationName="Arcate del minigun"
+
+[ZoneInfo5]
+LocationName="Zona del fucile Link"
+
+[ZoneInfo6]
+LocationName="Salute doppia"
+
+[ZoneInfo7]
+LocationName="Zona dello schermo"
+
+[ZoneInfo8]
+LocationName="Sala circolare"
+
+[ZoneInfo9]
+LocationName="Passerelle"
+

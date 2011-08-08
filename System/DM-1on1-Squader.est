@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title="Squader"
+
+[LevelSummary]
+Title="Squader"
+Description="En tiempos parte de un complejo secreto de investigación militar, esta fría estructura acoge ahora algunos de los 1 contra 1 del Torneo. La presión es abrumadora... ¿podrás soportar los focos?"
+
+[ZoneInfo0]
+LocationName="Zona de superescudo"
+
+[ZoneInfo10]
+LocationName="Salas de Daño U"
+
+[ZoneInfo11]
+LocationName="Salas de Daño U"
+
+[ZoneInfo12]
+LocationName="Zona de superescudo"
+
+[ZoneInfo2]
+LocationName="Suspensor de cañón automático"
+
+[ZoneInfo3]
+LocationName="Cámara del antiaéreo"
+
+[ZoneInfo4]
+LocationName="Cámara del antiaéreo"
+
+[ZoneInfo5]
+LocationName="Salud doble"
+
+[ZoneInfo6]
+LocationName="Esquina de biorifle"
+
+[ZoneInfo7]
+LocationName="Zona de gran ventana"
+
+[ZoneInfo8]
+LocationName="Zona de gran ventana"
+
+[ZoneInfo9]
+LocationName="Salas de Daño U"
+

@@ -1,0 +1,93 @@
+[LevelInfo0]
+Title="Phobos Moon 2"
+
+[LevelSummary]
+Title="Phobos Moon 2"
+
+[Volume1]
+LocationName="Link Gun Raum"
+
+[Volume2]
+LocationName="Turm"
+
+[ZoneInfo0]
+LocationName="Weltall"
+
+[ZoneInfo1]
+LocationName="Minigun Korridor"
+
+[ZoneInfo10]
+LocationName="Minigun Bereich"
+
+[ZoneInfo11]
+LocationName="Minigun Korridor"
+
+[ZoneInfo12]
+LocationName="Rocket Korridor"
+
+[ZoneInfo13]
+LocationName="Minigun Korridor"
+
+[ZoneInfo14]
+LocationName="Shock Rifle Korridor"
+
+[ZoneInfo15]
+LocationName="Zentralbereich"
+
+[ZoneInfo16]
+LocationName="Sniper Raum"
+
+[ZoneInfo17]
+LocationName="Fass Gesundheit Raum"
+
+[ZoneInfo18]
+LocationName="Lightning Gun Korridor"
+
+[ZoneInfo19]
+LocationName="zentralbereich"
+
+[ZoneInfo2]
+LocationName="Fass Gesundheit Raum"
+
+[ZoneInfo20]
+LocationName="Flak Cannon Korridor"
+
+[ZoneInfo21]
+LocationName="Flak Cannon Korridor"
+
+[ZoneInfo22]
+LocationName="Flak Cannon Korridor"
+
+[ZoneInfo23]
+LocationName="Shock Rifle Korridor"
+
+[ZoneInfo24]
+LocationName="Zentralbereich"
+
+[ZoneInfo25]
+LocationName="Superschild Korridor"
+
+[ZoneInfo26]
+LocationName="Raketenwerfer Korridor"
+
+[ZoneInfo3]
+LocationName="Fass Gesundheit Raum"
+
+[ZoneInfo4]
+LocationName="Fass Gesundheit Raum"
+
+[ZoneInfo5]
+LocationName="Rocket Korridor"
+
+[ZoneInfo6]
+LocationName="Link Gun Bereich"
+
+[ZoneInfo7]
+LocationName="Zentralbereich"
+
+[ZoneInfo8]
+LocationName="Shock Rifle Korridor"
+
+[ZoneInfo9]
+LocationName="Flak Cannon Korridor"
+

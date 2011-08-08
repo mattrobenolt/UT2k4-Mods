@@ -1,0 +1,19 @@
+[LevelInfo0]
+Title="Idoma"
+
+[LevelSummary]
+Title="Idoma"
+Description="Una piccola mappa ricca di atmosfera, costruita usando legno e metallo a volontà."
+
+[Volume0]
+LocationName="Zona dei razzi"
+
+[Volume1]
+LocationName="Zona dello schermo"
+
+[Volume2]
+LocationName="Centro"
+
+[Volume3]
+LocationName="Zona Flak"
+

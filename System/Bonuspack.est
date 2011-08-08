@@ -1,0 +1,93 @@
+[Public]
+;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xMutantGame,Description="CM|Mutante|BonusPack.Tab_IAMutant|BonusPack.MapListMutant|false")
+;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xLastManStandingGame,Description="CM|Último en pie|BonusPack.Tab_IALastManStanding|BonusPack.MapListLastManStanding|false")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutCrateCombo,Description="Añade el combo de camuflaje (DDDD).")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutPintSizeCombo,Description="Añade el combo de miniatura (IIII).")
+
+[ComboCrate]
+ExecMessage="¡Camuflado!"
+
+[ComboMiniMe]
+ExecMessage="¡Miniatura!"
+
+[DamTypeMutant]
+DeathString="¡%o ha sufrido una mutación fatal!"
+FemaleSuicide="¡%o ha sufrido una mutación fatal!"
+MaleSuicide="¡%o ha sufrido una mutación fatal!"
+
+[HudLMS]
+LivesRemainingString="Vidas restantes"
+PlayersRemainString="Jugadores restantes:"
+
+[HudMutant]
+MutantRangeFontName="UT2003Fonts.FontMono"
+BottomFeederText="PRESA FÁCIL"
+
+[LMSMessage]
+YouAreCamperMessage="¡Estás de francotirador!"
+SomeoneIsCamperMessage=" "
+SomeoneIsCamperMessageTrailer="¡Está de francotirador!"
+
+[MutCrateCombo]
+CamoDisplayText="Combo camuflaje"
+MiniDisplayText="Combo miniatura"
+CamoDescText="Cuando se activa, este combo de adrenalina te recubre con una proyección holográfica de una roca o parte de un edificio "
+MiniDescText="Cuando se activa, este combo de adrenalina te hace parecer más pequeño"
+FriendlyName="Combos de bonificación"
+Description="Añade el combo de miniatura (IIII) y el combo de camuflaje (DDDD)."
+
+[MutantMessage]
+YouAreMutantMessage="¡Has mutado!"
+SomeoneIsMutantMessage=" "
+SomeoneIsMutantMessageTrailer="¡Ha mutado!"
+FFAMessage="¡El primero en verter sangre muta!"
+BottomFeederMessage="¡Eres la Presa fácil!"
+NotBottomFeederMessage="¡Ya no eres más la Presa fácil!"
+
+[MutantNameMessage]
+BottomFeederMesg="(PRESA FÁCIL)"
+
+[ScoreBoardLMS]
+LivesText="VIDAS"
+
+[Tab_IAMutant]
+TargetScoreString="Límite de puntuación"
+IARulesBottomFeeders.Caption="Presa fácil"
+IARulesBottomFeeders.Hint="Al seleccionarse, los jugadores de menos rango pueden matar a cualquiera."
+
+[xLastManStandingGame]
+LMSPropsDisplayText[0]="Límites de francotirador"
+LMSPropsDisplayText[1]="Intervalo de aviso de francotirador"
+LMSPropsDisplayText[2]="Ganar salud al matar"
+LMSPropsDisplayText[3]="Permitir superarmas"
+LMSPropsDisplayText[4]="Aviso de francotirador"
+LMSPropsDisplayText[5]="Permitir recogidas"
+LMSPropsDisplayText[6]="Permitir adrenalina"
+LMSPropsDisplayText[7]="Munición completa"
+LMSPropDescText[0]="Determina el tiempo que puede estar en un sitio antes de activar el aviso de francotirador."
+LMSPropDescText[1]="Especifica cuántas veces se reproduce el aviso de francotirador"
+LMSPropDescText[2]="Si se activa esta opción, un jugador gana salud al matar a otro jugador."
+LMSPropDescText[3]="Si se marca, se incluyen superarmas en el equipo del jugador."
+LMSPropDescText[4]="Activa esta opción para hacer que suene una alarma si un jugador se queda en un sitio demasiado tiempo."
+LMSPropDescText[5]="Si se marca, se activan las recogidas en el mapa."
+LMSPropDescText[6]="Si se marca, se activan los combos de adrenalina."
+LMSPropDescText[7]="Si se marca, los jugadores comienzan con la munición al máximo para todas las armas."
+GameName="Último en pie"
+Description="Cada jugador empieza con un número limitado de vidas. El objetivo es ser el último que quede en pie cuando se disipe el humo."
+
+[xMutantGame]
+MutPropText="Activar Presa fácil"
+MutDescText="Si se activa, el jugador con el marcador más bajo es la Presa fácil y puede matar a otros jugadores."
+GameName="Mutante"
+Description="El primer jugador que consigue una muerte, se convierte en el mutante. El resto caza al mutante y, al matarlo, se convierte en el mutante, con poderes sobrehumanos. El jugador con el marcador más bajo es la presa fácil y también podrá matar a los demás jugadores."
+
+[Tab_IALastManStanding]
+IARulesExtraLives.Caption="Matar da vida"
+IARulesExtraLives.Hint="Cuando se selecciona, con cada muerte se recupera una parte de la vida del jugador."
+IARulesLMSAllowAdrenaline.Caption="Permitir adrenalina"
+IARulesLMSAllowAdrenaline.Hint="Cuando se selecciona, los jugadores pueden usar adrenalina."
+IARulesLMSAllowPickups.Caption="Permitir recogidas"
+IARulesLMSAllowPickups.Hint="Cuando se selecciona, se permiten las recogidas normales."
+IARulesSuperWeaps.Caption="Permitir superarmas"
+IARulesSuperWeaps.Hint="Cuando se selecciona, se permite recoger superarmas."
+

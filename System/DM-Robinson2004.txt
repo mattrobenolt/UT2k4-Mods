@@ -1,0 +1,62 @@
+Unreal Tournament 2004 Map
+
+================================================================
+Title                   : Robinson2004
+Version                 : final realise 1.0
+Release Date            : 04/06/2004
+Filename                : DM-Robinson2004.ut2
+Author                  : Fabrice Rodier "PapyFireBird"
+Email Address           :rodierfabrice@wanadoo.fr
+Web Page                : http://www.unreal-design.com
+
+Description             : My first map for UT2K4.''The sun is rising, a nice day is comming up, the sand is hot and it's great to live under the coconut tree 
+	                  but don't thread with this beacuse alot of people would like to be in this paradise. will you be able to defend your territory??? 
+
+	                 An almost direct conversion of one of my level with the same title . Released on an Athlon 2500+, 1024 Mg de RAM, about 45 Gg HD, a Radeon 9600pro 128 Mb and a Soundblaster PCI 128, with WinXP Pro. Don't expect any theme, it's just a place to frag... Hf & gl 2 all.
+
+Construction time       : a lot off time. 6 mont .But is my first map for UT2003/2004 and all static is made in 3ds
+
+Credits                 : for testing the alpha versions: Qentin, Sdruifos, PhdemonS, Bastien ,Alka ,Splok ,Gui ,Dams ,and more ....
+	             Thanks a lot for all
+
+================================================================
+--- Play Information ---
+Game                    : Unreal Tournament 2004
+                                 
+Level Name              : Robinson (DM-Robinson2004.ut2)             
+
+Game Type               : DeathMatch 
+Single Player           : yes 
+Deathmatch              : yes
+Capture the Flag 	: no
+Double Domination   : No
+Other		: No
+Difficulty Settings     : from "novice" to "godlike"
+
+Multiplayer             : yes
+New Sounds              :no
+New Music                  :no
+New Mesh                   :yes
+New Graphics            :yes
+Known bugs              : wait 1 minute for the waves start  
+
+--- Construction ---
+Editor(s) used          : UnrealEd 3
+Modeler	                 : 3DS Max5
+
+Installation
+------------
+Unzip the file DM-Robinson2004.zip into your UnrealTournament 2004 directory.
+
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Fabrice Rodier, 2004.
+Authors may NOT use this level as a base to build additional levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD or any other electronic medium that is sold for money without my explicit permission!
+
+You MAY distribute this BSP through any electronic network (internet, FIDO, local BBS etc.), provided you include this file and leave the archive intact.
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered trademarks of Epic Megagames, Inc. All other trademarks and trade names are properties of their respective owners.

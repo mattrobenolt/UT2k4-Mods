@@ -1,0 +1,91 @@
+[LevelInfo0]
+Title="Zero assoluto"
+
+[LevelSummary]
+Title="Zero assoluto"
+Description="In origine, Zero assoluto venne costruito come avamposto scientifico per studiare la deriva dei ghiacci. Nel corso degli anni, il surriscaldamento del globo e i potentissimi sismi sono quasi arrivati a scuotere la base dalle fondamenta. I ricercatori e gli scienziati sono stati subito allontanati e la Liandri ha acquistato la base per il Torneo. La calda accoglienza che la tua squadra riceverà potrebbe compensare le temperature polari, ma non rilassarti troppo, perché il nemico ti tratterà con molta più freddezza..."
+
+[Volume0]
+LocationName="Stanza inferiore del generatore rosso"
+
+[Volume1]
+LocationName="Stanza inferiore del generatore blu"
+
+[Volume10]
+LocationName="Sala inferiore blu"
+
+[Volume11]
+LocationName="Sala inferiore rossa"
+
+[Volume12]
+LocationName="Stanza della bandiera rossa"
+
+[Volume13]
+LocationName="Stanza della bandiera blu"
+
+[Volume14]
+LocationName="Sala superiore blu, lato A"
+
+[Volume15]
+LocationName="Sala superiore blu, lato B"
+
+[Volume16]
+LocationName="Scala della bandiera blu"
+
+[Volume17]
+LocationName="Sala superiore rossa, lato A"
+
+[Volume18]
+LocationName="Sala superiore rossa, lato B"
+
+[Volume19]
+LocationName="Scala della bandiera rossa"
+
+[Volume2]
+LocationName="Stanza superiore del generatore blu"
+
+[Volume20]
+LocationName="Sala superiore rossa"
+
+[Volume21]
+LocationName="Sala superiore blu"
+
+[Volume23]
+LocationName="Ponte dello ionizzatore"
+
+[Volume24]
+LocationName="Ponte del Redentore"
+
+[Volume25]
+LocationName="Torre del tiratore blu: lato del Redentore"
+
+[Volume26]
+LocationName="Torre del tiratore blu: lato dello ionizzatore"
+
+[Volume27]
+LocationName="Torre del tiratore rosso: lato del Redentore"
+
+[Volume28]
+LocationName="Torre del tiratore rosso: lato dello ionizzatore"
+
+[Volume29]
+LocationName="Esterno blu"
+
+[Volume3]
+LocationName="Stanza superiore del generatore rosso"
+
+[Volume30]
+LocationName="Esterno rosso"
+
+[Volume6]
+LocationName="Sala inferiore rossa, lato B"
+
+[Volume7]
+LocationName="Sala inferiore rossa, lato A"
+
+[Volume8]
+LocationName="Sala inferiore rossa, lato B"
+
+[Volume9]
+LocationName="Sala inferiore rossa, lato A"
+

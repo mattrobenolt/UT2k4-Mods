@@ -1,0 +1,113 @@
+[Public]
+;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=SkaarjPack.Invasion,Description="DM|Invasione|SkaarjPack.Tab_IAInvasion|SkaarjPack.MapListSkaarjInvasion|false")
+
+[DamTypeBelch]
+DeathString="%o finisce arrosto a causa di un Gasbag."
+FemaleSuicide="Un Gasbag esplode da solo."
+MaleSuicide="Un Gasbag esplode da solo."
+
+[DamTypeBruteRocket]
+DeathString="%o viene disperso in mille pezzi dal razzo di un Bruto."
+FemaleSuicide="Un Bruto ha lanciato troppo presto il suo razzo."
+MaleSuicide="Un Bruto ha lanciato troppo presto il suo razzo."
+
+[DamTypeKrallBolt]
+DeathString="%o assaggia la capacità folgorante di un Krall."
+
+[DamTypeSkaarjProj]
+DeathString="%o si fa carbonizzare da uno Skaarj."
+
+[DamTypeWarlordRocket]
+DeathString="%o diventa pulviscolo grazie a un Signore della guerra."
+FemaleSuicide="Un Signore della guerra ha lanciato troppo presto il suo razzo."
+MaleSuicide="Un Signore della guerra ha lanciato troppo presto il suo razzo."
+
+[HUDInvasion]
+YouveLostTheMatch="L'invasione continua"
+
+[Invasion]
+InvasionPropText[0]="Ondata iniziale"
+InvasionPropText[1]="Ondata finale"
+InvasionPropText[2]="Configurazione ondate"
+InvasionPropText[3]="Invasori"
+InvasionPropText[4]="Numero ondata"
+InvasionPropText[5]="Limite invasori"
+InvasionPropText[6]="Durata"
+InvasionPropText[7]="Livello"
+InvasionDescText[0]="Definisce la prima ondata di mostri in arrivo in una mappa."
+InvasionDescText[1]="Definisce l'ondata finale, che bisogna superare per completare una mappa."
+InvasionDescText[2]="Configura le proprietà di ciascuna ondata."
+InvasionDescText[3]="Seleziona l'ondata da configurare."
+InvasionDescText[4]="Attiva la casella dei mostri che dovranno partecipare a questa ondata."
+InvasionDescText[5]="Numero limite dei mostri che possono essere presenti nella mappa."
+InvasionDescText[6]="Durata in secondi dell'ondata."
+InvasionDescText[7]="Regola l'intelligenza relativa degli invasori."
+SPBotDesc="Specifica il numero di bot presenti (massimo 2 per invasione)."
+GameName="Invasione"
+Description="Devi resistere il più a lungo possibile contro le orde di mostri, a fianco degli altri giocatori."
+GIPropsDisplayText[0]="Abilità mostri"
+GIPropDescText[0]="Imposta l'abilità dei mostri invasori."
+
+[InvasionDeathMessage]
+SomeoneString="un mostro"
+
+[InvasionMessage]
+OutMessage="È FUORI!"
+
+[MeleeDamage]
+DeathString="%o disperde ovunque i suoi visceri."
+FemaleSuicide="%o viene fatta a pezzi."
+MaleSuicide="%o viene fatta a pezzi."
+
+[ScoreboardInvasion]
+TeamScoreString="Punteggio di squadra"
+WaveString="Ondata"
+
+[TAB_IAInvasion]
+IAInvasionWaveConfig.Caption="Configura ondate"
+IAInvasionInitialWave.Caption="Ondata iniziale"
+IAInvasionInitialWave.Hint="Scegli l'ondata iniziale."
+
+[InvasionWaveConfig]
+WCFGClose.Caption="Chiudi"
+WCFGReset.Caption="Ripristina"
+WCFGLabel1.Caption="Configura ciascuna ondata..."
+WCFGLabel2.Caption="Livello"
+WCFGDifficulty.Hint="Il livello di difficoltà dei mostri nell'ondata."
+WCFGCreat01.Caption="Pupe"
+WCFGCreat01.Hint="Le Pupe Skaarj."
+WCFGCreat02.Caption="Razor Fly"
+WCFGCreat02.Hint="I Razor Fly."
+WCFGCreat03.Caption="Manta"
+WCFGCreat03.Hint="I Manta."
+WCFGCreat04.Caption="Krall"
+WCFGCreat04.Hint="I Krall."
+WCFGCreat05.Caption="Krall di élite"
+WCFGCreat05.Hint="I Krall di élite"
+WCFGCreat06.Caption="Gasbag"
+WCFGCreat06.Hint="I Gasbag."
+WCFGCreat07.Caption="Bruti"
+WCFGCreat07.Hint="I Bruti."
+WCFGCreat08.Caption="Skaarj"
+WCFGCreat08.Hint="Gli Skaarj."
+WCFGCreat09.Caption="Behemoth"
+WCFGCreat09.Hint="I Behemoth."
+WCFGCreat10.Caption="Skaarj dei ghiacci"
+WCFGCreat10.Hint="Gli Skaarj dei ghiacci."
+WCFGCreat11.Caption="Skaarj del fuoco"
+WCFGCreat11.Hint="Gli Skaarj del fuoco."
+WCFGCreat12.Caption="Signori della guerra"
+WCFGCreat12.Hint="I Signori della guerra."
+WCFGCreat13.Caption="Pupe"
+WCFGCreat13.Hint="Le Pupe Skaarj."
+WCFGCreat14.Caption="Pupe"
+WCFGCreat14.Hint="Le Pupe Skaarj."
+WCFGCreat15.Caption="Razor Fly"
+WCFGCreat15.Hint="I Razor Fly."
+WCFGCreat16.Caption="Razor Fly"
+WCFGCreat16.Hint="I Razor Fly."
+WCFGDuration.Caption="Durata"
+WCFGDuration.Hint="Quando dovrebbe durare ogni ondata."
+WCFGWaveNo.Caption="Ondata numero"
+WCFGWaveNo.Hint="Seleziona l'ondata da configurare."
+

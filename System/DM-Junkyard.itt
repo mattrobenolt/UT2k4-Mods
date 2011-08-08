@@ -1,0 +1,15 @@
+[LevelInfo0]
+Title="Il deposito di rottami"
+LevelEnterText="Benvenuto sul pianeta dei rifiuti"
+
+[LevelSummary]
+Title="Il deposito di rottami"
+Description="Nel corso degli eoni, i rifiuti della civiltà sono stati scaricati qui. Tu e i tuoi amici siete solo ulteriori aggiunte."
+LevelEnterText="Benvenuto sul pianeta dei rifiuti"
+
+[ZoneInfo0]
+LocationName="Disperso fra i rottami"
+
+[ZoneInfo1]
+LocationName="Disperso fra i rottami"
+

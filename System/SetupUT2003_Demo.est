@@ -1,0 +1,60 @@
+[Setup]
+LocalProduct="Demo de Unreal Tournament 2003"
+DefaultFolder="C:\UT2003Demo"
+ReadMe=Help\ReadMe-Demo.est.txt
+SetupWindowTitle=Unreal Tournament 2003 Demo Setup
+AutoplayWindowTitle="Opciones de Demo de Unreal Tournament 2003"
+ProductURL=http://www.unrealtournament2003.com/
+VersionURL=http://unreal.epicgames.com/versions.htm
+Developer="Epic Games"
+DeveloperURL=http://www.epicgames.com/
+Logo=Help\InstallerLogo.bmp
+License=License.est
+
+[General]
+PlayLevelCommand="&Jugar este nivel de UT2003"
+OpenLinkCommand="&Abrir este vínculo de UT2003"
+InstallModuleCommand="&Instalar este módulo de UT2003"
+EditLevelCommand="&Editar este nivel de UT2003"
+
+[UnrealGameContentGroup]
+Caption="Contenido del juego"
+Description="Necesita instalación."
+
+[GameGroup]
+Caption="Demo de Unreal Tournament 2003"
+Description="Necesita instalación."
+
+[DirectXGroup]
+Caption="DirectX 8.1"
+Description="Controladores opcionales Microsoft DirectX 8.1 que mejoran los gráficos, el sonido y el soporte del joystick."
+
+[OpenALGroup]
+Caption="OpenAL"
+Description="Necesario para efectos de sonido 3D acelerados por hardware."
+
+[Win2000XPGroup]
+Caption="Windows 2000/XP Direct3D"
+Description="Necesario para Windows 2000/XP [temporal-no para la versión final]."
+
+[EditorGroup]
+Caption="Unreal Editor"
+Description="Editor de mundos Unreal, para crear tus entornos tridimensionales propios. Para usuarios avanzados; la instalación es opcional."
+
+[PlayShortcut]
+Caption="Jugar con Demo de UT2003"
+
+[SafeModeShortcut]
+Caption="Modo a prueba de fallos de Demo de UT2003"
+
+[EditorShortcut]
+Caption="Editor UT2003"
+
+[DocumentationShortcut]
+Caption="Documentación"
+
+[WebShortcut]
+Caption="UT2003 Web Page"
+
+[UninstallShortcut]
+Caption="Desinstalar Unreal Tournament 2003"

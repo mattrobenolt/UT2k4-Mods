@@ -1,0 +1,236 @@
+[DestroyableObjective1]
+ObjectiveName="Controles de presa secundaria"
+DestructionMessage="Apagado de presa secundaria"
+ObjectiveDescription="Destruye los controles de la presa"
+Objective_Info_Attacker="Apaga presa secundaria"
+Objective_Info_Defender="Defiende presa secundaria"
+
+[DestroyableObjective5]
+ObjectiveName="Controles de presa primaria"
+DestructionMessage="Apagado de presa primaria"
+ObjectiveDescription="Destruye los controles de la presa"
+Objective_Info_Attacker="Desconecta presa primaria"
+Objective_Info_Defender="Defiende presa primaria"
+
+[DestroyableObjective_SM1]
+ObjectiveName="Puerta de depósito"
+DestructionMessage="Puerta de depósito destruida"
+ObjectiveDescription="Destruye las puertas del depósito que interrumpen tu camino"
+Objective_Info_Attacker="Destruye la puertas del depósito"
+Objective_Info_Defender="Defiende las puertas del depósito"
+
+[DestroyableObjective_SM2]
+ObjectiveName="Puerta acorazada"
+DestructionMessage="¡Atravesada puerta acorazada!"
+ObjectiveDescription="Destruye la puerta acorazada que cierra la salida de la base"
+Objective_Info_Attacker="Destruye la puerta acorazada"
+Objective_Info_Defender="Defiende la puerta acorazada"
+
+[DestroyableObjective_SM3]
+ObjectiveName="Puertas del túnel de acceso"
+DestructionMessage="Puertas del túnel de acceso destruidas"
+ObjectiveDescription="Utiliza el tanque de iones para destruir las puertas de acceso a la estación de energía"
+Objective_Info_Attacker="Destruye las puertas de acceso"
+Objective_Info_Defender="Protege puertas de acceso"
+
+[HoldObjective0]
+ObjectiveName="Conmutador de núcleo iónico"
+DestructionMessage="Conmutador de núcleo iónico activado"
+ObjectiveDescription="Mueve las palancas del núcleo para activar el núcleo iónico"
+Objective_Info_Attacker="Activa el núcleo iónico"
+Objective_Info_Defender="Defiende el núcleo iónico"
+
+[HoldObjective1]
+ObjectiveName="Conmutador de núcleo iónico"
+DestructionMessage="Conmutador de núcleo iónico activado"
+ObjectiveDescription="Mueve las palancas del núcleo para activar el núcleo iónico"
+Objective_Info_Attacker="Activa el núcleo iónico"
+Objective_Info_Defender="Defiende el núcleo iónico"
+
+[HoldObjective2]
+ObjectiveName="Controles de portal de seguridad"
+DestructionMessage="Apertura de portal de seguridad"
+ObjectiveDescription="Tira de la palanca para abrir el portal de seguridad"
+Objective_Info_Attacker="Abre el portal de seguridad"
+Objective_Info_Defender="Defiende la estación de energía"
+
+[HoldObjective4]
+ObjectiveName="Bridge Controles del Puente"
+DestructionMessage="Puente Elevado"
+ObjectiveDescription="Usa la caja de control para elevar el puente"
+Objective_Info_Attacker="Activa el Core de Iones"
+Objective_Info_Defender="Defiende el Core de Iones"
+
+[HoldObjective5]
+ObjectiveName="Interruptor del Core de Iones"
+DestructionMessage="Interruptor del Core de Iones Activado"
+ObjectiveDescription="Tira de la palanca del core para activar el core de Iones"
+Objective_Info_Attacker="Activa el Core de Iones"
+Objective_Info_Defender="Defiende el Core de Iones"
+[LevelInfo0]
+Title="Glacier"
+
+[LevelSummary]
+Title="Glacier"
+Description="En una de las más atrevidas acciones encubierta de las Guerras Corporativas, la instalación de investigación de la corporación Izanagi en Lamdom 3 fue asaltada y destruida por una fuerza de asalto de la corporación Axon Research, a pesar de la protección que ofrecía la fuerza de élite Colapso Atronador. Este escenario recrea esa misión. Axon no solo pudo destruir la instalación, sino que también se hizo con el tanque avanzado iónico de plasma que se estaba desarrollando allí. Tienes que infiltrarte en la instalación, robar el tanque y destruir todo el complejo."
+
+[ProximityObjective0]
+ObjectiveName="Infíltrate en la base"
+DestructionMessage="Base penetrada"
+ObjectiveDescription="Supera las puertas para infiltrarte en la base"
+Objective_Info_Attacker="Infíltrate en la base"
+Objective_Info_Defender="Defiende la base"
+
+[ProximityObjective1]
+ObjectiveName="Infíltrate en la base"
+DestructionMessage="Base penetrada"
+ObjectiveDescription="Supera las puertas para infiltrarte en la base"
+Objective_Info_Attacker="Infíltrate en la base"
+Objective_Info_Defender="Defiende la base"
+
+[ProximityObjective9]
+ObjectiveName="Salida de la base"
+DestructionMessage="El tanque ha escapado"
+ObjectiveDescription="Lleva el tanque fuera de la base"
+Objective_Info_Attacker="Escapa de la base"
+Objective_Info_Defender="Evita que el tanque escape"
+
+[SceneSubtitles0]
+SubTitles=("En uno de los actos mas heróicos de la cubierta Guerra de Corporaciones, el centro de estudio de la Corporación Izanagi en Lamdon 3 fue invadido y destruido","por una fuerza de ataque de la Corporación de investigación  Axon, a pesar de la protección ofrecida por la fuerza de élite NEG ThunderCrash.","Este escenário recrea  aquella misión. Axon fue capaz de no solo destruir la estructura, sino también de recuperar el tanque de Iones de plasma avanzado bajo tratamiento guardado allí.","Debes infiltrate en la oficina, robar el tanque de Plasma de Iones, y destruir lo restante de la estructura del centro.","Para infiltrarte en la base debes primero cruzar el lago helado. Ten en cuenta que los controles hacia la base para acceder el puente están localizados cerca de la entrada de la base.","Elevar el puente reducirá considerablemente la distancia para tus compañeros de equipo para que así entren en la base.","Una vez dentro de la base debes programar el núcleo de Iones para que se sobrecargue, operando estos dos interruptores.","Esto empezará el primer protocolo de emergencia de la base, abriendo todas las puertas y permitiendote entrar y robar el tanque de Iones.","Una vez hayas obtenido el tanque, continua hacia arriba por el acceso del tunel hacia la planta eléctrica. La planta eléctrica se alimenta directamente de las dos presas hidroeléctricas al núcleoe de Iones.","Para acceder las presas la puerta de seguridad debe estar abierta. Los controles de la puerta de seguridad están situados dentro de la planta de electricidad.","Las válvulas de las dos presas hidroélectricas deben estar abiertas","Esto causará una sobrecarga suficiente como para generar una reacción en cadena dentro del núcleo de Iones.","Una vez que las puertas de evacución están abiertas el segundo protocolo de emergencia se activará abriendo todas las salidas de la base.","Con las puertas de evacuación abiertas, solo queda un objetivo. El unico modo de escapar de la base es por el muro exterior.","El muro exterior tiene puertas de acero endurecidas para evitar cualquier intento de entrada o salida enemiga. Aun así no son invulnerables.","Con el increible poder del cañón de Iones, varias descargas directas serán más que suficientes para destruirlos. Cuando estas puertas estén destruidas, solo resta conducir el tanque hacia la libertad.")
+
+[TriggeredObjective2]
+ObjectiveName="Tanque de iones"
+DestructionMessage="Tanque capturado"
+Objective_Info_Attacker="Captura el tanque"
+Objective_Info_Defender="Defiende el tanque"
+
+[UseObjective0]
+ObjectiveName="Controles del puente"
+DestructionMessage="Puente alzado"
+ObjectiveDescription="Usa el panel de control para elevar el puente"
+Objective_Info_Attacker="Eleva el puente"
+Objective_Info_Defender="Defiende los controles del puente"
+
+[Volume0]
+LocationName="salida del hangar del tanque"
+
+[Volume1]
+LocationName="zona izquierda de la base"
+
+[Volume10]
+LocationName="zona derecha de la base"
+
+[Volume11]
+LocationName="núcleo iónico"
+
+[Volume12]
+LocationName="interior de estación de energía"
+
+[Volume13]
+LocationName="interior de presa secundaria"
+
+[Volume14]
+LocationName="interior de presa secundaria"
+
+[Volume15]
+LocationName="interior de presa primaria"
+
+[Volume16]
+LocationName="interior de presa primaria"
+
+[Volume2]
+LocationName="muro de presa secundaria"
+
+[Volume3]
+LocationName="zona izquierda de la base"
+
+[Volume4]
+LocationName="zona derecha de la base"
+
+[Volume6]
+LocationName="muro de presa primaria"
+
+[Volume7]
+LocationName="salida de la base"
+
+[Volume8]
+LocationName="entrada a la base"
+
+[Volume9]
+LocationName="puente"
+
+[ZoneInfo0]
+LocationName="exterior"
+
+[ZoneInfo1]
+LocationName="zona de almacenamiento"
+
+[ZoneInfo10]
+LocationName="entrada a torre izquierda"
+
+[ZoneInfo11]
+LocationName="corredor de torre izquierda"
+
+[ZoneInfo12]
+LocationName="Hangar del tanque"
+
+[ZoneInfo13]
+LocationName="Túnel de entrada a la base"
+
+[ZoneInfo14]
+LocationName="Hangar del tanque"
+
+[ZoneInfo15]
+LocationName="núcleo iónico"
+
+[ZoneInfo16]
+LocationName="túnel de acceso"
+
+[ZoneInfo17]
+LocationName="sala de control de estación de energía"
+
+[ZoneInfo18]
+LocationName="sala de control de salida de base"
+
+[ZoneInfo19]
+LocationName="corredor de estación de energía"
+
+[ZoneInfo2]
+LocationName="entrada a la torre derecha"
+
+[ZoneInfo20]
+LocationName="estación de energía inferior"
+
+[ZoneInfo21]
+LocationName="depósito"
+
+[ZoneInfo22]
+LocationName="sala de control de presa secundaria"
+
+[ZoneInfo23]
+LocationName="sala de control de presa primaria"
+
+[ZoneInfo24]
+LocationName="sala de observación de presa primaria"
+
+[ZoneInfo25]
+LocationName="núcleo iónico"
+
+[ZoneInfo26]
+LocationName="sala de observación de presa secundaria"
+
+[ZoneInfo27]
+LocationName="sala de control de salida de base"
+
+[ZoneInfo3]
+LocationName="núcleo iónico"
+
+[ZoneInfo4]
+LocationName="corredor de torre izquierda"
+
+[ZoneInfo5]
+LocationName="estación de energía superior"
+
+[ZoneInfo8]
+LocationName="corredor de torre derecha"
+

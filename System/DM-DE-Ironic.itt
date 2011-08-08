@@ -1,0 +1,67 @@
+[LevelInfo0]
+Title="Ironia"
+
+[LevelSummary]
+Title="Ironia"
+Description="Nell'isolamento delle piattaforme costiere abbandonate della Nuova Argentina, i placidi suoni degli uccelli e degli animali vengono coperti dal ruggito dei lanciarazzi e dal rombo dei fucili shock. Oggi non si riposa: prendi le tue munizioni e scendi in campo. Ti aspetta una massiccia dose di deathmatch."
+
+[ZoneInfo0]
+LocationName="Fucile shock"
+
+[ZoneInfo1]
+LocationName="Biofucile"
+
+[ZoneInfo10]
+LocationName="Corridoio superiore"
+
+[ZoneInfo11]
+LocationName="Corridoio superiore"
+
+[ZoneInfo12]
+LocationName="Cannone Flak"
+
+[ZoneInfo13]
+LocationName="Cannone Flak"
+
+[ZoneInfo14]
+LocationName="Fucile a impulsi"
+
+[ZoneInfo15]
+LocationName="Amplificatore"
+
+[ZoneInfo16]
+LocationName="Lanciarazzi"
+
+[ZoneInfo17]
+LocationName="Fucile shock"
+
+[ZoneInfo18]
+LocationName="Lanciarazzi"
+
+[ZoneInfo19]
+LocationName="Fucile shock"
+
+[ZoneInfo2]
+LocationName="Lanciarazzi"
+
+[ZoneInfo3]
+LocationName="Ascensore"
+
+[ZoneInfo4]
+LocationName="Ascensore"
+
+[ZoneInfo5]
+LocationName="Stanza degli schermi"
+
+[ZoneInfo6]
+LocationName="Stanza degli schermi"
+
+[ZoneInfo7]
+LocationName="Corridoio superiore"
+
+[ZoneInfo8]
+LocationName="Corridoio superiore"
+
+[ZoneInfo9]
+LocationName="Ascensore"
+

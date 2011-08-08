@@ -1,0 +1,23 @@
+[LevelInfo0]
+Title="Sepukku Gorge"
+
+[LevelSummary]
+Title="Sepukku Gorge"
+
+[Volume0]
+LocationName="Junto al Punto B"
+
+[Volume1]
+LocationName="Junto al Punto A"
+
+[Volume2]
+LocationName="Sobre el puente"
+
+[Volume3]
+LocationName="Cueva Rojos"
+
+[Volume4]
+LocationName="Cueva Azules"
+
+[ZoneInfo0]
+LocationName="Exterior"

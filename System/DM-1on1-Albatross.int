@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title="Albatross"
+
+[LevelSummary]
+Title="Albatross"
+Description="From the ancient days of the Tournament comes a classic 1-on-1 arena, renovated and redesigned to once again mediate in the fate of bloodshed. Do not be fooled by its ostensible simplicity.  Those who understand subtle design will always dominate in this arena."
+
+[Volume1]
+LocationName="Lower Stream"
+
+[Volume2]
+LocationName="Small Canyon"
+
+[Volume3]
+LocationName="Bio Ruins"
+
+[Volume4]
+LocationName="Bridge Area"
+
+[Volume5]
+LocationName="Lower Statue"
+
+[Volume6]
+LocationName="Minigun Lift"
+
+[Volume7]
+LocationName="Albatross Statue"
+
+[ZoneInfo0]
+LocationName="Outside"
+
+[ZoneInfo1]
+LocationName="Rocket Launcher Hall"
+
+[ZoneInfo2]
+LocationName="inside"
+
+[ZoneInfo3]
+LocationName="inside"
+
+[ZoneInfo4]
+LocationName="inside"
+

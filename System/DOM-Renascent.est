@@ -1,0 +1,25 @@
+[LevelInfo0]
+Title="Renascent"
+
+[LevelSummary]
+Title="Renascent"
+Description="En las profundidades de los bosques de Gen Mo'kai reside la clave del renacimiento. Por desgracia para los participantes del torneo que logran encontrar este estadio, esa clave es la muerte."
+
+[Volume0]
+LocationName="Cerro del punto B"
+
+[Volume1]
+LocationName="Cerro del punto A"
+
+[Volume2]
+LocationName="Mitad del valle"
+
+[Volume3]
+LocationName="Puente de mejora"
+
+[Volume4]
+LocationName="Puente de mejora"
+
+[ZoneInfo0]
+LocationName="Zonas de generación"
+

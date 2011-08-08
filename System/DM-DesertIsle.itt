@@ -1,0 +1,22 @@
+[LevelInfo0]
+Title="Oasi nel deserto"
+
+[LevelSummary]
+Title="Oasi nel deserto"
+Description="Un piccolo ruscello martellato da un sole cocente porta la vita in questa oasi verde in un deserto di sabbia. Cosa rimarrà quando le sue acque saranno tinte di rosso di sangue?"
+
+[Volume0]
+LocationName="Foce del fiume"
+
+[Volume1]
+LocationName="La collina"
+
+[Volume2]
+LocationName="Sorgente del fiume"
+
+[Volume3]
+LocationName="Centro del fiume"
+
+[ZoneInfo0]
+LocationName="=Deserto="
+

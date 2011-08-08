@@ -1,0 +1,34 @@
+[General]
+Run="Avvia!"
+FirstTime="prima configurazione di Unreal Tournament 2004"
+SafeMode="Modalità provvisoria di Unreal Tournament 2004"
+RecoveryMode="Modalità recupero di Unreal Tournament 2004"
+WebPage="http://unreal.epicgames.com/versions.htm"
+Detecting="Rilevamento periferiche video 3D, attendi..."
+
+[IDDIALOG_ConfigPageDetail]
+IDC_ConfigPageDetail=""
+IDC_DetailPrompt="Il motore di Unreal ha scelto le seguenti opzioni di dettaglio basandosi sulla velocità, sulla memoria e sulla scheda video del tuo PC, per ottenere le migliori prestazioni."
+IDC_DetailNote="Puoi modificare più avanti queste opzioni nella finestra 'Preferenze' del gioco, se lo desideri."
+
+[IDDIALOG_ConfigPageFirstTime]
+IDC_ConfigPageFirstTime=""
+IDC_Prompt="Unreal Tournament 2004 è stato avviato per la prima volta. Se riscontri problemi, leggi le note sul programma nella sezione 'Programmi / Unreal Tournament 2004' del menu 'Start' di Windows."
+
+[IDDIALOG_ConfigPageSafeMode]
+IDC_ConfigPageSafeMode=""
+IDC_SafeModePrompt="Unreal Tournament 2004 non è stato chiuso correttamente dopo l'ultima esecuzione. Se ciò è avvenuto a causa di un problema, puoi usare le opzioni sottostanti per risolverlo."
+IDC_SafeModePrompt2="Opzioni della modalità provvisoria di Unreal Tournament 2004: se hai qualche problema, puoi usare le opzioni sottostanti per risolverlo."
+IDC_Run="Avvia Unreal Tournament 2004"
+IDC_SafeMode="Avvia Unreal Tournament 2004 in modalità provvisoria - per risolvere problemi"
+IDC_Web="Visita il nostro sito Web per trovare consigli sui vari problemi"
+
+[IDDIALOG_ConfigPageSafeOptions]
+IDC_ConfigPageSafeOptions=""
+IDC_SafeOptions="Opzioni diagnostiche della modalità provvisoria"
+IDC_NoSound="Disattiva tutto l'audio"
+IDC_Res="Usa la risoluzione normale 640x480"
+IDC_ResetConfig="Usa tutte le opzioni di configurazione predefinite"
+IDC_NoProcessor="Disattiva le estensioni SSE/3DNow! dei processori"
+IDC_NoJoy="Disattiva il supporto joystick"
+IDC_SoftwareRenderer="Usa il rendering del software "

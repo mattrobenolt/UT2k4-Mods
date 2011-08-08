@@ -1,0 +1,25 @@
+[LevelInfo0]
+Title="Conduit"
+
+[LevelSummary]
+Title="Conduit"
+Description="Los altibajos de la carga estática del Conducto, controlados para saciar las necesidades energéticas de una sociedad hambrienta. Los altibajos de una batalla en equipo en el Conducto, retransmitidos para saciar las necesidades de una depravada sociedad sedienta de sangre."
+
+[ZoneInfo0]
+LocationName="Base central"
+
+[ZoneInfo1]
+LocationName="Vestuario azul"
+
+[ZoneInfo3]
+LocationName="Vestuario rojo"
+
+[ZoneInfo4]
+LocationName="DOM B"
+
+[ZoneInfo5]
+LocationName="Conducto central"
+
+[ZoneInfo6]
+LocationName="DOM A"
+

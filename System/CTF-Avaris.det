@@ -1,0 +1,172 @@
+[LevelInfo0]
+Title="Avaris"
+
+[LevelSummary]
+Title="Avaris"
+Description="Avaris, einst Hauptstadt eines mächtigen Reiches, liegt jetzt vergessen in einer trostlosen Wüste. Denjenigen, die hier im Tournament sterben, droht das gleiche Schicksal."
+
+[ZoneInfo0]
+LocationName="BLAUES Vorzimmer links"
+
+[ZoneInfo1]
+LocationName="BLAUER Innenhof"
+
+[ZoneInfo10]
+LocationName="BLAUE Haupthalle"
+
+[ZoneInfo11]
+LocationName="ROTES Vorzimmer rechts"
+
+[ZoneInfo12]
+LocationName="ROTES Vorzimmer links (zerstört)"
+
+[ZoneInfo13]
+LocationName="Basis - ROTE Flagge"
+
+[ZoneInfo15]
+LocationName="Innenhof-Gebäude"
+
+[ZoneInfo16]
+LocationName="ROTER Eingang rechts"
+
+[ZoneInfo17]
+LocationName="Innenhof-Gebäude"
+
+[ZoneInfo18]
+LocationName="ROTER Eingang links"
+
+[ZoneInfo19]
+LocationName="ROTE Haupthalle"
+
+[ZoneInfo2]
+LocationName="Basis - BLAUE Flagge"
+
+[ZoneInfo20]
+LocationName="BLAUER Eingang links"
+
+[ZoneInfo21]
+LocationName="ROTE Gänge rechts"
+
+[ZoneInfo22]
+LocationName="ROTER Innenhof rechts"
+
+[ZoneInfo23]
+LocationName="Basis - BLAUE Flagge"
+
+[ZoneInfo24]
+LocationName="Basis - BLAUE Flagge"
+
+[ZoneInfo27]
+LocationName="Linke Seite BLAU"
+
+[ZoneInfo28]
+LocationName="Innenhof-Gebäude"
+
+[ZoneInfo29]
+LocationName="Zentraler Innenhof"
+
+[ZoneInfo3]
+LocationName="Zentralbereich"
+
+[ZoneInfo30]
+LocationName="BLAUER Eingang rechts"
+
+[ZoneInfo31]
+LocationName="Zentralbereich"
+
+[ZoneInfo32]
+LocationName="BLAUE Treppen links"
+
+[ZoneInfo33]
+LocationName="BLAUES Vorzimmer rechts"
+
+[ZoneInfo34]
+LocationName="ROTE Treppen links"
+
+[ZoneInfo35]
+LocationName="Zentralbereich"
+
+[ZoneInfo36]
+LocationName="ROTE Treppen rechts"
+
+[ZoneInfo37]
+LocationName="Basis - BLAUE Flagge"
+
+[ZoneInfo38]
+LocationName="Basis - ROTE Flagge"
+
+[ZoneInfo39]
+LocationName="Basis - ROTE Flagge"
+
+[ZoneInfo42]
+LocationName="ROTES Vorzimmer"
+
+[ZoneInfo43]
+LocationName="Innenhof-Gebäude"
+
+[ZoneInfo44]
+LocationName="Linke Seite BLAU"
+
+[ZoneInfo45]
+LocationName="BLAUES Vorzimmer rechts"
+
+[ZoneInfo46]
+LocationName="BLAUES Vorzimmer rechts"
+
+[ZoneInfo47]
+LocationName="Basis - BLAUE Flagge"
+
+[ZoneInfo48]
+LocationName="BLAUES Vorzimmer rechts"
+
+[ZoneInfo49]
+LocationName="Rechte Seite ROT"
+
+[ZoneInfo5]
+LocationName="ROTER Innenhof links"
+
+[ZoneInfo50]
+LocationName="Rechte Seite BLAU"
+
+[ZoneInfo51]
+LocationName="Basis - BLAUE Flagge"
+
+[ZoneInfo52]
+LocationName="Basis - BLAUE Flagge"
+
+[ZoneInfo53]
+LocationName="Basis - ROTE Flagge"
+
+[ZoneInfo54]
+LocationName="Basis - ROTE Flagge"
+
+[ZoneInfo55]
+LocationName="Rechte Seite BLAU"
+
+[ZoneInfo56]
+LocationName="Zentralbereich"
+
+[ZoneInfo57]
+LocationName="Zentralbereich"
+
+[ZoneInfo59]
+LocationName="Rechte Seite ROT"
+
+[ZoneInfo6]
+LocationName="BLAUE Stufen rechts"
+
+[ZoneInfo61]
+LocationName="Linke Seite ROT"
+
+[ZoneInfo62]
+LocationName="Linke Seite ROT"
+
+[ZoneInfo7]
+LocationName="BLAUES Vorzimmer links"
+
+[ZoneInfo8]
+LocationName="BLAUES Vorzimmer links"
+
+[ZoneInfo9]
+LocationName="Zentraler Innenhof"
+

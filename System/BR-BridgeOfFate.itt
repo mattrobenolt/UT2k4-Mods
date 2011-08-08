@@ -1,0 +1,76 @@
+[LevelInfo0]
+Title="Ponte del Destino"
+
+[LevelSummary]
+Title="Ponte del Destino"
+Description="Due territori separati da un'enorme caverna, un ponte che la attraversa e permette alle due squadre di raggiungersi, facendo la differenza tra speranza e disperazione."
+
+[ZoneInfo0]
+LocationName="Caverna"
+
+[ZoneInfo1]
+LocationName="Entrata della corazza BLU"
+
+[ZoneInfo10]
+LocationName="Entrata principale BLU"
+
+[ZoneInfo11]
+LocationName="Stanza della bandiera BLU"
+
+[ZoneInfo12]
+LocationName="Stanza della bomba BLU"
+
+[ZoneInfo13]
+LocationName="Entrata del biofucile BLU"
+
+[ZoneInfo14]
+LocationName="Stanza della bomba ROSSA"
+
+[ZoneInfo15]
+LocationName="Entrata del biofucile ROSSA"
+
+[ZoneInfo16]
+LocationName="Entrata della corazza ROSSA"
+
+[ZoneInfo17]
+LocationName="Entrata della corazza ROSSA"
+
+[ZoneInfo18]
+LocationName="Entrata del biofucile ROSSA"
+
+[ZoneInfo19]
+LocationName="Entrata principale ROSSA"
+
+[ZoneInfo20]
+LocationName="Entrata del biofucile ROSSA"
+
+[ZoneInfo21]
+LocationName="Stanza della bomba ROSSA"
+
+[ZoneInfo22]
+LocationName="Stanza della bomba ROSSA"
+
+[ZoneInfo23]
+LocationName="Entrata della corazza ROSSA"
+
+[ZoneInfo3]
+LocationName="Stanza della bomba BLU"
+
+[ZoneInfo4]
+LocationName="Stanza del pilastro BLU"
+
+[ZoneInfo5]
+LocationName="Entrata del biofucile BLU"
+
+[ZoneInfo6]
+LocationName="Entrata della corazza BLU"
+
+[ZoneInfo7]
+LocationName="Stanza del pilastro ROSSA"
+
+[ZoneInfo8]
+LocationName="Entrata della corazza BLU"
+
+[ZoneInfo9]
+LocationName="Entrata del biofucile BLU"
+

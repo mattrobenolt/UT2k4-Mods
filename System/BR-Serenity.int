@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title="Serenity"
+
+[LevelSummary]
+Title="Serenity"
+Description="Feel the gentle breeze on your skin, hear the calming sounds of the forest, watch the fireflies dance in the clearing and surrender yourself to a growing sense of serenity.  Now ... collect your Flak Cannon and wreak havoc!"
+
+[Volume1]
+LocationName="blue side of center field"
+
+[Volume2]
+LocationName="center field"
+
+[Volume3]
+LocationName="red base"
+
+[Volume4]
+LocationName="red side of center field"
+
+[Volume5]
+LocationName="blue base"
+
+[WaterVolume0]
+LocationName="in a watery grave"
+
+[WaterVolume1]
+LocationName="in a watery grave"
+
+[WaterVolume2]
+LocationName="hiding in the center field waterfall"
+
+[xFallingVolume0]
+LocationName="falling to a watery grave"
+
+[xFallingVolume1]
+LocationName="falling to a watery grave"
+

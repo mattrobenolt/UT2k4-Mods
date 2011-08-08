@@ -1,0 +1,67 @@
+[LevelInfo0]
+Title="Ironic"
+
+[LevelSummary]
+Title="Ironic"
+Description="In der Einsamkeit der verlassenen Küstenplattformen von Neu-Argentinien wird das leise Zwitschern der Vögel vom Dröhnen der Raketen und vom Donnern der Shock Rifles übertönt. Sieht so aus, als wären die Ferien vorbei. Schnappen Sie sich also etwas Munition, und legen Sie los. Es ist Zeit für ein altmodisches Deathmatch."
+
+[ZoneInfo0]
+LocationName="Shock Rifle"
+
+[ZoneInfo1]
+LocationName="Bio Rifle"
+
+[ZoneInfo10]
+LocationName="Oberer Gang"
+
+[ZoneInfo11]
+LocationName="Oberer Gang"
+
+[ZoneInfo12]
+LocationName="Flak Cannon"
+
+[ZoneInfo13]
+LocationName="Flak Cannon"
+
+[ZoneInfo14]
+LocationName="Pulsgewehr"
+
+[ZoneInfo15]
+LocationName="Verstärker"
+
+[ZoneInfo16]
+LocationName="Rocket Launcher"
+
+[ZoneInfo17]
+LocationName="Shock Rifle"
+
+[ZoneInfo18]
+LocationName="Rocket Launcher"
+
+[ZoneInfo19]
+LocationName="Shock Rifle"
+
+[ZoneInfo2]
+LocationName="Rocket Launcher"
+
+[ZoneInfo3]
+LocationName="Aufzug"
+
+[ZoneInfo4]
+LocationName="Aufzug"
+
+[ZoneInfo5]
+LocationName="Schildraum"
+
+[ZoneInfo6]
+LocationName="Schildraum"
+
+[ZoneInfo7]
+LocationName="Oberer Gang"
+
+[ZoneInfo8]
+LocationName="Oberer Gang"
+
+[ZoneInfo9]
+LocationName="Aufzug"
+

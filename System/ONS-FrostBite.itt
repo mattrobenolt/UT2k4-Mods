@@ -1,0 +1,127 @@
+[Counter0]
+CompleteMessage="Segreto attivato!"
+
+[LevelInfo0]
+Title="Morsa del freddo"
+
+[LevelSummary]
+Title="Morsa del freddo"
+Description="Non farti ingannare dall'apparente semplicità di questa zona gelida e desolata. Pur essendo una delle arene più piccole per la modalità Energia, Morsa del freddo è caratterizzata da un ritmo frenetico e da scontri violentissimi."
+
+[MessageTrigger0]
+Message="Peter Respondek"
+
+[MessageTrigger1]
+Message="Rogelio Olguin"
+
+[MessageTrigger10]
+Message="Phil Cole"
+
+[MessageTrigger11]
+Message="Nate Overman"
+
+[MessageTrigger2]
+Message="Jeff Geis"
+
+[MessageTrigger3]
+Message="David Sirmons"
+
+[MessageTrigger4]
+Message="Matt Oelfke"
+
+[MessageTrigger5]
+Message="Stuart Fitzsimmons"
+
+[MessageTrigger6]
+Message="Ron Prestenback"
+
+[MessageTrigger7]
+Message="Ben Beckwith"
+
+[MessageTrigger8]
+Message="Laurent Delayen"
+
+[MessageTrigger9]
+Message="Dave Hagewood"
+
+[PhysicsVolume51]
+LocationName="Nascondiglio sotterraneo segreto"
+
+[Volume1]
+LocationName="Base rossa"
+
+[Volume18]
+LocationName="Valle a sud-est"
+
+[Volume19]
+LocationName="Lago rosso"
+
+[Volume20]
+LocationName="Lago blu"
+
+[Volume21]
+LocationName="Valle a nord-est"
+
+[Volume22]
+LocationName="Lago centrale"
+
+[Volume23]
+LocationName="Canyon blu"
+
+[Volume24]
+LocationName="Canyon rosso"
+
+[Volume25]
+LocationName="Nodo sud-est"
+
+[Volume26]
+LocationName="Nodo nord-est"
+
+[Volume5]
+LocationName="Base blu"
+
+[Volume8]
+LocationName="Base centrale"
+
+[ZoneInfo0]
+LocationName="Entrata blu"
+
+[ZoneInfo1]
+LocationName="Torre blu"
+
+[ZoneInfo10]
+LocationName="Esterno"
+
+[ZoneInfo11]
+LocationName="Esterno"
+
+[ZoneInfo12]
+LocationName="Torre rossa"
+
+[ZoneInfo13]
+LocationName="Esterno"
+
+[ZoneInfo2]
+LocationName="Torre rossa"
+
+[ZoneInfo3]
+LocationName="Esterno"
+
+[ZoneInfo4]
+LocationName="Torre rossa"
+
+[ZoneInfo5]
+LocationName="Torre blu"
+
+[ZoneInfo6]
+LocationName="Esterno"
+
+[ZoneInfo7]
+LocationName="Torre rossa"
+
+[ZoneInfo8]
+LocationName="Esterno"
+
+[ZoneInfo9]
+LocationName="Esterno"
+

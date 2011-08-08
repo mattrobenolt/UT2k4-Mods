@@ -1,0 +1,19 @@
+[LevelInfo0]
+Title="Spirito"
+
+[LevelSummary]
+Title="Spirito"
+Description="Una volta, questa antica struttura aveva un significato religioso per i suoi abitanti. Però, dopo la loro scomparsa, la spiritualità di questo luogo di culto si è affievolita. Ora, si possono udire solo gli spiriti dei combattenti caduti. Diventerai uno di loro?"
+
+[ZoneInfo0]
+LocationName="Sala del fucile Link"
+
+[ZoneInfo2]
+LocationName="Zona del lanciarazzi"
+
+[ZoneInfo3]
+LocationName="Zona del ponte doppio"
+
+[ZoneInfo4]
+LocationName="Zona del cannone Flak"
+

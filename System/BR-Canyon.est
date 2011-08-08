@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title="Canyon"
+
+[LevelSummary]
+Title="Canyon"
+Description="Combate sangriento y cruel en exteriores, ¿quién puede pedir más? Esta pequeña zona está dividida por un rápido y mortal río. Se recomienda NO nadar."
+
+[Volume1]
+LocationName="Puesto de francotirador AZUL"
+
+[Volume2]
+LocationName="Bomba objetivo AZUL"
+
+[Volume3]
+LocationName="Estanque de generación sur AZUL"
+
+[Volume4]
+LocationName="Estanque de generación norte AZUL"
+
+[Volume6]
+LocationName="Puesto de francotirador ROJA"
+
+[Volume7]
+LocationName="Estanque de generación norte ROJA"
+
+[Volume8]
+LocationName="Estanque de generación sur ROJA"
+
+[Volume9]
+LocationName="Bomba objetivo ROJA"
+
+[WaterVolume0]
+LocationName="Con los peces"
+
+[ZoneInfo1]
+LocationName="Exterior"
+

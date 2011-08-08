@@ -1,0 +1,54 @@
+[DamTypeIonTankBlast]
+FemaleSuicide="%o fue ANIQUILADO"
+MaleSuicide="%o fue ANIQUILADO"
+DeathString="%o fue ANIQUILADO por %k"
+
+
+[DamTypeMASCannon]
+DeathString="¡%o ha sido VAPORIZADO por %k!"
+FemaleSuicide="¡%o ha sido VAPORIZADO!"
+MaleSuicide="¡%o ha sido VAPORIZADO!"
+
+[DamTypeMASPlasma]
+DeathString="La torre de Leviathan de %k ha destrozado a %o."
+FemaleSuicide="%o se destruyó ella misma."
+MaleSuicide="%o se destruyó él mismo."
+
+[MutVehicleArena]
+ArenaDisplayText="Vehículo de estadio"
+ArenaDescText="Determina qué tipo de vehículo se usará en el encuentro."
+FriendlyName="Estadio de vehículos"
+Description="Sustituye todos los vehículos del mapa con un tipo concreto."
+
+[ONSBomber]
+VehiclePositionString="en un Dragonfly"
+VehicleNameString="Dragonfly"
+
+[ONSGenericSD]
+VehiclePositionString="indispuesto"
+VehicleNameString="TC-1200"
+
+[ONSHoverTank_IonPlasma]
+VehiclePositionString="en un tanque de plasma iónico"
+VehicleNameString="Tanque de plasma iónico"
+
+[ONSMASSideGunPawn]
+VehiclePositionString="en una torreta de Leviathan"
+VehicleNameString="Torreta de Leviathan"
+
+[ONSMobileAssaultStation]
+VehiclePositionString="En un Leviathan"
+VehicleNameString="Leviathan"
+
+[ONSPainter]
+Description="El emisor de objetivo, similar al emisor de iones, emite un láser inocuo con su disparo principal. No obstante, a diferencia del emisor de iones, este láser llama a un bombardero que arroja una serie de bombas en la dirección en la que esté mirando el usuario, centradas en el objetivo señalado. Las bombas incineran fácilmente al objetivo y a cualquier infortunado que ande cerca."
+ItemName="Emisor de objetivo"
+
+[ONSPainterPickup]
+PickupMessage="Tienes el emisor de objetivo"
+
+[ONSTankSecondaryTurretPawn_IonPlasma]
+VehiclePositionString="en una torreta de tanques de Iones"
+VehicleNameString="Torreta minadora de tanques de Iones"
+
+

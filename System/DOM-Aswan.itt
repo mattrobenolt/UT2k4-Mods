@@ -1,0 +1,34 @@
+[LevelInfo0]
+Title="Assuan"
+
+[LevelSummary]
+Title="Assuan"
+Description="Nel cuore dell'Oceano di Dune, una piccola oasi di civiltà accoglie i viandanti. Chiunque varchi i cancelli del Tempio di Assuan è il benvenuto, ma nessuno può andarsene senza partecipare prima alle prove che gli Anubani hanno concepito secoli fa per mettere alla prova i loro potenziali avversari. Il successo porta fama e gloria, ma il fallimento significa che le tue ossa andranno in pasto agli sciacalli. Sei veramente così assetato da varcare i cancelli?"
+
+[ZoneInfo0]
+LocationName="Centro"
+
+[ZoneInfo1]
+LocationName="Stanza posteriore B"
+
+[ZoneInfo2]
+LocationName="Stanza posteriore A"
+
+[ZoneInfo3]
+LocationName="Cannone Flak A"
+
+[ZoneInfo4]
+LocationName="Lanciarazzi A"
+
+[ZoneInfo5]
+LocationName="Cannone Flak B"
+
+[ZoneInfo6]
+LocationName="Lanciarazzi B"
+
+[ZoneInfo7]
+LocationName="Rientro blu"
+
+[ZoneInfo8]
+LocationName="Rientro rosso"
+

@@ -1,0 +1,329 @@
+[Counter0]
+CompleteMessage="Portelli di sfiato del nucleo aperti!"
+
+[Counter2]
+CompleteMessage="Schermo energetico disattivato!"
+
+[Counter3]
+CompleteMessage="Sportelli e campo di forza inferiore disattivati"
+
+[Counter4]
+CompleteMessage="Conduttori del nucleo distrutti!"
+
+[Counter5]
+CompleteMessage="Campo di forza della zona di scarico disattivato!"
+
+[Counter6]
+CompleteMessage="Campi di forza superiori disattivati!"
+
+[DestroyVehicleObjective0]
+ObjectiveName="Torrette sentinella"
+DestructionMessage="Sentinella distrutta!"
+ObjectiveDescription="Distruggi le torrette sentinella"
+Objective_Info_Attacker="Distruggi la sentinella"
+Objective_Info_Defender="Difendi la sentinella"
+
+[DestroyVehicleObjective1]
+ObjectiveName="Torrette sentinella"
+DestructionMessage="Sentinella distrutta!"
+ObjectiveDescription="Distruggi le torrette sentinella"
+Objective_Info_Attacker="Distruggi la sentinella"
+Objective_Info_Defender="Difendi la sentinella"
+
+[DestroyVehicleObjective2]
+ObjectiveName="Torrette sentinella"
+DestructionMessage="Sentinella distrutta!"
+ObjectiveDescription="Distruggi le torrette sentinella"
+Objective_Info_Attacker="Distruggi la sentinella"
+Objective_Info_Defender="Difendi la sentinella"
+
+[DestroyableObjective_SM0]
+ObjectiveName="Deviatore di energia"
+DestructionMessage="Distruggi il deviatore di energia..."
+ObjectiveDescription="Distruggi il deviatore del campo laser"
+Objective_Info_Attacker="Distruggi il deviatore di energia"
+Objective_Info_Defender="Difendi il deviatore di energia"
+
+[DestroyableObjective_SM1]
+ObjectiveName="Generatore degli schermi superiori"
+DestructionMessage="Generatore degli schermi distrutto"
+ObjectiveDescription="Distruggi i generatori degli schermi"
+Objective_Info_Attacker="Distruggi il generatore degli schermi superiori"
+Objective_Info_Defender="Difendi il generatore degli schermi superiori"
+
+[DestroyableObjective_SM2]
+ObjectiveName="Generatore degli schermi superiori"
+DestructionMessage="Generatore degli schermi distrutto"
+ObjectiveDescription="Distruggi i generatori degli schermi"
+Objective_Info_Attacker="Distruggi il generatore degli schermi superiori"
+Objective_Info_Defender="Difendi il generatore degli schermi superiori"
+
+[DestroyableObjective_SM3]
+ObjectiveName="Generatore degli schermi inferiori"
+DestructionMessage="Generatore degli schermi distrutto"
+ObjectiveDescription="Distruggi i generatori degli schermi"
+Objective_Info_Attacker="Distruggi i generatori degli schermi"
+Objective_Info_Defender="Difendi il generatore degli schermi inferiori"
+
+[DestroyableObjective_SM4]
+ObjectiveName="Conduttori del nucleo..."
+DestructionMessage="Conduttore distrutto!"
+ObjectiveDescription="Distruggi il conduttore del nucleo"
+Objective_Info_Attacker="Distruggi il conduttore"
+Objective_Info_Defender="Difendi il conduttore"
+
+[DestroyableObjective_SM5]
+ObjectiveName="Deviatore di energia"
+DestructionMessage="Distruggi il deviatore di energia..."
+ObjectiveDescription="Distruggi il deviatore del campo laser"
+Objective_Info_Attacker="Distruggi il deviatore di energia"
+Objective_Info_Defender="Difendi il deviatore di energia"
+
+[DestroyableObjective_SM6]
+ObjectiveName="Conduttori del nucleo..."
+DestructionMessage="Conduttore distrutto!"
+ObjectiveDescription="Distruggi il conduttore del nucleo"
+Objective_Info_Attacker="Distruggi il conduttore"
+Objective_Info_Defender="Difendi il conduttore"
+
+[HoldObjective0]
+ObjectiveName="Pannelli del nucleo"
+DestructionMessage="Sportello numero 1 sbloccato!"
+ObjectiveDescription="Pannelli del nucleo"
+Objective_Info_Attacker="Usa il pannello per sbloccare il portello del nucleo"
+Objective_Info_Defender="Impedisci agli attaccanti di usare i pannelli"
+
+[HoldObjective1]
+ObjectiveName="Pannelli del nucleo"
+DestructionMessage="Sportello numero 1 sbloccato!"
+ObjectiveDescription="Pannelli del nucleo"
+Objective_Info_Attacker="Usa il pannello per sbloccare il portello del nucleo"
+Objective_Info_Defender="Impedisci agli attaccanti di usare i pannelli"
+
+[InfoPod2]
+POD_Message="Torrette inferiori interne"
+
+[InfoPod3]
+POD_Message="Cannone Link"
+
+[InfoPod4]
+POD_Message="Torrette della zona di scarico"
+
+[InfoPod5]
+POD_Message="Torrette superiori interne"
+
+[InfoPod6]
+POD_Message="Torrette superiori esterne"
+
+[InfoPod7]
+POD_Message="Torrette inferiori esterne"
+
+[InfoPod8]
+POD_Message="Cannone Link"
+
+[LevelInfo0]
+Title="Assalto alla nave madre"
+
+[LevelSummary]
+Title="Assalto alla nave madre"
+Description="Il primo contatto con gli Skaarj avvenne durante il recupero del trasporto carcerario Vortex Rikers su Na Pali. Nel giro di un anno, gli Skaarj distrussero quasi completamente l'umanità. Questo scenario ricostruisce la battaglia finale per la Terra e la splendida vittoria degli Umani, che sembravano condannati. Una nave madre Skaarj orbitava attorno alla Terra, martellandola senza sosta per preparare lo sbarco finale. In una temeraria missione suicida, gli Umani attaccarono la nave madre Skaarj con dei caccia monoposto, per colpire un punto debole che avevano scoperto."
+
+[MessageTrigger15]
+Message="Preparati ad attaccare!"
+
+[MessageTrigger17]
+Message="Preparati a difendere!"
+
+[ProximityObjective0]
+ObjectiveName="Zona di atterraggio"
+DestructionMessage="Gli attaccanti sono entrati nella nave madre!"
+ObjectiveDescription="Entra nella nave madre Skaarj attraverso la zona di atterraggio"
+Objective_Info_Attacker="Raggiungi la zona di atterraggio"
+Objective_Info_Defender="Impedisci agli umani di attraccare"
+
+[SceneSubtitles0]
+SubTitles=("Il primo contatto con gli Skaarj avvenne durante il recupero del trasporto carcerario Vortex Rikers su Na Pali. "," Nel giro di un anno, gli Skaarj distrussero quasi completamente l'umanità."," Questo scenario ricostruisce la battaglia finale per la Terra e la splendida vittoria degli Umani, che sembravano condannati. Una nave madre Skaarj orbitava attorno alla Terra, martellandola senza sosta per preparare lo sbarco finale."," In una temeraria missione suicida, gli Umani attaccarono la nave madre Skaarj con dei caccia monoposto, per colpire un punto debole che avevano scoperto.","Abbatti il generatore all'interno della sezione bassa della nave madre per disattivare i campi di forza.","Una volta completato, dirigiti verso l'alto nel corpo principale della nave madre Skaarj.","Distruggi i generatori superiori per disattivare lo scudo della zona d'atterraggio.","Continua e atterra nella zona d'atterraggio della nave madre.","Avviati a piedi e procedi alla sezione seguente.","Due meccanismi deviatori d'energia dovranno essere distrutti per procedere verso la stiva.","Otrepassato il ponte troverai il nucleo.","Una volta arrivato nella stiva troverai tre sentinelle.","Liberarsi delle sentinelle è l'unico modo per continuare.","Il campo di forza si disattiva una volta che le sentinelle sono state annientate.","Superato il ponte, il nucleo ti aspetta. ","Attiva il pannello per aprire i blocchi del portello.","Una volta attivati i pannelli, fai fuoco sui due conduttori del nucleo energico per destabilizzarlo.")
+
+[Trigger_ASMessageTrigger14]
+Message="Campo di forza disattivato..."
+
+[Trigger_ASMessageTrigger15]
+Message="Sblocca il nucleo!"
+
+[Trigger_ASMessageTrigger3]
+Message="I portelli del nucleo sono stati aperti..."
+
+[Trigger_ASMessageTrigger4]
+Message="Campi di forza superiori spenti..."
+
+[Trigger_ASMessageTrigger5]
+Message="Gli attaccanti sono sbarcati!"
+
+[Trigger_ASMessageTrigger7]
+Message="Gli attaccanti sono entrati nel nucleo!"
+
+[Trigger_ASMessageTrigger8]
+Message="Il nucleo è diventato instabile!"
+
+[Trigger_ASMessageTrigger9]
+Message="Campo di forza della zona di atterraggio disattivato"
+
+[ZoneInfo1]
+LocationName="Corridoio destro del motore gravitazionale"
+
+[ZoneInfo10]
+LocationName="Generatore di energia n. 2"
+
+[ZoneInfo12]
+LocationName="Il nucleo"
+
+[ZoneInfo13]
+LocationName="Pozzo destro"
+
+[ZoneInfo14]
+LocationName="Pozzo centrale principale"
+
+[ZoneInfo16]
+LocationName="Esterno del nucleo"
+
+[ZoneInfo17]
+LocationName="Esterno del nucleo"
+
+[ZoneInfo18]
+LocationName="Pozzo superiore interno"
+
+[ZoneInfo19]
+LocationName="Esterno del nucleo"
+
+[ZoneInfo2]
+LocationName="Nello spazio"
+
+[ZoneInfo20]
+LocationName="Percorso di attraversamento inferiore"
+
+[ZoneInfo21]
+LocationName="Punto di rientro dei difensori (deviatore)"
+
+[ZoneInfo22]
+LocationName="Punto di rientro dei difensori (deviatore)"
+
+[ZoneInfo23]
+LocationName="Stiva"
+
+[ZoneInfo24]
+LocationName="Stiva"
+
+[ZoneInfo25]
+LocationName="Stiva"
+
+[ZoneInfo26]
+LocationName="Stiva"
+
+[ZoneInfo27]
+LocationName="Punto di rientro dei difensori (deviatore)"
+
+[ZoneInfo28]
+LocationName="Rimessa."
+
+[ZoneInfo29]
+LocationName="Corridoio della stiva"
+
+[ZoneInfo3]
+LocationName="Pozzo del generatore della sezione inferiore"
+
+[ZoneInfo30]
+LocationName="Pozzo dell'ascensore"
+
+[ZoneInfo31]
+LocationName="Passaggio dell'ascensore"
+
+[ZoneInfo32]
+LocationName="Ponte merci superiore sinistro"
+
+[ZoneInfo33]
+LocationName="Ponte merci superiore destro"
+
+[ZoneInfo34]
+LocationName="Passaggio dell'ascensore"
+
+[ZoneInfo35]
+LocationName="Stanza del deviatore di energia"
+
+[ZoneInfo36]
+LocationName="Corridoio sinistro"
+
+[ZoneInfo37]
+LocationName="Zona di atterraggio degli attaccanti"
+
+[ZoneInfo38]
+LocationName="Corridoio destro"
+
+[ZoneInfo39]
+LocationName="Entrata superiore del deviatore di energia"
+
+[ZoneInfo4]
+LocationName="Zona di atterraggio dei difensori"
+
+[ZoneInfo40]
+LocationName="Entrata del nucleo"
+
+[ZoneInfo41]
+LocationName="Esterno del nucleo"
+
+[ZoneInfo42]
+LocationName="Passaggio ponte-nucleo sinistro"
+
+[ZoneInfo43]
+LocationName="Stanza del motore gravitazionale n. 1"
+
+[ZoneInfo44]
+LocationName="Corridoio sinistro del motore gravitazionale"
+
+[ZoneInfo45]
+LocationName="Corridoio destro del motore gravitazionale"
+
+[ZoneInfo46]
+LocationName="Stanza del motore gravitazionale n. 2"
+
+[ZoneInfo47]
+LocationName="Passaggio ponte-nucleo destro"
+
+[ZoneInfo48]
+LocationName="Passaggio ponte-nucleo destro"
+
+[ZoneInfo49]
+LocationName="Stiva"
+
+[ZoneInfo5]
+LocationName="Generatore di energia n. 1"
+
+[ZoneInfo50]
+LocationName="Corridoio della stiva"
+
+[ZoneInfo51]
+LocationName="Corridoio destro del motore gravitazionale"
+
+[ZoneInfo52]
+LocationName="Passaggio ponte-nucleo sinistro"
+
+[ZoneInfo53]
+LocationName="Corridoio destro del motore gravitazionale"
+
+[ZoneInfo54]
+LocationName="Corridoio destro del motore gravitazionale"
+
+[ZoneInfo55]
+LocationName="Corridoio della stiva"
+
+[ZoneInfo6]
+LocationName="Zona di atterraggio"
+
+[ZoneInfo7]
+LocationName="zona di atterraggio"
+
+[ZoneInfo8]
+LocationName="Zona di atterraggio dei difensori"
+
+[ZoneInfo9]
+LocationName="Pozzo sinistro"
+

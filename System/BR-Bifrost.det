@@ -1,0 +1,50 @@
+[LevelInfo0]
+Title="Bifrost Bases"
+
+[LevelSummary]
+Title="Bifrost Bases"
+
+[ZoneInfo1]
+LocationName="BLAUER Vorraum"
+
+[ZoneInfo12]
+LocationName="ROTER Vorraum"
+
+[ZoneInfo13]
+LocationName="Aussen"
+
+[ZoneInfo14]
+LocationName="ROTER Korridor"
+
+[ZoneInfo15]
+LocationName="ROTER Torraum"
+
+[ZoneInfo16]
+LocationName="BLAUER Korridor"
+
+[ZoneInfo17]
+LocationName="BLAUER Torraum"
+
+[ZoneInfo2]
+LocationName="ROTER Torraum"
+
+[ZoneInfo4]
+LocationName="BLAUER Korridor"
+
+[ZoneInfo5]
+LocationName="ROTER Korridor"
+
+[ZoneInfo6]
+LocationName="BLAUER Torraum"
+
+[ZoneInfo7]
+LocationName="ROTER Eingang"
+
+[ZoneInfo9]
+LocationName="BLAUER Eingang"
+
+[xBombDelivery0]
+DestructionMessage="Punkte Team ROT!"
+
+[xBombDelivery1]
+DestructionMessage="Punkte Team BLAU!"

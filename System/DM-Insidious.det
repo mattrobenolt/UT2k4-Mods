@@ -1,0 +1,46 @@
+[LevelInfo0]
+Title="Insidious"
+LevelEnterText="DM-Insidious"
+
+[LevelSummary]
+Title="Insidious"
+LevelEnterText="DM-Insidious"
+
+[ZoneInfo0]
+LocationName="Aquarium"
+
+[ZoneInfo1]
+LocationName="Bio-Halle"
+
+[ZoneInfo10]
+LocationName="Unterer Saal"
+
+[ZoneInfo11]
+LocationName="Flak-Halle"
+
+[ZoneInfo12]
+LocationName="Oberer Saal"
+
+[ZoneInfo13]
+LocationName="Klon-Behälter"
+
+[ZoneInfo15]
+LocationName="Oberer Saal"
+
+[ZoneInfo2]
+LocationName="Klon-Behälter"
+
+[ZoneInfo3]
+LocationName="Klon-Behälter"
+
+[ZoneInfo4]
+LocationName="Unterer Saal"
+
+[ZoneInfo7]
+LocationName="Aquarium"
+
+[ZoneInfo8]
+LocationName="Aquarium"
+
+[ZoneInfo9]
+LocationName="Ventilator-Raum"

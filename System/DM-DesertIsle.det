@@ -1,0 +1,22 @@
+[LevelInfo0]
+Title="DesertIsle"
+
+[LevelSummary]
+Title="DesertIsle"
+Description="Unter der brennenden Sonne bedeutet ein kleiner Fluss das Leben für diese grüne Insel mitten im Sandmeer. Was bleibt davon übrig, wenn sich das Wasser rot färbt?"
+
+[Volume0]
+LocationName="Flussende"
+
+[Volume1]
+LocationName="Der Berg"
+
+[Volume2]
+LocationName="Flussanfang"
+
+[Volume3]
+LocationName="Flussmitte"
+
+[ZoneInfo0]
+LocationName="=Wüste="
+

@@ -1,0 +1,73 @@
+[Errors]
+Critical="Error grave"
+FailedConfigLoad="%s (no se cargó)"
+
+[General]
+BrowseButton="..."
+UseButton="Us."
+ClearButton="Elim."
+ColorButton="Color"
+PickButton="Esc."
+FindButton="Bus."
+OkButton="Ac"
+AddButton="Añadir"
+EmptyButton="Vacío"
+InsertButton="Inser."
+DeleteButton="Borrar"
+DefaultsButton="Rec. conf. predt."
+BackButton="< &Ant."
+NextButton="&Sig. >"
+FinishButton="&Final."
+CancelButton="Canc."
+InstallButton="&Inst."
+YesButton="&Sí"
+NoButton="&No"
+AgreeButton=" &Acept."
+LanguagePrompt="Idioma:"
+LanguageWindow="Selección Idioma"
+LogWindow="%s Vent. Reg."
+PropNone="Ningún ele. sel."
+PropSingle="Propieds. %s"
+PropMulti="Propieds. %s (%i selecda.)"
+InsertCdText="Introd. el CD-ROM de Unreal en la un. y pulsa ACEPTAR para continuar, o Cancelar para salir."
+InsertCdTitle="CD neces. al arrancar"
+AdvancedOptionsTitle="Opciones avanzadas"
+Low="Baj"
+High="Alto"
+New="Nvo"
+
+[FirstRun]
+Caption="Configuración Inicial"
+LowMemory="Unreal detectó que dispones de %i MB de mem. Para mejorar el func. de juego, se activ. las opc. 'Niv. bajo de det. text.' y 'Baja calid. sonido'.  Puedes modif. los ajust. en el menú llamado 'Performance Settings' (Opc. de rendim.)."
+NonMMX="Unreal detectó que usas un PC sin MMX. Por ello, el sonido se ajustó para usar la mínima potencia posible de la CPU. Puedes modificar estas opciones en el menú 'Opciones avanzadas / Audio'"
+Starting="Unreal está iniciándose con nuevos aj. Si tienes algún problema, consulta la sección de resol. de probl. de las notas informativas en el menú 'Inicio'"
+
+[IDDIALOG_Directory]
+IDC_Directory="Carpeta Instalación"
+IDC_ChoosePrompt="Elige la carpeta de instalación."
+IDC_PathTitle="&Ruta:"
+IDC_DirectoryTitle="&Directorios:"
+IDC_DrivesTitle="&Unids.:"
+IDC_NetworkButton="&Red"
+
+[IDDIALOG_Password]
+IDC_Password="Verif. Ctrsña."
+IDC_Prompt="Introduce tu nom. y contraseña."
+IDC_Name="&Nom.:"
+IDC_Password="&Ctrsña.:"
+
+[IDMENU_NotifyIcon]
+ID_NotifyIcon="Menú"
+ID_NotifyShowLog="Consola &UnrealServer"
+ID_NotifyAdvancedOptions="Opciones &Avzdas."
+ID_NotifyExit="&Sal. UnrealServer"
+
+[IDMENU_Log]
+ID_LogFile="&Arch"
+ID_LogAdvancedOptions="Opciones &Avzdas."
+ID_LogFileExit="S&al."
+
+[IDDIALOG_CrashBox]
+IDC_Copy="Cop."
+IDC_BugReport="Env. Inf. er. ej."
+BugReportURL="http://mail1.epicgames.com/utbugreport.php3"

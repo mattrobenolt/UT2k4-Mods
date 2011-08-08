@@ -1,0 +1,74 @@
+[LevelInfo0]
+Title="Magma"
+
+[LevelSummary]
+Title="Magma"
+
+[Volume0]
+LocationName="In BLAUER Basis"
+
+[Volume1]
+LocationName="In ROTER Basis"
+
+[Volume10]
+LocationName="ROTER Fußweg"
+
+[Volume11]
+LocationName="BLAUER Fußweg"
+
+[Volume2]
+LocationName="ROTE Basis Oben"
+
+[Volume3]
+LocationName="BLAUE Basis Oben"
+
+[Volume4]
+LocationName="ROTER Turm"
+
+[Volume5]
+LocationName="BLAUER Turm"
+
+[Volume6]
+LocationName="BLAUER Turm Unten"
+
+[Volume7]
+LocationName="ROTER Turm Unten"
+
+[Volume8]
+LocationName="Unter ROTER Basis"
+
+[Volume9]
+LocationName="Unter BLAUER Basis"
+
+[WaterVolume0]
+LocationName="Lava See"
+
+[ZoneInfo0]
+LocationName="Höhle"
+
+[ZoneInfo1]
+LocationName="BLAUE Seite"
+
+[ZoneInfo2]
+LocationName="Höhle"
+
+[ZoneInfo3]
+LocationName="Höhle"
+
+[ZoneInfo4]
+LocationName="Höhle"
+
+[ZoneInfo5]
+LocationName="Höhle"
+
+[ZoneInfo6]
+LocationName="Höhle"
+
+[ZoneInfo7]
+LocationName="Höhle"
+
+[ZoneInfo8]
+LocationName="ROTE Seite"
+
+
+

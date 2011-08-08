@@ -1,0 +1,7 @@
+[Public]
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTV2004s.utvMutator,Description="모두보기 모드에서의 UTV2004를 지원하기 위해 필요합니다.")
+
+[utvMutator]
+FriendlyName="UTV2004S"
+Description="모두보기 모드에서의 UTV2004를 지원하기 위해 필요합니다"
+

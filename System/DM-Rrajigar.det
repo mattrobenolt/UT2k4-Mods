@@ -1,0 +1,22 @@
+[LevelInfo0]
+Title="Rrajigar"
+
+[LevelSummary]
+Title="Rrajigar"
+Description="Kampf in den Rrajigar-Minen."
+
+[Volume0]
+LocationName="Maschinen-Bereich"
+
+[Volume1]
+LocationName="Wasserfall"
+
+[Volume2]
+LocationName="Schild-Bereich"
+
+[Volume3]
+LocationName="Schock-Bereich"
+
+[WaterVolume0]
+LocationName="Fluss"
+

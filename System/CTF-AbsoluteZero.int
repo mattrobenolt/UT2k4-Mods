@@ -1,0 +1,91 @@
+[LevelInfo0]
+Title="Absolute Zero"
+
+[LevelSummary]
+Title="Absolute Zero"
+Description="Absolute Zero was initially constructed as a scientific outpost to study glacial drift. Over the years, global warming and massive earth tremors nearly shook the base off of its foundation. The researchers and scientists were hastily evacuated and Liandri quickly purchased the base for the Tournament. The warm reception given to you by your team may help offset the sub-zero temperatures, but don't get too comfortable, your foes have something much colder in store for you..."
+
+[Volume0]
+LocationName="Red Lower Generator Room"
+
+[Volume1]
+LocationName="Blue Lower Generator Room"
+
+[Volume10]
+LocationName="Blue Lower Hall"
+
+[Volume11]
+LocationName="Red Lower Hall"
+
+[Volume12]
+LocationName="Red Flag Room"
+
+[Volume13]
+LocationName="Blue Flag Room"
+
+[Volume14]
+LocationName="Blue Upper Hall A-Side"
+
+[Volume15]
+LocationName="Blue Upper Hall B-Side"
+
+[Volume16]
+LocationName="Blue Flag Stairs"
+
+[Volume17]
+LocationName="Red Upper Hall A-Side"
+
+[Volume18]
+LocationName="Red Upper Hall B-Side"
+
+[Volume19]
+LocationName="Red Flag Stairs"
+
+[Volume2]
+LocationName="Blue Upper Generator Room"
+
+[Volume20]
+LocationName="Red Upper Hall"
+
+[Volume21]
+LocationName="Blue Upper Hall"
+
+[Volume23]
+LocationName="Ion Painter Bridge"
+
+[Volume24]
+LocationName="Redeemer Bridge"
+
+[Volume25]
+LocationName="Blue Sniper Tower: Redeemer Side"
+
+[Volume26]
+LocationName="Blue Sniper Tower: Painter Side"
+
+[Volume27]
+LocationName="Red Sniper Tower: Redeemer Side"
+
+[Volume28]
+LocationName="Red Sniper Tower: Painter Side"
+
+[Volume29]
+LocationName="Blue Outside"
+
+[Volume3]
+LocationName="Red Upper Generator Room"
+
+[Volume30]
+LocationName="Red Outside"
+
+[Volume6]
+LocationName="Red Lower Hall B-Side"
+
+[Volume7]
+LocationName="Red Lower Hall A-Side"
+
+[Volume8]
+LocationName="Blue Lower Hall B-Side"
+
+[Volume9]
+LocationName="Blue Lower Hall A-Side"
+

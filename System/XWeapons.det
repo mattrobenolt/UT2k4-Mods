@@ -1,0 +1,276 @@
+[Public]
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutArena,Description="Waffen und Munition in Map ersetzen.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutNoSuperWeapon,Description="Kein Redeemer oder Ion Cannon in Map.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.AssaultRifle,Description="Die billig und ohne großen Aufwand produzierbare AR770 verfügt über ein leichtes 5,56 mm-Kaliber und eignet sich hervorragend für den Kampf gegen ungepanzerte Widersacher. Die Durchschlagskraft bei geringer oder moderater Panzerung macht dieses Gewehr zu einer idealen, leichten Unterstützungswaffe. Kombiniert mit dem optionalen M355-Grenade Launcher verfügt das Assault Rifle sogar über den entsprechenden Punch, um selbst mit schwer gepanzerten Gegnern fertig zu werden.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.BallLauncher,Description="")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.BioRifle,Description="Das GES-Bio Rifle bleibt nach wie vor eine der umstrittensten Waffen des Tournaments. Von den einen geliebt, von den anderen gehasst, ist es immer noch Thema langer Debatten.||Manche Tournament-Puristen vergleichen das Bio Rifle mit einem feigen Minenfeld. Die Befürworter hingegen heben die erweiterten taktischen Möglichkeiten für defensive Kämpfer hervor. |Doch trotz aller Diskussionen bietet diese Waffe Schnellfeuer im primären Feuermodus, um weite Bereiche abzudecken, und ein Einzelfeuer im sekundären Modus mit einer variablen Sprengladung. Laienhaft ausgedrückt, kann man damit also entweder ein Gebiet mit kleinen Bioschlamm-Kügelchen spicken oder eine riesengroße Kugel auf das Ziel werfen.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.FlakCannon,Description="Die Nadelgeschoss-Kanone der 7-Serie von Trident Defensive Technologies hat mit der Produktion der MK3 'Negotiator' eine neue Entwicklungsstufe erreicht. Die ionisierten Nadelgeschosse hinterlassen auf organischem Gewebe Verbrennungen zweiten oder dritten Grades sowie schwere Verätzungen. Die gefährliche Ladung kann auf zwei verschiedenen Wegen an den Mann gebracht werden: entweder direkt über das Geschützrohr, um weite Gebiete abzudecken, oder mit Hilfe von Splittergranaten, die beim Aufprall explodieren und ihre Fracht in alle Richtungen verbreiten.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.LinkGun,Description="Riordian Dynamic Weapon Systems kombinierte bestes Waffendesign im Advanced Plasma Rifle v23, das als Link Gun bekannt ist.|Der primäre Feuermodus des Link Gun bleibt derselbe wie bei seinem Plasma abfeuernden Vorgänger, aber die sekundäre Schneideflamme wurde durch eine umschaltbare Energiematrix ersetzt. Wenn man mit dieser Waffe auf einen Teamkameraden feuert, wird die Energiematrix zu einem harmlosen Trägerstrahl, der Energie von der integrierten Batterie abgibt, um die Wirkung des Link Guns des erfassten Spielers zu erhöhen.|Es sollte erwähnt werden, dass während der Verstärkung eines Teamkameraden man sich selbst nicht gegen einen Angriff wehren kann.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Minigun,Description="Die Schultz-Metzger T23-A 23 mm Rotationskanone kann extrem schnelle Munition sowohl mit als auch ohne Hülle abfeuern. Bei einem Nettogewicht von nur 8 Kilogramm ist das T23 leicht zu transportieren bzw. zu manövrieren und kann mit Hilfe des optionalen Tragegurts problemlos auf den Rücken geschnallt werden. Das T23-A ist das ideale Geschütz für den umsichtigen Soldaten.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Painter,Description="Der Ion Painter sieht auf den ersten Blick eigentlich recht harmlos aus. Im primären Feuermodus verschießt er lediglich einen wenig furchterregenden, energiearmen Laserstrahl, um das Ziel zu erfassen. Sekunden später feuert eine orbitale Multi-Megawatt Ionenkanone auf das Ziel und neutralisiert alle Kämpfer in ihrer näheren Umgebung.||Der Ion Painter ist also eigentlich nur eine Art Fernbedienung für die VAPOR-Ionenkanone. |Mit Hilfe seines Zielfernrohrs, das sich problemlos über den sekundären Feuermodus aktivieren lässt, sorgt er für verbesserte Zielgenauigkeit. Hat der Ion Painter ein Ziel erst einmal erfasst, ist es ratsam, sich schleunigst aus seinem Wirkungsbereich zu entfernen und das Geschehen aus gebührender Distanz zu verfolgen.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Redeemer,Description="Wenn man das erste Mal diese Miniatur-Nuklearwaffe in Aktion erlebt, stimmt man zu, dass es sich hierbei um die gefährlichste Waffe des Tournaments handelt. Sie können eine langsame aber abartig zerstörerische Rakete mit dem primären Feuermodus abfeuern; sie sollten sich aber außerhalb des beeindruckenden Explosionsradius des Redeemers befinden, bevor er einschlägt. Mit Hilfe des sekundären Feuermodus können Sie den nuklearen Sprengkopf aus Sicht der Rakete steuern. Beachten Sie jedoch, dass Sie während der Steuerung des Reedemer-Geschosses angegriffen werden können und verwundbar sind. Aufgrund der extremen Sperrigkeit seiner Munition ist der Redeemer nach einem einzigen Schuss aufgebraucht.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.RocketLauncher,Description="Der dreiläufige Trident-Rocket Launcher ist bei all jenen beliebt, die mehr "Bumms" fürs Geld verlangen.|Aufgrund des Konstruktionsprinzips mit rotierenden Hinterläufen kann er sowohl mit Einzel- als auch mit Mehrfachsprengköpfen bestückt werden - bis zu drei Raketen lassen sich gleichzeitig montieren.|Die Sprengköpfe entfalten bei der Explosion eine unvorstellbare Kraft über dem Ziel und der unmittelbaren Umgebung.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShieldGun,Description="Mit dem DD280 von Kemphler zur Kontrolle von Aufständen können Sie heranfliegenden Projektilen und Energiestrahlen widerstehen und diese zurückwerfen. Die Plasmawelle verursacht schwerste Schäden, lässt Gewebe zerplatzen, pulverisiert Organe und erzeugt im Blutkreislauf des Gegners gefährliche Gasblasen. Diese ursprünglich nur für den Nahkampf konzipierte Waffe ist bei richtiger Handhabung genauso gefährlich wie jede andere Waffe in Ihrem Arsenal.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShockRifle,Description="Die ASMD-Shock Rifle wurde seit ihrer Einführung in den Tournaments nur unwesentlich verändert. Die ASMD verfügt über zwei verschiedene Feuermodi, die in einer konzertierten Aktion mögliche Gegner mit einer zerstörerischen Schockwelle völlig neutralisieren können.||Ein solcher Kombinationsangriff wird möglich, wenn der Waffenträger den sekundären Feuermodus dazu verwendet, eine Plasmaladung auf sein Ziel abzufeuern.|Sobald die träge Plasmamasse sich in Reichweite des Ziels befindet, feuert der Waffenträger einen Photonenstrahl auf den Plasmakern ab und setzt so die explosive Energie der Anti-Photonen frei, die sich im Inneren des EM-Feldes des Plasmas befinden.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.SniperRifle,Description="Die Lightning Gun ist ein Hochleistungsenergiegeschütz, das selbst schwerst gepanzerte Ziele in Flammen setzt. Das Anvisieren von Zielen aus großer Entfernung verlangt zwar eine ruhige Hand, aber der Anti-Zitter-Effekt des optischen Zielsystems verringert die Lernkurve der Waffe erheblich. Ist das Ziel erfasst, drückt der Waffenträger auf den Auslöser und malt ein Proton-'Muster' auf das Ziel. Nur Millisekunden später stößt das Geschütz einen Hochspannungsbogen elektrischer Energie aus, der sich in Staffeln entlädt und das Ziel auslöscht.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.TransLauncher,Description="Der Translocator wurde ursprünglich von der Forschungs- und Entwicklungsabteilung der Liandri Corporation entworfen, um die Minenarbeiter bei Tunneleinbrüchen möglichst schnell zu evakuieren. Die schnelle Auflösung und Wiederherstellung kann jedoch zahlreiche unwillkommene Nebeneffekte verursachen, wie z. B. den Anstieg von Aggressionen und Paranoia.||Um die Karrieren unserer heutigen Kämpfer zu verlängern, wurde die Verwendung des Translocators in niedrigeren Ligen eingeschränkt. Die jüngste Version des Translocators verfügt über eine ferngesteuerte Kamera - außergewöhnlich hilfreich, wenn man umstrittene Gebiete auskundschaften will.|Der Nachteil: Solange man sich die Ergebnisse der Überwachungskamera anschaut, bleibt man leider blind für alles, was sich in der unmittelbaren Umgebung tut.")
+
+[AssaultAmmo]
+ItemName="Kugeln"
+
+[AssaultAmmoPickup]
+PickupMessage="Kiste mit Granaten und Kugeln erhalten."
+
+[AssaultRifle]
+Description="Die billig und ohne großen Aufwand produzierbare AR770 verfügt über ein leichtes 5,56 mm-Kaliber und eignet sich hervorragend für den Kampf gegen ungepanzerte Widersacher. Die Durchschlagskraft bei geringer oder moderater Panzerung macht dieses Gewehr zu einer idealen, leichten Unterstützungswaffe.|Kombiniert mit dem optionalen M355-Grenade Launcher verfügt das Assault Rifle sogar über den entsprechenden Punch, um selbst mit schwer gepanzerten Gegnern fertig zu werden."
+ItemName="Assault Rifle"
+
+[AssaultRiflePickup]
+PickupMessage="Sie haben das Assault Rifle."
+
+[BallAmmo]
+ItemName="Ballmunition"
+
+[BallLauncher]
+ItemName="Ballwerfer"
+
+[BioAmmo]
+ItemName="Bio Rifle-Ladung"
+
+[BioAmmoPickup]
+PickupMessage="Bio Rifle-Munition aufgesammelt."
+
+[BioRifle]
+Description="Das GES-Bio Rifle bleibt nach wie vor eine der umstrittensten Waffen des Tournaments. Von den einen geliebt, von den anderen gehasst, ist es immer noch Thema langer Debatten.||Manche Tournament-Puristen vergleichen das Bio Rifle mit einem feigen Minenfeld. Die Befürworter hingegen heben die erweiterten taktischen Möglichkeiten für defensive Kämpfer hervor. |Doch trotz aller Diskussionen bietet diese Waffe Schnellfeuer im primären Feuermodus, um weite Bereiche abzudecken, und ein Einzelfeuer im sekundären Modus mit einer variablen Sprengladung. Laienhaft ausgedrückt, kann man damit also entweder ein Gebiet mit kleinen Bioschlamm-Kügelchen spicken oder eine riesengroße Kugel auf das Ziel werfen."
+ItemName="Bio Rifle"
+
+[BioRiflePickup]
+PickupMessage="Sie haben das Bio Rifle."
+
+[DamTypeAssaultBullet]
+DeathString="%o wurde von %ks Assault Rifle weggeblasen."
+FemaleSuicide="%o hat sich selbst erledigt."
+MaleSuicide="%o hat sich selbst erledigt."
+
+[DamTypeAssaultGrenade]
+DeathString="%o wollte mit %ks Granate jonglieren."
+FemaleSuicide="%o trat auf eigene Granate."
+MaleSuicide="%o trat auf eigene Granate."
+
+[DamTypeBioGlob]
+DeathString="%o wurde von %ks Bio Rifle vollgeschleimt."
+FemaleSuicide="%o schleimte sich selbst voll."
+MaleSuicide="%o schleimte sich selbst voll."
+
+[DamTypeFlakChunk]
+DeathString="%o wurde von %ks Flak Cannon zerfetzt."
+FemaleSuicide="%o von eigener Flak durchlöchert."
+MaleSuicide="%o von eigener Flak durchlöchert."
+
+[DamTypeFlakShell]
+DeathString="%o wurde von %ks Schrapnell in Stücke gerissen"
+FemaleSuicide="%o sprengte sich mit einer Flak-Ladung"
+MaleSuicide="%o sprengte sich mit einer Flak-Ladung"
+
+[DamTypeIonBlast]
+DeathString="%o wurde AUSGELÖSCHT."
+FemaleSuicide="%o wurde AUSGELÖSCHT."
+MaleSuicide="%o wurde AUSGELÖSCHT."
+
+[DamTypeLinkPlasma]
+DeathString="%o bekam eine Extraportion von %ks Plasma."
+FemaleSuicide="%o hat sich mit ihrem eigenen Plasma gegrillt."
+MaleSuicide="%o hat sich mit seinem eigenen Plasma gegrillt."
+
+[DamTypeLinkShaft]
+DeathString="%o von %ks grünem Spieß aufgeschlitzt."
+FemaleSuicide="%o spießte sich auf."
+MaleSuicide="%o spießte sich auf."
+
+[DamTypeMinigunBullet]
+DeathString="%o wurde von %ks Minigun weggemäht."
+FemaleSuicide="%o hat sich Minigun-isiert."
+MaleSuicide="%o hat sich Minigun-isiert."
+
+[DamTypeRedeemer]
+DeathString="%o wurde von %k PULVERISIERT!"
+FemaleSuicide="%o wurde PULVERISIERT!"
+MaleSuicide="%o wurde PULVERISIERT!"
+
+[DamTypeRocket]
+DeathString="%o ist auf %ks Rakete in den Tod geritten!"
+FemaleSuicide="%o hat ihre Rakete verfrüht abgefeuert."
+MaleSuicide="%o hat seine Rakete verfrüht abgefeuert."
+
+[DamTypeShieldImpact]
+DeathString="%o wurde durch %ks Shield Cannon pulverisiert."
+FemaleSuicide="%o hat sich zu oft ins Zeug geschmissen."
+MaleSuicide="%o hat sich zu oft ins Zeug geschmissen."
+
+[DamTypeShockBall]
+DeathString="%o durch %ks Schockkern vernichtet."
+FemaleSuicide="%o putzte sich mit ihrem eigenen Schockkern weg."
+MaleSuicide="%o putzte sich mit seinem eigenen Schockkern weg."
+
+[DamTypeShockBeam]
+DeathString="%o wurde von %ks Schockstrahl tödlich geblendet."
+FemaleSuicide="%o erschoss sich selbst mit der Shock-Rifle."
+MaleSuicide="%o erschoss sich selbst mit der Shock-Rifle."
+
+[DamTypeShockCombo]
+DeathString="%o konnte der Explosion von %ks Shock-Kombo nicht ausweichen."
+FemaleSuicide="%o beging mit ihrer Shock-Kombo einen taktischen Fehler."
+MaleSuicide="%o beging mit seiner Shock-Kombo einen taktischen Fehler."
+
+[DamTypeSniperHeadShot]
+DeathString="%o Schädel wurde von %ks Lightning Gun gegrillt."
+FemaleSuicide="%o hat gegen die Gesetze der Physik verstoßen und sich selbst abgeknallt."
+MaleSuicide="%o hat gegen die Gesetze der Physik verstoßen und sich selbst abgeknallt."
+
+[DamTypeSniperShot]
+DeathString="%o wurde von %k geblitzt."
+FemaleSuicide="%o hatte ein elektrisierendes Erlebnis."
+MaleSuicide="%o hatte ein elektrisierendes Erlebnis."
+
+[DamTypeTeleFrag]
+DeathString="%o Atome wurden von %k in alle Winde zerstreut."
+FemaleSuicide="%o wollte dahin, wo noch keine Frau zuvor war."
+MaleSuicide="%o wollte dahin, wo noch kein Mann zuvor war."
+
+[FlakAmmo]
+ItemName="Flak-Geschosse"
+
+[FlakAmmoPickup]
+PickupMessage="10 Flak-Geschosse aufgesammelt."
+
+[FlakCannon]
+Description="Die Nadelgeschoss-Kanone der 7-Serie von Trident Defensive Technologies hat mit der Produktion der MK3 'Negotiator' eine neue Entwicklungsstufe erreicht. Die ionisierten Nadelgeschosse hinterlassen auf organischem Gewebe Verbrennungen zweiten oder dritten Grades sowie schwere Verätzungen.||Die gefährliche Ladung kann auf zwei verschiedenen Wegen an den Mann gebracht werden: entweder direkt über das Geschützrohr, um weite Gebiete abzudecken, oder mit Hilfe von Splittergranaten, die beim Aufprall explodieren und ihre Fracht in alle Richtungen verbreiten."
+ItemName="Flak Cannon"
+
+[FlakCannonPickup]
+PickupMessage="Sie haben die Flak Cannon."
+
+[GrenadeAmmo]
+ItemName="Granaten"
+
+[LinkAmmo]
+ItemName="Link-Munition"
+
+[LinkAmmoPickup]
+PickupMessage="Link-Munition aufgesammelt."
+
+[LinkGun]
+Description="Riordian Dynamic Weapon Systems kombinierte bestes Waffendesign im Advanced Plasma Rifle v23, das als Link Gun bekannt ist.|Der primäre Feuermodus des Link Gun bleibt derselbe wie bei seinem Plasma abfeuernden Vorgänger, aber die sekundäre Schneideflamme wurde durch eine umschaltbare Energiematrix ersetzt. Wenn man mit dieser Waffe auf einen Teamkameraden feuert, wird die Energiematrix zu einem harmlosen Trägerstrahl, der Energie von der integrierten Batterie abgibt, um die Wirkung des Link Guns des erfassten Spielers zu erhöhen.|Es sollte erwähnt werden, dass während der Verstärkung eines Teamkameraden man sich selbst nicht gegen einen Angriff wehren kann."
+ItemName="Link Gun"
+
+[LinkGunPickup]
+PickupMessage="Sie haben die Link Gun."
+
+[Minigun]
+Description="Die Schultz-Metzger T23-A 23 mm Rotationskanone kann extrem schnelle Munition sowohl mit als auch ohne Hülle abfeuern. Bei einem Nettogewicht von nur 8 Kilogramm ist das T23 leicht zu transportieren bzw. zu manövrieren und kann mit Hilfe des optionalen Tragegurts problemlos auf den Rücken geschnallt werden.|Das T23-A ist das ideale Geschütz für den umsichtigen Soldaten."
+ItemName="Minigun"
+
+[MinigunAmmo]
+ItemName="Kugeln"
+
+[MinigunAmmoPickup]
+PickupMessage="50 Kugeln aufgesammelt."
+
+[MinigunPickup]
+PickupMessage="Sie haben Minigun."
+
+[MutArena]
+ArenaDisplayText="Arenawaffe"
+ArenaDescText="Bestimmt, welche Waffe im Arena-Match verwendet wird."
+FriendlyName="Arena"
+Description="Waffen und Munition in Map ersetzen."
+
+[MutNoSuperWeapon]
+FriendlyName="Keine Superwaffen"
+Description="Aufsammelbare Superwaffen werden aus der Map entfernt."
+
+[Painter]
+Description="Der Ion Painter sieht auf den ersten Blick eigentlich recht harmlos aus. Im primären Feuermodus verschießt er lediglich einen wenig furchterregenden, energiearmen Laserstrahl, um das Ziel zu erfassen. Sekunden später feuert eine orbitale Multi-Megawatt Ionenkanone auf das Ziel und neutralisiert alle Kämpfer in ihrer näheren Umgebung.||Der Ion Painter ist also eigentlich nur eine Art Fernbedienung für die VAPOR-Ionenkanone. |Mit Hilfe seines Zielfernrohrs, das sich problemlos über den sekundären Feuermodus aktivieren lässt, sorgt er für verbesserte Zielgenauigkeit. Hat der Ion Painter ein Ziel erst einmal erfasst, ist es ratsam, sich schleunigst aus seinem Wirkungsbereich zu entfernen und das Geschehen aus gebührender Distanz zu verfolgen."
+ItemName="Ion Painter"
+
+[PainterPickup]
+PickupMessage="Sie haben den Ion Painter."
+
+[Redeemer]
+Description="Wenn man das erste Mal diese Miniatur-Nuklearwaffe in Aktion erlebt, stimmt man zu, dass es sich hierbei um die gefährlichste Waffe des Tournaments handelt.|Sie können eine langsame aber abartig zerstörerische Rakete mit dem primären Feuermodus abfeuern; sie sollten sich aber außerhalb des beeindruckenden Explosionsradius des Redeemers befinden, bevor er einschlägt.|Mit Hilfe des sekundären Feuermodus können Sie den nuklearen Sprengkopf aus Sicht der Rakete steuern. Beachten Sie jedoch, dass Sie während der Steuerung des Reedemer-Geschosses angegriffen werden können und verwundbar sind. Aufgrund der extremen Sperrigkeit seiner Munition ist der Redeemer nach einem einzigen Schuss aufgebraucht."
+ItemName="Redeemer"
+
+[RedeemerAmmo]
+ItemName="Redeemer-Munition"
+
+[RedeemerPickup]
+PickupMessage="Sie haben den Redeemer."
+
+[RocketAmmo]
+ItemName="Raketen"
+
+[RocketAmmoPickup]
+PickupMessage="Raketensatz aufgesammelt."
+
+[RocketLauncher]
+Description="Der dreiläufige Trident-Rocket Launcher ist bei all jenen beliebt, die mehr "Bumms" fürs Geld verlangen.|Aufgrund des Konstruktionsprinzips mit rotierenden Hinterläufen kann er sowohl mit Einzel- als auch mit Mehrfachsprengköpfen bestückt werden - bis zu drei Raketen lassen sich gleichzeitig montieren.|Die Sprengköpfe entfalten bei der Explosion eine unvorstellbare Kraft über dem Ziel und der unmittelbaren Umgebung"
+ItemName="Rocket Launcher"
+
+[RocketLauncherPickup]
+PickupMessage="Sie haben den Rocket Launcher."
+
+[ShieldAmmo]
+ItemName="Schild"
+
+[ShieldGun]
+Description="Mit dem DD280 von Kemphler zur Kontrolle von Aufständen können Sie heranfliegenden Projektilen und Energiestrahlen widerstehen und diese zurückwerfen.||Die Plasmawelle verursacht schwerste Schäden, lässt Gewebe zerplatzen, pulverisiert Organe und erzeugt im Blutkreislauf des Gegners gefährliche Gasblasen. Diese ursprünglich nur für den Nahkampf konzipierte Waffe ist bei richtiger Handhabung genauso gefährlich wie jede andere Waffe in Ihrem Arsenal."
+ItemName="Shield Gun"
+
+[ShieldGunPickup]
+PickupMessage="Sie haben die Shield Gun."
+
+[ShockAmmo]
+ItemName="Schockkern"
+
+[ShockAmmoPickup]
+PickupMessage="Schockkern aufgesammelt."
+
+[ShockRifle]
+Description="Die ASMD-Shock Rifle wurde seit ihrer Einführung in den Tournaments nur unwesentlich verändert. Die ASMD verfügt über zwei verschiedene Feuermodi, die in einer konzertierten Aktion mögliche Gegner mit einer zerstörerischen Schockwelle völlig neutralisieren können.||Ein solcher Kombinationsangriff wird möglich, wenn der Waffenträger den sekundären Feuermodus dazu verwendet, eine Plasmaladung auf sein Ziel abzufeuern.|Sobald die träge Plasmamasse sich in Reichweite des Ziels befindet, feuert der Waffenträger einen Photonenstrahl auf den Plasmakern ab und setzt so die explosive Energie der Anti-Photonen frei, die sich im Inneren des EM-Feldes des Plasmas befinden."
+ItemName="Shock Rifle"
+
+[ShockRiflePickup]
+PickupMessage="Sie haben Shock Rifle."
+
+[SniperAmmo]
+ItemName="Lightning-Munition"
+
+[SniperAmmoPickup]
+PickupMessage="Lightning-Munition aufgesammelt."
+
+[SniperRifle]
+Description="Das Lightning Gun ist ein Hochleistungsenergiegeschütz, das selbst schwerst gepanzerte Ziele in Flammen setzt. Das Anvisieren von Zielen aus großer Entfernung verlangt zwar eine ruhige Hand, aber der Anti-Zitter-Effekt des optischen Zielsystems verringert die Lernkurve der Waffe erheblich. Ist das Ziel erfasst, drückt der Waffenträger auf den Auslöser und malt ein Proton-'Muster' auf das Ziel. Nur Millisekunden später stößt das Geschütz einen Hochspannungsbogen elektrischer Energie aus, der sich in Staffeln entlädt und das Ziel auslöscht."
+ItemName="Lightning Gun"
+
+[SniperRiflePickup]
+PickupMessage="Sie haben die Lightning Gun."
+
+[SuperShockRifle]
+ItemName="Super Shock Rifle."
+
+[SuperShockRiflePickup]
+PickupMessage="Sie haben das Super Shock Rifle."
+
+[TransAmmo]
+ItemName="Trans Launcher"
+
+[Translauncher]
+Description="Der Translocator wurde ursprünglich von der Forschungs- und Entwicklungsabteilung der Liandri Corporation entworfen, um die Minenarbeiter bei Tunneleinbrüchen möglichst schnell zu evakuieren. Die schnelle Auflösung und Wiederherstellung kann jedoch zahlreiche unwillkommene Nebeneffekte verursachen wie z. B. den Anstieg von Aggressionen und Paranoia.||Um die Karrieren unserer heutigen Kämpfer zu verlängern, wurde die Verwendung des Translocators in niedrigeren Ligen eingeschränkt. Die jüngste Version des Translocators verfügt über eine ferngesteuerte Kamera - außergewöhnlich hilfreich, wenn man umstrittene Gebiete auskundschaften will.|Der Nachteil: Solange man sich die Ergebnisse der Überwachungskamera anschaut, bleibt man leider blind für alles, was sich in der unmittelbaren Umgebung tut."
+ItemName="Translocator"
+
+[Transpickup]
+PickupMessage="Sie haben den Translocator."
+
+[WeaponLocker]
+LockerString="Waffenkammer"
+PickupMessage="Ausrüstung in der Waffenkammer aufgestockt."

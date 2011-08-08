@@ -1,0 +1,118 @@
+[LevelInfo0]
+Title="Slaughterhouse"
+LevelEnterText="The Slaughterhouse"
+
+[LevelSummary]
+Title="Slaughterhouse"
+LevelEnterText="The Slaughterhouse"
+
+[ZoneInfo0]
+LocationName="Lagerhalle BLAU"
+
+[ZoneInfo1]
+LocationName="Respawn-Raum BLAU Beta"
+
+[ZoneInfo10]
+LocationName="Abflussrohr BLAU"
+
+[ZoneInfo11]
+LocationName="Eingang Lagerhalle BLAU Beta"
+
+[ZoneInfo12]
+LocationName="Kühlraum ROT"
+
+[ZoneInfo13]
+LocationName="Torraum ROT"
+
+[ZoneInfo14]
+LocationName="Respawn-Raum ROT Beta"
+
+[ZoneInfo15]
+LocationName="ROTER Korridor Hinten"
+
+[ZoneInfo16]
+LocationName="Fontäne ROT"
+
+[ZoneInfo17]
+LocationName="Respawn-Raum BLAU Alpha"
+
+[ZoneInfo18]
+LocationName="Kapelle ROT"
+
+[ZoneInfo19]
+LocationName="Abflussrohr ROT"
+
+[ZoneInfo2]
+LocationName="Torraum BLAU"
+
+[ZoneInfo20]
+LocationName="Zu Futter verarbeitet. Wurmfutter im BLAUEN Raum"
+
+[ZoneInfo21]
+LocationName="Respawn-Raum ROT Alpha"
+
+[ZoneInfo22]
+LocationName="Sägen-Korridor ROT"
+
+[ZoneInfo23]
+LocationName="BLAUER Hof"
+
+[ZoneInfo24]
+LocationName="Oooh, leider gestorben"
+
+[ZoneInfo25]
+LocationName="BLAUER Hof"
+
+[ZoneInfo26]
+LocationName="Große Halle BLAU"
+
+[ZoneInfo27]
+LocationName="Sägen-Korridor BLAU"
+
+[ZoneInfo28]
+LocationName="Lagerhalle BLAU"
+
+[ZoneInfo29]
+LocationName="Sägen-Korridor ROT"
+
+[ZoneInfo3]
+LocationName="Sägen-Korridor BLAU"
+
+[ZoneInfo30]
+LocationName="Große Halle ROT"
+
+[ZoneInfo35]
+LocationName="ROTES Rohr"
+
+[ZoneInfo36]
+LocationName="ROTER Hof"
+
+[ZoneInfo37]
+LocationName="BLAUES Rohr"
+
+[ZoneInfo38]
+LocationName="Eingang Kühlraum ROT"
+
+[ZoneInfo4]
+LocationName="Kapelle BLAU"
+
+[ZoneInfo5]
+LocationName="Fontäne BLAU"
+
+[ZoneInfo6]
+LocationName="BLAUER Korridor Hinten"
+
+[ZoneInfo7]
+LocationName="Großer Ball-Hof"
+
+[ZoneInfo8]
+LocationName="ROTER Hof"
+
+[ZoneInfo9]
+LocationName="ROTER Kühlraum"
+
+[xBombDelivery0]
+ObjectiveName="Torbombe BLAU"
+
+[xBombDelivery2]
+ObjectiveName="Torbombe ROT"

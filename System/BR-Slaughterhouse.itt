@@ -1,0 +1,120 @@
+[LevelInfo0]
+Title="Slaughterhouse"
+LevelEnterText="The Slaughterhouse"
+
+[LevelSummary]
+Title="Slaughterhouse"
+LevelEnterText="The Slaughterhouse"
+
+[ZoneInfo0]
+LocationName="Magazzino carne blu"
+
+[ZoneInfo1]
+LocationName="Stanza rigenerazione Beta blu"
+
+[ZoneInfo10]
+LocationName="Fognatura blu"
+
+[ZoneInfo11]
+LocationName="Ingresso magazzino carne blu"
+
+[ZoneInfo12]
+LocationName="Cella frigorifera rossa"
+
+[ZoneInfo13]
+LocationName="Stanza porta rossa"
+
+[ZoneInfo14]
+LocationName="Stanza rigenerazione Beta rossa"
+
+[ZoneInfo15]
+LocationName="Corridoio posteriore rosso"
+
+[ZoneInfo16]
+LocationName="Fountana rossa"
+
+[ZoneInfo17]
+LocationName="Stanza rigenerazione Alpha blu"
+
+[ZoneInfo18]
+LocationName="Cappella rossa"
+
+[ZoneInfo19]
+LocationName="Fognatura rossa"
+
+[ZoneInfo2]
+LocationName="Stanza porta blu"
+
+[ZoneInfo20]
+LocationName="Questo ragazzo è un pulcino. Pulcino al suolo nella stanza blu"
+
+[ZoneInfo21]
+LocationName="Stanza rigenerazione Alpha rossa"
+
+[ZoneInfo22]
+LocationName="Corridoio sega rosso"
+
+[ZoneInfo23]
+LocationName="Corte blu"
+
+[ZoneInfo24]
+LocationName="OOoh, è morto nella zona rossa"
+
+[ZoneInfo25]
+LocationName="Corte blu"
+
+[ZoneInfo26]
+LocationName="Sala principale blu"
+
+[ZoneInfo27]
+LocationName="Corridoio sega blu"
+
+[ZoneInfo28]
+LocationName="Magazzino carne blu"
+
+[ZoneInfo29]
+LocationName="Corridoio sega rosso"
+
+[ZoneInfo3]
+LocationName="Corridoio sega blu"
+
+[ZoneInfo30]
+LocationName="Sala principale rossa"
+
+[ZoneInfo35]
+LocationName="Condotto rosso"
+
+[ZoneInfo36]
+LocationName="Corte rossa"
+
+[ZoneInfo37]
+LocationName="Condotto blu"
+
+[ZoneInfo38]
+LocationName="Ingresso cella frigorifera rossa"
+
+[ZoneInfo4]
+LocationName="Cappella blu"
+
+[ZoneInfo5]
+LocationName="Fontana blu"
+
+[ZoneInfo6]
+LocationName="Corridoio posteriore blu"
+
+[ZoneInfo7]
+LocationName="Corte bomba"
+
+[ZoneInfo8]
+LocationName="Corte rossa"
+
+[ZoneInfo9]
+LocationName="Cella frigorifera rossa"
+
+[xBombDelivery0]
+ObjectiveName="Goal bomba blu"
+
+[xBombDelivery2]
+ObjectiveName="Goal bomba Rossa"
+
+

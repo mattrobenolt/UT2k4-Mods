@@ -1,0 +1,57 @@
+[LevelInfo0]
+Title="LavaGiant 2"
+
+[LevelSummary]
+Title="LavaGiant 2"
+Description="Viele Dinge unserer Zeit wurden unter Blut, Schweiß und Tränen erschaffen. In der höllischen Hitze der Lavafelder verdampfen diese Flüssigkeiten so schnell, dass nichts außer einem hässlichem Fleck auf der Rüstung eines Gefangenen zurück bleibt."
+
+[Volume0]
+LocationName="ROTE Basis"
+
+[Volume1]
+LocationName="BLAUE Basis"
+
+[Volume2]
+LocationName="Kleiner Fels"
+
+[Volume3]
+LocationName="Oberer Grat"
+
+[Volume4]
+LocationName="ROTER Bereich unten"
+
+[Volume5]
+LocationName="BLAUER Bereich unten"
+
+[ZoneInfo0]
+LocationName="Außenbereich"
+
+[ZoneInfo1]
+LocationName="Mittlerer Generator-Raum"
+
+[ZoneInfo10]
+LocationName="ROTE Basis"
+
+[ZoneInfo2]
+LocationName="Mittlerer Generator-Raum"
+
+[ZoneInfo3]
+LocationName="Mittlerer Schild-Raum"
+
+[ZoneInfo4]
+LocationName="Mittlerer Raketen-Raum"
+
+[ZoneInfo5]
+LocationName="Mittlerer Raketen-Raum"
+
+[ZoneInfo6]
+LocationName="Mittlerer Raketen-Raum"
+
+[ZoneInfo7]
+LocationName="BLAUE Basis"
+
+[ZoneInfo8]
+LocationName="BLAUE Basis"
+
+[ZoneInfo9]
+LocationName="ROTE Basis"

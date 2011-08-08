@@ -1,0 +1,121 @@
+[ASCriticalObjectiveVolume2]
+LocationName="Entrata della stazione della metropolitana"
+
+[ASCriticalObjectiveVolume3]
+LocationName="Metropolitana"
+
+[ASCriticalObjectiveVolume4]
+LocationName="Stazione d'imbarco"
+
+[DestroyableObjective_SM0]
+ObjectiveName="Serratura del cancello"
+DestructionMessage="Serratura del cancello distrutta!"
+ObjectiveDescription="Distruggi la serratura del cancello"
+Objective_Info_Attacker="Distruggi la serratura del cancello"
+Objective_Info_Defender="Difendi la serratura del cancello"
+
+[DestroyableObjective_SM1]
+ObjectiveName="barricata"
+DestructionMessage="barricata distrutta!"
+ObjectiveDescription="Distruggi la barricata"
+Objective_Info_Attacker="Distruggi la barricata"
+Objective_Info_Defender="Difendi la barricata"
+
+[DestroyableObjective_SM2]
+ObjectiveName="Serratura del cancello"
+DestructionMessage="Serratura del cancello distrutta!"
+ObjectiveDescription="Distruggi la serratura del cancello"
+Objective_Info_Attacker="Distruggi la serratura del cancello"
+Objective_Info_Defender="Difendi la serratura del cancello"
+
+[HoldObjective0]
+ObjectiveName="Esplosivo n. 2"
+DestructionMessage="Gli esplosivi sono stati piazzati!"
+ObjectiveDescription="Piazza un esplosivo"
+Objective_Info_Attacker="Distruggi il centro di comando"
+Objective_Info_Defender="Difendi il centro di comando"
+
+[HoldObjective1]
+ObjectiveName="Avamposto frontale"
+DestructionMessage="Avamposto frontale catturato!"
+ObjectiveDescription="Cattura l'avamposto frontale"
+Objective_Info_Attacker="Prendi l'avamposto frontale"
+Objective_Info_Defender="Difendi l'avamposto frontale"
+
+[HoldObjective2]
+ObjectiveName="Esplosivo n. 1"
+DestructionMessage="Gli esplosivi sono stati piazzati!"
+ObjectiveDescription="Piazza un esplosivo"
+Objective_Info_Attacker="Distruggi il centro di comando"
+Objective_Info_Defender="Difendi il centro di comando"
+
+[LevelInfo0]
+Title="Fallen city"
+
+[LevelSummary]
+Title="La città caduta"
+Description="Dopo le guerre fra Umani e Skaarj, molte città terrestri erano ridotte in rovine. Quando il Nuovo Governo Terrestre cercò di esercitare la sua autorità su queste zone, dovette affrontare molti gruppi ribelli che avevano stabilito le loro basi nelle città distrutte e spesso erano finanziati in segreto dalle grandi corporazioni. Questo scenario ricostruisce la distruzione di un centro di comando ribelle per mano delle forze dell'NGT. Per garantire l'accuratezza storica, il punto di arrivo degli attaccanti è piuttosto lontano dal centro di comando. Il bunker era infatti circondato da postazioni contraeree."
+
+[SceneSubtitles1]
+SubTitles=("Dopo le guerre fra Umani e Skaarj, molte città terrestri erano ridotte in rovine. Quando il Nuovo Governo Terrestre cercò di esercitare la sua autorità su queste zone,","dovette affrontare molti gruppi ribelli che avevano stabilito le loro basi nelle città distrutte e spesso erano finanziati in segreto dalle grandi corporazioni.","Questo scenario ricostruisce la distruzione di un centro di comando ribelle per mano delle forze dell'NGT. ","Per garantire l'accuratezza storica, il punto di arrivo degli attaccanti è piuttosto lontano dal centro di comando. Il bunker era infatti circondato da postazioni contraeree. ","Chi attacca deve farsi strada a piedi tra le strade, sconfiggere tutta la resistenza e distruggere le barricate per poter proseguire al prossimo obiettivo.","Inseguito, bisogna annientare l'avanposto frontale. Quando l'area è sgombrata, una pesanta stiva sarà consegnata per aiutarti a procedere.","Chi difende è appostato nel profondo di questo bunker. Dovrai oltrepassare la difesa e infiltrarti nel bunker per raggiungere la loro base di comando.","Raggiungi la base di comando sotterranea e usa esplosivi per distruggere l'intera struttura. In questo modo la resistenza dovrebbe essere messa in ginocchio.")
+
+[Trigger_ASMessageTrigger0]
+Message="Bunker violato!"
+
+[Trigger_ASMessageTrigger2]
+Message="Centro di comando distrutto!"
+
+[Trigger_ASMessageTrigger3]
+Message="Esplosivi piazzati!"
+
+[Volume0]
+LocationName="Avamposto frontale"
+
+[Volume1]
+LocationName="Zona di arrivo degli attaccanti"
+
+[Volume10]
+LocationName="Scale"
+
+[Volume11]
+LocationName="Atrio della stazione della metropolitana"
+
+[Volume12]
+LocationName="Tetto della stazione"
+
+[Volume13]
+LocationName="Aeratori"
+
+[Volume14]
+LocationName="Metropolitana"
+
+[Volume15]
+LocationName="Binari della metropolitana"
+
+[Volume2]
+LocationName="Posto di vedetta ribelle"
+
+[Volume3]
+LocationName="Caudle Avenue"
+
+[Volume4]
+LocationName="Zona di arrivo degli attaccanti"
+
+[Volume5]
+LocationName="Stazione d'imbarco"
+
+[Volume6]
+LocationName="Passaggio della statua"
+
+[Volume7]
+LocationName="Passaggio della statua"
+
+[Volume8]
+LocationName="Sentiero romano"
+
+[Volume9]
+LocationName="Biglietteria della metropolitana"
+
+[ZoneInfo0]
+LocationName="Città distrutta"
+

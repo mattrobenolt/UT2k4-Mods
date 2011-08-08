@@ -1,0 +1,76 @@
+[LevelInfo0]
+Title="Scontro classico"
+
+[LevelInfo13]
+Title="Mondi limitrofi"
+
+[LevelSummary]
+Title="Scontro classico"
+Description="Questo asteroide insulare e le sue due torri si sono dimostrati uno scenario ideale per le partite CLB del Torneo. Preparati ad affrontare il tuo nemico!"
+
+[Volume0]
+LocationName="Soffitta inferiore del tiratore della base blu"
+
+[Volume1]
+LocationName="Piattaforma superiore del tiratore della base blu"
+
+[Volume2]
+LocationName="Piattaforma superiore del tiratore della base rossa"
+
+[Volume3]
+LocationName="Soffitta inferiore del tiratore della base rossa"
+
+[Volume4]
+LocationName="Spazio aperto centrale"
+
+[ZoneInfo0]
+LocationName="Livello inferiore della base rossa"
+
+[ZoneInfo1]
+LocationName="Piattaforma superiore del tiratore della base rossa"
+
+[ZoneInfo10]
+LocationName="Spazio aperto, lato blu"
+
+[ZoneInfo18]
+LocationName="Livello inferiore della base blu"
+
+[ZoneInfo19]
+LocationName="Piattaforma superiore del tiratore della base blu"
+
+[ZoneInfo2]
+LocationName="Soffitta inferiore del tiratore della base rossa"
+
+[ZoneInfo20]
+LocationName="Soffitta inferiore del tiratore della base blu"
+
+[ZoneInfo21]
+LocationName="Soffitta del Redentore della base blu"
+
+[ZoneInfo22]
+LocationName="Entrata della base blu"
+
+[ZoneInfo24]
+LocationName="Livello inferiore della base blu"
+
+[ZoneInfo25]
+LocationName="Livello inferiore della base blu"
+
+[ZoneInfo3]
+LocationName="Soffitta del Redentore della base rossa"
+
+[ZoneInfo4]
+LocationName="Entrata della base rossa"
+
+[ZoneInfo6]
+LocationName="Livello inferiore della base rossa"
+
+[ZoneInfo7]
+LocationName="Livello inferiore della base rossa"
+
+[ZoneInfo8]
+LocationName="Livello inferiore della base rossa"
+
+[ZoneInfo9]
+LocationName="Spazio aperto, lato rosso"
+

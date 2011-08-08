@@ -1,0 +1,131 @@
+[LevelInfo0]
+Title="December"
+
+[LevelSummary]
+Title="December"
+
+[ZoneInfo0]
+LocationName="BLAUER Zugang Unten"
+
+[ZoneInfo1]
+LocationName="BLAUE Plattform"
+
+[ZoneInfo10]
+LocationName="Ausgang ROTE Röhre"
+
+[ZoneInfo11]
+LocationName="Zugang ROTE Flagge"
+
+[ZoneInfo12]
+LocationName="ROTE Schotten (Rechts)"
+
+[ZoneInfo13]
+LocationName="ROTER Aufzug 2"
+
+[ZoneInfo14]
+LocationName="BLAUER Bunker"
+
+[ZoneInfo16]
+LocationName="ROTE Flaggenbasis"
+
+[ZoneInfo17]
+LocationName="ROTE Flaggenbasis Oben"
+
+[ZoneInfo18]
+LocationName="Halle BLAUER Eingang"
+
+[ZoneInfo19]
+LocationName="Treppenaufgang BLAUER Eingang"
+
+[ZoneInfo20]
+LocationName="BLAUES Foyer"
+
+[ZoneInfo21]
+LocationName="Zugang ROT Unten"
+
+[ZoneInfo22]
+LocationName="BLAUER Verbindungspunkt"
+
+[ZoneInfo23]
+LocationName="Halle BLAUER Eingang"
+
+[ZoneInfo24]
+LocationName="BLAUE Schotten (Links)"
+
+[ZoneInfo25]
+LocationName="Ausgang BLAUE Röhre"
+
+[ZoneInfo26]
+LocationName="Zugang BLAUE Flagge"
+
+[ZoneInfo27]
+LocationName="Halle ROTER Eingang"
+
+[ZoneInfo28]
+LocationName="BLAUE Schotten (Rechts)"
+
+[ZoneInfo29]
+LocationName="BLAUER Aufzug 2"
+
+[ZoneInfo3]
+LocationName="Treppenaufgang ROTER Eingang"
+
+[ZoneInfo31]
+LocationName="BLAUE Flaggenbasis"
+
+[ZoneInfo32]
+LocationName="BLAUE Flaggenbasis Oben"
+
+[ZoneInfo34]
+LocationName="Eingang ROTER Bunker"
+
+[ZoneInfo35]
+LocationName="BLAUER Bunker"
+
+[ZoneInfo36]
+LocationName="ROTER Korridor Unten"
+
+[ZoneInfo38]
+LocationName="Docks"
+
+[ZoneInfo39]
+LocationName="Umgebung ROTER Aufzug"
+
+[ZoneInfo4]
+LocationName="ROTES Foyer"
+
+[ZoneInfo40]
+LocationName="BLAUER Korridor Unten"
+
+[ZoneInfo41]
+LocationName="ROTER Nachschub Raum"
+
+[ZoneInfo42]
+LocationName="Umgebung BLAUER Aufzug"
+
+[ZoneInfo43]
+LocationName="BLAUER Nachschub Raum"
+
+[ZoneInfo44]
+LocationName="ROTER Aufzug 1"
+
+[ZoneInfo45]
+LocationName="BLAUER Aufzug 1"
+
+[ZoneInfo46]
+LocationName="ROTER Bunker"
+
+[ZoneInfo47]
+LocationName="ROTER Bunker"
+
+[ZoneInfo5]
+LocationName="ROTE Plattform"
+
+[ZoneInfo6]
+LocationName="ROTER Verbindungspunkt"
+
+[ZoneInfo7]
+LocationName="ROTE Schotten (Links)"
+
+[ZoneInfo8]
+LocationName="Halle ROTER Eingang"

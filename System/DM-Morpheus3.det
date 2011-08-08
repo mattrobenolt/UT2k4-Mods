@@ -1,0 +1,34 @@
+[LevelInfo0]
+Title="Morpheus3"
+
+[LevelSummary]
+Title="Morpheus3"
+Description="LMC wussten, dass sie eine ausgezeichnete Arena ganz oben auf der Spitze einer neu gebauten Galaxyscraper Superstructure gefunden hatten. Dank des technischen Wunders superdehnbarer Materialien erreichen diese drei Gebäude die unglaubliche Höhe von 19 Kilometer. Die dünne Atmosphäre und die geringere Wirkung der Schwerkraft der Erde stellen eine interessante Probe für Tournament-Athleten dar, um sich in extremen Umgebungen anzupassen und durchzusetzen."
+
+[MessageTextureClient4]
+ScrollingMessage="%lp führt im Match mit %lf Frags"
+
+[PhysicsVolume1]
+LocationName="19 Kilometer hoch"
+
+[ZoneInfo0]
+LocationName="GELBER Turm - Innenraum"
+
+[ZoneInfo1]
+LocationName="BLAUER Turm - Innenraum"
+
+[ZoneInfo2]
+LocationName="19 Kilometer hoch"
+
+[ZoneInfo3]
+LocationName="BLAUER Turm - Innenraum"
+
+[ZoneInfo4]
+LocationName="GELBER Turm - Innenraum"
+
+[ZoneInfo5]
+LocationName="ROTER Turm - Innenraum"
+
+[ZoneInfo6]
+LocationName="ROTER Turm - Innenraum"
+

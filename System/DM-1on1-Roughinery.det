@@ -1,0 +1,16 @@
+[LevelInfo0]
+Title="Roughinery"
+
+[LevelSummary]
+Title="Roughinery"
+Description="Die Überreste einer alten Raffinerie dienen nun als Austragungsort für Duelle. Machen Sie sich das komplexe Layout zunutze - aber verlieren Sie Ihre Gegner nicht aus den Augen!"
+
+[ZoneInfo1]
+LocationName="Rocket Launcher-Halle"
+
+[ZoneInfo2]
+LocationName="Double Health-Gebiet"
+
+[ZoneInfo3]
+LocationName="Link Gun-Gebiet"
+

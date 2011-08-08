@@ -1,0 +1,131 @@
+[LevelInfo0]
+Title="December"
+
+[LevelSummary]
+Title="December"
+
+[ZoneInfo0]
+LocationName="Accesso inferiore blu"
+
+[ZoneInfo1]
+LocationName="Piattaforma blu"
+
+[ZoneInfo10]
+LocationName="Uscita condotto rossa"
+
+[ZoneInfo11]
+LocationName="Accesso base bandiera rossa"
+
+[ZoneInfo12]
+LocationName="Porta rossa (Destra)"
+
+[ZoneInfo13]
+LocationName="Ascensore rosso 2"
+
+[ZoneInfo14]
+LocationName="Stanza d'appoggio bunker blu"
+
+[ZoneInfo16]
+LocationName="Base bandiera rossa"
+
+[ZoneInfo17]
+LocationName="Sopra base bandiera rossa"
+
+[ZoneInfo18]
+LocationName="Stanza d'ingresso blu"
+
+[ZoneInfo19]
+LocationName="Scale d'ingresso blu"
+
+[ZoneInfo20]
+LocationName="Atrio blu"
+
+[ZoneInfo21]
+LocationName="Accesso inferiore rosso"
+
+[ZoneInfo22]
+LocationName="Raccordo blu"
+
+[ZoneInfo23]
+LocationName="Stanza d'ingresso blu"
+
+[ZoneInfo24]
+LocationName="Porta blu (Sinistra)"
+
+[ZoneInfo25]
+LocationName="Uscita condotto blu"
+
+[ZoneInfo26]
+LocationName="Accesso base bandiera blu"
+
+[ZoneInfo27]
+LocationName="Stanza d'ingresso rossa"
+
+[ZoneInfo28]
+LocationName="Porta blu (Destra)"
+
+[ZoneInfo29]
+LocationName="Ascensore blu 2"
+
+[ZoneInfo3]
+LocationName="Scale d'ingresso rosse"
+
+[ZoneInfo31]
+LocationName="Base bandiera blu"
+
+[ZoneInfo32]
+LocationName="Sopra base bandiera blu"
+
+[ZoneInfo34]
+LocationName="Ingresso bunker rosso"
+
+[ZoneInfo35]
+LocationName="Bunker blu"
+
+[ZoneInfo36]
+LocationName="Corridoio inferiore rosso"
+
+[ZoneInfo38]
+LocationName="Zona portuale"
+
+[ZoneInfo39]
+LocationName="Stanza ascensore rossa"
+
+[ZoneInfo4]
+LocationName="Atrio rosso"
+
+[ZoneInfo40]
+LocationName="Corridoio inferiore blu"
+
+[ZoneInfo41]
+LocationName="Stanza d'appoggio rossa"
+
+[ZoneInfo42]
+LocationName="Stanza ascensore blu"
+
+[ZoneInfo43]
+LocationName="Stanza d'appoggio blu"
+
+[ZoneInfo44]
+LocationName="Ascensore rosso 1"
+
+[ZoneInfo45]
+LocationName="Ascensore blu 1"
+
+[ZoneInfo46]
+LocationName="Bunker rosso"
+
+[ZoneInfo47]
+LocationName="Stanza d'appoggio bunker rosso"
+
+[ZoneInfo5]
+LocationName="Piattaforma rossa"
+
+[ZoneInfo6]
+LocationName="Raccordo rosso"
+
+[ZoneInfo7]
+LocationName="Porta rossa (Sinistra)"
+
+[ZoneInfo8]
+LocationName="Stanza d'ingresso rossa"

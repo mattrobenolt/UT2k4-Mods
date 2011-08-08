@@ -1,0 +1,44 @@
+[LevelInfo0]
+Title="Facing Worlds 3"
+
+[LevelSummary]
+Title="Facing Worlds 3"
+
+[Volume0]
+LocationName="Nivel 3 Rojos"
+
+[Volume1]
+LocationName="Nivel 3 Azules"
+
+[ZoneInfo1]
+LocationName="Base azul"
+
+[ZoneInfo10]
+LocationName="Minigun Rojos"
+
+[ZoneInfo11]
+LocationName="Pilares Rojos"
+
+[ZoneInfo2]
+LocationName="Minigun Azules"
+
+[ZoneInfo3]
+LocationName="Minigun Azules"
+
+[ZoneInfo4]
+LocationName="Pilares Azules"
+
+[ZoneInfo5]
+LocationName="Minigun Azules"
+
+[ZoneInfo6]
+LocationName="Exterior"
+
+[ZoneInfo7]
+LocationName="Base roja"
+
+[ZoneInfo8]
+LocationName="Minigun Rojos"
+
+[ZoneInfo9]
+LocationName="Minigun Rojos"

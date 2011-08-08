@@ -1,0 +1,31 @@
+[LevelInfo0]
+Title="Schianto"
+
+[LevelSummary]
+Title="Schianto"
+Description="Molto tempo fa, in una galassia lontana, un uomo dal cuore dilaniato dal dolore costruì questo complesso per combattere il proprio Torneo e per meditare sulle battaglie passate. La leggenda non rivela se riuscì mai a trovare l'illuminazione, ma i vecchi muri intrisi di sofferenza cercano di dare una risposta..."
+
+[ZoneInfo0]
+LocationName="Corridoio del motore"
+
+[ZoneInfo1]
+LocationName="Stanza del biofucile"
+
+[ZoneInfo2]
+LocationName="Corridoio del fucile shock"
+
+[ZoneInfo3]
+LocationName="Stanza della corazza piccola"
+
+[ZoneInfo4]
+LocationName="Stanza del minigun"
+
+[ZoneInfo5]
+LocationName="Stanza della corazza grande"
+
+[ZoneInfo6]
+LocationName="Corridoio inferiore"
+
+[ZoneInfo7]
+LocationName="Stanza Flak"
+

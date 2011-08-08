@@ -1,0 +1,25 @@
+[LevelInfo0]
+Title="Condotto"
+
+[LevelSummary]
+Title="Condotto"
+Description="Il Condotto è permeato da flussi e riflussi di elettricità statica, convogliata per accontentare una società affamata di energia. Ma è permeato anche da flussi e riflussi di violenza delle battaglie a squadre, trasmesse per accontentare una società depravata e assetata di sangue."
+
+[ZoneInfo0]
+LocationName="Base centrale"
+
+[ZoneInfo1]
+LocationName="Stanza dell'armadio blu"
+
+[ZoneInfo3]
+LocationName="Stanza dell'armadio rosso"
+
+[ZoneInfo4]
+LocationName="DOM B"
+
+[ZoneInfo5]
+LocationName="Condotto centrale"
+
+[ZoneInfo6]
+LocationName="DOM A"
+

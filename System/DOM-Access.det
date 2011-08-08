@@ -1,0 +1,45 @@
+[LevelInfo0]
+Title="Access"
+
+[LevelSummary]
+Title="Access"
+Description="Mit der Zugangstaste in der Mitte der Arena kann ein beliebter Domination-Punkt geöffnet werden."
+
+[ZoneInfo0]
+LocationName="Schaltraum"
+
+[ZoneInfo1]
+LocationName="BLAUE Einstiegs-Hallen"
+
+[ZoneInfo10]
+LocationName="Schaltraum"
+
+[ZoneInfo11]
+LocationName="Punkt-A-Raum"
+
+[ZoneInfo12]
+LocationName="Punkt-B-Raum"
+
+[ZoneInfo2]
+LocationName="ROTE Einstiegs-Hallen"
+
+[ZoneInfo3]
+LocationName="ROTE Einstiegs-Hallen"
+
+[ZoneInfo4]
+LocationName="BLAUE Einstiegs-Hallen"
+
+[ZoneInfo5]
+LocationName="BLAUE Einstiegs-Hallen"
+
+[ZoneInfo6]
+LocationName="ROTE Einstiegs-Hallen"
+
+[ZoneInfo7]
+LocationName="Schaltraum"
+
+[ZoneInfo8]
+LocationName="Schaltraum"
+
+[ZoneInfo9]
+LocationName="Schaltraum"

@@ -1,0 +1,74 @@
+[LevelInfo0]
+Title="Moon Dragon"
+
+[LevelSummary]
+Title="Moon Dragon"
+Description="In den Tiefen des antiken Korea, hoch auf dem verborgenen Gipfel des Monddrachenberges, wütet ein erbitterter Kampf zwischen tapferen Kriegern."
+
+[Volume10]
+LocationName="ROTER Flaggenraum"
+
+[Volume11]
+LocationName="ROTER Basiseingänge"
+
+[Volume12]
+LocationName="Zentrale Höhle"
+
+[Volume14]
+LocationName="BLAUE Schildseite"
+
+[Volume17]
+LocationName="BLAUE Basiseingänge"
+
+[Volume18]
+LocationName="BLAUE Mitte"
+
+[Volume19]
+LocationName="BLAUES Festungsgebiet"
+
+[Volume20]
+LocationName="ROTES Festungsgebiet"
+
+[Volume21]
+LocationName="Zentrale Höhle"
+
+[Volume3]
+LocationName="ROTE Mitte"
+
+[Volume6]
+LocationName="ROTE Schildseite"
+
+[Volume7]
+LocationName="ROTE Seitenroute"
+
+[Volume8]
+LocationName="BLAUE Seitenroute"
+
+[Volume9]
+LocationName="BLAUER Flaggenraum"
+
+[xBlueFlagBase1]
+ObjectiveName="BLAUE Flagge"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

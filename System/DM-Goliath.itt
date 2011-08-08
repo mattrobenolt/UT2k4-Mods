@@ -1,0 +1,40 @@
+[LevelInfo0]
+Title="Golia"
+
+[LevelSummary]
+Title="Golia"
+Description="Sospese nel cielo di Calaban VII, le stazioni energetiche orbitali di classe Golia forniscono energia e protezione alle fiorenti colonie sottostanti. Queste piattaforme praticamente immuni al fuoco delle armi portatili sono diventate famosi teatri di incontri del Torneo. Oltre a essere interessanti, si ripuliscono anche da sole grazie alle occasionali perdite radioattive."
+
+[Volume0]
+LocationName="Piattaforma segreta sul tetto"
+
+[Volume1]
+LocationName="Punto di quadrisalto a bassa gravità"
+
+[ZoneInfo0]
+LocationName="Stanza del fucile shock"
+
+[ZoneInfo1]
+LocationName="Sala di rientro degli ZeroDanni"
+
+[ZoneInfo2]
+LocationName="Stanza del minigun"
+
+[ZoneInfo3]
+LocationName="Sala di rientro della super ricarica"
+
+[ZoneInfo4]
+LocationName="Grande stanza del fulminatore"
+
+[ZoneInfo5]
+LocationName="Sala di rientro della super ricarica"
+
+[ZoneInfo6]
+LocationName="Grande stanza del fulminatore"
+
+[ZoneInfo7]
+LocationName="Sale centrali inferiori"
+
+[ZoneInfo8]
+LocationName="Sale centrali superiori"
+

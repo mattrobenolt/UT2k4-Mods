@@ -1,0 +1,47 @@
+[LevelInfo0]
+Title="Insidious"
+LevelEnterText="DM-Insidious"
+
+[LevelSummary]
+Title="Insidious"
+LevelEnterText="DM-Insidious"
+
+[ZoneInfo0]
+LocationName="Serbatoi a muro"
+
+[ZoneInfo1]
+LocationName="Stanza Bio"
+
+[ZoneInfo10]
+LocationName="Stanza inferiore"
+
+[ZoneInfo11]
+LocationName="Stanza Flak"
+
+[ZoneInfo12]
+LocationName="Stanze superiori"
+
+[ZoneInfo13]
+LocationName="Vasche di clonazione"
+
+[ZoneInfo15]
+LocationName="Stanze superiori"
+
+[ZoneInfo2]
+LocationName="Vasche di clonazione"
+
+[ZoneInfo3]
+LocationName="Vasche di clonazione"
+
+[ZoneInfo4]
+LocationName="Stanza inferiore"
+
+[ZoneInfo7]
+LocationName="Vasche a muro"
+
+[ZoneInfo8]
+LocationName="Vasche a muro"
+
+[ZoneInfo9]
+LocationName="Stanza della ventola"
+

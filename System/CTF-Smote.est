@@ -1,0 +1,130 @@
+[LevelInfo0]
+Title="Smote"
+
+[LevelSummary]
+Title="Smote"
+Description="La tierra tiembla bajo tus pies y del cielo llueven fuego y cenizas. El camino hasta la victoria es traicionero y mortal, como los enemigos que encontrarás en el campo de batalla... y menos misericordioso."
+
+[Volume10]
+LocationName="Caminos principales de base roja"
+
+[Volume11]
+LocationName="Caminos superiores de base roja"
+
+[Volume12]
+LocationName="Caminos principales de base roja"
+
+[Volume13]
+LocationName="Caminos superiores de base azul"
+
+[Volume14]
+LocationName="Caminos principales de base azul"
+
+[Volume16]
+LocationName="Fortificaciones de base azul"
+
+[Volume17]
+LocationName="Caminos principales de base azul"
+
+[Volume20]
+LocationName="Lado del volcán"
+
+[Volume21]
+LocationName="Caminos inferiores de base azul"
+
+[Volume22]
+LocationName="Caminos inferiores de base azul"
+
+[Volume23]
+LocationName="Cavernas volcánicas"
+
+[Volume5]
+LocationName="Caminos inferiores de base roja"
+
+[Volume6]
+LocationName="Caminos inferiores de base roja"
+
+[Volume7]
+LocationName="Caminos inferiores de base roja"
+
+[Volume8]
+LocationName="Caminos inferiores de base azul"
+
+[Volume9]
+LocationName="Fortificaciones de base roja"
+
+[ZoneInfo0]
+LocationName="Entrada a sótano de base roja"
+
+[ZoneInfo1]
+LocationName="¡Fuera de los límites!"
+
+[ZoneInfo11]
+LocationName="Entrada principal de base azul"
+
+[ZoneInfo12]
+LocationName="Entrada a sótano de base azul"
+
+[ZoneInfo13]
+LocationName="Sala de bandera azul"
+
+[ZoneInfo14]
+LocationName="Cavernas volcánicas"
+
+[ZoneInfo15]
+LocationName="Cavernas volcánicas"
+
+[ZoneInfo16]
+LocationName="Entrada principal de base azul"
+
+[ZoneInfo17]
+LocationName="Acceso a sótano de base azul"
+
+[ZoneInfo18]
+LocationName="Entrada principal de base roja"
+
+[ZoneInfo19]
+LocationName="Acceso a sótano de base roja"
+
+[ZoneInfo2]
+LocationName="Sótano de base roja"
+
+[ZoneInfo20]
+LocationName="Sala de bandera roja"
+
+[ZoneInfo21]
+LocationName="Torre de base azul"
+
+[ZoneInfo22]
+LocationName="Torre de base roja"
+
+[ZoneInfo23]
+LocationName="Sótano de base azul"
+
+[ZoneInfo24]
+LocationName="Entrada a sótano de base azul"
+
+[ZoneInfo25]
+LocationName="Sótano de base azul"
+
+[ZoneInfo26]
+LocationName="Sótano de base azul"
+
+[ZoneInfo3]
+LocationName="Sótano de base roja"
+
+[ZoneInfo4]
+LocationName="Sótano de base roja"
+
+[ZoneInfo5]
+LocationName="Entrada a sótano de base roja"
+
+[ZoneInfo6]
+LocationName="Entrada principal de base roja"
+
+[ZoneInfo8]
+LocationName="Entrada a torre de base roja"
+
+[ZoneInfo9]
+LocationName="Entrada a torre de base azul"
+

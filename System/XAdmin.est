@@ -1,0 +1,49 @@
+[AdminIni]
+Msg_FinishGameEditFirst="Tienes que finalizar la edición del juego antes de volver a iniciar el mapa"
+Msg_FinishGameRestart="Tienes que finalizar la edición del juego antes de cambiar o volver a iniciar el mapa"
+Msg_MutNeedGameEdit="Debes usar el comando de editar juego antes de comandos de mutágenos"
+Msg_NoMutatorInUse="No hay mutágenos en juego"
+Msg_NoUnusedMuts="No se han encontrado mutágenos sin usar"
+Msg_AddedMutator="Añadido '%Mutator%' a la lista de mutágenos usados."
+Msg_ErrAddingMutator="Error al añadir '%Mutator%' a la lista de mutágenos usados."
+Msg_RemovedMutator="Eliminado '%Mutator%' de la lista de mutágenos usados."
+Msg_ErrRemovingMutator="Error al eliminar '%Mutator%' de la lista de mutágenos usados."
+Msg_MapListNeedGameEdit="Debes usar el comando de editar juego antes de comandos de listar mapas"
+Msg_MustEndGameEdit="Primero debes terminar de editar el juego"
+Msg_EditingClass="Editando %class%"
+Msg_EditFailed="Error al iniciar la edición"
+Msg_AlreadyEdited="El juego ya ha sido editado por otra persona"
+Msg_NotEditing="No estás editando los parámetros del juego, usa antes la edición del juego."
+Msg_EditingCompleted="Edición completada"
+Msg_EditingCancelled="Edición cancelada"
+Msg_NoBotGameFull="No se puede añadir bot, el juego está lleno"
+Msg_NoAddNamedBot="Solo se pueden añadir bots con nombre cuando el encuentro haya empezado"
+Msg_NoBotsPlaying="No hay bots en juego"
+Msg_GameNoSupportBots="El tipo de juego actual no admite bots"
+Msg_StatsNoBots="No se pueden controlar bots cuando están activadas Estadísticas mundiales"
+Msg_SetBotNeedVal="Este comando requiere un valor numérico de 0 a 32"
+
+[xExtraPrivs]
+LoadMsg="Cargando privilegios extraordinarios"
+MainPrivs="X"
+SubPrivs="Xb|Xc|Xp|Xs|Xi|Xv|Xm"
+Tags=("Miscelláneo","Establecer habilidad de bot","Usar consola","Lista de jugadores","Cambiar piel de webadmin","Gestionar políticas de acceso","Gestión de chat de voz","Configuración de encuentro")
+
+[xGamePrivs]
+LoadMsg="Cargados mapas y privilegios del juego"
+MainPrivs="M"
+SubPrivs="Mr|Mt|Mm|Ml|Ms|Mu|Mb|Ma"
+Tags=("Mapas/Ajustes de juego","Reiniciar mapa","Cambiar tipo de juego","Cambiar mapa","Gestiona rotación de mapa","Ajustes de juego","Seleccionar mutágenos","Añadir/eliminar bots","Estado del juego")
+
+[xKickPrivs]
+LoadMsg="Cargados privilegios de expulsión y rechazo"
+MainPrivs="K"
+SubPrivs="Kp|Kb|Ko"
+Tags=("Expulsar/rechazar","Expulsar jugadores","Rechazar jugadores","Expulsar bots")
+
+[xUserGroupPrivs]
+LoadMsg="Cargada gestión de grupos y administradores"
+MainPrivs="A|G"
+SubPrivs="Al|Aa|Ae|Ag|Am|Gl|Ga|Ge"
+Tags=("Usuarios","Enumerar admins","Añadir/eliminar admins","Editar admins","Asignar grupos","Crear gestores","Grupos","Enumerar grupos","Añadir/eliminar grupos","Editar grupos")
+

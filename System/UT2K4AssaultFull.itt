@@ -1,0 +1,57 @@
+[ASTurret_IonCannon]
+VehiclePositionString="presidia un cannone a ioni"
+VehicleNameString="Cannone a ioni"
+
+[ASTurret_LinkTurret]
+VehiclePositionString="Presidia una torretta Link"
+VehicleNameString="Torretta Link"
+
+[ASVehicle_SpaceFighter_Human]
+VehiclePositionString="in un caccia spaziale"
+VehicleNameString="Caccia spaziale degli umani"
+
+[ASVehicle_SpaceFighter_Skaarj]
+VehicleNameString="Caccia spaziale degli Skaarj"
+
+[DamTypeBallTurretPlasma]
+DeathString="%o ha ricevuto una dose extra di plasma da %k."
+FemaleSuicide="%o si frigge con il suo stesso plasma."
+MaleSuicide="%o si frigge con il suo stesso plasma."
+
+[DamTypeIonCannonBlast]
+DeathString="%o SVANISCE NEL NULLA"
+FemaleSuicide="%o SVANISCE NEL NULLA"
+MaleSuicide="%o SVANISCE NEL NULLA"
+
+[DamTypeLinkTurretBeam]
+DeathString="%o finisce male: il fascio verde di %k fa un'altra vittima."
+FemaleSuicide="%o si è impalata da sola."
+MaleSuicide="%o si è impalata da solo."
+
+[DamTypeLinkTurretPlasma]
+DeathString="%o ha ricevuto una dose extra di plasma da %k."
+FemaleSuicide="%o si frigge con il suo stesso plasma."
+MaleSuicide="%o si frigge con il suo stesso plasma."
+
+[DamTypeSpaceFighterLaser]
+DeathString="%o ha ricevuto una dose extra di laser da %k."
+FemaleSuicide="%o si frigge con il suo stesso laser."
+MaleSuicide="%o si frigge con il suo stesso laser."
+
+[DamTypeSpaceFighterMissile]
+DeathString="%o non ha saputo evitare il missile di %k."
+FemaleSuicide="%o si è fatta a pezzi da sola."
+MaleSuicide="%o si è fatta a pezzi da solo."
+
+[Weapon_LinkTurret]
+ItemName="Arma per torretta"
+
+[Weapon_SpaceFighter]
+ItemName="Arma del caccia spaziale"
+
+[Weapon_Turret]
+ItemName="Arma per torretta"
+
+[Weapon_Turret_IonCannon]
+ItemName="Arma della torretta del cannone a ioni"
+

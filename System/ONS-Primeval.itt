@@ -1,0 +1,25 @@
+[LevelInfo0]
+Title="Primordiale"
+
+[LevelSummary]
+Title="Primordiale"
+Description="Nel cuore della Foresta primordiale sorge questa arena della modalità Energia, molto apprezzata dai boscaioli e da chi ama i tronchi."
+
+[Volume0]
+LocationName="Base rossa"
+
+[Volume2]
+LocationName="Base del lato rosso"
+
+[Volume3]
+LocationName="Nodo centrale"
+
+[Volume4]
+LocationName="Base del lato blu"
+
+[Volume5]
+LocationName="Base blu"
+
+[ZoneInfo0]
+LocationName="Vagando nella foresta"
+

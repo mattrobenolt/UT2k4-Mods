@@ -1,0 +1,40 @@
+[LevelInfo0]
+Title="Goliath"
+
+[LevelSummary]
+Title="Goliath"
+Description="Hoch über Calaban VII bieten die orbitale Kraftwerke der Goliath-Klasse den gedeihenden Kolonien darunter sowohl Energie als auch Schutz. Die Plattformen sind gegen kleine Feuerwaffen praktisch immun und als Turnierarenea immer beliebter geworden. Gelegentliche Strahlungsausbrüche sorgen für eine Arena, die nicht nur unterhaltsam ist, sondern sich auch selbst säubert."
+
+[Volume0]
+LocationName="Geheime Dachplattform"
+
+[Volume1]
+LocationName="Versteckte Vierfach-Sprung-Stelle mit niedriger Gravitation"
+
+[ZoneInfo0]
+LocationName="Shock Rifle-Raum"
+
+[ZoneInfo1]
+LocationName="U-Schaden Einstiegshalle"
+
+[ZoneInfo2]
+LocationName="Minigun-Raum"
+
+[ZoneInfo3]
+LocationName="Gesundheitsflakon Einstiegshalle"
+
+[ZoneInfo4]
+LocationName="Großer Lightning Gun-Raum"
+
+[ZoneInfo5]
+LocationName="Superschild Einstiegshalle"
+
+[ZoneInfo6]
+LocationName="Großer Lightning Gun-Raum"
+
+[ZoneInfo7]
+LocationName="Untere Mittelgänge"
+
+[ZoneInfo8]
+LocationName="Obere Mittelgänge"
+

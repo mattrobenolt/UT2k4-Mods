@@ -1,0 +1,60 @@
+[Setup]
+LocalProduct="Unreal Tournament 2003 Demo"
+DefaultFolder="C:\UT2003Demo"
+ReadMe=Help\ReadMe-Demo.det.txt
+SetupWindowTitle=Unreal Tournament 2003 Demo Setup
+AutoplayWindowTitle="Unreal Tournament 2003 Demo Optionen"
+ProductURL=http://www.unrealtournament2003.com/
+VersionURL=http://unreal.epicgames.com/versions.htm
+Developer="Epic Games"
+DeveloperURL=http://www.epicgames.com/
+Logo=Help\InstallerLogo.bmp
+License=License.det
+
+[General]
+PlayLevelCommand="Dieses UT2003-Level &spielen"
+OpenLinkCommand="Diesen UT2003-Link &öffnen"
+InstallModuleCommand="Dieses UT2003-Modul &installieren"
+EditLevelCommand="Dieses UT2003-Level &bearbeiten"
+
+[UnrealGameContentGroup]
+Caption="Spielinhalt"
+Description="Installation erforderlich."
+
+[GameGroup]
+Caption="Unreal Tournament 2003 Demo"
+Description="Installation erforderlich."
+
+[DirectXGroup]
+Caption="DirectX 8.1"
+Description="Optionale Microsoft DirectX 8.1 Treiber für optimale Grafik-, Sound- und Joystick-Unterstützung."
+
+[OpenALGroup]
+Caption="OpenAL"
+Description="Erforderlich für Hardware-beschleunigte 3D-Sound-Effekte."
+
+[Win2000XPGroup]
+Caption="Windows 2000/XP Direct3D"
+Description="Erforderlich für Windows 2000/XP [z.Zt. noch nicht geliefert]."
+
+[EditorGroup]
+Caption="Unreal Editor"
+Description="Mit dem Unreal World Editor können Sie Ihre eigenen 3D-Unreal-Umgebungen schaffen. Für erfahrene Anwender (Installation optional)."
+
+[PlayShortcut]
+Caption="UT2003 Demo spielen"
+
+[SafeModeShortcut]
+Caption="UT2003 Demo Sicherer Modus"
+
+[EditorShortcut]
+Caption="UT2003 Editor"
+
+[DocumentationShortcut]
+Caption="Unterlagen"
+
+[WebShortcut]
+Caption="UT2003 Webseite"
+
+[UninstallShortcut]
+Caption="Unreal Tournament 2003 deinstallieren"

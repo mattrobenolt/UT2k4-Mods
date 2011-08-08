@@ -1,0 +1,29 @@
+[LevelInfo0]
+Title="Ice Fields"
+
+[LevelSummary]
+Title="Ice Fields"
+
+[Volume0]
+LocationName="Base blu"
+
+[Volume1]
+LocationName="Base rossa"
+
+[Volume2]
+LocationName="Ingresso base rossa"
+
+[Volume5]
+LocationName="Ingresso base blu"
+
+[Volume6]
+LocationName="Centrocampo"
+
+[Volume9]
+LocationName="Area superscudo"
+
+[xBombDelivery0]
+ObjectiveName="Consegna rossa"
+
+[xBombDelivery1]
+ObjectiveName="Consegna blu"

@@ -1,0 +1,74 @@
+[LevelInfo0]
+Title="Geothermal"
+
+[LevelSummary]
+Title="Geothermal"
+
+[WaterVolume5]
+LocationName="Agua Azules"
+
+[WaterVolume7]
+LocationName="Agua Rojos"
+
+[ZoneInfo0]
+LocationName="Sala de bandera roja"
+
+[ZoneInfo1]
+LocationName="Sala de máquinas Rojos"
+
+[ZoneInfo10]
+LocationName="Sala de máquinas Azules"
+
+[ZoneInfo11]
+LocationName="Tanque de agua Azules"
+
+[ZoneInfo12]
+LocationName="Sala de bandera roja"
+
+[ZoneInfo13]
+LocationName="Centro"
+
+[ZoneInfo14]
+LocationName="Entrada superior Rojos"
+
+[ZoneInfo15]
+LocationName="Entrada inferior Azules"
+
+[ZoneInfo19]
+LocationName="Entrada superior Azules"
+
+[ZoneInfo2]
+LocationName="Tanque de agua Rojos"
+
+[ZoneInfo20]
+LocationName="Entrada superior Azules"
+
+[ZoneInfo23]
+LocationName="Entrada superio Azules"
+
+[ZoneInfo24]
+LocationName="Sala de bandera azul"
+
+[ZoneInfo25]
+LocationName="sala de bandera azul"
+
+[ZoneInfo26]
+LocationName="Entrada superio Azules"
+
+[ZoneInfo4]
+LocationName="Entrada inferior Rojos"
+
+[ZoneInfo5]
+LocationName="Entrada superior Rojos"
+
+[ZoneInfo6]
+LocationName="Entrada superior Rojos"
+
+[ZoneInfo7]
+LocationName="Sala de bandera azul"
+
+[ZoneInfo8]
+LocationName="Entrada superior Rojos"
+
+[ZoneInfo9]
+LocationName="Sala de bandera roja"

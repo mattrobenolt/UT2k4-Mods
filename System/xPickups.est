@@ -1,0 +1,21 @@
+[AdrenalinePickup]
+PickupMessage="Adrenalina"
+
+[MiniHealthPack]
+PickupMessage="Salud"
+
+[ShieldPickup]
+PickupMessage="Escudos cargados"
+
+[SuperHealthPack]
+PickupMessage="Has recogido un gran barril de salud"
+
+[SuperShieldPack]
+PickupMessage="Escudos con carga extra"
+
+[TournamentHealth]
+PickupMessage="Salud"
+
+[UDamagePack]
+PickupMessage="¡DAÑO DOBLE!"
+

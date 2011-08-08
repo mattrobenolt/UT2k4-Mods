@@ -1,0 +1,124 @@
+[LevelInfo0]
+Title="Ponte del Destino"
+
+[LevelSummary]
+Title="Ponte del Destino"
+Description="Due territori separati da un'enorme caverna, un ponte che la attraversa e permette alle due squadre di raggiungersi, facendo la differenza tra speranza e disperazione."
+
+[ZoneInfo0]
+LocationName="Caverna centrale"
+
+[ZoneInfo1]
+LocationName="Entrata dello schermo blu"
+
+[ZoneInfo10]
+LocationName="Stanza del pilastro blu"
+
+[ZoneInfo11]
+LocationName="Stanza della bandiera blu"
+
+[ZoneInfo12]
+LocationName="Lato posteriore missile blu"
+
+[ZoneInfo13]
+LocationName="Entrata del biofucile blu"
+
+[ZoneInfo14]
+LocationName="Stanza della bandiera rossa"
+
+[ZoneInfo15]
+LocationName="Entrata del biofucile rossa"
+
+[ZoneInfo16]
+LocationName="Entrata dello schermo rossa"
+
+[ZoneInfo17]
+LocationName="Entrata dello schermo rossa"
+
+[ZoneInfo18]
+LocationName="Entrata del biofucile rossa"
+
+[ZoneInfo19]
+LocationName="Stanza del pilastro rossa"
+
+[ZoneInfo2]
+LocationName="Entrata del biofucile blu"
+
+[ZoneInfo20]
+LocationName="Entrata del biofucile rossa"
+
+[ZoneInfo21]
+LocationName="Stanza della bandiera rossa"
+
+[ZoneInfo22]
+LocationName="Lato anteriore del Flak rosso"
+
+[ZoneInfo23]
+LocationName="Entrata dello schermo rossa"
+
+[ZoneInfo24]
+LocationName="Entrata dello schermo blu"
+
+[ZoneInfo25]
+LocationName="Entrata dello schermo blu"
+
+[ZoneInfo26]
+LocationName="Entrata del biofucile blu"
+
+[ZoneInfo27]
+LocationName="Stanza della bandiera blu"
+
+[ZoneInfo28]
+LocationName="Stanza della bandiera blu"
+
+[ZoneInfo29]
+LocationName="Stanza della bandiera rossa"
+
+[ZoneInfo3]
+LocationName="Lato posteriore del Flak blu"
+
+[ZoneInfo30]
+LocationName="Lato posteriore del Flak rosso"
+
+[ZoneInfo31]
+LocationName="Lato posteriore missile rosso"
+
+[ZoneInfo32]
+LocationName="Lato anteriore del Flak rosso"
+
+[ZoneInfo33]
+LocationName="Lato anteriore del lanciarazzi rosso"
+
+[ZoneInfo34]
+LocationName="Lato anteriore del Flak rosso"
+
+[ZoneInfo35]
+LocationName="Lato anteriore del lanciarazzi blu"
+
+[ZoneInfo36]
+LocationName="Lato anteriore del Flak blu"
+
+[ZoneInfo38]
+LocationName="Entrata del biofucile rossa"
+
+[ZoneInfo39]
+LocationName="Entrata dello schermo rossa"
+
+[ZoneInfo4]
+LocationName="Stanza del pilastro blu"
+
+[ZoneInfo5]
+LocationName="Lato anteriore del Flak blu"
+
+[ZoneInfo6]
+LocationName="Lato anteriore del lanciarazzi blu"
+
+[ZoneInfo7]
+LocationName="Stanza del pilastro rossa"
+
+[ZoneInfo8]
+LocationName="Entrata dello schermo blu"
+
+[ZoneInfo9]
+LocationName="Entrata del biofucile blu"
+

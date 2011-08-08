@@ -1,0 +1,59 @@
+[LevelInfo0]
+Title="Scorched Earth"
+
+[LevelSummary]
+Title="Scorched Earth"
+
+[PhysicsVolume0]
+LocationName="Lanzam. Azules"
+
+[PhysicsVolume1]
+LocationName="Lanzam. Rojos"
+
+[ZoneInfo0]
+LocationName="Centro interior"
+
+[ZoneInfo1]
+LocationName="Pasadizo trasero_B"
+
+[ZoneInfo14]
+LocationName="Exterior"
+
+[ZoneInfo15]
+LocationName="Centro interior"
+
+[ZoneInfo16]
+LocationName="Lanzam. Azules"
+
+[ZoneInfo17]
+LocationName="Pasadizo frontal_A"
+
+[ZoneInfo18]
+LocationName="Pasadizo frontal_A"
+
+[ZoneInfo19]
+LocationName="Sala_A"
+
+[ZoneInfo20]
+LocationName="Pasadizo trasero_A"
+
+[ZoneInfo3]
+LocationName="Centro interior"
+
+[ZoneInfo4]
+LocationName="Centro interior"
+
+[ZoneInfo5]
+LocationName="Centro interior"
+
+[ZoneInfo6]
+LocationName="Pasadizo frontal_B"
+
+[ZoneInfo7]
+LocationName="Lanzam. Rojos"
+
+[ZoneInfo8]
+LocationName="Pasadizo frontal_B"
+
+[ZoneInfo9]
+LocationName="Sala_B"

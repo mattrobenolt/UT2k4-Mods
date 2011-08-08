@@ -1,0 +1,67 @@
+[LevelInfo0]
+Title="Corrugamento"
+
+[LevelSummary]
+Title="Corrugamento"
+Description="Dopo molti anni di battaglie del Torneo, questa arena sta venendo lentamente distrutta dagli impatti dei razzi e dei fucili shock. Dai anche tu il tuo contributo."
+
+[ZoneInfo1]
+LocationName="Zona della fornace"
+
+[ZoneInfo10]
+LocationName="Zona ovest"
+
+[ZoneInfo11]
+LocationName="Entrata delle fogne"
+
+[ZoneInfo12]
+LocationName="Zona est delle fogne"
+
+[ZoneInfo13]
+LocationName="Zona sud"
+
+[ZoneInfo14]
+LocationName="Zona est delle fogne"
+
+[ZoneInfo15]
+LocationName="Atrio"
+
+[ZoneInfo16]
+LocationName="Zona della fornace"
+
+[ZoneInfo17]
+LocationName="Scala nord"
+
+[ZoneInfo18]
+LocationName="Corridoio est"
+
+[ZoneInfo19]
+LocationName="Zona est"
+
+[ZoneInfo2]
+LocationName="Zona centrale delle fogne"
+
+[ZoneInfo20]
+LocationName="Zona sud delle fogne"
+
+[ZoneInfo3]
+LocationName="Pozzo ascensore ovest"
+
+[ZoneInfo4]
+LocationName="Zona sud-est delle fogne"
+
+[ZoneInfo5]
+LocationName="Corridoio curvo est"
+
+[ZoneInfo6]
+LocationName="Zona est"
+
+[ZoneInfo7]
+LocationName="Zona centrale"
+
+[ZoneInfo8]
+LocationName="Corridoio curvo est"
+
+[ZoneInfo9]
+LocationName="Zona della pompa"
+

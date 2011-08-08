@@ -1,0 +1,22 @@
+[LevelInfo0]
+Title="Desert Isle"
+
+[LevelSummary]
+Title="Desert Isle"
+Description="Bajo el sol abrasador, un pequeño arroyo supone la vida misma en esta isla verde del océano de arena. ¿Qué quedará cuando sus aguas se tiñan de rojo?"
+
+[Volume0]
+LocationName="Final del río"
+
+[Volume1]
+LocationName="La colina"
+
+[Volume2]
+LocationName="Inicio del río"
+
+[Volume3]
+LocationName="Mitad del río"
+
+[ZoneInfo0]
+LocationName="=Desierto="
+

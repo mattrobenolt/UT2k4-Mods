@@ -1,0 +1,25 @@
+[LevelInfo0]
+Title="Primeval"
+
+[LevelSummary]
+Title="Primeval"
+Description="Diese Onslaught-Arena liegt mitten im Urwald und gehört somit zu den Lieblingsarenen von Holzarbeitern und Baumstreichlern."
+
+[Volume0]
+LocationName="ROTE Basis"
+
+[Volume2]
+LocationName="ROTE Seitenbasis"
+
+[Volume3]
+LocationName="Mittlerer Knoten"
+
+[Volume4]
+LocationName="BLAUE Seitenbasis"
+
+[Volume5]
+LocationName="BLAUE Basis"
+
+[ZoneInfo0]
+LocationName="Wandern in den Wäldern"
+

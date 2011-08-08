@@ -1,0 +1,53 @@
+[LevelInfo0]
+Title="Torlan"
+
+[LevelSummary]
+Title="Torlan"
+Description="En las afueras de un continente de frondosas junglas, dos facciones se enfrentan en feroz combate para controlar una importante torre de comunicaciones y su suministro de energía adyacente. Gracias a la presa que retiene las aguas de la jungla cercana, el lecho de río seco que cruza el campo de batalla ofrece una ruta de ataque fácil al territorio enemigo, y puede proporcionar una victoria decisiva para hacerse con la torre de comunicaciones."
+
+[Volume0]
+LocationName="Base azul"
+
+[Volume1]
+LocationName="Cañón central"
+
+[Volume10]
+LocationName="Generación central"
+
+[Volume11]
+LocationName="Cañón central"
+
+[Volume12]
+LocationName="Primer nodo de energía rojo"
+
+[Volume13]
+LocationName="Puente de torre"
+
+[Volume2]
+LocationName="Base roja"
+
+[Volume3]
+LocationName="Torre azul"
+
+[Volume4]
+LocationName="Torre roja"
+
+[Volume5]
+LocationName="Nodo de energía central"
+
+[Volume6]
+LocationName="Segundo nodo de energía rojo"
+
+[Volume7]
+LocationName="Segundo nodo de energía azul"
+
+[Volume8]
+LocationName="Primer nodo de energía azul"
+
+[Volume9]
+LocationName="Torre central"
+
+[ZoneInfo0]
+LocationName="Exterior"
+
+

@@ -1,0 +1,187 @@
+[LevelInfo0]
+Title="Double Dammage"
+
+[LevelSummary]
+Title="Double Dammage"
+Description="Einige Leute behaupten, man müsse verrückt sein, um mitten im Winter auf einem Wasserdamm zu spielen. Hier nennen wir diese Leute "Opfer"."
+
+[PhysicsVolume1]
+LocationName="Ice Field"
+
+[ZoneInfo0]
+LocationName="BLAUER Flaggen-Raum"
+
+[ZoneInfo11]
+LocationName="BLAUER Hinterraum"
+
+[ZoneInfo20]
+LocationName="BLAUER Hinterraum"
+
+[ZoneInfo24]
+LocationName="ROTER Flaggen-Raum"
+
+[ZoneInfo29]
+LocationName="ROTER Hinterraum"
+
+[ZoneInfo30]
+LocationName="BLAUE Eingangshalle"
+
+[ZoneInfo37]
+LocationName="BLAUES Foyer"
+
+[ZoneInfo40]
+LocationName="BLAUE obere Halle links"
+
+[ZoneInfo41]
+LocationName="BLAUE obere Halle links"
+
+[ZoneInfo42]
+LocationName="BLAUE obere Halle rechts"
+
+[ZoneInfo43]
+LocationName="BLAUE obere Halle rechts"
+
+[ZoneInfo44]
+LocationName="ROTER Sniper-Aufzug"
+
+[ZoneInfo45]
+LocationName="ROTER Hinterraum"
+
+[ZoneInfo46]
+LocationName="ROTER Hinterraum"
+
+[ZoneInfo47]
+LocationName="ROTE Eingangshalle"
+
+[ZoneInfo48]
+LocationName="ROTES Foyer"
+
+[ZoneInfo49]
+LocationName="ROTE obere Halle links"
+
+[ZoneInfo5]
+LocationName="BLAUER Hinterraum"
+
+[ZoneInfo50]
+LocationName="ROTE obere Halle links"
+
+[ZoneInfo51]
+LocationName="ROTE obere Halle rechts"
+
+[ZoneInfo52]
+LocationName="ROTE obere Halle rechts"
+
+[ZoneInfo53]
+LocationName="ROTE obere Halle rechts"
+
+[ZoneInfo54]
+LocationName="ROTES Foyer"
+
+[ZoneInfo56]
+LocationName="ROTES oberes Foyer"
+
+[ZoneInfo57]
+LocationName="ROTES oberes Foyer"
+
+[ZoneInfo58]
+LocationName="ROTE obere Halle links"
+
+[ZoneInfo59]
+LocationName="ROTER Flur links"
+
+[ZoneInfo6]
+LocationName="BLAUER Sniper-Aufzug"
+
+[ZoneInfo60]
+LocationName="BLAUE obere Halle rechts"
+
+[ZoneInfo61]
+LocationName="ROTES Foyer"
+
+[ZoneInfo62]
+LocationName="ROTES Foyer"
+
+[ZoneInfo63]
+LocationName="ROTER Flur links"
+
+[ZoneInfo64]
+LocationName="ROTER Flur links"
+
+[ZoneInfo65]
+LocationName="ROTER Flur links"
+
+[ZoneInfo66]
+LocationName="BLAUES Foyer"
+
+[ZoneInfo67]
+LocationName="ROTER Flur rechts"
+
+[ZoneInfo68]
+LocationName="ROTER Flur rechts"
+
+[ZoneInfo69]
+LocationName="ROTES Foyer"
+
+[ZoneInfo7]
+LocationName="Außenbereich"
+
+[ZoneInfo70]
+LocationName="BLAUES Foyer"
+
+[ZoneInfo71]
+LocationName="ROTER Lagerraum"
+
+[ZoneInfo72]
+LocationName="ROTER Lagerraum"
+
+[ZoneInfo73]
+LocationName="ROTER Lagerraum"
+
+[ZoneInfo74]
+LocationName="ROTER Flur rechts"
+
+[ZoneInfo75]
+LocationName="BLAUES Foyer oben"
+
+[ZoneInfo76]
+LocationName="BLAUES Foyer oben"
+
+[ZoneInfo77]
+LocationName="BLAUE obere Halle links"
+
+[ZoneInfo78]
+LocationName="BLAUER Flur links"
+
+[ZoneInfo79]
+LocationName="BLAUES Foyer"
+
+[ZoneInfo80]
+LocationName="BLAUES Foyer"
+
+[ZoneInfo81]
+LocationName="BLAUER Flur links"
+
+[ZoneInfo82]
+LocationName="BLAUER Flur links"
+
+[ZoneInfo83]
+LocationName="BLAUER Flur links"
+
+[ZoneInfo84]
+LocationName="BLAUER Flur rechts"
+
+[ZoneInfo85]
+LocationName="BLAUER Flur rechts"
+
+[ZoneInfo87]
+LocationName="BLAUER Lagerraum"
+
+[ZoneInfo88]
+LocationName="BLAUER Lagerraum"
+
+[ZoneInfo89]
+LocationName="BLAUER Lagerraum"
+
+[ZoneInfo90]
+LocationName="BLAUER Flur rechts"
+

@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title="Mixer"
+
+[LevelSummary]
+Title="Mixer"
+Description="Gunsmoke and death aren't the only things you'll smell here."
+
+[ZoneInfo0]
+LocationName="Pipe"
+
+[ZoneInfo1]
+LocationName="Shield Chamber"
+
+[ZoneInfo10]
+LocationName="Minigun"
+
+[ZoneInfo11]
+LocationName="Rocket Launcher"
+
+[ZoneInfo12]
+LocationName="Double Damage"
+
+[ZoneInfo13]
+LocationName="Lift"
+
+[ZoneInfo14]
+LocationName="Lift"
+
+[ZoneInfo3]
+LocationName="Pipes"
+
+[ZoneInfo5]
+LocationName="Lightning Gun"
+
+[ZoneInfo6]
+LocationName="Link Gun"
+
+[ZoneInfo7]
+LocationName="Basement"
+
+[ZoneInfo9]
+LocationName="Shock Rifle"
+

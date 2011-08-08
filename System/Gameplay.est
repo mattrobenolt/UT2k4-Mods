@@ -1,0 +1,292 @@
+[ACTION_DamageActor]
+ActionString="Intérp. daño"
+
+[ACTION_DestroyActor]
+ActionString="Dest. intérp."
+
+[ACTION_FinishRotation]
+ActionString="Finalizar rot."
+
+[ACTION_FireWeapon]
+ActionString="arma de fuego"
+
+[ACTION_Freeze]
+ActionString="Parar"
+
+[ACTION_Jump]
+ActionString="Salto"
+
+[ACTION_LocalizedMessage]
+ActionString="Mensaje localizado"
+
+[ACTION_SetPhysics]
+ActionString="cambio modo físico A "
+
+[ACTION_ShootTarget]
+ActionString="disparar a objeto"
+
+[ACTION_SpawnActor]
+ActionString="Generizar actor"
+
+[ACTION_ThrowWeapon]
+ActionString="lanzar arma"
+
+[ACTION_FireWeaponAt]
+ActionString="fire weapon"
+
+[ACTION_HealActor]
+ActionString="Heal actor"
+
+[ACTION_FireWeaponAt]
+ActionString="Dispara arma"
+
+[ACTION_HealActor]
+ActionString="Curar"
+
+[ActionMessage_BR]
+Messages[0]="Carrera de bombardeo"
+Messages[1]="La pelota está en el centro"
+Messages[2]="Toca la pelota para recogerla"
+Messages[3]="El portador de la pelota no puede atacar"
+Messages[4]="El disparo primario lanza la pelota"
+Messages[5]="El disparo alternativo elige a compañeros"
+Messages[6]="Pasa la pelota a los compañeros"
+Messages[7]="Cada equipo tiene un objetivo redondeado"
+Messages[8]="Lanzar la pelota = 3 puntos"
+Messages[9]="Llevarla = 7 puntos"
+Messages[10]="¡Buena suerte!"
+
+[ActionMessage_CTF]
+Messages[0]="Capturar Bandera"
+Messages[1]="Dos bases: roja y azul"
+Messages[2]="Toca la bandera enemiga para cogerla"
+Messages[3]="Vuelve a tu base"
+Messages[4]="Toca la bandera para anotar un tanto"
+Messages[5]="El transporte hace que pierdas la bandera"
+Messages[6]="Límite predeterminado de capturas es 3"
+Messages[7]="¡Buena suerte!"
+
+[ActionMessage_DM]
+Messages[0]="Combate Mortal"
+Messages[1]="Pulsa disparo para iniciar"
+Messages[2]="Las armas tienen dos modos de disparo"
+Messages[3]="Disparo normal y alternativo"
+Messages[4]="Rifle asalto"
+Messages[5]="Dispara balas y granadas"
+Messages[6]="Cañón protector"
+Messages[7]="Ataque cuerpo a cuerpo"
+Messages[8]="Escudo protector"
+Messages[9]="Explora para encontrar otras armas"
+Messages[10]="Antiaéreo"
+Messages[11]="Bio-Rifle"
+Messages[12]="Cañón automático"
+Messages[13]="Movimiento"
+Messages[14]="Teclas de movimiento predeterminadas = WASD"
+Messages[15]="Pulsa dos veces una tecla para esquivar"
+Messages[16]="Saltar"
+Messages[17]="Doble salto"
+Messages[18]="Mejoras"
+Messages[19]="Frascos de curación"
+Messages[20]="Botiquín"
+Messages[21]="Gran barril saludable"
+Messages[22]="Armadura"
+Messages[23]="Carga de escudo"
+Messages[24]="Carga de superescudo"
+Messages[25]="Adrenalina"
+Messages[26]="La adrenalina se puede usar para combos"
+Messages[27]="Amplificador de daño"
+Messages[28]="¡Alcanza el límite de enemigos abatidos!"
+Messages[29]="Los suicidios cuentan en tu contra"
+Messages[30]="¡Buena suerte!"
+
+[ActionMessage_DOM]
+Messages[0]="Dominación doble"
+Messages[1]="Puntos de control : A y B"
+Messages[2]="Mantener puntos durante 10 segundos"
+Messages[3]="Toca el punto para tomar el control"
+Messages[4]="¡Buena suerte!"
+
+[ActionMessage_SubTitle]
+Delays[0]=4
+Delays[1]=4
+Delays[2]=8
+Delays[3]=8
+Delays[4]=8
+Delays[5]=8
+Delays[6]=8
+Delays[7]=8
+Delays[8]=8
+Delays[9]=8
+Delays[10]=8
+Delays[11]=8
+Delays[12]=8
+Delays[13]=8
+Delays[14]=8
+Delays[15]=8
+Delays[16]=8
+Delays[17]=8
+Delays[18]=8
+Delays[19]=8
+Delays[20]=8
+Delays[21]=8
+Delays[22]=0
+Delays[23]=0
+Delays[24]=0
+Delays[25]=0
+Delays[26]=0
+Delays[27]=0
+Delays[28]=0
+Delays[29]=0
+Delays[30]=0
+Delays[31]=0
+Messages[0]="¿Qué pinta tengo?"
+Messages[1]="No tan buena como yo, cariño..."
+Messages[2]="Saludos, aficionados, estamos aquí para otra edición de la competición deportiva más sangrienta de la galaxia. ¡Un torneo en el que los vencedores se convertirán en dioses y los perdedores pagarán el precio póstumo!"
+Messages[3]="¡ALLÍ ESTÁN! En tiempos fueron rivales, pero ahora forman uno de los equipos más aguerridos de la competición."
+Messages[4]="Es cierto. Nada es mejor que la experiencia y cada uno de estos tres tiene una barbaridad."
+Messages[5]="¡Miren a Malcolm! Es un tío que puede mantenerse en calma en mitad de un tiroteo."
+Messages[6]="Ése es Brock. ¡Es el terror de las nenas FUERA del ring y el terror de sus enemigos DENTRO!"
+Messages[7]="Me encanta mirar a Lauren. Es una pequeña... concentración de energía."
+Messages[8]="Sí, claro... te gusta mirar a Lauren por su energía."
+Messages[9]="¡¡¡Esta vez, él es MÍO!!"
+Messages[10]="AAGGGHHHHRRRR"
+Messages[11]="¡Eres el hombre, Gorge! ¡Te sales! ¡Sí, cielo, vamos, ahora, colega, eres el hombre!"
+Messages[12]="¡MAAAALLLCOOOOOMMM!"
+Messages[13]="Tío, ¿has visto eso?"
+Messages[14]="Créeme Jim, ese Gorge no tiene respeto por sus fans."
+Messages[15]="Bueno, yo creo que está mosqueado por esa nueva cicatriz de su cara, cortesía de Malcolm en su último encuentro."
+Messages[16]="Sí, me parece que está buscando un poco de VENGANZA."
+Messages[17]="Sí, esta noche puede ser una gran noche."
+Messages[18]="Como el equipo de Malcolm es el vigente campeón, hoy podrán elegir el estadio que prefieran."
+Messages[19]="Parece que va a ser... los campos de hielo de Kalandra."
+Messages[20]="Ohhhh, sí, me encanta ese estadio, Malcolm lo hace tremendamente bien allí."
+Messages[21]="El encuentro de hoy será todo un baño de sangre."
+
+[Action_CHANGELEVEL]
+ActionString="Cambiar nivel"
+
+[Action_CHANGESCRIPT]
+ActionString="Cambiar diálogo"
+
+[Action_CHANGETEAM]
+ActionString="Cambiar equipo"
+
+[Action_CROUCH]
+ActionString="agacharse"
+
+[Action_ConsoleCommand]
+ActionString="comando consola"
+
+[Action_DAMAGEINSTIGATOR]
+ActionString="Instigador daño"
+
+[Action_DESTROYPAWN]
+ActionString="destrozar actor"
+
+[Action_DISPLAYMESSAGE]
+ActionString="visualizar mensaje"
+
+[Action_ENDSECTION]
+ActionString="finalizar secuencia"
+
+[Action_FADEVIEW]
+ActionString="fundido"
+
+[Action_GOTOACTION]
+ActionString="empezar acción"
+
+[Action_IFCONDITION]
+ActionString="Si condición"
+
+[Action_KILLINSTIGATOR]
+ActionString="Instigador daño"
+
+[Action_LEAVESEQUENCE]
+ActionString="abandonar secuencia"
+
+[Action_MOVETOPLAYER]
+ActionString="Mover jugador"
+
+[Action_MOVETOPOINT]
+ActionString="Mover a punto"
+
+[Action_PLAYAMBIENTSOUND]
+ActionString="reproducir sonido ambiente"
+
+[Action_PLAYANIM]
+ActionString="reproducir animación"
+
+[Action_PLAYLOCALSOUND]
+ActionString="reproducir sonido local"
+
+[Action_PLAYMUSIC]
+ActionString="reproducir musica"
+
+[Action_PLAYSOUND]
+ActionString="reproducir sonido"
+
+[Action_RUN]
+ActionString="Correr"
+
+[Action_SETALERTNESS]
+ActionString="Activar alerta"
+
+[Action_SETVIEWTARGET]
+ActionString="definir visión objeto"
+
+[Action_STOPANIMATION]
+ActionString="parar animación"
+
+[Action_TRIGGEREVENT]
+ActionString="activar evento"
+
+[Action_TURNTOWARDPLAYER]
+ActionString="Girar hacia jugador"
+
+[Action_WAITFORANIMEND]
+ActionString="Esperar fin animación"
+
+[Action_WAITFOREVENT]
+ActionString="Esperar evento externo"
+
+[Action_WAITFORPLAYER]
+ActionString="Esperar a jugador"
+
+[Action_WAITFORTIMER]
+ActionString="Esperar temporizador"
+
+[Action_WALK]
+ActionString="andar"
+
+[Burned]
+DeathString="%o quemado"
+
+[Corroded]
+DeathString="%o fue disuelto por %k."
+FemaleSuicide="%o disuelto en limo."
+MaleSuicide="%o disuelto en limo."
+
+[Counter]
+CountMessage="Solo %i más para terminar..."
+CompleteMessage="¡Completado!"
+
+[Depressurized]
+DeathString="%o despresurizado por %k."
+FemaleSuicide="%o se despresurizó."
+MaleSuicide="%o se despresurizó."
+
+[Drowned]
+DeathString="%o olvidó salir a respirar."
+FemaleSuicide="%o olvidó salir a respirar."
+MaleSuicide="%o olvidó salir a respirar."
+
+[MessageTextureClient]
+HisMessage="su"
+HerMessage="su"
+
+[ScriptedAction]
+ActionString="acción dialogada."
+
+[WaterVolume]
+LocationName="volumén del agua"
+

@@ -1,0 +1,76 @@
+[LevelInfo0]
+Title="Face Classic"
+
+[LevelInfo13]
+Title="Facing Worlds"
+
+[LevelSummary]
+Title="Face Classic"
+Description="Dieser Insel-Asteroid mit seinen zwei Türmen hat sich als perfekter Austragungsort für CTF-Turniere erwiesen, mögen die Spiele beginnen!"
+
+[Volume0]
+LocationName="BLAUE Basis Sniper-Loft unten"
+
+[Volume1]
+LocationName="BLAUE Basis Sniper-Vorsprung oben"
+
+[Volume2]
+LocationName="ROTE Basis Sniper-Vorsprung oben"
+
+[Volume3]
+LocationName="ROTE Basis Sniper-Loft unten"
+
+[Volume4]
+LocationName="Freies Feld Mitte"
+
+[ZoneInfo0]
+LocationName="ROTE Basis unteres Level"
+
+[ZoneInfo1]
+LocationName="ROTE Basis Sniper-Vorsprung oben"
+
+[ZoneInfo10]
+LocationName="Freies Feld BLAUE Seite"
+
+[ZoneInfo18]
+LocationName="BLAUE Basis unteres Level"
+
+[ZoneInfo19]
+LocationName="BLAUE Basis Sniper-Vorsprung oben"
+
+[ZoneInfo2]
+LocationName="ROTE Basis Sniper-Loft unten"
+
+[ZoneInfo20]
+LocationName="BLAUE Basis Sniper-Loft unten"
+
+[ZoneInfo21]
+LocationName="BLAUE Basis Reedemer-Loft"
+
+[ZoneInfo22]
+LocationName="Eingang BLAUE Basis"
+
+[ZoneInfo24]
+LocationName="BLAUE Basis unteres Level"
+
+[ZoneInfo25]
+LocationName="BLAUE Basis unteres Level"
+
+[ZoneInfo3]
+LocationName="ROTE Basis Reedemer-Loft"
+
+[ZoneInfo4]
+LocationName="Eingang ROTE Basis"
+
+[ZoneInfo6]
+LocationName="ROTE Basis unteres Level"
+
+[ZoneInfo7]
+LocationName="ROTE Basis unteres Level"
+
+[ZoneInfo8]
+LocationName="ROTE Basis unteres Level"
+
+[ZoneInfo9]
+LocationName="Freies Feld ROTE Seite"
+

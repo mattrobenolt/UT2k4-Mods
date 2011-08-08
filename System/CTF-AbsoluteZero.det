@@ -1,0 +1,91 @@
+[LevelInfo0]
+Title="Absolute Zero"
+
+[LevelSummary]
+Title="Absolute Zero"
+Description="'Absolute Zero' ist eine ehemalige Gletscher-Forschungs- station, die durch massive Erdrutsche in Folge der globalen Erwärmung schwer in Mitleidenschaft gezogen wurde. Nachdem die Forscher und Wissenschaftler in aller Eile evakuiert worden waren, hatte Liandri diese Basis für das Tournament erworben. Eine warme Begrüßung durch die Teammitglieder mag von den Tiefsttemperaturen ablenken. Das sollte aber niemanden darüber hinweg täuschen, dass die Feinde hier eiskalt sein können ..."
+
+[Volume0]
+LocationName="ROTER Generator-Raum unten"
+
+[Volume1]
+LocationName="BLAUER Generator-Raum unten"
+
+[Volume10]
+LocationName="BLAUE untere Halle"
+
+[Volume11]
+LocationName="ROTE untere Halle"
+
+[Volume12]
+LocationName="ROTER Flaggenraum"
+
+[Volume13]
+LocationName="BLAUER Flaggenraum"
+
+[Volume14]
+LocationName="BLAUE obere Halle A-Seite"
+
+[Volume15]
+LocationName="BLAUE obere Halle B-Seite"
+
+[Volume16]
+LocationName="Treppe - BLAUE Flagge"
+
+[Volume17]
+LocationName="ROTE obere Halle A-Seite"
+
+[Volume18]
+LocationName="ROTE obere Halle B-Seite"
+
+[Volume19]
+LocationName="Treppe - ROTE Flagge"
+
+[Volume2]
+LocationName="BLAUER Generator-Raum oben"
+
+[Volume20]
+LocationName="ROTE obere Halle"
+
+[Volume21]
+LocationName="BLAUE obere Halle"
+
+[Volume23]
+LocationName="Ion-Painter-Brücke"
+
+[Volume24]
+LocationName="Redeemer-Brücke"
+
+[Volume25]
+LocationName="BLAUER Sniper-Turm: Redeemer-Seite"
+
+[Volume26]
+LocationName="BLAUER Sniper-Turm: Painter-Seite"
+
+[Volume27]
+LocationName="ROTER Sniper-Turm: Redeemer-Seite"
+
+[Volume28]
+LocationName="ROTER Sniper-Turm: Painter-Seite"
+
+[Volume29]
+LocationName="BLAU draußen"
+
+[Volume3]
+LocationName="ROTER Generator-Raum oben"
+
+[Volume30]
+LocationName="ROT draußen"
+
+[Volume6]
+LocationName="ROTE untere Halle B-Seite"
+
+[Volume7]
+LocationName="ROTE untere Halle A-Seite"
+
+[Volume8]
+LocationName="BLAUE untere Halle B-Seite"
+
+[Volume9]
+LocationName="BLAUE untere Halle A-Seite"
+

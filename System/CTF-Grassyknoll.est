@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title="Grassy Knoll"
+
+[LevelSummary]
+Title="Grassy Knoll"
+Description="La brisa templada que sopla a través de los árboles trae el hedor a metal caliente y azufre, junto con el olor a cobre de la sangre. En algún lugar, más adelante, los ecos de una risa demente avisan de un rifle de plasma, intentando intimidar a un enemigo invisible. El crepitar de la carne chamuscada es la única respuesta. Aquí no hay balas mágicas, ni conspiraciones, solo un grupo de enemigos que derrotar y una bandera que llevar a casa."
+
+[LimitationVolume1]
+LocationName="Campo de minas"
+
+[PhysicsVolume12]
+LocationName="Exteriores rojos"
+
+[PhysicsVolume13]
+LocationName="Exteriores azules"
+
+[Volume0]
+LocationName="Adrenalina azul"
+
+[Volume1]
+LocationName="Bosque del francotirador"
+
+[Volume2]
+LocationName="Superescudo"
+
+[Volume3]
+LocationName="Adrenalina roja"
+
+[Volume4]
+LocationName="Daño doble"
+
+[Volume5]
+LocationName="Base azul"
+
+[Volume6]
+LocationName="Base roja"
+

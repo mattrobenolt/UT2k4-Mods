@@ -1,0 +1,25 @@
+[LevelInfo0]
+Title="Conduit"
+
+[LevelSummary]
+Title="Conduit"
+Description="Die pulsierende Ladung der Kanalleitung dient dazu, eine energiehungrige Gesellschaft zu befriedigen. Die pulsierenden Team-Schlachten in der Kanalleitung dienen dazu, eine degenerierte, blutdürstige Gesellschaft zu befriedigen. "
+
+[ZoneInfo0]
+LocationName="Mittelbasis"
+
+[ZoneInfo1]
+LocationName="BLAUE Waffenkammer"
+
+[ZoneInfo3]
+LocationName="ROTE Waffenkammer"
+
+[ZoneInfo4]
+LocationName="Dom. Punkt B"
+
+[ZoneInfo5]
+LocationName="Zentralleitung"
+
+[ZoneInfo6]
+LocationName="Dom. Punkt A"
+

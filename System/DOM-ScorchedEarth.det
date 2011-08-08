@@ -1,0 +1,63 @@
+[LevelInfo0]
+Title="Scorched Earth"
+
+[LevelSummary]
+Title="Scorched Earth"
+
+[PhysicsVolume0]
+LocationName="Spawn-Bereich BLAU"
+
+[PhysicsVolume1]
+LocationName="Spawn-Bereich ROT"
+
+[ZoneInfo0]
+LocationName="Innen"
+
+[ZoneInfo1]
+LocationName="Hinterer Korridor B"
+
+[ZoneInfo14]
+LocationName="Auﬂen"
+
+[ZoneInfo15]
+LocationName="Innen"
+
+[ZoneInfo16]
+LocationName="Spawn-Bereich BLAU"
+
+[ZoneInfo17]
+LocationName="Vorderer Korridor A"
+
+[ZoneInfo18]
+LocationName="Vorderer Korridor A"
+
+[ZoneInfo19]
+LocationName="Dom. Punkt A"
+
+[ZoneInfo2]
+LocationName="Skybox"
+
+[ZoneInfo20]
+LocationName="Hinterer Korridor A"
+
+[ZoneInfo3]
+LocationName="Innen"
+
+[ZoneInfo4]
+LocationName="Innen"
+
+[ZoneInfo5]
+LocationName="Innen"
+
+[ZoneInfo6]
+LocationName="Vorderer Korridor B"
+
+[ZoneInfo7]
+LocationName="Spawn-Bereich ROT"
+
+[ZoneInfo8]
+LocationName="Vorderer Korridor B"
+
+[ZoneInfo9]
+LocationName="Dom. Punkt B"
+

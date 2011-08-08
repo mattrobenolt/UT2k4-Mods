@@ -1,0 +1,97 @@
+[LevelInfo0]
+Title="ElecFields"
+
+[LevelSummary]
+Title="ElecFields"
+Description="Desde su presentación en la pasada temporada, las torres estáticas del curso del Marakan han probado ser uno de los lugares más populares de los Torneos. Mientras los participantes se abren camino sangrientamente hasta la victoria, se revela la auténtica naturaleza de los gladiadores modernos. Bien en competiciones de tipo CLB o Carrera de bombardeo, los jugadores deben tener continuamente una cosa en mente ya que combaten en los venenosos cielos de Purgatorio: el camino hacia abajo es realmente largo."
+
+[Volume0]
+LocationName="Frontal azul"
+
+[Volume1]
+LocationName="Zona de generación azul"
+
+[Volume10]
+LocationName="Rampa de base roja"
+
+[Volume11]
+LocationName="Rampa de base roja"
+
+[Volume12]
+LocationName="Rampa inferior de frontal azul"
+
+[Volume13]
+LocationName="Rampa inferior de frontal rojo"
+
+[Volume14]
+LocationName="Rampa inferior de frontal azul"
+
+[Volume15]
+LocationName="Rampa inferior de frontal azul"
+
+[Volume16]
+LocationName="Rampa inferior de frontal rojo"
+
+[Volume17]
+LocationName="Rampa inferior de frontal rojo"
+
+[Volume18]
+LocationName="Zona superior media"
+
+[Volume19]
+LocationName="Zona de la torre"
+
+[Volume2]
+LocationName="Zona inferior media"
+
+[Volume20]
+LocationName="Rampa superior de frontal azul"
+
+[Volume21]
+LocationName="Rampa superior de frontal azul"
+
+[Volume22]
+LocationName="Rampa superior de frontal azul"
+
+[Volume23]
+LocationName="Rampa superior de frontal rojo"
+
+[Volume24]
+LocationName="Rampa superior de frontal rojo"
+
+[Volume25]
+LocationName="Rampa superior de frontal rojo"
+
+[Volume26]
+LocationName="Rampa inferior de frontal rojo"
+
+[Volume27]
+LocationName="Rampa inferior de frontal azul"
+
+[Volume28]
+LocationName="Base azul"
+
+[Volume3]
+LocationName="Zona de generación roja"
+
+[Volume4]
+LocationName="Frontal rojo"
+
+[Volume5]
+LocationName="Rampa de base azul"
+
+[Volume6]
+LocationName="Rampa de base azul"
+
+[Volume7]
+LocationName="Base roja"
+
+[Volume8]
+LocationName="Frontal rojo"
+
+[Volume9]
+LocationName="Frontal azul"
+
+[ZoneInfo0]
+LocationName="Exterior"
+

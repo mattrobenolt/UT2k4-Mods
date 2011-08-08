@@ -1,0 +1,57 @@
+[LevelInfo0]
+Title="Hot Iron Injector"
+
+[LevelSummary]
+Title="Hot Iron Injector"
+Description="Die Gieﬂerei ist ein komplexer Neuzugang beim Tournament: Ein gewundenes Labyrinth, bestehend aus beeindruckenden Strukturen, Rohrleitungen und Generatoren. Passen Sie in den engeren G‰ngen besonders auf, und halten Sie unbedingt Ihre Augen offen, wenn Sie sich den Superschild holen wollen!"
+
+[ZoneInfo0]
+LocationName="Superschield"
+
+[ZoneInfo10]
+LocationName="Double Damage"
+
+[ZoneInfo11]
+LocationName="Gang des Todes"
+
+[ZoneInfo12]
+LocationName="Winkel"
+
+[ZoneInfo13]
+LocationName="Kleiner Winkel"
+
+[ZoneInfo14]
+LocationName="Link-Munition"
+
+[ZoneInfo15]
+LocationName="Toilette"
+
+[ZoneInfo2]
+LocationName="Lightning Gun"
+
+[ZoneInfo3]
+LocationName="Elektrischer Gang"
+
+[ZoneInfo4]
+LocationName="Shock Rifle und Bio Rifle"
+
+[ZoneInfo5]
+LocationName="Rocket Launcher und Link"
+
+[ZoneInfo6]
+LocationName="Schrank"
+
+[ZoneInfo8]
+LocationName="Hangar"
+
+[ZoneInfo9]
+LocationName="Double Damage"
+
+
+
+
+
+
+
+
+

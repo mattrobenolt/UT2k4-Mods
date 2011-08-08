@@ -1,0 +1,6 @@
+[General]
+Start="Campionato Unreal (avvio)"
+Exit="Campionato Unreal (uscita)"
+Run="Campionato Unreal (esecuzione)"
+Product="Campionato Unreal"
+Abbreviation="CU"

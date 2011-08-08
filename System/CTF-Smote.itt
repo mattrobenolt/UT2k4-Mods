@@ -1,0 +1,169 @@
+[LavaVolume10]
+LocationName="Nella lava!"
+
+[LavaVolume12]
+LocationName="Nella lava!"
+
+[LavaVolume13]
+LocationName="Nella lava!"
+
+[LavaVolume15]
+LocationName="Nella lava!"
+
+[LavaVolume16]
+LocationName="Nella lava!"
+
+[LavaVolume2]
+LocationName="Nella lava!"
+
+[LavaVolume23]
+LocationName="Nella lava!"
+
+[LavaVolume24]
+LocationName="Nella lava!"
+
+[LavaVolume25]
+LocationName="Nella lava!"
+
+[LavaVolume26]
+LocationName="Nella lava!"
+
+[LavaVolume5]
+LocationName="Nella lava!"
+
+[LavaVolume7]
+LocationName="Nella lava!"
+
+[LavaVolume9]
+LocationName="Nella lava!"
+
+[LevelInfo0]
+Title="Falcidia"
+
+[LevelSummary]
+Title="Falcidia"
+Description="La terra trema sotto i tuoi piedi e dal cielo piovono cenere e lapilli. La strada della vittoria è insidiosa e letale come i nemici che affronterai sul campo di battaglia, ma ancor meno pietosa."
+
+[Volume10]
+LocationName="Sentieri principali della base rossa"
+
+[Volume11]
+LocationName="Sentieri superiori della base rossa"
+
+[Volume12]
+LocationName="Sentieri principali della base rossa"
+
+[Volume13]
+LocationName="Sentieri superiori della base blu"
+
+[Volume14]
+LocationName="Sentieri principali della base blu"
+
+[Volume16]
+LocationName="Fortificazioni della base blu"
+
+[Volume17]
+LocationName="Sentieri principali della base blu"
+
+[Volume20]
+LocationName="Lato del vulcano"
+
+[Volume21]
+LocationName="Sentieri superiori della base blu"
+
+[Volume22]
+LocationName="Sentieri superiori della base blu"
+
+[Volume23]
+LocationName="Caverne del vulcano"
+
+[Volume5]
+LocationName="Sentieri inferiori della base rossa"
+
+[Volume6]
+LocationName="Sentieri inferiori della base rossa"
+
+[Volume7]
+LocationName="Sentieri inferiori della base rossa"
+
+[Volume8]
+LocationName="Sentieri superiori della base blu"
+
+[Volume9]
+LocationName="Fortificazioni della base rossa"
+
+[ZoneInfo0]
+LocationName="Ingresso della cantina della base rossa"
+
+[ZoneInfo1]
+LocationName="Oltre i limiti!"
+
+[ZoneInfo11]
+LocationName="Ingresso principale della base blu"
+
+[ZoneInfo12]
+LocationName="Ingresso della cantina della base blu"
+
+[ZoneInfo13]
+LocationName="Stanza della bandiera blu"
+
+[ZoneInfo14]
+LocationName="Caverne del vulcano"
+
+[ZoneInfo15]
+LocationName="Caverne del vulcano"
+
+[ZoneInfo16]
+LocationName="Ingresso principale della base blu"
+
+[ZoneInfo17]
+LocationName="Accesso alla cantina della base blu"
+
+[ZoneInfo18]
+LocationName="Ingresso principale della base rossa"
+
+[ZoneInfo19]
+LocationName="Accesso alla cantina della base rossa"
+
+[ZoneInfo2]
+LocationName="Cantina della base rossa"
+
+[ZoneInfo20]
+LocationName="Stanza della bandiera rossa"
+
+[ZoneInfo21]
+LocationName="Torre della base blu"
+
+[ZoneInfo22]
+LocationName="Torre della base rossa"
+
+[ZoneInfo23]
+LocationName="Cantina della base blu"
+
+[ZoneInfo24]
+LocationName="Ingresso della cantina della base blu"
+
+[ZoneInfo25]
+LocationName="Cantina della base blu"
+
+[ZoneInfo26]
+LocationName="Cantina della base blu"
+
+[ZoneInfo3]
+LocationName="Cantina della base rossa"
+
+[ZoneInfo4]
+LocationName="Cantina della base rossa"
+
+[ZoneInfo5]
+LocationName="Ingresso della cantina della base rossa"
+
+[ZoneInfo6]
+LocationName="Ingresso principale della base rossa"
+
+[ZoneInfo8]
+LocationName="Ingresso della torre della base rossa"
+
+[ZoneInfo9]
+LocationName="Ingresso della torre della base blu"
+

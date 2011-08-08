@@ -1,0 +1,45 @@
+[LevelInfo0]
+Title="Antalus"
+
+[LevelSummary]
+Title="Antalus"
+
+[Volume0]
+LocationName="Área del rifle de choque"
+
+[Volume1]
+LocationName="Área del estanque"
+
+[Volume2]
+LocationName="Área del Flak"
+
+[Volume3]
+LocationName="Área de Enlaz-Lanzac"
+
+[Volume4]
+LocationName="Área Enlaz-Cañón prot-Minigun"
+
+[Volume5]
+LocationName="Colina del arma eléctrica"
+
+[Volume6]
+LocationName="Pasillo de adrenalina"
+
+[WaterVolume0]
+LocationName="Bajo el agua"
+
+[ZoneInfo0]
+LocationName="Cueva del súper-escudo"
+
+[ZoneInfo1]
+LocationName="Exterior"
+
+[ZoneInfo2]
+LocationName="Cueva del súper-escudo"
+
+[ZoneInfo3]
+LocationName="Cueva del súper-escudo"
+
+[ZoneInfo4]
+LocationName="Cueva del súper-escudo"
+

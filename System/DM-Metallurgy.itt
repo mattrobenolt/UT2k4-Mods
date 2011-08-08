@@ -1,0 +1,76 @@
+[LevelInfo0]
+Title="Metallurgia"
+
+[LevelSummary]
+Title="Metallurgia"
+Description="Qui si distinguono i forti dai deboli, gli esperti dagli incompetenti. Metallurgia ti metterà alla prova."
+
+[Volume0]
+LocationName="Vicino alla cisterna"
+
+[Volume1]
+LocationName="Fuori dalla cascata di metallo fuso"
+
+[Volume10]
+LocationName="Sotto i condotti di metallo fuso"
+
+[Volume11]
+LocationName="Fra i pilastri"
+
+[Volume12]
+LocationName="Fra i pilastri"
+
+[Volume13]
+LocationName="Livello del secondo piano"
+
+[Volume14]
+LocationName="Livello del secondo piano"
+
+[Volume15]
+LocationName="Livello del secondo piano"
+
+[Volume16]
+LocationName="Livello del primo piano"
+
+[Volume17]
+LocationName="Livello del primo piano"
+
+[Volume18]
+LocationName="Livello del primo piano"
+
+[Volume19]
+LocationName="Sul tetto"
+
+[Volume2]
+LocationName="Esterno meridionale"
+
+[Volume3]
+LocationName="Esterno occidentale"
+
+[Volume4]
+LocationName="Esterno settentrionale"
+
+[Volume5]
+LocationName="Esterno settentrionale"
+
+[Volume6]
+LocationName="Esterno settentrionale"
+
+[Volume7]
+LocationName="Esterno settentrionale"
+
+[Volume8]
+LocationName="Torre di comunicazioni"
+
+[Volume9]
+LocationName="Sopra i condotti di metallo fuso"
+
+[ZoneInfo2]
+LocationName="Cascata di metallo fuso"
+
+[ZoneInfo3]
+LocationName="Interno dell'atrio"
+
+[ZoneInfo4]
+LocationName="Interno del piano terra"
+

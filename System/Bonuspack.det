@@ -1,0 +1,92 @@
+[Public]
+;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xMutantGame,Description="DM|Mutant|BonusPack.Tab_IAMutant|BonusPack.MapListMutant|false")
+;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=BonusPack.xLastManStandingGame,Description="DM|Last Man Standing|BonusPack.Tab_IALastManStanding|BonusPack.MapListLastManStanding|false")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutCrateCombo,Description="Fügt die Tarnungs-Kombo hinzu (RRRR).")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=Bonuspack.MutPintSizeCombo,Description="Fügt die Schrumpf-Kombo hinzu (LLLL).")
+
+[ComboCrate]
+ExecMessage="Getarnt!"
+
+[ComboMiniMe]
+ExecMessage="Geschrumpft!"
+
+[DamTypeMutant]
+DeathString="%o hat eine fatale Mutation durchgemacht!"
+FemaleSuicide="%o hat eine fatale Mutation durchgemacht!"
+MaleSuicide="%o hat eine fatale Mutation durchgemacht!"
+
+[HudLMS]
+LivesRemainingString="Restliche Leben"
+PlayersRemainString="Restliche Spieler --"
+
+[HudMutant]
+MutantRangeFontName="UT2003Fonts.FontMono"
+BottomFeederText="SCHLUSSLICHT"
+
+[LMSMessage]
+YouAreCamperMessage="Sie campen!"
+SomeoneIsCamperMessage=" "
+SomeoneIsCamperMessageTrailer="campt!"
+
+[MutCrateCombo]
+CamoDisplayText="Tarnungs-Kombo"
+MiniDisplayText="Schrumpf-Kombo"
+CamoDescText="Bei Aktivierung tarnt diese Adrenalin-Kombo Sie mit der holografischen Projektion eines Felsens oder eines Gebäudeteils."
+MiniDescText="Bei Aktivierung macht diese Adrenalin-Kombo Sie kleiner."
+FriendlyName="Bonus-Kombos"
+Description="Fügt die Schrumpf-Kombo (LLLL) und die Tarnungs-Kombo (RRRR) hinzu."
+
+[MutantMessage]
+YouAreMutantMessage="Sie sind mutiert!"
+SomeoneIsMutantMessage=" "
+SomeoneIsMutantMessageTrailer="ist mutiert!"
+FFAMessage="Erster Treffer verursacht Mutation!"
+BottomFeederMessage="Sie sind das Schlusslicht!"
+NotBottomFeederMessage="Kein Schlusslicht mehr!"
+
+[MutantNameMessage]
+BottomFeederMesg="(SCHLUSSLICHT)"
+
+[ScoreBoardLMS]
+LivesText="LEBEN"
+
+[Tab_IALastManStanding]
+IARulesExtraLives.Caption="Töten bringt Gesundheit"
+IARulesExtraLives.Hint="Ist diese Option ausgewählt, wird ein Teil der Gesundheit des Spielers mit jedem Kill wiederhergestellt."
+IARulesLMSAllowAdrenaline.Caption="Adrenalin erlauben"
+IARulesLMSAllowAdrenaline.Hint="Wenn ausgewählt, können Spieler Adrenalin verwenden."
+IARulesLMSAllowPickups.Caption="Pickups zulassen"
+IARulesLMSAllowPickups.Hint="Ist diese Option ausgewählt, sind Pickups erlaubt."
+IARulesSuperWeaps.Caption="Superwaffen erlauben"
+IARulesSuperWeaps.Hint="Ist diese Option ausgewählt, sind Superwaffen-Pickups erlaubt."
+
+[Tab_IAMutant]
+TargetScoreString="Punktelimit"
+IARulesBottomFeeders.Caption="Schlusslicht"
+IARulesBottomFeeders.Hint="Wenn ausgewählt, kann/können der/die Spieler mit dem niedrigsten Rang jeden töten."
+
+[xLastManStandingGame]
+LMSPropsDisplayText[0]="Camping-Schwelle"
+LMSPropsDisplayText[1]="Camper-Warnintervall"
+LMSPropsDisplayText[2]="Gesundheit für Kills bekommen"
+LMSPropsDisplayText[3]="Superwaffen erlauben"
+LMSPropsDisplayText[4]="Camper-Alarm"
+LMSPropsDisplayText[5]="Pickups zulassen"
+LMSPropsDisplayText[6]="Adrenalin erlauben"
+LMSPropsDisplayText[7]="Volle Munition"
+LMSPropDescText[0]="Bestimmt, wie lange ein Spieler an einer Stelle stehen bleiben kann, bevor eine Camper-Warnung ausgelöst wird."
+LMSPropDescText[1]="Gibt an, wie oft die Camper-Warnung wiedergegeben wird."
+LMSPropDescText[2]="Wenn diese Option aktiviert ist, erhält der Spieler Gesundheit, nachdem er einen anderen Spieler getötet hat."
+LMSPropDescText[3]="Wenn ausgewählt, sind Superwaffen im Arsenal des Spielers enthalten."
+LMSPropDescText[4]="Ist diese Option aktiviert, wird ein Alarm ausgelöst, wenn ein Spieler sich zu lange an einer Position aufhält."
+LMSPropDescText[5]="Wenn ausgewählt, sind Pickups in der Map verfügbar."
+LMSPropDescText[6]="Wenn ausgewählt, werden Adrenalin-Kombos aktiviert."
+LMSPropDescText[7]="Wenn diese Option aktiviert ist, beginnen die Spieler mit voller Munition für alle Waffen."
+GameName="Last Man Standing"
+Description="Jeder Spieler beginnt mit einer begrenzten Anzahl an Leben. Ziel ist es, am Ende als letzter Spieler übrig zu bleiben."
+
+[xMutantGame]
+MutPropText="Schlusslicht aktivieren"
+MutDescText="Wenn diese Option aktiviert ist, ist der Spieler mit dem niedrigsten Punktestand das Schlusslicht und kann andere Spieler töten."
+GameName="Mutant"
+Description="Der erste Spieler, der einen Frag schafft, wird der Mutant. Er wird von allen anderen gejagt, denn wer den Mutanten tötet, wird selbst zum Mutanten und erlangt übermenschliche Kräfte. Der Spieler mit der niedrigsten Punktzahl ist das Schlusslicht. Er kann aber auch andere Spieler töten."

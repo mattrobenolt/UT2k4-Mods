@@ -1,0 +1,14 @@
+[LevelInfo0]
+Title="The Junkyard"
+LevelEnterText="Willkommen auf dem Planeten des Schrotts"
+
+[LevelSummary]
+Title="The Junkyard"
+Description="Seit Äonen wird hier der Abfall verschiedenster Zivilisationen entsorgt. Es gibt noch Platz für die Körper von Tournament-Teilnehmern. "
+LevelEnterText="Willkommen auf dem Planeten des Schrotts"
+
+[ZoneInfo0]
+LocationName="Verloren im Schrott"
+
+[ZoneInfo1]
+LocationName="Verloren im Schrott"

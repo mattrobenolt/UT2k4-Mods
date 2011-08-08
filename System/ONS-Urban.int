@@ -1,0 +1,7 @@
+[LevelInfo0]
+Title="Urban"
+
+[LevelSummary]
+Title="Urban"
+Description="Once the pinnacle of modernized civilization, this dense urban center has since fallen victim to crime, corruption, and civil war. Now mostly vacant, it has become a haven for underground criminal activity and lawlessness. LMC organizers jumped at the opportunity to own this prime piece of real estate. Instead of leveling the area and constructing a new arena, they decided to let the combatants do the demolition work themselves."
+

@@ -1,0 +1,7 @@
+[General]
+FrameWindow="Editor di livelli di Unreal"
+Start="EdUnreal (avvio)"
+Exit="EdUnreal (uscita)"
+Run="EdUnreal (esecuzione)"
+Product="EdUnreal"
+Abbreviation="EU"

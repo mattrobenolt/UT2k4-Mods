@@ -1,0 +1,6 @@
+[General]
+Start="Unreal Tournament 2004 (Startet)"
+Exit="Unreal Tournament 2004 (Wird beendet)"
+Run="Unreal Tournament 2004 (Wird ausgeführt)"
+Product="Unreal Tournament 2004"
+Abbreviation="UT2004"

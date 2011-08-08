@@ -1,0 +1,299 @@
+[Public]
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UnrealGame.MutBigHead,Description="Tamaño de la cabeza depende de lo bien que lo estés haciendo.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UnrealGame.MutLowGrav,Description="Gravedad baja.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UnrealGame.MutDelayedSpawn,Description="Generación retardada de súper armas y súper mejoras.")
+
+[ACTION_DisableObjective]
+ActionString="deshabilitar objetivo"
+
+[ACTION_SetObjectiveActiveStatus]
+ActionString="Cambiar estado activo del objetivo"
+
+[BombTargetMessage]
+TargetMessage="Paso en camino"
+
+[CTFGame]
+CTFHints=("Puedes usar %BASEPATH 0% para ver la ruta a la base del equipo rojo y %BASEPATH 1% para ver la ruta a la base del equipo azul.","Disparar el transportador envía tu baliza de transportador. Al pulsar %FIRE% de nuevo la baliza regresa, mientras que pulsar %A:TFIRE% te teletransporta instantáneamente a la ubicación de la baliza (si cabes).","Si usas el transportador mientras llevas la bandera, la soltarás.","Al pulsar %SWITCHWEAPON 10% después de lanzar el transportador, podrás mirar por su cámara interna.","Al pulsar %FIRE% mientras mantienes pulsado %ALTFIRE% tras teletransportarte con el transportador, cambiarás al arma anterior.")
+Description="Tu equipo tiene que apuntarse capturas de bandera consiguiendo la bandera de la base enemiga y llevándola a su propia bandera. Si el portador de la bandera muere, esta cae al suelo y la puede recoger cualquiera. Si capturan la bandera de tu equipo, tendrás que recuperarla (tocándola después de que se haya soltado) antes de poder anotarte una captura de bandera."
+
+[CTFHUDMessage]
+YouHaveFlagString="Tienes la bandera, ¡regresa a la base!"
+EnemyHasFlagString="El enemigo tiene tu bandera, ¡recupérala!"
+
+[CTFMessage]
+ReturnBlue="devolvió bandera azul"
+ReturnRed="devolvió band. roja"
+ReturnedBlue="¡Bandera azul devuelta"
+ReturnedRed="¡Bandera roja devuelta"
+CaptureBlue="capturó la bandera azul"
+CaptureRed="capturó la bandera roja"
+DroppedBlue="soltó la bandera azul"
+DroppedRed="soltó la bandera roja"
+HasBlue="tiene la bandera azul"
+HasRed="tiene la bandera roja"
+
+[CinematicHud]
+FontArrayNames[0]="UT2003Fonts.jFontLarge1024x768"
+FontArrayNames[1]="UT2003Fonts.jFontLarge800x600"
+FontArrayNames[2]="UT2003Fonts.jFontLarge"
+FontArrayNames[3]="UT2003Fonts.jFontMedium1024x768"
+FontArrayNames[4]="UT2003Fonts.jFontMedium800x600"
+FontArrayNames[5]="UT2003Fonts.jFontMedium"
+FontArrayNames[6]="UT2003Fonts.jFontSmall"
+FontArrayNames[7]="UT2003Fonts.jFontSmallText800x600"
+FontArrayNames[8]="UT2003Fonts.FontSmallText"
+
+[ClassicAnnouncer]
+AnnouncerName="UT2003"
+
+[CustomBotConfig]
+FavoriteWeapon="Arma preferida:"
+NoPreference="Sin preferencias de armas"
+
+[DMMutator]
+DMMutPropsDisplayText[0]="Megavelocidad"
+DMMutPropsDisplayText[1]="Control aéreo"
+DMMutDescText[0]="Aumenta mucho la velocidad del juego."
+DMMutDescText[1]="Especifica cuántos jugadores de control aéreo habrá."
+
+[DMStatsScreen]
+StatsString="ESTADÍSTICAS PERSONALES PARA"
+AwardsString="PREMIOS"
+FirstBloodString="¡Primera sangre!"
+FlakMonkey="¡La máquina del antiaéreo!"
+Combowhore="¡Obseso del combo!"
+Headhunter="¡Cazador de cabezas!"
+RoadRampage="¡Masacre al volante!"
+DaredevilString="Temerario:"
+FlagTouches="Toques de bandera"
+FlagReturns="Devoluciones de bandera"
+GoalsScored="Tantos anotados:"
+HatTrick="¡Hat Trick!"
+KillString[0]="¡Doble muerte!"
+KillString[1]="¡Multi muerte!"
+KillString[2]="¡Megamuerte!"
+KillString[3]="¡Ultramuerte!"
+KillString[4]="¡FESTIVAL DE MUERTES!"
+KillString[5]="¡CARNAVAL DE SANGRE!"
+KillString[6]="¡VIRGEN SANTA!"
+AdrenalineCombos="COMBOS DE ADRENALINA"
+ComboNames[0]="Velocidad"
+ComboNames[1]="Frenesí"
+ComboNames[2]="Defensivo"
+ComboNames[3]="Invisible"
+ComboNames[4]="Otros"
+KillsByWeapon="ESTADÍSTICAS DE ARMAS"
+CombatResults="RESULTADOS DEL COMBATE"
+Kills="Abatidos"
+Deaths="Muertes"
+Suicides="Suicidios"
+NextStatsString="Pulsa F8 para siguiente jugador"
+WeaponString="Armas"
+DeathsBy="Asesinado por"
+deathsholding="Muertes con"
+EfficiencyString="Eficiencia"
+WaitingForStats="Esperando estadísticas de servidor. Pulsa F3 para volver al HUD."
+KillsByVehicle="ESTADÍSTICAS DE VEHÍCULO"
+VehicleString="Vehículo"
+
+[DeathMatch]
+DMPropsDisplayText[0]="Retraso en inicio de red"
+DMPropsDisplayText[1]="Mín. jugadores de red"
+DMPropsDisplayText[2]="Retraso de reinicio"
+DMPropsDisplayText[3]="Juego Torneo"
+DMPropsDisplayText[4]="Los jugadores debes estar listos"
+DMPropsDisplayText[5]="Forzar reaparición"
+DMPropsDisplayText[6]="Auto ajustar habilidad de bots"
+DMPropsDisplayText[7]="Permitir burlas"
+DMPropsDisplayText[8]="Tiempo protección apar."
+DMPropsDisplayText[9]="Permitir transportador"
+DMPropsDisplayText[10]="Usar pieles de equipo"
+DMPropsDisplayText[11]="Usar parámetros de mapa"
+DMPropsDisplayText[12]="Corte última entrada"
+DMPropsDisplayText[13]="Activar iluminación de jugador"
+DMPropDescText[0]="Retraso antes de que juego empieza a permitir que se unan otros jugadores."
+DMPropDescText[1]="Cuantos jugadores deben unirse antes de que comience el juego en red."
+DMPropDescText[2]="Lo que espera el servidor después del fin del juego, antes de cargar el siguiente mapa."
+DMPropDescText[3]="Juego Torneo"
+DMPropDescText[4]="Si está activado, los jugadores deben estar preparados antes de que empiece el juego."
+DMPropDescText[5]="Los jugadores están obligados a reaparecer tras morir."
+DMPropDescText[6]="La habilidad de los bots se ajusta dependiendo de lo bien que lo estén haciendo contra ti."
+DMPropDescText[7]="Permite que los jugadores usen las burlas grabadas."
+DMPropDescText[8]="Especifica durante cuánto tiempo los jugadores son invulnerables después de aparecer (a menos que disparen)."
+DMPropDescText[9]="Si se activa, los jugadores empiezan con un transportador."
+DMPropDescText[10]="Si se marca, los jugadores tendrán pieles brillantes, rojas o azules."
+DMPropDescText[11]="Usar el número predeterminado de bots especificado por el mapa."
+DMPropDescText[12]="Especifica el número máximo de vidas que puede haber perdido un jugador antes de que dejen de admitirse nuevos jugadores."
+DMPropDescText[13]="A distancia, los jugadores resplandecen con el color de su equipo."
+YouDestroyed="Has destruido un"
+DMHints=("Cada arma tiene dos modos de disparo, uno normal cuando pulsas %FIRE% y otro alternativo cuando pulsas %ALTFIRE%.","Pulsa salto otra vez para en la cumbre del salto para obtener un impulso adicional.","Al pulsar una tecla de movimiento dos veces en sucesión rápida tu personaje esquivará en esa dirección.","También puedes esquivar apoyándote en las paredes mientras estás en el aire.","Puedes cambiar de arma pulsando el número asociado al arma, o desplazarte por las armas usando %NEXTWEAPON% y %PREVWEAPON%.","El combo de choque es una poderosa explosión que se crea disparando a una bola de choque (disparo alternativo del rifle de choque) con un rayo de choque (disparo regular del rifle de choque).","Cuando cargues cohetes con el disparo alternativo del lanzacohetes, pulsa el botón de disparo normal antes de soltar los cohetes para hacer que se disparen en una estrecha espiral.","Puedes activar y desactivar la visualización del marcador en cualquier momento pulsando %SHOWSCORES%.","Además de las mejoras de adrenalina, también recibes adrenalina por matar a enemigos y otros logros. Una vez que tu adrenalina llegue a 100, puedes iniciar un combo de adrenalina usando la combinación de teclas correspondiente.","%SHOWSTATS% hará aparecer una visualización personal de tus estadísticas.","Puedes abatir los misiles de Redentor enemigos con un disparo certero.","Pulsa %TALK% y escribe tu mensaje de texto para mandárselo a otros jugadores.","Puedes emitir burlas u otros mensajes de voz mediante el menú de voz al pulsar %SPEECHMENUTOGGLE%.","Mientras te agazapas, (manteniendo pulsado %DUCK%), no puedes caerte de un borde.")
+Description="Un todos contra todos en el que matar o morir. El jugador con más enemigos abatidos, gana."
+
+[DestroyableObjective]
+ObjectiveName="Objetivo destruible"
+ObjectiveDescription="Para deshabilitar el objetivo hay que destruirlo."
+Objective_Info_Attacker="Destruir el objetivo"
+Objective_Info_Defender="Proteger el objetivo"
+
+[FemaleAnnouncer]
+AnnouncerName="Femenino"
+
+[FirstBloodMessage]
+FirstBloodString="¡Vertió la primera sangre!"
+
+[GameObjective]
+DestructionMessage="¡Objeto Inutilizado!"
+LocationPrefix="Cerca"
+ObjectiveStringSuffix=" Base de equipo"
+ObjectiveDescription="Deshabilitar objetivo"
+Objective_Info_Attacker="Deshabilitar objetivo"
+Objective_Info_Defender="Deshabilitar objetivo"
+UseDescription="USAR"
+
+[HoldObjective]
+ObjectiveName="Mantener objetivo"
+ObjectiveDescription="Toca y mantén el objetivo para deshabilitarlo."
+Objective_Info_Attacker="Mantener objetivo"
+
+[KeyPickup]
+PickupMessage="Cogiste una llave."
+
+[KillingSpreeMessage]
+EndSpreeNote="ha visto su fiesta finalizada"
+EndSelfSpree="lo hacía bien hasta que se mató a sí mismo"
+EndFemaleSpree="lo hacía bien hasta que se mató a sí misma"
+SpreeNote[0]="está en una fiesta mortal"
+SpreeNote[1]="está en una furia destructora"
+SpreeNote[2]="domina!"
+SpreeNote[3]="es imparable!"
+SpreeNote[4]="es como un dios!"
+SpreeNote[5]="es la LECHE!"
+SelfSpreeNote[0]="¡Fiesta mortal!"
+SelfSpreeNote[1]="¡Furia destructora!"
+SelfSpreeNote[2]="¡Dominando!"
+SelfSpreeNote[3]="¡Imparable!"
+SelfSpreeNote[4]="¡DIOS!"
+SelfSpreeNote[5]="¡LA LECHE!"
+
+[LastSecondMessage]
+LastSecondRed="¡Salvación en el último segundo por Rojo!"
+LastSecondBlue="¡Salvación en el último segundo por Azul!"
+
+[MaleAnnouncer]
+AnnouncerName="Masculino"
+
+[MessageTrigger]
+Message="Mi mensaje"
+
+[MutBerserk]
+FriendlyName="Frenético"
+Description="Las armas son tremendamente rápidas y poderosas."
+
+[MutBigHead]
+FriendlyName="Cabezón"
+Description="El tamaño de la cabeza depende de cómo lo hagas."
+
+[MutGameSpeed]
+FriendlyName="Velocidad"
+Description="Modificar la velocidad de juego."
+
+[MutLowGrav]
+FriendlyName="Grave"
+Description="Baja grave"
+
+[MutMovementModifier]
+FriendlyName="Control aéreo"
+Description="Cambiar cómo se mueven los jugadores en el aire."
+
+[ProximityObjective]
+ObjectiveName="Objetivo de proximidad"
+ObjectiveDescription="Para deshabilitar el objetivo hay que tocarlo."
+Objective_Info_Attacker="Tocar el objetivo."
+
+[SexyFemaleAnnouncer]
+AnnouncerName="Piba sexy"
+
+[SquadAI]
+SupportString="apoyando"
+DefendString="defendiendo"
+AttackString="atacando"
+HoldString="aguantando"
+FreelanceString="Barrenero"
+
+[StartupMessage]
+Stage[0]="Esperando a otros jugadores."
+Stage[1]="Esperando señales de preparado. Tú estás PREPARADO."
+Stage[2]="El encuentro empieza en... 3"
+Stage[3]="El encuentro empieza en... 2"
+Stage[4]="El encuentro empieza en... 1"
+Stage[5]="¡El encuentro ha comenzado!"
+Stage[6]="¡El encuentro ha comenzado!"
+Stage[7]="¡PRÓRROGA!"
+NotReady="NO ESTÁS LISTO. ¡Dispara!"
+SinglePlayer="¡Pulsa disparo para empezar!"
+
+[TeamGame]
+NearString="Cerca de"
+BareHanded="Con las manos desnudas"
+TGPropsDisplayText[0]="Bots equilibran equipos"
+TGPropsDisplayText[1]="Jugadores equilibran equipos"
+TGPropsDisplayText[2]="Magnitud de fuego amigo"
+TGPropsDisplayText[3]="Sala de chat entre equipos"
+TGPropsDisplayText[4]="Tamaño máximo de equipo"
+TGPropDescText[0]="Los bots se unirán o cambiarán de equipos para que estén equilibrados."
+TGPropDescText[1]="Los jugadores deben unirse al entrar al equipo con menos miembros."
+TGPropDescText[2]="Especifica cuánto daño se pueden hacer jugadores del mismo equipo."
+TGPropDescText[3]="Determina si miembros de equipos rivales pueden unirse a la misma sala de chat privada."
+TGPropDescText[4]="Número máximos de jugadores por equipo"
+TGHints=("Si te pierdes el mensaje de chat de un jugador, puedes usar %INGAMECHAT% para mostrar una ventana con todos los mensajes de chat que has recibido.","Puedes enlazar con los compañeros de equipo que también tengan una enlazadora usando el rayo alternativo de la enlazadora. Mientras está enlazado, un compañero de equipo recibirá un aumento significativo a la potencia de su enlazadora.","Puedes arrojar tu arma actual a un compañero pulsando %THROWWEAPON%.","Los compañeros que tengan una enlazadora equipada tendrán una baliza de equipo verde sobre su cabeza en vez de la habitual baliza amarilla.","Pulsa %VOICETALK% para chatear por voz con tu equipo.")
+Description="Dos equipos se enfrentan en una lucha por la supremacía en el campo de batalla. El equipo con más enemigos abatidos gana."
+
+[TeamVoiceReplicationInfo]
+PublicChannelNames=("Público","Local","Equipo")
+
+[TimerMessage]
+CountDownTrailer="..."
+
+[TriggeredObjective]
+ObjectiveName="Objetivo activado"
+ObjectiveDescription="Para deshabilitar el objetivo hay que activarlo."
+Objective_Info_Attacker="Activar objetivo"
+Objective_Info_Defender="Defender la activación del objetivo."
+
+[UTClassicAnnouncer]
+AnnouncerName="Clásico"
+
+[UnrealMPGameInfo]
+MPGIPropsDisplayText[0]="Jugadores mínimos"
+MPGIPropsDisplayText[1]="Retraso en fin de juego"
+MPGIPropsDisplayText[2]="Modo bot"
+MPGIPropsDisplayText[3]="Permitir conversación privada"
+MPGIPropDescText[0]="El servidor añade bots si es necesario para que haya esta cantidad mínima de participantes."
+MPGIPropDescText[1]="Cuánto se esperará tras el final del encuentro antes de pasar al siguiente mapa."
+MPGIPropDescText[2]="Especifica cómo se determina el número de bots en el encuentro."
+MPGIPropDescText[3]="Controla si los usuarios pueden crear y unirse a salas de conversaciones privadas en este servidor"
+BotModeText="0;Especificar n.;1;Parámetros mapa;2;Plantilla bots;3;Humano vs Bots"
+SPBotText="Número de bots"
+MPBotText="Jugadores mínimos"
+SPBotDesc="Especifica el número de bots que se unirán a tu encuentro."
+MPBotDesc="El servidor añade bots si es necesario para que haya esta cantidad mínima de participantes."
+BotOptions[0]="Especificar n."
+BotOptions[1]="Parámetros mapa"
+BotOptions[2]="Plantilla bots"
+BotOptions[3]="Humano vs Bots"
+
+[UseObjective]
+ObjectiveDescription="Alcanzar objetivo y usarlo para deshabilitarlo."
+Objective_Info_Attacker="Usar objetivo"
+
+[ACTION_DisableThisScript]
+ActionString="desactivar este diálogo"
+
+[Action_ChangeObjectiveTeam]
+ActionString="Cambiar el objetivo del equipo"
+
+[TeamVoiceReplicationInfo]
+PublicChannelNames=("Público","Local","Equipo")
+
+[UnrealMPGameInfo]
+BotOptions[3]="Jugadores vs Bots"

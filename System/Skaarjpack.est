@@ -1,0 +1,113 @@
+[Public]
+;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=SkaarjPack.Invasion,Description="CM|Invasión|SkaarjPack.Tab_IAInvasion|SkaarjPack.MapListSkaarjInvasion|false")
+
+[DamTypeBelch]
+DeathString="%o ha sido rehogado por un gaseoso."
+FemaleSuicide="Un gaseoso se ha volado a sí mismo."
+MaleSuicide="Un gaseoso se ha volado a sí mismo."
+
+[DamTypeBruteRocket]
+DeathString="%o ha sido destrozado por un cohete bruto."
+FemaleSuicide="Un bruto ha disparado su cohete prematuramente."
+MaleSuicide="Un bruto ha disparado su cohete prematuramente."
+
+[DamTypeKrallBolt]
+DeathString="%o ha sido desintegrado por un krall."
+
+[DamTypeSkaarjProj]
+DeathString="%o ha sido carbonizado por un skaarj."
+
+[DamTypeWarlordRocket]
+DeathString="%o ha sido completamente destruido por un señor de la guerra."
+FemaleSuicide="Un señor de la guerra ha disparado su cohete antes de tiempo."
+MaleSuicide="Un señor de la guerra ha disparado su cohete antes de tiempo."
+
+[HUDInvasion]
+YouveLostTheMatch="La invasión continúa"
+
+[Invasion]
+InvasionPropText[0]="Oleada inicial"
+InvasionPropText[1]="Oleada final"
+InvasionPropText[2]="Configuración de oleada"
+InvasionPropText[3]="Invasores"
+InvasionPropText[4]="Oleada número"
+InvasionPropText[5]="Invasores máximos"
+InvasionPropText[6]="Duración"
+InvasionPropText[7]="Dificultad"
+InvasionDescText[0]="Especifica la primera oleada de monstruos de un mapa."
+InvasionDescText[1]="Especifica la última oleada de monstruos que hay que derrotar para completar un mapa."
+InvasionDescText[2]="Configurar las propiedades de cada oleada."
+InvasionDescText[3]="Selecciona la oleada que quieres configurar"
+InvasionDescText[4]="Coloca una marca junto a cada monstruo que deba formar parte de esta oleada."
+InvasionDescText[5]="El número máximo de monstruos que puede haber en el mapa al mismo tiempo."
+InvasionDescText[6]="Duración (en segundos) de cada oleada."
+InvasionDescText[7]="Ajusta la inteligencia relativa de los invasores"
+SPBotDesc="Especifica el número de bots (máx. 2 por invasión) que deban unirse."
+GameName="Invasión"
+Description="Tendrás que aguantar todo lo posible, junto a los demás jugadores, las oleadas de monstruos que atacan."
+GIPropsDisplayText[0]="Habilidad de los monstruos"
+GIPropDescText[0]="Establece la habilidad de los monstruos invasores."
+
+[InvasionDeathMessage]
+SomeoneString="un monstruo"
+
+[InvasionMessage]
+OutMessage="MENOS"
+
+[MeleeDamage]
+DeathString="%o tiene las tripas fuera."
+FemaleSuicide="%o ha sido hecha rodajas."
+MaleSuicide="%o ha sido hecho rodajas."
+
+[ScoreboardInvasion]
+TeamScoreString="Tanteo de equipo"
+WaveString="Oleada"
+
+[TAB_IAInvasion]
+IAInvasionWaveConfig.Caption="Configurar oleadas"
+IAInvasionInitialWave.Caption="Oleada inicial"
+IAInvasionInitialWave.Hint="Escoger oleada inicial"
+
+[InvasionWaveConfig]
+WCFGClose.Caption="Cerrar"
+WCFGReset.Caption="Reaj."
+WCFGLabel1.Caption="Configurar cada oleada"
+WCFGLabel2.Caption="Dificultad"
+WCFGDifficulty.Hint="Lo difíciles que serán los monstruos de esta oleada."
+WCFGCreat01.Caption="Crisálida"
+WCFGCreat01.Hint="Crisálida Skaarj."
+WCFGCreat02.Caption="Cuchilla voladora"
+WCFGCreat02.Hint="La cuchilla voladora."
+WCFGCreat03.Caption="Manta"
+WCFGCreat03.Hint="La manta."
+WCFGCreat04.Caption="Krall"
+WCFGCreat04.Hint="El krall."
+WCFGCreat05.Caption="Krall de elite"
+WCFGCreat05.Hint="El krall de elite."
+WCFGCreat06.Caption="Gaseoso"
+WCFGCreat06.Hint="El gaseoso."
+WCFGCreat07.Caption="Bruto"
+WCFGCreat07.Hint="El bruto."
+WCFGCreat08.Caption="Skaarj"
+WCFGCreat08.Hint="El skaarj."
+WCFGCreat09.Caption="Behemoth"
+WCFGCreat09.Hint="El behemoth."
+WCFGCreat10.Caption="Skaarj de hielo"
+WCFGCreat10.Hint="El skaarj de hielo."
+WCFGCreat11.Caption="Skaarj de fuego"
+WCFGCreat11.Hint="El skaarj de fuego."
+WCFGCreat12.Caption="Señor de la guerra"
+WCFGCreat12.Hint="El señor de la guerra."
+WCFGCreat13.Caption="Crisálida"
+WCFGCreat13.Hint="Crisálida Skaarj."
+WCFGCreat14.Caption="Crisálida"
+WCFGCreat14.Hint="Crisálida Skaarj."
+WCFGCreat15.Caption="Cuchilla voladora"
+WCFGCreat15.Hint="La cuchilla voladora."
+WCFGCreat16.Caption="Cuchilla voladora"
+WCFGCreat16.Hint="La cuchilla voladora."
+WCFGDuration.Caption="Duración"
+WCFGDuration.Hint="Lo que durará cada oleada."
+WCFGWaveNo.Caption="Oleada Nº"
+WCFGWaveNo.Hint="Seleccionar oleada a ajustar"
+

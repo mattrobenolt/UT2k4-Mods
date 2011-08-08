@@ -1,0 +1,34 @@
+[LevelInfo0]
+Title="Asswan"
+
+[LevelSummary]
+Title="Asswan"
+Description="En el corazón del Océano de Dunas, un pequeño oasis de civilización dá la bienvenida a los cansados viajeros. Todos los que cruzan las puertas del templo de Aswan son bienvenidos, aunque nadie puede marcharse sin pasar por las pruebas. Los Anubans han usado las pruebas para evaluar a sus potenciales competidores durante cientos de años. El éxito supone fama y gloria, mientras que el fracaso te convierte en pasto para los carroñeros. ¿De verdad tienes tanta sed?"
+
+[ZoneInfo0]
+LocationName="Medio"
+
+[ZoneInfo1]
+LocationName="SalaTrasera-B"
+
+[ZoneInfo2]
+LocationName="SalaTrasera-A"
+
+[ZoneInfo3]
+LocationName="Cañón antiaéreo-A"
+
+[ZoneInfo4]
+LocationName="Lanzacohetes-A"
+
+[ZoneInfo5]
+LocationName="Cañón antiaéreo-B"
+
+[ZoneInfo6]
+LocationName="Lanzacohetes-B"
+
+[ZoneInfo7]
+LocationName="Generación azul"
+
+[ZoneInfo8]
+LocationName="Generación roja"
+

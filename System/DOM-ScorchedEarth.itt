@@ -1,0 +1,62 @@
+[LevelInfo0]
+Title="Scorched Earth"
+
+[LevelSummary]
+Title="Scorched Earth"
+
+[PhysicsVolume0]
+LocationName="Punto rigenerazione blu"
+
+[PhysicsVolume1]
+LocationName="Punto rigenerazione rosso"
+
+[ZoneInfo0]
+LocationName="Interno-centro"
+
+[ZoneInfo1]
+LocationName="Corridoio posteriore_B"
+
+[ZoneInfo14]
+LocationName="Esterno"
+
+[ZoneInfo15]
+LocationName="Interno-centro"
+
+[ZoneInfo16]
+LocationName="Punto rigenerazione blu"
+
+[ZoneInfo17]
+LocationName="Corridoio frontale_A"
+
+[ZoneInfo18]
+LocationName="Corridoio frontale_A"
+
+[ZoneInfo19]
+LocationName="Stanza_A"
+
+[ZoneInfo2]
+LocationName="Skybox"
+
+[ZoneInfo20]
+LocationName="Corridoio posteriore_A"
+
+[ZoneInfo3]
+LocationName="Interno-centro"
+
+[ZoneInfo4]
+LocationName="Interno-centro"
+
+[ZoneInfo5]
+LocationName="Interno-centro"
+
+[ZoneInfo6]
+LocationName="Corridoio frontale_B"
+
+[ZoneInfo7]
+LocationName="Punto rigenerazione rosso"
+
+[ZoneInfo8]
+LocationName="Corridoio frontale_B"
+
+[ZoneInfo9]
+LocationName="Stanza_B"

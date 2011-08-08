@@ -1,0 +1,77 @@
+[LevelInfo0]
+Title="Geothermal"
+
+[LevelSummary]
+Title="Geothermal"
+
+[Volume0]
+LocationName="Passaggio pedonale centrale"
+
+[WaterVolume5]
+LocationName="Acqua blu"
+
+[WaterVolume7]
+LocationName="Acqua rossa"
+
+[ZoneInfo0]
+LocationName="Stanza bandiera rossa"
+
+[ZoneInfo1]
+LocationName="Stanza macchina rossa"
+
+[ZoneInfo10]
+LocationName="Stanza macchina blu"
+
+[ZoneInfo11]
+LocationName="Stanza acqua blu"
+
+[ZoneInfo12]
+LocationName="Stanza bandiera rossa"
+
+[ZoneInfo13]
+LocationName="Centro"
+
+[ZoneInfo14]
+LocationName="Ingresso superiore rosso"
+
+[ZoneInfo15]
+LocationName="Ingresso inferiore blu"
+
+[ZoneInfo19]
+LocationName="Ingresso superiore blu"
+
+[ZoneInfo2]
+LocationName="Stanza acqua rossa"
+
+[ZoneInfo20]
+LocationName="Ingresso superiore blu"
+
+[ZoneInfo23]
+LocationName="Ingresso superiore blu"
+
+[ZoneInfo24]
+LocationName="Stanza bandiera blu"
+
+[ZoneInfo25]
+LocationName="Stanza bandiera blu"
+
+[ZoneInfo26]
+LocationName="Ingresso superiore blu"
+
+[ZoneInfo4]
+LocationName="Ingresso superiore rosso"
+
+[ZoneInfo5]
+LocationName="Ingresso superiore rosso"
+
+[ZoneInfo6]
+LocationName="Ingresso superiore rosso"
+
+[ZoneInfo7]
+LocationName="Stanza bandiera blu"
+
+[ZoneInfo8]
+LocationName="Ingresso superiore rosso"
+
+[ZoneInfo9]
+LocationName="Stanza bandiera rossa"

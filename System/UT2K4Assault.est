@@ -1,0 +1,181 @@
+[ASGameInfo]
+ASPropsDisplayText[0]="Parejas de asaltos"
+ASPropsDisplayText[1]="Límite de tiempo por asalto"
+ASPropsDisplayText[2]="Reiniciar cuenta atrás"
+ASPropsDisplayText[3]="Tiempo de refuerzos"
+ASPropsDisplayText[4]="Tiempo de practicar"
+ASPropDescText[0]="Número de parejas de asaltos (ataque y defensa) para este encuentro."
+ASPropDescText[1]="Especifica cuánto duran los asaltos."
+ASPropDescText[2]="Especifica cuánto tiempo pasa entre cada asalto."
+ASPropDescText[3]="Especifica el tiempo entre generaciones de refuerzos."
+ASPropDescText[4]="Especifica cuánto tiempo dura el asalto de práctica online (en segundos)."
+ASHints=("Un punto de ruta en el HUD indica la ubicación de un objetivo.","Estate atento a los avisos del HUD y a los sonidos de alarma cuando un objetivo está en peligro.","Cuando se ha activado una nueva zona de generación, pulsa %SWITCHWEAPON 10% para teletransportarte a ella instantáneamente.","Pulsa %BASEPATH 0% o %BASEPATH 1% para resaltar el objetivo actual, mostrar un camino hasta él, y deslizar la lista de objetivos.","Vigila la cuenta atrás de generación para saber cuando puedes esperar refuerzos.","Algunas armas pueden ser mejores que otras a la hora de destruir las minas arañas enemigas.","Los vehículos que explotan cerca de ti pueden dañarte o matarte.","Puedes curar a un vehículo aliado con el disparo alternativo de la enlazadora.","Si mueres, cualquier mina araña o granada que hayas disparado explotará.","La luz verde en lo alto de los casilleros de armas indica que hay munición adicional disponible en ese casillero.","Todas las torretas pueden acercar el zoom pulsando %MOVEFORWARD% y alejarlo pulsando %MOVEBACKWARD%.","Las torretas enlazadoras tienen las mismas propiedades que el arma enlazadora.","El cañón de plasma y el tanque de plasma iónico, mientras están cargando, indican su objetivo con un haz láser.","Puedes cambiar entre las torretas de control remoto pulsando %NEXTWEAPON% y %PREVWEAPON%.","En un caza espacial, puedes pasar por los objetivos pulsando %NEXTWEAPON% y %PREVWEAPON%.","Se pueden conseguir varios trofeos destruyendo un vehículo clave (o torreta), completando un objetivo o atacando con éxito.","El trofeo se da al jugador que completa el objetivo, pero la recompensa de puntos se comparte entre todos los que han participado.","Pulsa %TOGGLEBEHINDVIEW% para cambiar entre la vista en primera y tercera persona en los vehículos.")
+GameName="Asalto"
+Description="En cada asalto, un equipo toma el papel de atacante mientras que el otro toma el papel de defensor, en recreaciones de escenarios famosos (o infames). El ganador del asalto se anota un punto. Tras un par de asaltos, el equipo que haya tenido más éxito atacando se anota un punto."
+
+[ASGameReplicationInfo]
+ERW_PracticeRoundEndedStr="Practica de nuevo.¡Prepárate!"
+ERW_RedAttackedStr="¡El equipo Rojo ha atacado con éxito!"
+ERW_BlueAttackedStr="¡El equipo Azul ha atacado con éxito!"
+ERW_RedDefendedStr="¡El equipo Rojo ha defendido con éxito!"
+ERW_BlueDefendedStr="¡El equipo Azul ha defendido con éxito!"
+ERW_RedMoreObjectivesStr="El equipo Rojo ha ganado (mas objetivos)."
+ERW_BlueMoreObjectivesStr="El equipo Azul ha ganado (más objetivos)."
+ERW_RedMoreProgressStr="El equipo Rojo ha ganado (más cerca de terminar)."
+ERW_BlueMoreProgressStr="El equipo Azul ha ganado (más cerca de terminar)."
+ERW_RedGotSameOBJFasterStr="El equipo Rojo ha ganado (más rápido)."
+ERW_BlueGotSameOBJFasterStr="El equipo Azul ha ganado (más rápido)."
+ERW_DrawStr="¡Empate!"
+
+[ASOBJ_EnergyCore_Delivery]
+ObjectiveName="Entrega del núcleo de energía"
+
+[ASOBJ_EnergyCore_Spawn]
+ObjectiveName="Generación de núcleo de energía."
+PlayerDroppedMessage=" soltó el núcleo de energía"
+DroppedMessage="¡Núcleo de energía soltado!"
+EnergyCorePickedUp="¡Núcleo de energía recogido!"
+PlayerPickedUpEnergyCore=" recogió el núcleo de energía"
+
+[ASOBJ_ShieldGenerators]
+DestructionMessage="Generador de escudo destruido"
+
+[ASTurret]
+VehiclePositionString="manejando una torreta"
+VehicleNameString="Torreta de energía"
+
+[ASTurret_LinkTurret]
+VehiclePositionString="manejando una torreta enlazadora"
+VehicleNameString="torreta enlazadora"
+
+[ASTurret_Minigun]
+VehiclePositionString="manejando un torreta de cañón automático"
+VehicleNameString="Torreta de cañón automático "
+
+[ASVehicle_Sentinel]
+VehicleNameString="Centinela"
+
+[ASVehicle_Sentinel_Ceiling]
+VehicleNameString="Centinela de techo"
+
+[ASVehicle_Sentinel_Floor]
+VehicleNameString="Centinela de suelo"
+
+[ASVehicle_SpaceFighter]
+Text_Speed="Velocidad de juego"
+
+[Ammo_Dummy]
+ItemName="Muñeco"
+
+[DamTypeBallTurretPlasma]
+DeathString="A %o le han servido una ración extra de plasma cortesía de %k."
+FemaleSuicide="%o se ha frito con su propia ráfaga de  plasma."
+MaleSuicide="%o se ha frito con su propia ráfaga de  plasma."
+
+[DamTypeLinkTurretBeam]
+DeathString="%o ha sido empalado por %k"
+FemaleSuicide="%o ha logrado empalarse ella solita."
+MaleSuicide="%o ha logrado empalarse él solito."
+
+[DamTypeLinkTurretPlasma]
+DeathString="A %o le han servido una ración extra de plasma cortesía de %k."
+FemaleSuicide="%o se ha frito con su propia ráfaga de  plasma."
+MaleSuicide="%o se ha frito con su propia ráfaga de  plasma."
+
+[DamTypeMinigunTurretBullet]
+DeathString="%o ha sido segado por la torreta de cañón automático de %k."
+FemaleSuicide="%o ha apuntado su cañón automático donde no debía."
+MaleSuicide="%o ha apuntado su cañón automático donde no debía."
+
+[DamTypeSentinelLaser]
+DeathString="A %o le han servido una ración extra de los láseres de %k."
+FemaleSuicide="%o se ha frito con su propia ráfaga láser."
+MaleSuicide="%o se ha frito con su propia ráfaga láser."
+
+[DamTypeSpaceFighterMissile]
+DeathString="%o no pudo evitar el misil de %k."
+FemaleSuicide="%o se ha borrado a sí misma del mapa."
+MaleSuicide="%o se ha borrado a sí mismo del mapa."
+
+[DestroyVehicleObjective]
+ObjectiveName="Destruir objetivo de vehículo"
+ObjectiveDescription="Para deshabilitar el objetivo hay que destruirlo."
+Objective_Info_Attacker="Destruir objetivo de vehículo"
+Objective_Info_Defender="Proteger objetivo de vehículo"
+
+[GameObject_EnergyCore]
+PlayerDroppedMessage=" soltó el núcleo de energía"
+DroppedMessage="¡Núcleo de energía soltado!"
+EnergyCorePickedUp="¡Núcleo de energía recogido!"
+PlayerPickedUpEnergyCore=" recogió el núcleo de energía"
+
+[HUD_Assault]
+IP_Bracket_Open="["
+IP_Bracket_Close="]"
+Cardinal_North="N"
+Cardinal_East="E"
+Cardinal_South="S"
+Cardinal_West="W"
+NoGameReplicationInfoString="Recibiendo estado de servidor..."
+MetersString="m"
+TargetString="Objetivo:"
+NoTargetString="Sin objetivo"
+PracticeRoundString="Asalto de práctica"
+
+[InfoPod]
+POD_Message="-= terminal de información =-"
+
+[Message_ASKillMessages]
+KillString[0]="¡As!"
+KillString[1]="¡Demoledor!"
+KillString[2]="¡Bloqueando reaparción de vehículo! Aviso de 5 segundos"
+KillString[3]="¡Bloqueando reaparción de vehículo! Aviso de 4 segundos"
+KillString[4]="¡Bloqueando reaparción de vehículo! Aviso de 3 segundos"
+KillString[5]="¡Bloqueando reaparción de vehículo! Aviso de 2 segundos"
+KillString[6]="¡Bloqueando reaparción de vehículo! Aviso de 1 segundos"
+KillString[7]="¡Abandonando el campo de batalla!"
+
+
+[Message_AssaultTeamRole]
+Message_PostLogin_Attacker="¡¡Estás atacando!!"
+Message_PostLogin_Defender="¡¡Estás defendiendo!!"
+
+[Message_Awards]
+Msg[0]="¡Has completado el objetivo!"
+
+[ObjectiveProgressDisplay]
+HeaderText="OBJETIVOS"
+OptionalObjectivePrefix="*"
+ObjTimesString="x"
+TextCutSuffix="..."
+SpaceSeparator=" "
+PrimaryObjectivePrefix="-"
+
+[ScoreBoard_Assault]
+RemainingRoundTime="Tiempo restante de asalto:"
+CurrentRound="Asalto:"
+RoundSeparator="/"
+Defender="( Defensor )"
+Attacker="( Atacante )"
+WaitForReinforcements="Te han matado. Refuerzos en"
+WaitingToSpawnReinforcements="Esperando refuerzos..."
+AutoRespawn="Reaparición automática en..."
+YouWonRound="¡Has ganado el asalto!"
+YouLostRound="Has perdido el asalto."
+PracticeRoundOver="Fin del asalto de práctica."
+
+[Trigger_ASMessageTrigger]
+Message="Mi mensaje"
+
+[Weapon_LinkTurret]
+ItemName="Arma de torreta"
+
+[Weapon_Sentinel]
+ItemName="Arma centinela"
+
+[Weapon_Turret]
+ItemName="Arma de torreta"
+
+[Weapon_Turret_Minigun]
+ItemName="Arma de torreta"
+

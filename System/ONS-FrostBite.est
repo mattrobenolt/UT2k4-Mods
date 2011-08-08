@@ -1,0 +1,129 @@
+[Counter0]
+CompleteMessage="¡Secreto activado!"
+
+[LevelInfo0]
+Title="Frost Bite"
+LevelEnterText="blahblahblah"
+
+[LevelSummary]
+Title="Frost Bite"
+Description="No te dejes engañar por la aparente simplicidad de este yermo helado. Aunque es uno de los estadios más pequeños de Acometida, Congelación se define por su ritmo frenético y reñidas batallas."
+LevelEnterText="blahblahblah"
+
+[MessageTrigger0]
+Message="Peter Respondek"
+
+[MessageTrigger1]
+Message="Iván Madrigal tradujo la versión española "
+
+[MessageTrigger10]
+Message="Iván Madrigal tradujo la versión española"
+
+[MessageTrigger11]
+Message="Iván Madrigal tradujo la versión española"
+
+[MessageTrigger2]
+Message="Jeff Geis"
+
+[MessageTrigger3]
+Message="Iván Madrigal tradujo la versión española"
+
+[MessageTrigger4]
+Message="Iván Madrigal tradujo la versión española"
+
+[MessageTrigger5]
+Message="Stuart Fitzsimmons"
+
+[MessageTrigger6]
+Message="Ron Prestenback"
+
+[MessageTrigger7]
+Message="Iván Madrigal tradujo la versión española"
+
+[MessageTrigger8]
+Message="Laurent Delayen"
+
+[MessageTrigger9]
+Message="Dave Hagewood"
+
+[PhysicsVolume51]
+LocationName="Escondrijo secreto subterráneo"
+
+[Volume1]
+LocationName="Base roja"
+
+[Volume18]
+LocationName="Valle sureste"
+
+[Volume19]
+LocationName="Lago rojo"
+
+[Volume20]
+LocationName="Lago azul"
+
+[Volume21]
+LocationName="Valle noreste"
+
+[Volume22]
+LocationName="Lago central"
+
+[Volume23]
+LocationName="Cañón azul"
+
+[Volume24]
+LocationName="Cañón rojo"
+
+[Volume25]
+LocationName="Nodo sureste"
+
+[Volume26]
+LocationName="Nodo noreste"
+
+[Volume5]
+LocationName="Base azul"
+
+[Volume8]
+LocationName="Base central"
+
+[ZoneInfo0]
+LocationName="Entrada azul"
+
+[ZoneInfo1]
+LocationName="Torre azul"
+
+[ZoneInfo10]
+LocationName="Exterior"
+
+[ZoneInfo11]
+LocationName="Exterior"
+
+[ZoneInfo12]
+LocationName="Torre roja"
+
+[ZoneInfo13]
+LocationName="Exterior"
+
+[ZoneInfo2]
+LocationName="Torre roja"
+
+[ZoneInfo3]
+LocationName="Exterior"
+
+[ZoneInfo4]
+LocationName="Torre roja"
+
+[ZoneInfo5]
+LocationName="Torre azul"
+
+[ZoneInfo6]
+LocationName="Exterior"
+
+[ZoneInfo7]
+LocationName="Torre roja"
+
+[ZoneInfo8]
+LocationName="Exterior"
+
+[ZoneInfo9]
+LocationName="Exterior"
+

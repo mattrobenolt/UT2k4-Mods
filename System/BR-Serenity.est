@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title="Serenity"
+
+[LevelSummary]
+Title="Serenity"
+Description="Siente la agradable brisa sobre tu piel, escucha los evocadores sonidos del bosque, observa cómo bailan las luciérnagas en el claro y ríndete a la creciente sensación de serenidad. Ahora... ¡recoge el cañón antiaéreo y extiende la destrucción!"
+
+[Volume1]
+LocationName="lado azul de campo central"
+
+[Volume2]
+LocationName="campo central"
+
+[Volume3]
+LocationName="Base roja"
+
+[Volume4]
+LocationName="lado rojo de campo central"
+
+[Volume5]
+LocationName="Base azul"
+
+[WaterVolume0]
+LocationName="en una fosa húmeda"
+
+[WaterVolume1]
+LocationName="en una fosa húmeda"
+
+[WaterVolume2]
+LocationName="escondiéndose en la catarata del campo central"
+
+[xFallingVolume0]
+LocationName="cayendo a una fosa húmeda"
+
+[xFallingVolume1]
+LocationName="cayendo a una fosa húmeda"
+

@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title="Red Planet"
+
+[LevelSummary]
+Title="Red Planet"
+Description="Bei Forschungen im Weltraum stieß man auf ein bisher unbekanntes Phänomen in einem sonnenlosen Planetensystem. Infrarotlicht, das mit Kohlendioxid in einer hohen Schicht der Atmosphäre reagiert, badet den Planeten in ein stechendes, blutrotes Glühen. Experimente haben gezeigt, dass mehr als 18 Stunden auf diesem Planeten zu irreversiblem Wahnsinn führen. So lange werden Sie aber sowieso nicht am Leben bleiben ..."
+
+[Volume0]
+LocationName="ROTER Basis"
+
+[Volume1]
+LocationName="ROTER Basis"
+
+[Volume2]
+LocationName="BLAUE Basis"
+
+[Volume3]
+LocationName="BLAUE Basis"
+
+[Volume4]
+LocationName="Südwest Knoten"
+
+[Volume5]
+LocationName="Nordwest Knoten"
+
+[Volume6]
+LocationName="Mittlerer Knoten"
+
+[Volume7]
+LocationName="Südost Knoten"
+
+[Volume8]
+LocationName="Nordost Knoten"
+
+[ZoneInfo0]
+LocationName="Außen"
+

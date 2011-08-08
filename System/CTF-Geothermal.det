@@ -1,0 +1,77 @@
+[LevelInfo0]
+Title="Geothermal"
+
+[LevelSummary]
+Title="Geothermal"
+
+[Volume0]
+LocationName="Mittlerer Gehweg"
+
+[WaterVolume5]
+LocationName="Wasser BLAU"
+
+[WaterVolume7]
+LocationName="Wasser ROT"
+
+[ZoneInfo0]
+LocationName="ROTE Flaggenbasis"
+
+[ZoneInfo1]
+LocationName="ROTER Maschinenraum"
+
+[ZoneInfo10]
+LocationName="BLAUER Maschinenraum"
+
+[ZoneInfo11]
+LocationName="BLAUE Zisterne"
+
+[ZoneInfo12]
+LocationName="ROTE Flaggenbasis"
+
+[ZoneInfo13]
+LocationName="Mitte"
+
+[ZoneInfo14]
+LocationName="Eingang ROT Oben"
+
+[ZoneInfo15]
+LocationName="Eingang BLAU Unten"
+
+[ZoneInfo19]
+LocationName="Eingang BLAU Oben"
+
+[ZoneInfo2]
+LocationName="ROTE Zisterne"
+
+[ZoneInfo20]
+LocationName="Eingang BLAU Oben"
+
+[ZoneInfo23]
+LocationName="Eingang BLAU Oben"
+
+[ZoneInfo24]
+LocationName="BLAUE Flaggenbasis"
+
+[ZoneInfo25]
+LocationName="BLAUE Flaggenbasis"
+
+[ZoneInfo26]
+LocationName="Eingang BLAU Oben"
+
+[ZoneInfo4]
+LocationName="Eingang ROT Unten"
+
+[ZoneInfo5]
+LocationName="Eingang ROT Oben"
+
+[ZoneInfo6]
+LocationName="Eingang ROT Oben"
+
+[ZoneInfo7]
+LocationName="BLAUE Flaggenbasis"
+
+[ZoneInfo8]
+LocationName="Eingang ROT Oben"
+
+[ZoneInfo9]
+LocationName="ROTE Flaggenbasis"

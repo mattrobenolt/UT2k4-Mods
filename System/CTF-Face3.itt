@@ -1,0 +1,80 @@
+[LevelInfo0]
+Title="Facing Worlds 3"
+
+[LevelSummary]
+Title="Facing Worlds 3"
+
+[Volume0]
+LocationName="Livello rosso 3"
+
+[Volume1]
+LocationName="Livello blu 3"
+
+[Volume10]
+LocationName="Scudo rosso"
+
+[Volume11]
+LocationName="Scudo blu"
+
+[Volume12]
+LocationName="Porta posteriore rossa"
+
+[Volume13]
+LocationName="Porta posteriore blu"
+
+[Volume2]
+LocationName="Livello 2 blu"
+
+[Volume3]
+LocationName="Livello 2 rosso"
+
+[Volume4]
+LocationName="Flak Blu"
+
+[Volume5]
+LocationName="Flak Rosso"
+
+[Volume6]
+LocationName="Flak Blu"
+
+[Volume7]
+LocationName="Flak Blu"
+
+[Volume8]
+LocationName="Flak Rosso"
+
+[Volume9]
+LocationName="Flak Rosso"
+
+[ZoneInfo1]
+LocationName="Base blu"
+
+[ZoneInfo10]
+LocationName="Minigun rosso"
+
+[ZoneInfo11]
+LocationName="Colonne rosse"
+
+[ZoneInfo2]
+LocationName="Minigun blu"
+
+[ZoneInfo3]
+LocationName="Minigun blu"
+
+[ZoneInfo4]
+LocationName="Colonne blu"
+
+[ZoneInfo5]
+LocationName="Minigun blu"
+
+[ZoneInfo6]
+LocationName="Esterno"
+
+[ZoneInfo7]
+LocationName="Base rossa"
+
+[ZoneInfo8]
+LocationName="Minigun rosso"
+
+[ZoneInfo9]
+LocationName="Minigun rosso"

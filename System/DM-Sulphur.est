@@ -1,0 +1,13 @@
+[LevelInfo0]
+Title="Sulphur"
+
+[LevelSummary]
+Title="Sulphur"
+Description="¿Te gustaría estar aquí? Probablemente no. Desde la pérdida de la capa de ozono, estas estaciones de control meteorológico sufren tormentas permanentes y fuertes vientos. La interminable lluvia ácida ha corroído lo que en su día fueron orgullosos ejemplos del progreso tecnológico, reduciéndolos a oxidados armatostes que dominan el horizonte."
+
+[PhysicsVolume3]
+LocationName="Seis millas sobre el nivel del mar"
+
+[ZoneInfo3]
+LocationName="6 millas sobre el nivel del mar"
+

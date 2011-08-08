@@ -1,0 +1,22 @@
+[LevelInfo0]
+Title="Rrajigar"
+
+[LevelSummary]
+Title="Rrajigar"
+Description="Combate en las minas Rrajigar"
+
+[Volume0]
+LocationName="Zona de maquinaria"
+
+[Volume1]
+LocationName="Catarata"
+
+[Volume2]
+LocationName="Zona de escudo"
+
+[Volume3]
+LocationName="Zona de impacto"
+
+[WaterVolume0]
+LocationName="Río"
+

@@ -1,0 +1,94 @@
+[LevelInfo0]
+Title="Curse4"
+
+[LevelSummary]
+Title="Curse4"
+Description="Spüren Sie, wie die Wände auf sie zukommen? Ist Ihnen vielleicht etwas klaustrophobisch zumute? Wenn das Flakgeschütz feuert und die Shock-Kombos die Luft erfüllen, während Sie in einer Ecke in der Falle sitzen, da ein gewissenloser Verfolger Sie dort hinein gedrängt hat, werden Sie die Bedeutung des Wortes "verflucht" verstehen."
+
+[ZoneInfo0]
+LocationName="U-Schaden-Raum"
+
+[ZoneInfo1]
+LocationName="Kellerflur"
+
+[ZoneInfo10]
+LocationName="Oberes Atrium"
+
+[ZoneInfo11]
+LocationName="Flak Cannon-Raum"
+
+[ZoneInfo13]
+LocationName="Oberes Atrium"
+
+[ZoneInfo14]
+LocationName="Oberes Atrium"
+
+[ZoneInfo15]
+LocationName="Oberes Atrium"
+
+[ZoneInfo16]
+LocationName="Minigun-Raum"
+
+[ZoneInfo17]
+LocationName="Minigun-Raum"
+
+[ZoneInfo18]
+LocationName="Oberes Atrium"
+
+[ZoneInfo19]
+LocationName="Rocket Launcher-Loft"
+
+[ZoneInfo2]
+LocationName="Kellerflur"
+
+[ZoneInfo20]
+LocationName="Oberes Atrium"
+
+[ZoneInfo21]
+LocationName="Flak Cannon-Raum"
+
+[ZoneInfo22]
+LocationName="Flak Cannon-Raum"
+
+[ZoneInfo23]
+LocationName="U-Schaden-Raum"
+
+[ZoneInfo24]
+LocationName="U-Schaden-Raum"
+
+[ZoneInfo25]
+LocationName="Lightning Gun-Flur"
+
+[ZoneInfo26]
+LocationName="Lightning Gun-Flur"
+
+[ZoneInfo27]
+LocationName="Lightning Gun-Flur"
+
+[ZoneInfo28]
+LocationName="Lightning Gun-Flur"
+
+[ZoneInfo29]
+LocationName="U-Schaden-Raum"
+
+[ZoneInfo3]
+LocationName="Drachenkopfbereich"
+
+[ZoneInfo4]
+LocationName="Lightning Gun-Flur"
+
+[ZoneInfo5]
+LocationName="Seitlicher Gang"
+
+[ZoneInfo6]
+LocationName="Lightning Gun-Flur"
+
+[ZoneInfo7]
+LocationName="Flak Cannon-Raum"
+
+[ZoneInfo8]
+LocationName="Lightning Gun-Flur"
+
+[ZoneInfo9]
+LocationName="Mittlerer Raum"
+

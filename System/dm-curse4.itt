@@ -1,0 +1,94 @@
+[LevelInfo0]
+Title="Maledizione4"
+
+[LevelSummary]
+Title="Maledizione4"
+Description="Ti senti accerchiato dai muri? Provi un senso di claustrofobia? Quando uno spietato inseguitore ti avrà chiuso in un angolo mentre i proiettili volano e l'aria è satura di onde d'urto, capirai il senso della parola "maledetto"."
+
+[ZoneInfo0]
+LocationName="Stanza dei danni"
+
+[ZoneInfo1]
+LocationName="Corridoio del sotterraneo"
+
+[ZoneInfo10]
+LocationName="Atrio superiore"
+
+[ZoneInfo11]
+LocationName="Stanza del cannone Flak"
+
+[ZoneInfo13]
+LocationName="Atrio superiore"
+
+[ZoneInfo14]
+LocationName="Atrio superiore"
+
+[ZoneInfo15]
+LocationName="Atrio superiore"
+
+[ZoneInfo16]
+LocationName="Stanza del minigun"
+
+[ZoneInfo17]
+LocationName="Stanza del minigun"
+
+[ZoneInfo18]
+LocationName="Atrio superiore"
+
+[ZoneInfo19]
+LocationName="Soffitta del lanciarazzi"
+
+[ZoneInfo2]
+LocationName="Corridoio del sotterraneo"
+
+[ZoneInfo20]
+LocationName="Atrio superiore"
+
+[ZoneInfo21]
+LocationName="Stanza del cannone Flak"
+
+[ZoneInfo22]
+LocationName="Stanza del cannone Flak"
+
+[ZoneInfo23]
+LocationName="Stanza degli ZeroDanni"
+
+[ZoneInfo24]
+LocationName="Stanza degli ZeroDanni"
+
+[ZoneInfo25]
+LocationName="Corridoio del fulminatore"
+
+[ZoneInfo26]
+LocationName="Corridoio del fulminatore"
+
+[ZoneInfo27]
+LocationName="Corridoio del fulminatore"
+
+[ZoneInfo28]
+LocationName="Corridoio del fulminatore"
+
+[ZoneInfo29]
+LocationName="Stanza dei danni"
+
+[ZoneInfo3]
+LocationName="Zona delle teste di drago"
+
+[ZoneInfo4]
+LocationName="Corridoio del fulminatore"
+
+[ZoneInfo5]
+LocationName="Corridoio laterale"
+
+[ZoneInfo6]
+LocationName="Corridoio del fulminatore"
+
+[ZoneInfo7]
+LocationName="Stanza del cannone Flak"
+
+[ZoneInfo8]
+LocationName="Corridoio del fulminatore"
+
+[ZoneInfo9]
+LocationName="Stanza centrale"
+

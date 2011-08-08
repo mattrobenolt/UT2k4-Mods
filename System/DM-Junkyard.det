@@ -1,0 +1,15 @@
+[LevelInfo0]
+Title="The Junkyard"
+LevelEnterText="Willkommen zum Planeten des Abfalls"
+
+[LevelSummary]
+Title="The Junkyard"
+Description="Im Lauf der Ewigkeiten hat sich der Abschaum von Zivilisationen hier zusammengefunden. Sie und Ihre Freunde sollen sich nur zu diesem Haufen gesellen."
+LevelEnterText="Willkommen zum Planeten des Abfalls"
+
+[ZoneInfo0]
+LocationName="Verloren im Abfall"
+
+[ZoneInfo1]
+LocationName="Verloren im Abfall"
+

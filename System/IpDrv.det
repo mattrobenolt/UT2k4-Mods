@@ -1,0 +1,37 @@
+[Public]
+Object=(Name=IpDrv.UpdateServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=IpDrv.MasterServerCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=IpDrv.CompressCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=IpDrv.DecompressCommandlet,Class=Class,MetaClass=Core.Commandlet)
+Object=(Name=IpDrv.TcpNetDriver,Class=Class,MetaClass=Engine.NetDriver)
+Object=(Name=IpDrv.UdpBeacon,Class=Class,MetaClass=Engine.Actor)
+Preferences=(Caption="Netzwerke",Parent="Erweiterte Optionen")
+Preferences=(Caption="TCP/IP-Netzwerkspiel",Parent="Netzwerke",Class=IpDrv.TcpNetDriver)
+Preferences=(Caption="Server Beacon",Parent="Netzwerke",Class=IpDrv.UdpBeacon,Immediate=True)
+
+[TcpNetDriver]
+ClassCaption=TCP/IP Netzwerkspiel
+
+[UdpBeacon]
+ClassCaption=Server LAN Beacon
+
+[DecompressCommandlet]
+HelpCmd=Dekomprimieren
+HelpOneLiner=Entpack. von ucc-Komprimierer komprimier. Datei
+HelpUsage=Komprimierte Datei entpacken
+HelpParm[0]=Komprimierte Datei
+HelpDesc[0]=Zu entpackende .uz-Datei
+
+[CompressCommandlet]
+HelpCmd=Komprimieren
+HelpOneLiner=Unreal-Paket zum Auto-Download komprimieren. Datei mit der Erweiterung .uz wird erstellt.
+HelpUsage=Datei1 [Datei2 [Datei3 ...]] komprimieren
+HelpParm[0]=Dateien
+HelpDesc[0]=Platzhalter, zu komprimier. Dateinamen
+
+[MasterServerUplink]
+MSUPropText[0]="Server bekannt machen"
+MSUPropText[1]="Prozess-Stats"
+MSUPropDesc[0]="wenn ja, wird Ihr Server auf dem Internet-Server-Browser bekannt gemacht."
+MSUPropDesc[1]="Veröffentlicht Spielerstatistiken Ihres Servers auf der UT2004-Statistik-Website."
+

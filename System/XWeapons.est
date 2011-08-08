@@ -1,0 +1,274 @@
+[Public]
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutArena,Description="Sustituir armas y munición en el mapa.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=XWeapons.MutNoSuperWeapon,Description="Sin Redentor o cañón de iones en el mapa.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.AssaultRifle,Description="Barato y fácil de producir en la mayoría de las colonias, el AR770 proporciona una solución de combate del calibre 5.56 mm, ligera y muy efectiva contra enemigos sin armadura. Con una penetración de armadura moderada tirando a pobre el mejor papel para este rifle es como arma de apoyo ligero. El accesorio opcional, M355 Lanza Granadas, aporta la potencia de fuego suficiente como para que sea efectiva contra enemigos pesadamente armados.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.BallLauncher,Description="")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.BioRifle,Description="El Bio-Rifle GES sigue siendo una de las armas más controvertidas del Torneo. Amada por algunos, denostada por otros, el Bio-Rifle ha sido objeto de un largo debate acerca de su utilidad. Algunos puristas del Torneo argumentan que es el equivalente de un cobarde campo de minas. Otros señalan que mejora las capacidades tácticas de los combatientes defensivos. A pesar del debate, el arma proporciona fuego rápido en una zona amplia con su disparo primario y un disparo sencillo, con diferentes posibilidades con el secundario. Hablando en plata, viene a ser como acribillar una zona con pequeños globos de biocieno o lanzar un enorme globo hacia el objetivo.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.FlakCannon,Description="La serie 7 de cañones de dardos de Trident Defensive Technologies ha evolucionado en su nueva versión, el MK3 "Negociador". Los dardos ionizados son capaces de producir quemaduras de segundo y tercer grado en tejidos orgánicos, cauterizando la herida de manera instantánea. Las recargas se pueden liberar de dos maneras diferentes: una rociada de dardos ionizados que sale del cañón o en forma de granadas de fragmentación que explotan por impacto sembrando los alrededores con una lluvia de dardos.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.LinkGun,Description="Los sistemas de Armas Dinámicas Riordan combinan los mejores diseños de armas imperiales y humanos en el Rifle de Plasma Avanzado v23, conocido como la Enlazadora.|Aunque el modo primario de disparo sigue siendo el mismo que en el anterior proyector de plasma, el modo secundario (antorcha de plasma) ha sido sustituido por un escáner activo y conmutable de matriz energética. Cuando contacta con un compañero de equipo se convierte en un haz inofensivo de transporte.|El haz de transporte descarga energía de las células del arma, potenciando la salida del arma del jugador apuntado. Debe advertirse que los jugadores que estén potenciando a un compañero son incapaces de defenderse a sí mismos. ")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Minigun,Description="El cañón rotatorio Schultz-Metzger T23-A 23mm es capaz de disparar tanto munición de alta velocidad sin casquillo como con casquillo. Con un peso en vacío de 8 kilogramos, el T23 es portátil y manejable, pudiéndose llevar a la espalda si viene equipada con la correa de transporte. El T23-A es el cañón rotatorio preferido del soldado bien informado.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Painter,Description="El emisor de iones parece inofensivo a primera vista, ya que su disparo primario emite un haz de láser de baja energía que no causa daños. Pocos segundos después, un gigantesco cañón orbital de iones, de varios gigawatios, dispara contra el objetivo, neutralizando a todos los combatientes de los alrededores.||El emisor es un dispositivo de puntería a distancia que se usa para apuntar y disparar el cañón de iones VAPOR. El emisor de iones proporciona más precisión mediante una mira telescópica que se activa de manera sencilla, con el modo secundario de disparo del arma. |Una vez que el emisor de iones se ha usado para designar un blanco, es muy recomendable que el usuario ponga toda la distancia posible entre él y el área de efecto del arma.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.Redeemer,Description="La primera vez que veas en acción un dispositivo nuclear en miniatura, estarás de acuerdo en que es el arma más poderosa del Torneo. Con el disparo primario, lanza un misil lento pero tremendamente devastador; y ten cuidado de estar fuera del impresionante radio de acción del Redentor antes de que impacte. El disparo secundario te permite guiar el cohete personalmente, con una vista desde el mismo. DE todas maneras, no olvides que mientras apuntas el proyectil del Redentor, eres vulnerable. Debido al enorme volumen de su munición, se queda sin cargas después de un disparo.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.RocketLauncher,Description="El lanzacohetes de triple cañón Trident es muy popular entre los competidores que buscan una buena relación poder destructivo-precio. El sistema rotatorio de carga trasera está diseñado para disparos simples o múltiples, permitiendo disparar hasta tres cohetes no guiados hacia el objetivo.|Los proyectiles están diseñados para producir la mayor cantidad de daños de impacto en el objetivo y en los alrededores.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShieldGun,Description="El sistema de controles de motines Kemphler DD280 tiene la capacidad de resistir y reflejar proyectiles y haces de energía. El plasma inflinge daños masivos, desgarrando tejidos, pulverizando órganos y llenando el flujo sanguíneo de peligrosas burbujas de gas. Este arma está pensada para combates en distancias cortas, pero si se usa con habilidad es tan peligrosa como cualquier otra.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.ShockRifle,Description="El rifle de choque ASMD ha cambiado poco desde su incorporación a los Torneos. El ASMD proporciona dos modos de disparo diferentes capaces de actuar en sintonía para neutralizar oponentes en una onda devastadora.||Esta combinación de ataques se logra cuando el operador del arma utiliza el modo secundario para enviar una carga de plasma al objetivo.|Una vez que el lento plasma está cerca del objetivo, el operador utiliza el rayo de fotones sobre el núcleo de plasma, desencadenando la energía de los antifotones contenidos en el campo electromagnético del plasma.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.SniperRifle,Description="El arma eléctrica es un rifle de energía de gran poder capaz de vaporizar incluso las armaduras más pesadas. Apuntar a un objetivo a largas distancias requiere una mano firme, pero el efecto antitemblores del sistema óptico reduce de manera significativa la curva de aprendizaje con el arma. Una vez que se ha fijado el blanco el operador presiona el gatillo, pintando un parche, de protones en el objetivo. Milisegundos después, el rifle descarga un arco voltaico de electricidad, que busca el diferencial de carga y aniquila el objetivo.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=XWeapons.TransLauncher,Description="El Transportador fue diseñado originalmente por la división de I+D de la Corporación Liandri para facilitar la evacuación rápida de los mineros durante derrumbamientos y otro tipo de accidentes. Sin embargo, la disolución y reconstitución rápida de un organismo tiene algunos efectos secundarios, entre los que destacan un incremento de la agresividad y la paranoia.||Para prolongar la carrera de los contendientes, hoy en día hay límites en el uso de transportadores en las ligas de menor rango.|La última versión del transportador incorpora una cámara de control remoto, excepcionalmente útil cuando se explora áreas de contención. No debe olvidarse que mientras se utiliza la cámara de vigilancia el usuario queda efectivamente ciego a su entorno.")
+
+[AssaultAmmo]
+ItemName="Balas"
+
+[AssaultAmmoPickup]
+PickupMessage="Has conseguido una caja de granadas y balas."
+
+[AssaultRifle]
+Description="Barato y fácil de producir en la mayoría de las colonias, el AR770 proporciona una solución de combate del calibre 5,56 mm, ligera y muy efectiva contra enemigos sin armadura. Con una penetración de armadura moderada tirando a pobre el mejor papel para este rifle es como arma de apoyo ligero. El accesorio opcional, M355 Lanza Granadas, aporta la potencia de fuego suficiente como para que sea efectiva contra enemigos pesadamente armados. Recoge un segundo rifle de asalto para duplicar tu potencia de fuego."
+ItemName="Rifle asalto"
+
+[AssaultRiflePickup]
+PickupMessage="Has cogido el Rifle de Asalto."
+
+[BallAmmo]
+ItemName="Munición de bolas"
+
+[BallLauncher]
+ItemName="Lanzador de bolas"
+
+[BioAmmo]
+ItemName="Cieno para el Bio-Rifle"
+
+[BioAmmoPickup]
+PickupMessage="Has recogido munición para el Bio-Rifle"
+
+[BioRifle]
+Description="El Bio-Rifle GES sigue siendo una de las armas más controvertidas del Torneo. Amada por algunos, denostada por otros, el Bio-Rifle ha sido objeto de un largo debate acerca de su utilidad. Algunos puristas del Torneo argumentan que es el equivalente de un cobarde campo de minas. Otros señalan que mejora las capacidades tácticas de los combatientes defensivos. A pesar del debate, el arma proporciona fuego rápido en una zona amplia con su disparo primario y un disparo sencillo, con diferentes posibilidades con el secundario. Hablando en plata, viene a ser como acribillar una zona con pequeños globos de biocieno o lanzar un enorme globo hacia el objetivo."
+ItemName="Bio-Rifle"
+
+[BioRiflePickup]
+PickupMessage="Tienes el Bio-Rifle"
+
+[DamTypeAssaultBullet]
+DeathString="%o ha sido ventilado por el rifle de asalto de %k."
+FemaleSuicide="%o se ha asaltado a sí misma."
+MaleSuicide="%o se ha asaltado a sí mismo."
+
+[DamTypeAssaultGrenade]
+DeathString="%o trató de comerse la granada de %k."
+FemaleSuicide="%o saltó sobre su propia granada."
+MaleSuicide="%o saltó sobre su propia granada."
+
+[DamTypeBioGlob]
+DeathString="%o fue despedazado por el Bio-Rifle de %k."
+FemaleSuicide="%o se despedazó a sí mismo."
+MaleSuicide="%o se despedazó a sí mismo."
+
+[DamTypeFlakChunk]
+DeathString="%o ha quedado hecho jirones por el cañón antiaéreo de %k."
+FemaleSuicide="%o se ha perforado con su propio cañón."
+MaleSuicide="%o se ha perforado con su propio cañón."
+
+[DamTypeFlakShell]
+DeathString="%o ha sido destripado por la metralla de %k."
+FemaleSuicide="%o se ha hecho volar en pedazos con su propio cartucho de cañón antiaéreo."
+MaleSuicide="%o se ha hecho volar en pedazos con su propio cartucho de cañón antiaéreo."
+
+[DamTypeIonBlast]
+DeathString="%o fue ANIQUILADO"
+FemaleSuicide="%o fue ANIQUILADO"
+MaleSuicide="%o fue ANIQUILADO"
+
+[DamTypeLinkPlasma]
+DeathString="A %o le han servido una ración extra de plasma cortesía de %k."
+FemaleSuicide="%o se ha frito en su propio jugo gracias a su habilidad con el plasma."
+MaleSuicide="%o se ha frito en su propio jugo gracias a su habilidad con el plasma."
+
+[DamTypeLinkShaft]
+DeathString="%o ha sido empalado por %k"
+FemaleSuicide="%o ha logrado empalarse ella solita."
+MaleSuicide="%o ha logrado empalarse él solito."
+
+[DamTypeMinigunBullet]
+DeathString="%o ha sido barrido por el cañón automático de %k."
+FemaleSuicide="%o ha apuntado su cañón automático donde no debía."
+MaleSuicide="%o ha apuntado su cañón automático donde no debía."
+
+[DamTypeRedeemer]
+DeathString="¡% ha sido PULVERIZADO por %k!"
+FemaleSuicide="¡% ha sido PULVERIZADO!"
+MaleSuicide="¡% ha sido PULVERIZADO!"
+
+[DamTypeRocket]
+DeathString="%o ha llegado al olvido final encima del cohete de %k."
+FemaleSuicide="%o disparó su cohete demasiado pronto."
+MaleSuicide="%o disparó su cohete demasiado pronto."
+
+[DamTypeShieldImpact]
+DeathString="%o ha sido pulverizado por el cañón protector de %k."
+FemaleSuicide="%o se ha esparcido demasiado."
+MaleSuicide="%o se ha esparcido demasiado."
+
+[DamTypeShockBall]
+DeathString="%o ha sido aniquilado por un núcleo de choque de %k."
+FemaleSuicide="%o ha estirado la pata gracias a su propio núcleo de choque."
+MaleSuicide="%o ha estirado la pata gracias a su propio núcleo de choque."
+
+[DamTypeShockBeam]
+DeathString="%o ha alcanzado de manera trágica la iluminación gracias al haz de choque de %k."
+FemaleSuicide="%o ha conseguido, de alguna manera, dispararse con su propio rifle de choque."
+MaleSuicide="%o ha conseguido, de alguna manera, dispararse con su propio rifle de choque."
+
+[DamTypeShockCombo]
+DeathString="%o no pudo evitar el impacto del combo de choque de %k."
+FemaleSuicide="%o cometió un error táctico con su combo de choque."
+MaleSuicide="%o cometió un error táctico con su combo de choque."
+
+[DamTypeSniperHeadShot]
+DeathString="El cráneo de %o ha sido churruscado por el arma eléctrica de %k."
+FemaleSuicide="%o ha violado las leyes del espacio tiempo para abatirse a sí misma."
+MaleSuicide="%o ha violado las leyes del espacio tiempo para abatirse a sí mismo."
+
+[DamTypeSniperShot]
+DeathString="%o cabalgó el relámpago de %k."
+FemaleSuicide="%o ha tenido una experiencia electrificante."
+MaleSuicide="%o ha tenido una experiencia electrificante."
+
+[DamTypeTeleFrag]
+DeathString="%o ha visto sus átomos esparcidos por %k."
+FemaleSuicide="%o intentó llegar donde nadie había ido antes."
+MaleSuicide="%o intentó llegar donde nadie había ido antes."
+
+[FlakAmmo]
+ItemName="Cartuchos de cañón antiaéreo"
+
+[FlakAmmoPickup]
+PickupMessage="Has recogido 10 cartuchos de cañón antiaéreo."
+
+[FlakCannon]
+Description="La serie 7 de cañones de dardos de Trident Defensive Technologies ha evolucionado en su nueva versión, el MK3 "Negociador". Los dardos ionizados son capaces de producir quemaduras de segundo y tercer grado en tejidos orgánicos, cauterizando la herida de manera instantánea.||Las cargas explosivas se pueden liberar de dos maneras diferentes: una rociada de dardos ionizados que sale del cañón o en forma de granadas de fragmentación que explotan por impacto sembrando los alrededores con una lluvia de dardos."
+ItemName="Antiaéreo"
+
+[FlakCannonPickup]
+PickupMessage="Tienes el cañón antiaéreo."
+
+[GrenadeAmmo]
+ItemName="Granadas"
+
+[LinkAmmo]
+ItemName="Munición de enlazadora"
+
+[LinkAmmoPickup]
+PickupMessage="Has recogido 40 cargas de enlazadora."
+
+[LinkGun]
+Description="Los sistemas de Armas Dinámicas Riordan combinan los mejores diseños de armas imperiales y humanos en el Rifle de Plasma Avanzado v23, conocido como la Enlazadora.|Aunque el modo primario de disparo sigue siendo el mismo que en el anterior proyector de plasma, el modo secundario (antorcha de plasma) ha sido sustituido por un escáner activo y conmutable de matriz energética. Cuando contacta con un compañero de equipo se convierte en un haz inofensivo de transporte.|El haz de transporte descarga energía de las células del arma, potenciando la salida del arma del jugador apuntado. Debe advertirse que los jugadores que estén potenciando a un compañero son incapaces de defenderse a sí mismos. "
+ItemName="Enlazadora"
+
+[LinkGunPickup]
+PickupMessage="Tienes la Enlazadora."
+
+[Minigun]
+Description="El cañón rotatorio Schultz-Metzger T23-A 23mm es capaz de disparar tanto munición de alta velocidad sin casquillo como con casquillo. Con un peso en vacío de 8 kilogramos, el T23 es portátil y manejable, pudiéndose llevar a la espalda si viene equipada con la correa de transporte.|El T23-A es el cañón rotatorio preferido del soldado bien informado."
+ItemName="Cañón automático"
+
+[MinigunAmmo]
+ItemName="Balas"
+
+[MinigunAmmoPickup]
+PickupMessage="Has recogido 50 balas."
+
+[MinigunPickup]
+PickupMessage="Tienes el cañón automático."
+
+[MutArena]
+ArenaDisplayText="Arma de estadio"
+ArenaDescText="Determina qué arma se usará durante el encuentro en el estadio"
+FriendlyName="Estadio"
+Description="Reemplazar armas y munición en mapa."
+
+[MutNoSuperWeapon]
+FriendlyName="Sin superarmas"
+Description="Se eliminan las recogidas de superarmas del mapa"
+
+[Painter]
+Description="El emisor de iones parece inofensivo a primera vista, ya que su disparo primario emite un haz de láser de baja energía que no causa daños. Pocos segundos después, un gigantesco cañón orbital de iones, de varios gigawatios, dispara contra el objetivo, neutralizando a todos los combatientes de los alrededores.||El emisor es un dispositivo de puntería a distancia que se usa para apuntar y disparar el cañón de iones VAPOR. El emisor de iones proporciona más precisión mediante una mira telescópica que se activa de manera sencilla, con el modo secundario de disparo del arma. |Una vez que el emisor de iones se ha usado para designar un blanco, es muy recomendable que el usuario ponga toda la distancia posible entre él y el área de efecto del arma."
+ItemName="Emisor de iones"
+
+[PainterPickup]
+PickupMessage="Tienes el Emisor de Iones."
+
+[Redeemer]
+Description="La primera vez que veas en acción un dispositivo nuclear en miniatura, estarás de acuerdo en que es el arma más poderosa del Torneo.|Con el disparo primario, lanza un misil lento pero tremendamente devastador; y ten cuidado de estar fuera del impresionante radio de acción del Redentor antes de que impacte. El disparo secundario te permite guiar el cohete personalmente, con una vista desde el mismo.||De todas maneras, no olvides que mientras apuntas el proyectil del Redentor, eres vulnerable. Debido al enorme volumen de su munición, se queda sin cargas después de un disparo."
+ItemName="Redentor"
+
+[RedeemerAmmo]
+ItemName="Munición de Redentor"
+
+[RedeemerPickup]
+PickupMessage="Tienes a Redentor."
+
+[RocketAmmo]
+ItemName="Cohetes"
+
+[RocketAmmoPickup]
+PickupMessage="Has recogido un paquete de cohetes."
+
+[RocketLauncher]
+Description="El Lanzacohetes de triple cañón Trident es muy popular entre los competidores que buscan una buena relación poder destructivo-precio. El sistema rotatorio de carga trasera está diseñado para disparos simples o múltiples, permitiendo disparar hasta tres cohetes no guiados hacia el objetivo.|Los proyectiles están diseñados para producir la mayor cantidad de daños de impacto en el objetivo y en los alrededores."
+ItemName="Lanzacohetes"
+
+[RocketLauncherPickup]
+PickupMessage="Tienes el lanzacohetes."
+
+[ShieldAmmo]
+ItemName="Protector"
+
+[ShieldGun]
+Description="El sistema de controles de motines Kemphler DD280 tiene la capacidad de resistir y reflejar proyectiles y haces de energía. El plasma inflinge daños masivos, desgarrando tejidos, pulverizando órganos y llenando el flujo sanguíneo de peligrosas burbujas de gas.||Este arma está pensada para combates en distancias cortas, pero si se usa con habilidad es tan peligrosa como cualquier otra."
+ItemName="Cañón protector"
+
+[ShieldGunPickup]
+PickupMessage="Tienes el cañón protector."
+
+[ShockAmmo]
+ItemName="Núcleo de choque"
+
+[ShockAmmoPickup]
+PickupMessage="Has recogido un núcleo de choque."
+
+[ShockRifle]
+Description="El rifle de choque ASMD ha cambiado poco desde su incorporación a los Torneos. El ASMD proporciona dos modos de disparo diferentes capaces de actuar en sintonía para neutralizar oponentes en una onda devastadora.||Esta combinación de ataques se logra cuando el operador del arma utiliza el modo secundario para enviar una carga de plasma al objetivo.|Una vez que el lento plasma está cerca del objetivo, el operador utiliza el rayo de fotones sobre el núcleo de plasma, desencadenando la energía de los antifotones contenidos en el campo electromagnético del plasma."
+ItemName="Rifle de choque"
+
+[ShockRiflePickup]
+PickupMessage="Tienes el Rifle de Choque."
+
+[SniperAmmo]
+ItemName="Cargas de arma eléctrica"
+
+[SniperAmmoPickup]
+PickupMessage="Has recogido munición eléctrica."
+
+[SniperRifle]
+Description="El arma eléctrica es un rifle de energía de gran poder capaz de vaporizar incluso las armaduras más pesadas. Apuntar a un objetivo a largas distancias requiere una mano firme, pero el efecto antitemblores del sistema óptico reduce de manera significativa la curva de aprendizaje con el arma. Una vez que se ha fijado el blanco el operador presiona el gatillo, pintando un "parche" de protones en el objetivo. Milisegundos después, el rifle descarga un arco voltaico de electricidad, que busca el diferencial de carga y aniquila el objetivo."
+ItemName="Arma eléctrica"
+
+[SniperRiflePickup]
+PickupMessage="Tienes el Arma Eléctrica"
+
+[SuperShockRifle]
+ItemName="Super Rifle de Choque."
+
+[SuperShockRiflePickup]
+PickupMessage="Tienes el Super Rifle de Choque."
+
+[TransAmmo]
+ItemName="Translanzador"
+
+[Translauncher]
+Description="El Transportador fue diseñado originalmente por la división de I+D de la Corporación Liandri para facilitar la evacuación rápida de los mineros durante derrumbamientos y otro tipo de accidentes. Sin embargo, la disolución y reconstitución rápida de un organismo tiene algunos efectos secundarios, entre los que destacan un incremento de la agresividad y la paranoia.||Para prolongar la carrera de los contendientes, hoy en día hay límites en el uso de transportadores en las ligas de menor rango.|La última versión del transportador incorpora una cámara de control remoto, excepcionalmente útil cuando se explora áreas de contención. No debe olvidarse que mientras se utiliza la cámara de vigilancia el usuario queda efectivamente ciego a su entorno."
+ItemName="Transportador"
+
+[WeaponLocker]
+LockerString="Armero"
+PickupMessage="Te has rearmado en un armero"
+

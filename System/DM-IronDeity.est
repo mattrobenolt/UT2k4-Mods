@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title="Iron Deity"
+
+[LevelSummary]
+Title="Iron Deity"
+Description="Este estadio grande e imponente es más apropiado para dos equipos de combatientes de tamaño medio. Procura que no te pillen corriendo por la estrecha sala del ventilador y asegúrate de controlar el daño doble. Por último, ¡estate atento al Redentor oculto!"
+
+[ZoneInfo0]
+LocationName="Arma eléctrica"
+
+[ZoneInfo1]
+LocationName="Rampa inferior"
+
+[ZoneInfo10]
+LocationName="Sala FPS inferior"
+
+[ZoneInfo11]
+LocationName="Daño doble cercano"
+
+[ZoneInfo12]
+LocationName="Armario"
+
+[ZoneInfo2]
+LocationName="Enlazadora"
+
+[ZoneInfo3]
+LocationName="Cañón automático"
+
+[ZoneInfo4]
+LocationName="Daño doble"
+
+[ZoneInfo5]
+LocationName="Sala de antiaéreo"
+
+[ZoneInfo7]
+LocationName="Baño"
+
+[ZoneInfo8]
+LocationName="Armario"
+
+[ZoneInfo9]
+LocationName="Rifle de choque"
+

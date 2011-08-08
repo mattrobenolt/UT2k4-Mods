@@ -1,0 +1,34 @@
+[LevelInfo0]
+Title="Roccaforte artica"
+
+[LevelSummary]
+Title="Roccaforte artica"
+Description="La roccaforte artica sorge a 8.000 metri di quota, coperta da fitte nebbie e nevi perenni. Si è rivelata il luogo ideale per realizzare senza interferenze degli esperimenti militari contro gli Skaarj. Ristrutturata per la modalità Energia, questa arena offre diverse possibilità al nemico e infiniti modi di morire per gli incauti."
+
+[Volume1]
+LocationName="Base rossa"
+
+[Volume14]
+LocationName="Base blu"
+
+[Volume15]
+LocationName="Nodo nord"
+
+[Volume16]
+LocationName="Nodo est"
+
+[Volume17]
+LocationName="Nodo centrale"
+
+[Volume18]
+LocationName="Nodo sud"
+
+[Volume19]
+LocationName="Nodo ovest"
+
+[Volume20]
+LocationName="Ponte"
+
+[ZoneInfo0]
+LocationName="Esterno"
+

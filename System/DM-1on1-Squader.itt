@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title="Milizia"
+
+[LevelSummary]
+Title="Milizia"
+Description="Questa fredda struttura, che faceva parte di un centro segreto di ricerca militare, è diventato uno dei più importanti scenari per i combattimenti 1 contro 1 del Torneo. La pressione è alta, cosa farai quando ti troverai sotto i riflettori?"
+
+[ZoneInfo0]
+LocationName="Zona del super schermo"
+
+[ZoneInfo10]
+LocationName="Sale degli ZeroDanni"
+
+[ZoneInfo11]
+LocationName="Sale degli ZeroDanni"
+
+[ZoneInfo12]
+LocationName="Zona del super schermo"
+
+[ZoneInfo2]
+LocationName="Ascensore del minigun"
+
+[ZoneInfo3]
+LocationName="Sala inferiore Flak"
+
+[ZoneInfo4]
+LocationName="Sala inferiore Flak"
+
+[ZoneInfo5]
+LocationName="Salute doppia"
+
+[ZoneInfo6]
+LocationName="Angolo del biofucile"
+
+[ZoneInfo7]
+LocationName="Zona della finestra grande"
+
+[ZoneInfo8]
+LocationName="Zona della finestra grande"
+
+[ZoneInfo9]
+LocationName="Sale degli ZeroDanni"
+

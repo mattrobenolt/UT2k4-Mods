@@ -1,0 +1,51 @@
+[LevelInfo0]
+Title="Basi Bifrost"
+
+[LevelSummary]
+Title="Basi Bifrost"
+
+[ZoneInfo1]
+LocationName="Stanza d'ingresso blu"
+
+[ZoneInfo12]
+LocationName="Stanza d'ingresso rossa"
+
+[ZoneInfo13]
+LocationName="Esterno"
+
+[ZoneInfo14]
+LocationName="Corridoio rosso"
+
+[ZoneInfo15]
+LocationName="Stanza della bomba rossa"
+
+[ZoneInfo16]
+LocationName="Corridoio blu"
+
+[ZoneInfo17]
+LocationName="Stanza della bomba blu"
+
+[ZoneInfo2]
+LocationName="Stanza della bomba rossa"
+
+[ZoneInfo4]
+LocationName="Corridoio blu"
+
+[ZoneInfo5]
+LocationName="Corridoio rosso"
+
+[ZoneInfo6]
+LocationName="Stanza della bomba blu"
+
+[ZoneInfo7]
+LocationName="Ingresso rosso"
+
+[ZoneInfo9]
+LocationName="Ingresso blu"
+
+[xBombDelivery0]
+DestructionMessage="La squadra rossa ha segnato!"
+
+[xBombDelivery1]
+DestructionMessage="La squadra blu ha segnato!"
+

@@ -1,0 +1,19 @@
+[LevelInfo0]
+Title="Spirit"
+
+[LevelSummary]
+Title="Spirit"
+Description="Diese uralte Struktur hatte einst religiöse Bedeutung. Doch die Zeiten haben sich geändert. Statt Gebeten hört man nun die Schreie gefallener Kämpfer … bald auch Ihre?"
+
+[ZoneInfo0]
+LocationName="Link Gun-Halle"
+
+[ZoneInfo2]
+LocationName="Rocket Launcher-Gebiet"
+
+[ZoneInfo3]
+LocationName="Doppelbrücken-Gebiet"
+
+[ZoneInfo4]
+LocationName="Flak-Gebiet"
+

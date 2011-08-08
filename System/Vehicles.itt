@@ -1,0 +1,6 @@
+[BulldogMessage]
+GetInMessage="Premi [Usa] per entrare nel veicolo."
+GetOutMessage="Premi [Usa] per uscire dal veicolo."
+TooManyCarsMessage="Ci sono troppi veicoli!"
+FlipCarMessage="Premi [Usa] per ribaltare il veicolo."
+

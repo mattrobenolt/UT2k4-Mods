@@ -1,0 +1,23 @@
+[LevelInfo0]
+Title="Skyline"
+
+[LevelSummary]
+Title="Skyline"
+
+[MessageTextureClient0]
+ScrollingMessage="%lp STA VINCENDO CON %lf PUNTI"
+
+[Volume2]
+LocationName="Dentro torre blu"
+
+[Volume3]
+LocationName="Torre centrale"
+
+[Volume4]
+LocationName="Dentro torre rossa"
+
+[Volume5]
+LocationName="Torre rossa"
+
+[Volume6]
+LocationName="Torre blu"

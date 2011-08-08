@@ -1,0 +1,187 @@
+[LevelInfo0]
+Title="Double Damage"
+
+[LevelSummary]
+Title="Double Damage"
+Description="Hay quien dice que tendrías que estar loco para jugar en lo más alto de una presa en pleno invierno. Por aquí, a esa gente la llamamos "víctimas"."
+
+[PhysicsVolume1]
+LocationName="Campo helado"
+
+[ZoneInfo0]
+LocationName="Sala de bandera azul"
+
+[ZoneInfo11]
+LocationName="Sala trasera azul"
+
+[ZoneInfo20]
+LocationName="Sala trasera azul"
+
+[ZoneInfo24]
+LocationName="Sala de bandera roja"
+
+[ZoneInfo29]
+LocationName="Sala trasera roja"
+
+[ZoneInfo30]
+LocationName="Cámara de entrada azul"
+
+[ZoneInfo37]
+LocationName="Vestíbulo azul"
+
+[ZoneInfo40]
+LocationName="Cámara superior izquierda azul"
+
+[ZoneInfo41]
+LocationName="Cámara superior izquierda azul"
+
+[ZoneInfo42]
+LocationName="Cámara superior derecha azul"
+
+[ZoneInfo43]
+LocationName="Cámara superior derecha azul"
+
+[ZoneInfo44]
+LocationName="Ascensor de francotirador rojo"
+
+[ZoneInfo45]
+LocationName="Sala trasera roja"
+
+[ZoneInfo46]
+LocationName="Sala trasera roja"
+
+[ZoneInfo47]
+LocationName="Cámara de entrada roja"
+
+[ZoneInfo48]
+LocationName="Vestíbulo rojo"
+
+[ZoneInfo49]
+LocationName="Cámara superior izquierda roja"
+
+[ZoneInfo5]
+LocationName="Sala trasera azul"
+
+[ZoneInfo50]
+LocationName="Cámara superior izquierda roja"
+
+[ZoneInfo51]
+LocationName="Cámara superior derecha roja"
+
+[ZoneInfo52]
+LocationName="Cámara superior derecha roja"
+
+[ZoneInfo53]
+LocationName="Cámara superior derecha roja"
+
+[ZoneInfo54]
+LocationName="Vestíbulo rojo"
+
+[ZoneInfo56]
+LocationName="Vestíbulo superior rojo"
+
+[ZoneInfo57]
+LocationName="Vestíbulo superior rojo"
+
+[ZoneInfo58]
+LocationName="Cámara superior izquierda roja"
+
+[ZoneInfo59]
+LocationName="Corredor izquierdo rojo"
+
+[ZoneInfo6]
+LocationName="Ascensor de francotirador azul"
+
+[ZoneInfo60]
+LocationName="Cámara superior derecha azul"
+
+[ZoneInfo61]
+LocationName="Vestíbulo rojo"
+
+[ZoneInfo62]
+LocationName="Vestíbulo rojo"
+
+[ZoneInfo63]
+LocationName="Corredor izquierdo rojo"
+
+[ZoneInfo64]
+LocationName="Corredor izquierdo rojo"
+
+[ZoneInfo65]
+LocationName="Corredor izquierdo rojo"
+
+[ZoneInfo66]
+LocationName="Vestíbulo azul"
+
+[ZoneInfo67]
+LocationName="Corredor derecho rojo"
+
+[ZoneInfo68]
+LocationName="Corredor derecho rojo"
+
+[ZoneInfo69]
+LocationName="Vestíbulo rojo"
+
+[ZoneInfo7]
+LocationName="Exterior"
+
+[ZoneInfo70]
+LocationName="Vestíbulo azul"
+
+[ZoneInfo71]
+LocationName="Sala de almacenamiento roja"
+
+[ZoneInfo72]
+LocationName="Sala de almacenamiento roja"
+
+[ZoneInfo73]
+LocationName="Sala de almacenamiento roja"
+
+[ZoneInfo74]
+LocationName="Corredor derecho rojo"
+
+[ZoneInfo75]
+LocationName="Vestíbulo superior azul"
+
+[ZoneInfo76]
+LocationName="Vestíbulo superior azul"
+
+[ZoneInfo77]
+LocationName="Cámara superior izquierda azul"
+
+[ZoneInfo78]
+LocationName="Corredor izquierdo azul"
+
+[ZoneInfo79]
+LocationName="Vestíbulo azul"
+
+[ZoneInfo80]
+LocationName="Vestíbulo azul"
+
+[ZoneInfo81]
+LocationName="Corredor izquierdo azul"
+
+[ZoneInfo82]
+LocationName="Corredor izquierdo azul"
+
+[ZoneInfo83]
+LocationName="Corredor izquierdo azul"
+
+[ZoneInfo84]
+LocationName="Corredor derecho azul"
+
+[ZoneInfo85]
+LocationName="Corredor derecho azul"
+
+[ZoneInfo87]
+LocationName="Sala de almacenamiento azul"
+
+[ZoneInfo88]
+LocationName="Sala de almacenamiento azul"
+
+[ZoneInfo89]
+LocationName="Sala de almacenamiento azul"
+
+[ZoneInfo90]
+LocationName="Corredor derecho azul"
+

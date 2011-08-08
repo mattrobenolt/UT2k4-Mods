@@ -1,0 +1,57 @@
+[LevelInfo0]
+Title="Gigante di lava 2"
+
+[LevelSummary]
+Title="Gigante di lava 2"
+Description="Con sangue, sudore e lacrime sono state costruite molte grandi cose nella nostra epoca. Ma nel caldo infernale dei campi di lava di Purgatorio evaporano molto velocemente, lasciando solo sinistri residui sulle corazze dei prigionieri."
+
+[Volume0]
+LocationName="Base rossa"
+
+[Volume1]
+LocationName="Base blu"
+
+[Volume2]
+LocationName="Piccolo sasso"
+
+[Volume3]
+LocationName="Cresta superiore"
+
+[Volume4]
+LocationName="Zona inferiore rossa"
+
+[Volume5]
+LocationName="Zona inferiore blu"
+
+[ZoneInfo0]
+LocationName="Esterno"
+
+[ZoneInfo1]
+LocationName="Stanza del generatore centrale"
+
+[ZoneInfo10]
+LocationName="Base rossa"
+
+[ZoneInfo2]
+LocationName="Stanza del generatore centrale"
+
+[ZoneInfo3]
+LocationName="Stanza dello scudo centrale"
+
+[ZoneInfo4]
+LocationName="Stanza del lanciarazzi centrale"
+
+[ZoneInfo5]
+LocationName="Stanza del lanciarazzi centrale"
+
+[ZoneInfo6]
+LocationName="Stanza del lanciarazzi centrale"
+
+[ZoneInfo7]
+LocationName="Base blu"
+
+[ZoneInfo8]
+LocationName="Base blu"
+
+[ZoneInfo9]
+LocationName="Base rossa"

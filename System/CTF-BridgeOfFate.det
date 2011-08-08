@@ -1,0 +1,123 @@
+[LevelInfo0]
+Title="Bridge of Fate"
+
+[LevelSummary]
+Title="Bridge of Fate"
+Description="Eine Höhle mit zwei Steilwänden, verbunden durch eine Brücke. Hier treffen 2 Teams aufeinander, hier begegnen sich Hoffnung und Verzweiflung."
+
+[ZoneInfo0]
+LocationName="Zentrale Höhle"
+
+[ZoneInfo1]
+LocationName="BLAU Schildeingang"
+
+[ZoneInfo10]
+LocationName="BLAU Säulenraum"
+
+[ZoneInfo11]
+LocationName="BLAU Flaggen-Raum"
+
+[ZoneInfo12]
+LocationName="BLAU Hintere Raketenseite"
+
+[ZoneInfo13]
+LocationName="BLAU BioRifle-Eingang"
+
+[ZoneInfo14]
+LocationName="ROT Flaggen-Raum"
+
+[ZoneInfo15]
+LocationName="ROT BioRifle-Eingang"
+
+[ZoneInfo16]
+LocationName="ROT Schildeingang"
+
+[ZoneInfo17]
+LocationName="ROT Schildeingang"
+
+[ZoneInfo18]
+LocationName="ROT BioRifle-Eingang"
+
+[ZoneInfo19]
+LocationName="ROT Säulenraum"
+
+[ZoneInfo2]
+LocationName="BLAU BioRifle-Eingang"
+
+[ZoneInfo20]
+LocationName="ROT BioRifle-Eingang"
+
+[ZoneInfo21]
+LocationName="ROT Flaggen-Raum"
+
+[ZoneInfo22]
+LocationName="ROT Vordere Flakseite"
+
+[ZoneInfo23]
+LocationName="ROT Schildeingang"
+
+[ZoneInfo24]
+LocationName="BLAU Schildeingang"
+
+[ZoneInfo25]
+LocationName="BLAU Schildeingang"
+
+[ZoneInfo26]
+LocationName="BLAU BioRifle-Eingang"
+
+[ZoneInfo27]
+LocationName="BLAU Flaggen-Raum"
+
+[ZoneInfo28]
+LocationName="BLAU Flaggen-Raum"
+
+[ZoneInfo29]
+LocationName="ROT Flaggen-Raum"
+
+[ZoneInfo3]
+LocationName="BLAU Hintere Flakseite"
+
+[ZoneInfo30]
+LocationName="ROT Hintere Flakseite"
+
+[ZoneInfo31]
+LocationName="ROT Hintere Raketenseite"
+
+[ZoneInfo32]
+LocationName="ROT Vordere Flakseite"
+
+[ZoneInfo33]
+LocationName="ROT Vordere Raketenseite"
+
+[ZoneInfo34]
+LocationName="ROT Vordere Flakseite"
+
+[ZoneInfo35]
+LocationName="BLAU Vordere Raketenseite"
+
+[ZoneInfo36]
+LocationName="BLAU Vordere Flakseite"
+
+[ZoneInfo38]
+LocationName="ROT BioRifle-Eingang"
+
+[ZoneInfo39]
+LocationName="ROT Schildeingang"
+
+[ZoneInfo4]
+LocationName="BLAU Säulenraum"
+
+[ZoneInfo5]
+LocationName="BLAU Vordere Flakseite"
+
+[ZoneInfo6]
+LocationName="BLAU Vordere Raketenseite"
+
+[ZoneInfo7]
+LocationName="ROT Säulenraum"
+
+[ZoneInfo8]
+LocationName="BLAU Schildeingang"
+
+[ZoneInfo9]
+LocationName="BLAU BioRifle-Eingang"

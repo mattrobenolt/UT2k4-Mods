@@ -1,0 +1,48 @@
+[LevelInfo0]
+Title="Iper-schianto 2"
+
+[LevelSummary]
+Title="Iper-schianto 2"
+
+[ZoneInfo0]
+LocationName="Ventricolo inferiore"
+
+[ZoneInfo1]
+LocationName="Rampa del lato di sinistra"
+
+[ZoneInfo10]
+LocationName="Atrio superiore"
+
+[ZoneInfo11]
+LocationName="Interno del lato di sinistra"
+
+[ZoneInfo12]
+LocationName="Esterno"
+
+[ZoneInfo13]
+LocationName="Corridoio lunare di dritta"
+
+[ZoneInfo14]
+LocationName="Stanza poppiera"
+
+[ZoneInfo2]
+LocationName="Rampa del lato di dritta"
+
+[ZoneInfo4]
+LocationName="Ventricolo superiore"
+
+[ZoneInfo5]
+LocationName="Atrio inferiore"
+
+[ZoneInfo6]
+LocationName="Interno del lato di dritta"
+
+[ZoneInfo7]
+LocationName="Corridoio lunare di sinistra"
+
+[ZoneInfo8]
+LocationName="Ala laterale di dritta"
+
+[ZoneInfo9]
+LocationName="Ala laterale di sinistra"
+

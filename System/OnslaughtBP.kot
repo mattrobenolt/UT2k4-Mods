@@ -1,0 +1,47 @@
+[DamTypeArtilleryShell]
+DeathString="%k님이 %o의 행렬에 공격을 퍼붓습니다."
+FemaleSuicide="%o 님이 스스로 자살했습니다."
+MaleSuicide="%o님이 스스로 자살했습니다."
+
+[DamTypeONSCicadaLaser]
+DeathString="%k님이 무기로 %o님을 쐈습니다.."
+FemaleSuicide="%o님이 자살했습니다.."
+MaleSuicide="%o 님이 자살했습니다."
+
+[DamTypeONSCicadaRocket]
+DeathString="%k님이 %o님을 조금 맞췄습니다."
+FemaleSuicide="%o님이 스스로 자살했습니다.."
+MaleSuicide="%o님이 스스로 자살했습니다. ."
+
+[DamTypeShockTankProximityExplosion]
+DeathString="%o님이 %k님의 팔라딘에 너무 가까이 있습니다."
+
+[DamTypeShockTankShockBall]
+DeathString="%o님이 %k님의 팔라딘 공격을 피하지 못했습니다."
+
+[MutVehiclePickups]
+FriendlyName="차량의 주어담기"
+Description="차량은 아이템을 주워 운전자에게 전달합니다."
+
+[ONSArtillery]
+VehiclePositionString="SPMA의 안쪽"
+VehicleNameString="SPMA"
+
+[ONSArtillerySideGunPawn]
+VehiclePositionString="SPMA쪽의 포탑 안"
+VehicleNameString="SPMA쪽의 포탑"
+
+[ONSDualACGatlingGunPawn]
+LockedMsg=" 인커밍 "
+VehiclePositionString="시사다의 포탑 안"
+VehicleNameString="시사다 레이저 포탑"
+
+[ONSDualAttackCraft]
+LockedMsg=" 잠김 "
+VehiclePositionString="시사다 안쪽"
+VehicleNameString="시사다"
+
+[ONSShockTank]
+VehiclePositionString="팔라딘 안쪽"
+VehicleNameString="팔라딘"
+

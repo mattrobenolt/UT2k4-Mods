@@ -1,0 +1,41 @@
+[LevelInfo0]
+Title="Antalus"
+
+[LevelSummary]
+Title="Antalus"
+
+[Volume0]
+LocationName="Umgebung Shock Rifle"
+
+[Volume1]
+LocationName="Teich"
+
+[Volume2]
+LocationName="Flak-Gebiet"
+
+[Volume3]
+LocationName="Umgebung Rocket Launcher"
+
+[Volume4]
+LocationName="Umgebung Schild und Link Gun"
+
+[Volume5]
+LocationName="Umgebung Lightning Gun"
+
+[Volume6]
+LocationName="Adrenaline-Gasse"
+
+[ZoneInfo0]
+LocationName="Superschild-Höhle"
+
+[ZoneInfo1]
+LocationName="Außen"
+
+[ZoneInfo2]
+LocationName="Superschild-Höhler"
+
+[ZoneInfo3]
+LocationName="Superschild-Höhle"
+
+[ZoneInfo4]
+LocationName="Superschild-Höhle"

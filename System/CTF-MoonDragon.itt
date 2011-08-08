@@ -1,0 +1,52 @@
+[LevelInfo0]
+Title="Drago lunare"
+
+[LevelSummary]
+Title="Drago lunare"
+Description="Nel cuore dell'antica Corea, nella foresta della Montagna del Drago lunare, infuria una battaglia segreta fra prodi guerrieri."
+
+[Volume10]
+LocationName="Stanza della bandiera rossa"
+
+[Volume11]
+LocationName="Entrate della base rossa"
+
+[Volume12]
+LocationName="Caverna centrale"
+
+[Volume14]
+LocationName="Lato blu dello schermo"
+
+[Volume17]
+LocationName="Entrate della base blu"
+
+[Volume18]
+LocationName="Centro blu"
+
+[Volume19]
+LocationName="Zona della fortezza blu"
+
+[Volume20]
+LocationName="Zona della fortezza rossa"
+
+[Volume21]
+LocationName="Caverna centrale"
+
+[Volume3]
+LocationName="Centro rosso"
+
+[Volume6]
+LocationName="Lato rosso dello schermo"
+
+[Volume7]
+LocationName="Percorso laterale rosso"
+
+[Volume8]
+LocationName="Percorso laterale blu"
+
+[Volume9]
+LocationName="Stanza della bandiera blu"
+
+[xBlueFlagBase1]
+ObjectiveName="Bandiera blu"
+

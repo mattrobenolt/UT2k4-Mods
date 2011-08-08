@@ -1,0 +1,46 @@
+[LevelInfo0]
+Title="Albatros"
+
+[LevelSummary]
+Title="Albatros"
+Description="Desde los antiguos días del Torneo llega un estadio clásico 1 contra 1, renovado y rediseñado para volver a acoger derramamientos de sangre. No te dejes engañar por su sencillez manifiesta, ya que aquéllos que ordenan los diseños, siempre dominarán en este estadio."
+
+[Volume1]
+LocationName="Corriente inferior"
+
+[Volume2]
+LocationName="Cañón pequeño"
+
+[Volume3]
+LocationName="Bioruinas"
+
+[Volume4]
+LocationName="Zona de puente"
+
+[Volume5]
+LocationName="Estatua inferior"
+
+[Volume6]
+LocationName="Suspensor de cañón automático"
+
+[Volume7]
+LocationName="Estatua de albatros"
+
+[WaterVolume0]
+LocationName="bajo agua"
+
+[ZoneInfo0]
+LocationName="Exterior"
+
+[ZoneInfo1]
+LocationName="Cámara de lanzacohetes"
+
+[ZoneInfo2]
+LocationName="dentro"
+
+[ZoneInfo3]
+LocationName="dentro"
+
+[ZoneInfo4]
+LocationName="dentro"
+

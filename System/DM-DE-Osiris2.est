@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title="Osiris 2"
+
+[LevelSummary]
+Title="Osiris 2"
+Description="La arena se mezcla con tu sudor, formando una áspera capa sobre tu piel que te pica bajo la armadura. El aire apesta a descarga electrostática y a sangre reseca. Desde la oscuridad de las tumbas inferiores, un grito inhumano señala la muerte de uno de tus incontables enemigos. Lo único que lamentas es no haberlo abatido tú. Es hora de luchar."
+
+[ZoneInfo0]
+LocationName="Templo subterráneo"
+
+[ZoneInfo1]
+LocationName="Corredores superiores"
+
+[ZoneInfo10]
+LocationName="Sala de cañón antiaéreo"
+
+[ZoneInfo11]
+LocationName="Corredor inferior"
+
+[ZoneInfo2]
+LocationName="Corredores superiores"
+
+[ZoneInfo3]
+LocationName="Patio principal"
+
+[ZoneInfo4]
+LocationName="Sala de superescudo"
+
+[ZoneInfo5]
+LocationName="Corredores superiores"
+
+[ZoneInfo6]
+LocationName="Corredores superiores"
+
+[ZoneInfo7]
+LocationName="Corredor inferior"
+
+[ZoneInfo8]
+LocationName="Sala de rifle de choque"
+
+[ZoneInfo9]
+LocationName="Tumba de lanzacohetes"
+

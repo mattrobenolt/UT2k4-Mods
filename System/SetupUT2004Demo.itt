@@ -1,0 +1,52 @@
+[Setup]
+LocalProduct="Demo di Unreal Tournament 2004"
+DefaultFolder="C:\UT2004Demo"
+ReadMe=Help\ReadMe-Demo.int.txt
+SetupWindowTitle=Configurazione demo di Unreal Tournament 2004
+AutoplayWindowTitle="Opzioni demo di Unreal Tournament 2004"
+ProductURL=http://www.unrealtournament2004.com/
+VersionURL=http://unreal.epicgames.com/versions.htm
+Developer="Epic Games"
+DeveloperURL=http://www.epicgames.com/
+Logo=Help\InstallerLogo.bmp
+License=License.int
+
+[General]
+PlayLevelCommand="&Gioca a questo livello di UT2004"
+OpenLinkCommand="&Apri questo collegamento di UT2004"
+InstallModuleCommand="&Installa questo modulo di UT2004"
+EditLevelCommand="&Modifica questo livello di UT2004"
+
+[UnrealGameContentGroup]
+Caption="Contenuto del gioco"
+Description="L'installazione è necessaria."
+
+[GameGroup]
+Caption="Demo di Unreal Tournament 2004"
+Description="L'installazione è necessaria."
+
+[DirectXGroup]
+Caption="DirectX 8.1"
+Description="Driver opzionali Microsoft DirectX 8.1 per un supporto avanzato delle schede video e audio e del joystick."
+
+[OpenALGroup]
+Caption="OpenAL"
+Description="Necessario per gli effetti audio 3D accelerati in hardware."
+
+[PlayShortcut]
+Caption="Gioca alla demo di UT2004"
+
+[SafeModeShortcut]
+Caption="Demo di UT2004 - modalità sicura"
+
+[DocumentationShortcut]
+Caption="Note di pubblicazione"
+
+[ManualShortcut]
+Caption="Manuale completo del gioco"
+
+[WebShortcut]
+Caption="Pagina web di UT2004"
+
+[UninstallShortcut]
+Caption="Rimuovi Unreal Tournament 2004"

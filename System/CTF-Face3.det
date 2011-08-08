@@ -1,0 +1,80 @@
+[LevelInfo0]
+Title="Facing Worlds 3"
+
+[LevelSummary]
+Title="Facing Worlds 3"
+
+[Volume0]
+LocationName="Ebene 3 ROT"
+
+[Volume1]
+LocationName="Ebene 3 BLAU"
+
+[Volume10]
+LocationName="Schild ROT"
+
+[Volume11]
+LocationName="Schild BLAU"
+
+[Volume12]
+LocationName="Hintertür ROT"
+
+[Volume13]
+LocationName="Hintertür BLAU"
+
+[Volume2]
+LocationName="Ebene 2 BLAU"
+
+[Volume3]
+LocationName="Ebene 2 ROT"
+
+[Volume4]
+LocationName="BLAUE Flagge"
+
+[Volume5]
+LocationName="ROTE Flagge"
+
+[Volume6]
+LocationName="BLAUE Flagge"
+
+[Volume7]
+LocationName="BLAUE Flagge"
+
+[Volume8]
+LocationName="ROTE Flagge"
+
+[Volume9]
+LocationName="ROTE Flagge"
+
+[ZoneInfo1]
+LocationName="BLAUE Basis"
+
+[ZoneInfo10]
+LocationName="Minigun ROT"
+
+[ZoneInfo11]
+LocationName="Säulen ROT"
+
+[ZoneInfo2]
+LocationName="Minigun BLAU"
+
+[ZoneInfo3]
+LocationName="Minigun BLAU"
+
+[ZoneInfo4]
+LocationName="Säulen BLAU"
+
+[ZoneInfo5]
+LocationName="Minigun BLAU"
+
+[ZoneInfo6]
+LocationName="Außen"
+
+[ZoneInfo7]
+LocationName="ROTE Basis"
+
+[ZoneInfo8]
+LocationName="Minigun ROT"
+
+[ZoneInfo9]
+LocationName="Minigun ROT"

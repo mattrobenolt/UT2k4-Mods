@@ -1,0 +1,329 @@
+[Counter0]
+CompleteMessage="¡Abiertos los respiradores del núcleo!"
+
+[Counter2]
+CompleteMessage="¡¡¡Desactivado escudo de energía!!!"
+
+[Counter3]
+CompleteMessage="Desactivadas las puertas y el campo de fuerza inferior"
+
+[Counter4]
+CompleteMessage="¡¡¡Destruidos los conductores del núcleo!!!"
+
+[Counter5]
+CompleteMessage="¡Desactivado el campo de fuerza de la zona de carga!"
+
+[Counter6]
+CompleteMessage="¡Desactivados los campos de fuerzas de la zona superior!"
+
+[DestroyVehicleObjective0]
+ObjectiveName="Torretas centinelas"
+DestructionMessage="¡Centinela destruido!"
+ObjectiveDescription="Destruir torretas centinelas"
+Objective_Info_Attacker="Destruir centinela"
+Objective_Info_Defender="Defiende centinela"
+
+[DestroyVehicleObjective1]
+ObjectiveName="Torretas centinelas"
+DestructionMessage="¡Centinela destruido!"
+ObjectiveDescription="Destruir torretas centinelas"
+Objective_Info_Attacker="Destruir centinela"
+Objective_Info_Defender="Defiende centinela"
+
+[DestroyVehicleObjective2]
+ObjectiveName="Torretas centinelas"
+DestructionMessage="¡Centinela destruido!"
+ObjectiveDescription="Destruir torretas centinelas"
+Objective_Info_Attacker="Destruir centinela"
+Objective_Info_Defender="Defiende centinela"
+
+[DestroyableObjective_SM0]
+ObjectiveName="Desvío de energía"
+DestructionMessage="Desvío de energía destruido..."
+ObjectiveDescription="Destruye desvío de campo láser"
+Objective_Info_Attacker="Destruye desvío de energía"
+Objective_Info_Defender="Defiende desvío de energía"
+
+[DestroyableObjective_SM1]
+ObjectiveName="Generador de escudo superior"
+DestructionMessage="Generador de escudo destruido"
+ObjectiveDescription="Destruye los generadores de escudo"
+Objective_Info_Attacker="Destruye el generador de escudo superior"
+Objective_Info_Defender="Defiende el generador de escudo superior"
+
+[DestroyableObjective_SM2]
+ObjectiveName="Generador de escudo superior"
+DestructionMessage="Generador de escudo destruido"
+ObjectiveDescription="Destruye los generadores de escudo"
+Objective_Info_Attacker="Destruye el generador de escudo superior"
+Objective_Info_Defender="Defiende el generador de escudo superior"
+
+[DestroyableObjective_SM3]
+ObjectiveName="Generador de escudo inferior"
+DestructionMessage="Generador de escudo destruido"
+ObjectiveDescription="Destruye el generador de escudo inferior"
+Objective_Info_Attacker="Destruye el generador de escudo inferior"
+Objective_Info_Defender="Defiende el generador de escudo superior"
+
+[DestroyableObjective_SM4]
+ObjectiveName="Conductores del núcleo..."
+DestructionMessage="¡¡¡Conductor destruido!!!"
+ObjectiveDescription="Destruye conductor del núcleo"
+Objective_Info_Attacker="Destruye el conductor"
+Objective_Info_Defender="Defiende el conductor"
+
+[DestroyableObjective_SM5]
+ObjectiveName="Desvío de energía"
+DestructionMessage="Desvío de energía destruido..."
+ObjectiveDescription="Destruye desvío de campo láser"
+Objective_Info_Attacker="Destruye desvío de energía"
+Objective_Info_Defender="Defiende desvío de energía"
+
+[DestroyableObjective_SM6]
+ObjectiveName="Conductores del núcleo..."
+DestructionMessage="¡¡¡Conductor destruido!!!"
+ObjectiveDescription="Destruye conductor del núcleo"
+Objective_Info_Attacker="Destruye el conductor"
+Objective_Info_Defender="Defiende el conductor"
+
+[InfoPod2]
+POD_Message="Torretas internas inferiores"
+
+[InfoPod3]
+POD_Message="Enlazadora"
+
+[InfoPod4]
+POD_Message="Torretas del hangar "
+
+[InfoPod5]
+POD_Message="Torretas internas superiores"
+
+[InfoPod6]
+POD_Message="Torretas externas superiores"
+
+[InfoPod7]
+POD_Message="Torretas externas inferiores"
+
+[InfoPod8]
+POD_Message="Enlazadora"
+
+[LevelInfo0]
+Title="Mothership"
+
+[LevelSummary]
+Title="Mothership"
+Description="El primer contacto con los skaarj se produjo durante la recuperación del transporte de la prisión Vortex Rikers, en Na Pali. En un año los skaarj habían llevado a la humanidad al borde de la destrucción. Este escenario reproduce la batalla final por la Tierra y la asombrosa victoria de unos humanos que estaban casi derrotados. Una nave nodriza skaarj estaba en órbita de la Tierra, desencadenando la destrucción sobre el planeta como preparativo para el desembarco final. En una arriesgada misión suicida, los humanos atacaron la nave nodriza de los skaarj con cazas monoplazas, esperando poder aprovechar un defecto en las defensas que habían revelado los análisis."
+
+[SceneSubtitles0]
+SubTitles=("El primer contacto con los skaarj se produjo durante la recuperación del transporte de la prisión Vortex Rikers, en Na Pali.","En un año los skaarj habían llevado a la humanidad al borde de la destrucción.","Este escenario reproduce la batalla final por la Tierra y la asombrosa victoria de unos humanos que estaban casi derrotados.","Una nave nodriza skaarj estaba en órbita de la Tierra, desencadenando la destrucción sobre el planeta como preparativo para el desembarco final.","En una arriesgada misión suicida, los humanos atacaron la nave nodriza de los skaarj con cazas monoplazas, esperando poder aprovechar un defecto en las defensas que habían revelado los análisis.","Destruye los generadores de la sección inferior de la nave nodriza skaarj para desactivar los escudos superiores.","Los escudos de fuerza se desactivan una vez que se han destruido los tres centinelas.","Destruye los dos generadores finales para desactivar los escudos de la plataforma de embarque.","Procede y aterriza en la plataforma de embarque de la nave nodriza.","Cuando vuelvas a ir a pie, ve a la siguiente sección.","Destruye los dos generadores finales para desactivar los escudos de la bodega de carga.","Llega hasta la bodega de carga.","En la bodega de carga esperan tres centinelas.","Solo se puede seguir avanzando destruyendo los centinelas.","Los escudos de fuerza se desactivan una vez se han destruido estos tres centinelas.","Pasando el puente, el núcleo espera.","Acciona los paneles para abrir las escotillas conductoras de ventilación.","Una vez que los paneles han sido activados dispara los dos nodos de energía para desestibilizar el núcleo.")
+
+[MessageTrigger15]
+Message="¡¡¡Prepárate para el ataque!!!"
+
+[MessageTrigger17]
+Message="¡¡¡Prepárate para la defensa!!!"
+
+[ProximityObjective0]
+ObjectiveName="Hangar"
+DestructionMessage="¡Los atacantes han entrado en la nave nodriza!"
+ObjectiveDescription="Entra en la nave skaarj por el hangar"
+Objective_Info_Attacker="Ve al hangar"
+Objective_Info_Defender="Evita que los humanos desembarquen"
+
+[Trigger_ASMessageTrigger14]
+Message="Campo de fuerza desactivado..."
+
+[Trigger_ASMessageTrigger15]
+Message="¡Desbloquea el núcleo!"
+
+[Trigger_ASMessageTrigger3]
+Message="Se han abierto las escotillas del núcleo..."
+
+[Trigger_ASMessageTrigger4]
+Message="Campos de fuerzas superiores desactivados..."
+
+[Trigger_ASMessageTrigger5]
+Message="¡¡¡Los atacantes han desembarcado!!!"
+
+[Trigger_ASMessageTrigger7]
+Message="¡¡¡Los atacantes han entrado en el núcleo!!!"
+
+[Trigger_ASMessageTrigger8]
+Message="¡El núcleo se ha vuelto inestable!"
+
+[Trigger_ASMessageTrigger9]
+Message="Desactivado el campo de fuerza del hangar"
+
+[UseObjective1]
+ObjectiveName="Paneles del núcleo."
+DestructionMessage="¡Abierta cerradura de escotilla Nº2!"
+ObjectiveDescription="Paneles del núcleo"
+Objective_Info_Attacker="Utiliza el panel para abrir la escotilla del núcleo"
+Objective_Info_Defender="Evita que se usen los paneles del núcleo"
+
+[UseObjective2]
+ObjectiveName="Paneles del núcleo."
+DestructionMessage="¡Abierta cerradura de escotilla Nº1!"
+ObjectiveDescription="Paneles del núcleo"
+Objective_Info_Attacker="Utiliza el panel para abrir la escotilla del núcleo"
+Objective_Info_Defender="Evita que se usen los paneles del núcleo"
+
+[ZoneInfo1]
+LocationName="Derecha de corredor de generador de gravedad"
+
+[ZoneInfo10]
+LocationName="Generador de energía Nº2"
+
+[ZoneInfo12]
+LocationName="El núcleo"
+
+[ZoneInfo13]
+LocationName="Conducto derecho"
+
+[ZoneInfo14]
+LocationName="Conducto principal central"
+
+[ZoneInfo16]
+LocationName="Exterior del núcleo"
+
+[ZoneInfo17]
+LocationName="Exterior del núcleo"
+
+[ZoneInfo18]
+LocationName="Conducto interno superior"
+
+[ZoneInfo19]
+LocationName="Exterior del núcleo"
+
+[ZoneInfo2]
+LocationName="En el espacio"
+
+[ZoneInfo20]
+LocationName="Cruce inferior"
+
+[ZoneInfo21]
+LocationName="Desvío de generador de defensores"
+
+[ZoneInfo22]
+LocationName="Desvío de generador de defensores"
+
+[ZoneInfo23]
+LocationName="Cubierta de carga"
+
+[ZoneInfo24]
+LocationName="Cubierta de carga"
+
+[ZoneInfo25]
+LocationName="Cubierta de carga"
+
+[ZoneInfo26]
+LocationName="Cubierta de carga"
+
+[ZoneInfo27]
+LocationName="Desvío de generador de defensores"
+
+[ZoneInfo28]
+LocationName="Hangar de naves espaciales."
+
+[ZoneInfo29]
+LocationName="Vestíbulo de cubierta de carga"
+
+[ZoneInfo3]
+LocationName="Conducto de generador de sección inferior"
+
+[ZoneInfo30]
+LocationName="Hueco del ascensor"
+
+[ZoneInfo31]
+LocationName="Pasadizo del ascensor"
+
+[ZoneInfo32]
+LocationName="Izquierda de puente superior de carga"
+
+[ZoneInfo33]
+LocationName="Derecha de puente superior de carga"
+
+[ZoneInfo34]
+LocationName="Pasadizo del ascensor"
+
+[ZoneInfo35]
+LocationName="Sala de desvío de energía"
+
+[ZoneInfo36]
+LocationName="Corredor izquierdo"
+
+[ZoneInfo37]
+LocationName="Hangar de atacantes"
+
+[ZoneInfo38]
+LocationName="Corredor derecho"
+
+[ZoneInfo39]
+LocationName="Entrada a desvío superior de energía "
+
+[ZoneInfo4]
+LocationName="Hangar de los defensores"
+
+[ZoneInfo40]
+LocationName="Entrada al núcleo"
+
+[ZoneInfo41]
+LocationName="Exterior del núcleo"
+
+[ZoneInfo42]
+LocationName="Izquierda de pasadizo de puente de núcleo"
+
+[ZoneInfo43]
+LocationName="Sala de generador de gravedad Nº1"
+
+[ZoneInfo44]
+LocationName="Izquierda de corredor de generador de gravedad"
+
+[ZoneInfo45]
+LocationName="Derecha de corredor de generador de gravedad"
+
+[ZoneInfo46]
+LocationName="Sala de generador de gravedad Nº2"
+
+[ZoneInfo47]
+LocationName="Derecha de pasadizo de puente de núcleo"
+
+[ZoneInfo48]
+LocationName="Derecha de pasadizo de puente de núcleo"
+
+[ZoneInfo49]
+LocationName="Cubierta de carga"
+
+[ZoneInfo5]
+LocationName="Generador de energía Nº1"
+
+[ZoneInfo50]
+LocationName="Vestíbulo de cubierta de carga"
+
+[ZoneInfo51]
+LocationName="Derecha de corredor de generador de gravedad"
+
+[ZoneInfo52]
+LocationName="Izquierda de pasadizo de puente de núcleo"
+
+[ZoneInfo53]
+LocationName="Derecha de corredor de generador de gravedad"
+
+[ZoneInfo54]
+LocationName="Derecha de corredor de generador de gravedad"
+
+[ZoneInfo55]
+LocationName="Vestíbulo de cubierta de carga"
+
+[ZoneInfo6]
+LocationName="Hangar"
+
+[ZoneInfo7]
+LocationName="hangar"
+
+[ZoneInfo8]
+LocationName="Hangar de los defensores"
+
+[ZoneInfo9]
+LocationName="Conducto izquierdo"
+

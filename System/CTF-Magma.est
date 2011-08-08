@@ -1,0 +1,71 @@
+[LevelInfo0]
+Title="Magma"
+
+[LevelSummary]
+Title="Magma"
+
+[WaterVolume0]
+LocationName="Pozo de lava"
+
+[Volume0]
+LocationName="Interior de base azul"
+
+[Volume1]
+LocationName="Interior de base roja"
+
+[Volume10]
+LocationName="Pasarelas Rojos"
+
+[Volume11]
+LocationName="Pasarelas Azules"
+
+[Volume2]
+LocationName="Parte superior base roja"
+
+[Volume3]
+LocationName="Parte superior base azul"
+
+[Volume4]
+LocationName="Torre roja"
+
+[Volume5]
+LocationName="Torre azul"
+
+[Volume6]
+LocationName="Parte inferior Torre azul"
+
+[Volume7]
+LocationName="Parte inferior Torre roja"
+
+[Volume8]
+LocationName="Bajo base roja"
+
+[Volume9]
+LocationName="Bajo base azul"
+
+[ZoneInfo0]
+LocationName="Cueva"
+
+[ZoneInfo1]
+LocationName="Lado Azules"
+
+[ZoneInfo2]
+LocationName="Cueva"
+
+[ZoneInfo3]
+LocationName="Cueva"
+
+[ZoneInfo4]
+LocationName="Cueva"
+
+[ZoneInfo5]
+LocationName="Cueva"
+
+[ZoneInfo6]
+LocationName="Cueva"
+
+[ZoneInfo7]
+LocationName="Cueva"
+
+[ZoneInfo8]
+LocationName="Lado Rojos"

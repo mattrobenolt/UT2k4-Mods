@@ -1,0 +1,7 @@
+[General]
+FrameWindow="Editor Niv. Unreal"
+Start="UnrealEd (Inic.)"
+Exit="UnrealEd (Salien.)"
+Run="UnrealEd (Ejecut.)"
+Product="UnrealEd"
+Abbreviation="UEd"

@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title="Osiride 2"
+
+[LevelSummary]
+Title="Osiride 2"
+Description="La sabbia penetra nelle fessure della tua armatura, attaccandosi alla pelle e causandoti un prurito fastidioso. L'aria odora di elettricità e sangue seccato. Dall'oscurità delle tombe sottostanti, un urlo disumano ti annuncia la morte di uno dei tuoi avversari. L'unico rimpianto che hai è che non sei stato tu a ucciderlo. È ora di combattere."
+
+[ZoneInfo0]
+LocationName="Tempio sotterraneo"
+
+[ZoneInfo1]
+LocationName="Corridoi superiori"
+
+[ZoneInfo10]
+LocationName="Stanza del cannone Flak"
+
+[ZoneInfo11]
+LocationName="Corridoio inferiore"
+
+[ZoneInfo2]
+LocationName="Corridoi superiori"
+
+[ZoneInfo3]
+LocationName="Cortile principale"
+
+[ZoneInfo4]
+LocationName="Stanza della super ricarica"
+
+[ZoneInfo5]
+LocationName="Corridoi superiori"
+
+[ZoneInfo6]
+LocationName="Corridoi superiori"
+
+[ZoneInfo7]
+LocationName="Corridoio inferiore"
+
+[ZoneInfo8]
+LocationName="Stanza del fucile shock"
+
+[ZoneInfo9]
+LocationName="Tomba del lanciarazzi"
+

@@ -1,0 +1,33 @@
+[LevelInfo0]
+Title="Dawn"
+
+[LevelSummary]
+Title="Dawn"
+Description="Als Regierungsmitarbeiter zufällig auf diesen Planeten trafen, wusste die Liandri Corporation gleich, dass sie ihre nächste Kampfarena gefunden hatte. Dies ist eine ursprüngliche Welt in den ersten Stufen der Lebensentwicklung. Die üppige Landschaft mit ihren Bergen stellt eine ruhige und passende Umgebung für Zerstörungsaktionen im großen Stil dar."
+
+[Volume0]
+LocationName="BLAUE Basis"
+
+[Volume1]
+LocationName="ROTE Basis"
+
+[Volume10]
+LocationName="Zentraler West Knoten"
+
+[Volume5]
+LocationName="Nordwest Knoten"
+
+[Volume6]
+LocationName="Nordwest Knoten"
+
+[Volume7]
+LocationName="Südwest Knoten"
+
+[Volume8]
+LocationName="Südost Knoten"
+
+[Volume9]
+LocationName="Zentraler Ost Knoten"
+
+[ZoneInfo0]
+LocationName="Außen"

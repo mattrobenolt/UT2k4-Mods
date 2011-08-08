@@ -1,0 +1,7 @@
+[General]
+FrameWindow="Unreal Level Editor"
+Start="UnrealEd (Starting)"
+Exit="UnrealEd (Exiting)"
+Run="UnrealEd (Running)"
+Product="UnrealEd"
+Abbreviation="UEd"

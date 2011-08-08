@@ -1,0 +1,19 @@
+[LevelInfo0]
+Title="Idoma"
+
+[LevelSummary]
+Title="Idoma"
+Description="Un atmosférico pequeño en un edificio construido a partir de montones de metal y madera. "
+
+[Volume0]
+LocationName="Zona de cohetes"
+
+[Volume1]
+LocationName="Zona de escudo"
+
+[Volume2]
+LocationName="Medio"
+
+[Volume3]
+LocationName="Zona de antiaéreo"
+

@@ -1,0 +1,67 @@
+[LevelInfo0]
+Title="Ironic"
+
+[LevelSummary]
+Title="Ironic"
+Description="En la soledad de las plataformas costeras abandonadas de Nueva Argentina, el tranquilo zumbido de los pájaros y la fauna animal da paso al rugido de los disparos de los cohetes y rifles de choque. Parece que hoy se ha dejado de lado la I+D, así que coge algo de munición y sal ahí fuera. Es hora de un buen combate a muerte a la antigua usanza."
+
+[ZoneInfo0]
+LocationName="Rifle de choque"
+
+[ZoneInfo1]
+LocationName="Biorifle"
+
+[ZoneInfo10]
+LocationName="Corredor superior"
+
+[ZoneInfo11]
+LocationName="Corredor superior"
+
+[ZoneInfo12]
+LocationName="Antiaéreo"
+
+[ZoneInfo13]
+LocationName="Antiaéreo"
+
+[ZoneInfo14]
+LocationName="Arma de pulsos"
+
+[ZoneInfo15]
+LocationName="Amplificador"
+
+[ZoneInfo16]
+LocationName="Lanzacohetes"
+
+[ZoneInfo17]
+LocationName="Rifle de choque"
+
+[ZoneInfo18]
+LocationName="Lanzacohetes"
+
+[ZoneInfo19]
+LocationName="Rifle de choque"
+
+[ZoneInfo2]
+LocationName="Lanzacohetes"
+
+[ZoneInfo3]
+LocationName="Ascensor"
+
+[ZoneInfo4]
+LocationName="Ascensor"
+
+[ZoneInfo5]
+LocationName="Sala de escudo"
+
+[ZoneInfo6]
+LocationName="Sala de escudo"
+
+[ZoneInfo7]
+LocationName="Corredor superior"
+
+[ZoneInfo8]
+LocationName="Corredor superior"
+
+[ZoneInfo9]
+LocationName="Ascensor"
+
