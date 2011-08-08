@@ -1,0 +1,44 @@
+
+[LevelInfo0]
+Title="Mixer"
+
+[LevelSummary]
+Title="Mixer"
+Description="Aquí solo olerás muerte y el humo de las armas."
+
+[ZoneInfo0]
+LocationName="Tubería"
+
+[ZoneInfo1]
+LocationName="Cámara de escudo"
+
+[ZoneInfo10]
+LocationName="Cañón automático"
+
+[ZoneInfo11]
+LocationName="Lanzacohetes"
+
+[ZoneInfo12]
+LocationName="Daño doble"
+
+[ZoneInfo13]
+LocationName="Ascensor"
+
+[ZoneInfo14]
+LocationName="Ascensor"
+
+[ZoneInfo3]
+LocationName="Tuberías"
+
+[ZoneInfo5]
+LocationName="Arma eléctrica"
+
+[ZoneInfo6]
+LocationName="Enlazadora"
+
+[ZoneInfo7]
+LocationName="Sótano"
+
+[ZoneInfo9]
+LocationName="Rifle de choque"
+

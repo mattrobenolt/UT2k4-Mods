@@ -1,0 +1,72 @@
+[LevelInfo0]
+Title="Magma"
+
+[LevelSummary]
+Title="Magma"
+
+[Volume0]
+LocationName="Dentro base blu"
+
+[Volume1]
+LocationName="Dentro base rossa"
+
+[Volume10]
+LocationName="Vialetto rosso"
+
+[Volume11]
+LocationName="Vialetto blu"
+
+[Volume2]
+LocationName="Sopra base rossa"
+
+[Volume3]
+LocationName="Sopra  base blu"
+
+[Volume4]
+LocationName="Torre rossa"
+
+[Volume5]
+LocationName="Torre blu"
+
+[Volume6]
+LocationName="Fondamenta torre blu"
+
+[Volume7]
+LocationName="Fondamenta torre rossa"
+
+[Volume8]
+LocationName="Sotto base rossa"
+
+[Volume9]
+LocationName="Sotto base blu"
+
+[WaterVolume0]
+LocationName="Fossa lavica"
+
+[ZoneInfo0]
+LocationName="Cava"
+
+[ZoneInfo1]
+LocationName="Lato blu"
+
+[ZoneInfo2]
+LocationName="Cava"
+
+[ZoneInfo3]
+LocationName="Cava"
+
+[ZoneInfo4]
+LocationName="Cava"
+
+[ZoneInfo5]
+LocationName="Cava"
+
+[ZoneInfo6]
+LocationName="Cava"
+
+[ZoneInfo7]
+LocationName="cava"
+
+[ZoneInfo8]
+LocationName="Lato rosso"
+

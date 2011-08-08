@@ -1,0 +1,46 @@
+[LevelInfo0]
+Title="Accesso"
+
+[LevelSummary]
+Title="Accesso"
+Description="Sbarra il punto di dominazione che preferisci controllando il pulsante di accesso al centro dell'arena."
+
+[ZoneInfo0]
+LocationName="Stanza del comando"
+
+[ZoneInfo1]
+LocationName="Sale di rientro blu"
+
+[ZoneInfo10]
+LocationName="Stanza del comando"
+
+[ZoneInfo11]
+LocationName="Stanza del punto A"
+
+[ZoneInfo12]
+LocationName="Stanza del punto B"
+
+[ZoneInfo2]
+LocationName="Sale di rientro rosse"
+
+[ZoneInfo3]
+LocationName="Sale di rientro rosse"
+
+[ZoneInfo4]
+LocationName="Sale di rientro blu"
+
+[ZoneInfo5]
+LocationName="Sale di rientro blu"
+
+[ZoneInfo6]
+LocationName="Sale di rientro rosse"
+
+[ZoneInfo7]
+LocationName="Stanza del comando"
+
+[ZoneInfo8]
+LocationName="Stanza del comando"
+
+[ZoneInfo9]
+LocationName="Stanza del comando"
+

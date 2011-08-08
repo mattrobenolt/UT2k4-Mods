@@ -1,0 +1,2 @@
+[Public]
+Player=(DefaultName="SpongeBob SquarePants",Mesh=spungbob.sbsp,species=xGame.SPECIES_Merc,BodySkin=sbsptextures.spungbobtextures,FaceSkin=sbsptextures.spungbobtextures,Portrait=sbsptextures.SPUNGICON,Text=XPlayers.Spongebob,Sex=male,Menu="SP",Ragdoll=Male)

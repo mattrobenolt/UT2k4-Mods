@@ -1,0 +1,120 @@
+[ASCriticalObjectiveVolume2]
+LocationName="U-Bahn-Eingang"
+
+[ASCriticalObjectiveVolume3]
+LocationName="U-Bahn-Zug"
+
+[ASCriticalObjectiveVolume4]
+LocationName="Einstiegsstation"
+
+[DestroyableObjective_SM0]
+ObjectiveName="Torschloss"
+DestructionMessage="Torschloss zerstört!"
+ObjectiveDescription="Torschloss zerstören"
+Objective_Info_Attacker="Torschloss zerstören"
+Objective_Info_Defender="Torschloss verteidigen"
+
+[DestroyableObjective_SM1]
+ObjectiveName="Barrikade"
+DestructionMessage="Barrikade zerstört!"
+ObjectiveDescription="Barrikade zerstören"
+Objective_Info_Attacker="Barrikade zerstören"
+Objective_Info_Defender="Barrikade verteidigen"
+
+[DestroyableObjective_SM2]
+ObjectiveName="Torschloss"
+DestructionMessage="Torschloss zerstört!"
+ObjectiveDescription="Torschloss zerstören"
+Objective_Info_Attacker="Torschloss zerstören"
+Objective_Info_Defender="Torschloss verteidigen"
+
+[HoldObjective0]
+ObjectiveName="Sprengkörper #2"
+DestructionMessage="Die Sprengkörper sind angebracht!"
+ObjectiveDescription="Bringen Sie einen Sprengkörper an."
+Objective_Info_Attacker="Kommandozentrale zerstören"
+Objective_Info_Defender="Kommandozentrale verteidigen"
+
+[HoldObjective1]
+ObjectiveName="Vorderer Außenposten"
+DestructionMessage="Vorderer Außenposten eingenommen!"
+ObjectiveDescription="Vorderen Außenposten einnehmen"
+Objective_Info_Attacker="Vorderen Außenposten sichern"
+Objective_Info_Defender="Vorderen Außenposten verteidigen"
+
+[HoldObjective2]
+ObjectiveName="Sprengkörper #1"
+DestructionMessage="Die Sprengkörper sind angebracht!"
+ObjectiveDescription="Bringen Sie einen Sprengkörper an."
+Objective_Info_Attacker="Kommandozentrale zerstören"
+Objective_Info_Defender="Kommandozentrale verteidigen"
+
+[LevelInfo0]
+Title="The Fallen City"
+
+[LevelSummary]
+Title="The Fallen City"
+Description="Nach dem Krieg zwischen den Menschen und den Skaarj lagen viele Städte der Erde in Schutt und Asche. Als die Neue Weltregierung versuchte, ihre Autorität in diesen Gegenden zu behaupten, wurden sie mit vielen Rebellengruppen konfrontiert. Diese hatten in den zerstörten Städten ihre Basen errichtet und wurden oft von Großunternehmen verdeckt finanziert. Dieses Szenario stellt die Zerstörung einer Rebellenkommandozentrale durch Truppen der Neuen Weltregierung nach. Um die Historizität der Schlacht zu wahren, befindet sich der Einstiegspunkt der Angreifer etwas von der Kommandozentrale entfernt, was auf die schweren Anti-Flugzeug-Schutzmaßnahmen um dem Bunkerbereich herum zurückzuführen ist."
+
+[SceneSubtitles1]
+SubTitles=("Nach dem Krieg zwischen den Menschen und den Skaarj lagen viele Städte der Erde in Schutt und Asche. Als die Neue Weltregierung versuchte, ihre Autorität in diesen Gegenden zu behaupten,","wurde sie mit vielen Rebellengruppen konfrontiert. Diese hatten in den zerstörten Städten ihre Basen errichtet und wurden oft von Großunternehmen verdeckt finanziert.","Dieses Szenario stellt die Zerstörung einer Rebellenkommandozentrale durch Truppen der Neuen Weltregierung nach. ","Um die Historizität der Schlacht zu wahren, befindet sich der Einstiegspunkt der Angreifer etwas von der Kommandozentrale entfernt, was auf die schweren Anti-Flugzeug-Schutzmaßnahmen um dem Bunkerbereich herum zurückzuführen ist. ","Die Angreifer müssen sich erst zu Fuß ihren Weg durch die Straßen suchen und dabei möglichen Widerstand beseitigen. Außerdem müssen sie die Barrikade zerstören, um zu ihrem nächsten Ziel zu gelangen.","Anschließend müssen sie den vorderen Außenposten einnehmen. Sobald dieser Bereich gesichert ist, wird eine Ladung schwerere Fracht abgeworfen, um Sie bei Ihrem Vorstoß zu unterstützen.","Die Verteidiger haben sich gut in diesem Bunker verschanzt. Sie werden die Verteidigungsanlagen überwinden und in den Bunker vordringen müssen, um zur Kommandozentrale zu gelangen.","Dringen Sie zur unterirdischen Kommandozentrale vor und setzen Sie Sprengstoff ein, um die gesamte Basis zu zerstören. Das sollte den Widerstand in die Knie zwingen.")
+
+[Trigger_ASMessageTrigger0]
+Message="Bunker infiltriert!"
+
+[Trigger_ASMessageTrigger2]
+Message="Kommandozentrum zerstört!"
+
+[Trigger_ASMessageTrigger3]
+Message="Sprengkörper angebracht!!!"
+
+[Volume0]
+LocationName="Vorderer Außenposten"
+
+[Volume1]
+LocationName="Angreifer-Landeplatz"
+
+[Volume10]
+LocationName="Treppe"
+
+[Volume11]
+LocationName="Lobby der U-Bahnstation"
+
+[Volume12]
+LocationName="Stationsdach"
+
+[Volume13]
+LocationName="Luftschächte"
+
+[Volume14]
+LocationName="U-Bahn-Zug"
+
+[Volume15]
+LocationName="U-Bahnschienen"
+
+[Volume2]
+LocationName="Rebellen-Beobachtungsstand"
+
+[Volume3]
+LocationName="Caudle Ave."
+
+[Volume4]
+LocationName="Angreifer-Landeplatz"
+
+[Volume5]
+LocationName="Einstiegsstation"
+
+[Volume6]
+LocationName="Statuen-Pass"
+
+[Volume7]
+LocationName="Statuen-Pass"
+
+[Volume8]
+LocationName="Römischer Pfad"
+
+[Volume9]
+LocationName="U-Bahn-Ticketstand"
+
+[ZoneInfo0]
+LocationName="Zerstörte Stadt"

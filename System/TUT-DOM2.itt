@@ -1,0 +1,54 @@
+[LevelInfo0]
+Title="Tutorial dominazione"
+
+[LevelSummary]
+Title="Tutorial dominazione"
+
+[ZoneInfo0]
+LocationName="Nucleo interno"
+
+[ZoneInfo1]
+LocationName="Corridoio posteriore_B"
+
+[ZoneInfo14]
+LocationName="Esterno"
+
+[ZoneInfo15]
+LocationName="Nucleo interno"
+
+[ZoneInfo16]
+LocationName="Rientro blu"
+
+[ZoneInfo17]
+LocationName="Corridoio anteriore_B"
+
+[ZoneInfo18]
+LocationName="Corridoio anteriore_A"
+
+[ZoneInfo19]
+LocationName="Stanza_A"
+
+[ZoneInfo20]
+LocationName="Corridoio posteriore_A"
+
+[ZoneInfo3]
+LocationName="Nucleo interno"
+
+[ZoneInfo4]
+LocationName="Nucleo interno"
+
+[ZoneInfo5]
+LocationName="Nucleo interno"
+
+[ZoneInfo6]
+LocationName="Corridoio anteriore_B"
+
+[ZoneInfo7]
+LocationName="Rientro rosso"
+
+[ZoneInfo8]
+LocationName="Corridoio anteriore_B"
+
+[ZoneInfo9]
+LocationName="Stanza_B"
+

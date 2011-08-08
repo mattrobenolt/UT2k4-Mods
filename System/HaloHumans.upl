@@ -1,0 +1,8 @@
+[Public]
+Player=(DefaultName="Marine1(Johnson)",Mesh=HaloHumans.Marine,species=xGame.SPECIES_Merc,Sex=Male,BodySkin=HaloHumantex.face_johnson_sarge,FaceSkin=HaloHumantex.Body2,Portrait=HaloHumantex.Johnson,Ragdoll=Male2)
+Player=(DefaultName="Marine2(Charles)",Mesh=HaloHumans.Marine,species=xGame.SPECIES_Merc,Sex=Male,BodySkin=HaloHumantex.face_charles,FaceSkin=HaloHumantex.Body,Portrait=HaloHumantex.Charles,Ragdoll=Male2)
+Player=(DefaultName="Marine3(Chris)",Mesh=HaloHumans.Marine,species=xGame.SPECIES_Merc,Sex=Male,BodySkin=HaloHumantex.face_chris,FaceSkin=HaloHumantex.Body,Portrait=HaloHumantex.Chris,Ragdoll=Male2)
+Player=(DefaultName="Marine4(Matt)",Mesh=HaloHumans.Marine,species=xGame.SPECIES_Merc,Sex=Male,BodySkin=HaloHumantex.face_matt,FaceSkin=HaloHumantex.Body,Portrait=HaloHumantex.Matt,Ragdoll=Male2)
+Player=(DefaultName="Marine5(Rob)",Mesh=HaloHumans.Marine,species=xGame.SPECIES_Merc,Sex=Male,BodySkin=HaloHumantex.face_rob,FaceSkin=HaloHumantex.Body,Portrait=HaloHumantex.Rob,Ragdoll=Male2)
+Player=(DefaultName="Marine6(Shiek)",Mesh=HaloHumans.Marine,species=xGame.SPECIES_Merc,Sex=Male,BodySkin=HaloHumantex.face_shiek,FaceSkin=HaloHumantex.Body,Portrait=HaloHumantex.Shiek,Ragdoll=Male2)
+Player=(DefaultName="Marine7(Marcus)",Mesh=HaloHumans.Marine,species=xGame.SPECIES_Merc,Sex=Male,BodySkin=HaloHumantex.face_marcus,FaceSkin=HaloHumantex.Body,Portrait=HaloHumantex.Marcus,Ragdoll=Male2)

@@ -1,0 +1,148 @@
+[DestroyableObjective_SM0]
+DestructionMessage="Difese esterne violate!"
+ObjectiveDescription="Distruggi il cancello"
+Objective_Info_Attacker="Distruggi il cancello"
+Objective_Info_Defender="Difendi il cancello principale"
+
+[DestroyableObjective_SM1]
+ObjectiveName="Cavi dati"
+DestructionMessage="Cavi dati tagliati!"
+ObjectiveDescription="Taglia i cavi dati"
+Objective_Info_Attacker="Taglia i cavi dati"
+Objective_Info_Defender="Proteggi i cavi dati"
+
+[DestroyableObjective_SM2]
+ObjectiveName="Componente n. 1 dello schermo"
+DestructionMessage="Generatore dello schermo distrutto!"
+ObjectiveDescription="Distruggi lo schermo dei Nexus"
+Objective_Info_Attacker="Distruggi il componente dello schermo"
+Objective_Info_Defender="Proteggi lo schermo dei Nexus"
+
+[DestroyableObjective_SM3]
+ObjectiveName="Componente n. 3 dello schermo"
+DestructionMessage="Generatore dello schermo distrutto!"
+ObjectiveDescription="Distruggi lo schermo dei Nexus"
+Objective_Info_Attacker="Distruggi il componente dello schermo"
+Objective_Info_Defender="Proteggi lo schermo dei Nexus"
+
+[DestroyableObjective_SM4]
+ObjectiveName="Componente n. 2 dello schermo"
+DestructionMessage="Generatore dello schermo distrutto!"
+ObjectiveDescription="Distruggi lo schermo dei Nexus"
+Objective_Info_Attacker="Distruggi il componente dello schermo"
+Objective_Info_Defender="Proteggi lo schermo dei Nexus"
+
+[DestroyableObjective_SM5]
+ObjectiveName="Generatore di IA"
+DestructionMessage="Generatore di IA distrutto!"
+ObjectiveDescription="Distruggi il generatore di IA"
+Objective_Info_Attacker="Distruggi il generatore di IA"
+Objective_Info_Defender="Distruggi il generatore di IA"
+
+[HoldObjective2]
+ObjectiveName="teleporter_activation"
+DestructionMessage="Nuovo punto di rientro degli attaccanti operativo"
+ObjectiveDescription="Orienta l'antenna satellitare!"
+Objective_Info_Attacker="Orienta l'antenna satellitare!"
+Objective_Info_Defender="Difendi i comandi del satellite"
+
+[LevelInfo0]
+Title="Fabbrica robot"
+
+[LevelSummary]
+Title="Fabbrica robot"
+Description="Questo scenario ricostruisce la rivolta dei robot della Liandri sull'asteroide meccanico LBX-7683, domata in seguito dalle forze degli Umani. LBX-7683 era un avamposto per la ricerca e lo sviluppo della prossima generazione di robot della Liandri. I migliori scienziati della Liandri erano riusciti a inserire delle IA sempre più sofisticate nelle macchine progettate da loro. Queste macchine però si ribellarono agli Umani e presero possesso dell'asteroide, sopprimendo brutalmente i loro creatori ed estraendo per conto proprio i minerali locali. I comandanti della Liandri elaborarono un piano per colpire direttamente la struttura che produceva i robot. Durante un assalto all'asteroide, venne inviata una piccola squadra che aveva come unico obiettivo la distruzione del generatore di IA, per impedire alle macchine di riprodursi e stroncare la rivolta."
+
+[SceneSubtitles0]
+SubTitles=("Questo scenario ricostruisce la rivolta dei robot della Liandri sull'asteroide meccanico LBX-7683,"," domata in seguito dalle forze degli Umani."," LBX-7683 era un avamposto per la ricerca e lo sviluppo della prossima generazione di robot della Liandri."," I migliori scienziati della Liandri erano riusciti a inserire delle IA sempre più sofisticate nelle macchine progettate da loro.","Queste macchine però si ribellarono agli Umani e presero possesso dell'asteroide,"," sopprimendo brutalmente i loro creatori ed estraendo per conto proprio i minerali locali."," I comandanti della Liandri elaborarono un piano per colpire direttamente la struttura che produceva i robot."," Durante un assalto all'asteroide, venne inviata una piccola squadra che aveva come unico obiettivo la distruzione del generatore di IA,"," per impedire alle macchine di riprodursi e stroncare la rivolta.","Sei atterrato vicino all'aggancio e zona caricamento della fabbrica di robot.","Il tuo obiettivo è di rompere e farti strada attraverso la difesa della fattoria e distruggere il generatore di IA.","Prima devi allineare la parabola satellitare per metterti in contatto con il tuo quartier generale.","Poi. distruggi il cancello che impedisce l'entrata alla fabbrica.",,"Una volta infiltrato nella fabbrica, devi tagliare i cavi che trasmettono i dati.",,"Frantuma i tre componenti dello schermo nexus per rendere vulnerabile il generatore IA.",,"Distruggi il generatore IA per fermare la produzione dei robot.")
+
+[Volume0]
+LocationName="Fuori dalla porta di accesso"
+
+[Volume1]
+LocationName="Ponte nord"
+
+[Volume3]
+LocationName="Zona di schieramento degli attaccanti"
+
+[Volume4]
+LocationName="Stanza di controllo del ponte"
+
+[Volume6]
+LocationName="Ponte sud"
+
+[ZoneInfo0]
+LocationName="Generatore di IA"
+
+[ZoneInfo1]
+LocationName="Esterno del ponte di carico"
+
+[ZoneInfo11]
+LocationName="Camera di impacchettamento"
+
+[ZoneInfo12]
+LocationName="Sala trasferimento dati"
+
+[ZoneInfo13]
+LocationName="Magazzino"
+
+[ZoneInfo14]
+LocationName="Stanza di controllo del generatore"
+
+[ZoneInfo15]
+LocationName="Stabilimento di demolizione"
+
+[ZoneInfo16]
+LocationName="Entrata della fabbrica"
+
+[ZoneInfo18]
+LocationName="Stanza di controllo del generatore"
+
+[ZoneInfo2]
+LocationName="Nastri trasportatori di IA"
+
+[ZoneInfo20]
+LocationName="Magazzino"
+
+[ZoneInfo21]
+LocationName="Condotto per la sala trasferimento dati"
+
+[ZoneInfo22]
+LocationName="Camera di impacchettamento"
+
+[ZoneInfo23]
+LocationName="Camera di impacchettamento"
+
+[ZoneInfo24]
+LocationName="Distaccamento del generatore dello schermo"
+
+[ZoneInfo25]
+LocationName="Sala trasferimento dati"
+
+[ZoneInfo26]
+LocationName="Generatore IA"
+
+[ZoneInfo27]
+LocationName="Stabilimento di demolizione"
+
+[ZoneInfo28]
+LocationName="Nastri trasportatori di IA"
+
+[ZoneInfo3]
+LocationName="Condotto per la sala trasferimento dati"
+
+[ZoneInfo4]
+LocationName="Camera del nodo dati"
+
+[ZoneInfo5]
+LocationName="Generatori dello schermo"
+
+[ZoneInfo6]
+LocationName="Stanza di controllo del ponte"
+
+[ZoneInfo7]
+LocationName="Forze cine"
+
+[ZoneInfo9]
+LocationName="Distaccamento del generatore dello schermo"
+

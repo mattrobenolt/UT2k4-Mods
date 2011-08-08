@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title="Pianeta rosso"
+
+[LevelSummary]
+Title="Pianeta rosso"
+Description="L'esplorazione dello spazio profondo ha portato alla scoperta di un fenomeno mai osservato prima: un sistema planetario privo di sole. La luce infrarossa, reagendo con il biossido di carbonio dell'alta atmosfera, illumina il pianeta con un bruciante bagliore rossastro. Secondo gli esperimenti, oltre 18 ore di permanenza su questo pianeta provocano una pazzia irreversibile. Ma non vivrai così a lungo..."
+
+[Volume0]
+LocationName="Base rossa"
+
+[Volume1]
+LocationName="Base rossa"
+
+[Volume2]
+LocationName="Base blu"
+
+[Volume3]
+LocationName="Base blu"
+
+[Volume4]
+LocationName="Nodo sud-ovest"
+
+[Volume5]
+LocationName="Nodo nord-ovest"
+
+[Volume6]
+LocationName="Nodo centrale"
+
+[Volume7]
+LocationName="Nodo sud-est"
+
+[Volume8]
+LocationName="Nodo nord-est"
+
+[ZoneInfo0]
+LocationName="Esterno"
+

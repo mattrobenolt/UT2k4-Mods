@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title="Albatro"
+
+[LevelSummary]
+Title="Albatro"
+Description="Ecco una classica arena 1-1 che risale ai tempi antichi del Torneo, rinnovata e riprogettata per nuovi spargimenti di sangue. Non farti ingannare dalla sua apparente semplicità: chi capisce le sottigliezze dell'architettura può dominare in questa arena."
+
+[Volume1]
+LocationName="Corso d'acqua inferiore"
+
+[Volume2]
+LocationName="Piccolo canyon"
+
+[Volume3]
+LocationName="Rovine biologiche"
+
+[Volume4]
+LocationName="Zona del ponte"
+
+[Volume5]
+LocationName="Statua inferiore"
+
+[Volume6]
+LocationName="Ascensore del minigun"
+
+[Volume7]
+LocationName="Statua dell'albatro"
+
+[ZoneInfo0]
+LocationName="Esterno"
+
+[ZoneInfo1]
+LocationName="Sala del lanciarazzi"
+
+[ZoneInfo2]
+LocationName="interno"
+
+[ZoneInfo3]
+LocationName="interno"
+
+[ZoneInfo4]
+LocationName="interno"
+

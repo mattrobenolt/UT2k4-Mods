@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title="Canyon"
+
+[LevelSummary]
+Title="Canyon"
+Description="Combattimento violento e sanguinoso in un fantastico ambiente, cosa si può chiedere di più? Questa piccola arena è attraversata dalle rapide di un pericoloso fiume. Nuotare NON è consigliabile."
+
+[Volume1]
+LocationName="Postazione tiratore blu"
+
+[Volume2]
+LocationName="Meta bomba blu"
+
+[Volume3]
+LocationName="Pozza di rientro sud blu"
+
+[Volume4]
+LocationName="Pozza di rientro nord blu"
+
+[Volume6]
+LocationName="Postazione tiratore rosso"
+
+[Volume7]
+LocationName="Pozza di rientro nord rossa"
+
+[Volume8]
+LocationName="Pozza di rientro sud rossa"
+
+[Volume9]
+LocationName="Meta bomba rossa"
+
+[WaterVolume0]
+LocationName="Con i pesci"
+
+[ZoneInfo1]
+LocationName="Esterno"
+

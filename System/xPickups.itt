@@ -1,0 +1,21 @@
+[AdrenalinePickup]
+PickupMessage="Adrenalina"
+
+[MiniHealthPack]
+PickupMessage="Hai raccolto una fiala curativa +"
+
+[ShieldPickup]
+PickupMessage="Hai raccolto una ricarica per lo schermo +"
+
+[SuperHealthPack]
+PickupMessage="Hai raccolto un kit medico grande +"
+
+[SuperShieldPack]
+PickupMessage="Hai raccolto una super ricarica per lo schermo +"
+
+[TournamentHealth]
+PickupMessage="Hai raccolto un kit medico +"
+
+[UDamagePack]
+PickupMessage="BONUS DANNI DOPPI!"
+

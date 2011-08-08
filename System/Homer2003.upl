@@ -1,0 +1,19 @@
+[Public]
+
+Player=(DefaultName="HomerSimpson",Mesh=Homer2003Anim.Homer2003,species=xGame.SPECIES_Merc,BodySkin=Homer2003Tex.Homer2003Skin,FaceSkin=Homer2003Tex.Homer2003Blk,Portrait=Homer2003Tex.Homer2003Icon,Text=XPlayers.Homer2003,Sex=Male,Menu="SP",Ragdoll=Male, FavoriteWeapon=xWeapons.FlakCannon,Aggressiveness=+0.5,Tactics=1.0,Accuracy=+0.7,bJumpy=1)
+
+
+-------------
+
+If you have the Voice pack, add this line:
+
+
+
+Voice=HomerJay3.HomerJay3,
+
+
+
+after  "Portrait=Homer2003Tex.Homer2003Icon,"
+
+
+-------------

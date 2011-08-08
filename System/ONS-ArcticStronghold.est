@@ -1,0 +1,34 @@
+[LevelInfo0]
+Title="Artic Stronghold"
+
+[LevelSummary]
+Title="Artic Stronghold"
+Description="Situada a 24.000 pies y oculta por una niebla cegadora y constantes nevadas, la fortaleza ártica proporcionaba un lugar perfecto para llevar a cabo experimentos militares ilegales para su uso contra los Skaarj. Tras reestructurarlo para Acometida, este estadio ofrece diversas alternativas a tu enemigo, e incontables maneras de morir para los tontos o incautos."
+
+
+[Volume1]
+LocationName="Base Roja"
+
+[Volume14]
+LocationName="Base Azul"
+
+[Volume15]
+LocationName="Nodo Norte"
+
+[Volume16]
+LocationName="Nodo Este"
+
+[Volume17]
+LocationName="Nodo Central"
+
+[Volume18]
+LocationName="nodo Sur"
+
+[Volume19]
+LocationName="Nodo Oeste"
+
+[Volume20]
+LocationName="Puente"
+
+[ZoneInfo0]
+LocationName="Exterior"

@@ -1,0 +1,6 @@
+[BulldogMessage]
+GetInMessage="Drücken Sie auf [Benutzen], um in das Fahrzeug zu steigen."
+GetOutMessage="Drücken Sie auf [Benutzen], um das Fahrzeug zu verlassen."
+TooManyCarsMessage="Bereits zu viele Wagen!"
+FlipCarMessage="Drücken Sie auf [Benutzen], um das Fahrzeug umzudrehen."
+

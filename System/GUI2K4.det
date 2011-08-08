@@ -1,0 +1,1930 @@
+[AdminPanelLogin]
+WaitingForLoginText="Bitte warten Sie, während Ihre Login-Daten überprüft werden ..."
+PanelCaption="Einloggen"
+LoginButton.Caption="EINLOGGEN"
+LoginNameEditbox.Caption="Login-Name: "
+LoginNameEditbox.Hint="Geben Sie Ihren Admin-Benutzernamen ein."
+LoginPasswordEditBox.Caption="Login-Passwort: "
+LoginPasswordEditBox.Hint="Geben Sie Ihr Admin-Passwort ein."
+LogoutButton.Caption="AUSLOGGEN"
+
+[AdminPanelMaps]
+PanelCaption="Maps"
+
+[AdminPanelPlayers]
+PanelCaption="Spieler"
+BanButton.Caption="Sperren"
+BanButton.Hint="Diesen Spieler sperren."
+KickButton.Caption="Rauswerfen"
+KickButton.Hint="Diesen Spieler rauswerfen."
+
+[ControlBinder]
+BindingLabel[0]="Bewegung"
+BindingLabel[1]="Nach vorne"
+BindingLabel[2]="Nach hinten"
+BindingLabel[3]="Schritt nach links"
+BindingLabel[4]="Schritt nach rechts"
+BindingLabel[5]="Springen"
+BindingLabel[6]="Gehen"
+BindingLabel[7]="Ducken"
+BindingLabel[8]="Seitwärtsbewegung umschalten"
+BindingLabel[9]="Umschauen"
+BindingLabel[10]="Nach links drehen"
+BindingLabel[11]="Nach rechts drehen"
+BindingLabel[12]="Nach oben schauen"
+BindingLabel[13]="Nach unten schauen"
+BindingLabel[14]="Ansicht zentrieren"
+BindingLabel[15]="Wechsel "Rückansicht""
+BindingLabel[16]="Wechsel Kameramodus"
+BindingLabel[17]="Waffen"
+BindingLabel[18]="Feuer"
+BindingLabel[19]="Alternatives Feuer"
+BindingLabel[20]="Waffe werfen"
+BindingLabel[21]="Beste Waffe"
+BindingLabel[22]="Nächste Waffe"
+BindingLabel[23]="Vorherige Waffe"
+BindingLabel[24]="Letzte Waffe"
+BindingLabel[25]="Waffenauswahl"
+BindingLabel[26]="Super Weapon"
+BindingLabel[27]="Shield Gun"
+BindingLabel[28]="Assault Rifle"
+BindingLabel[29]="Bio Rifle"
+BindingLabel[30]="Shock Rifle"
+BindingLabel[31]="Link Gun"
+BindingLabel[32]="Minigun"
+BindingLabel[33]="Flak Cannon"
+BindingLabel[34]="Rocket Launcher"
+BindingLabel[35]="Lightning Rifle"
+BindingLabel[36]="Translocator"
+BindingLabel[37]="Kommunikation"
+BindingLabel[38]="An alle"
+BindingLabel[39]="Ans Team"
+BindingLabel[40]="Chat im Spiel"
+BindingLabel[41]="Sprachmenü"
+BindingLabel[42]="Mikrofon aktivieren"
+BindingLabel[43]="Auf öffentlichem Kanal sprechen"
+BindingLabel[44]="Auf lokalem Kanal sprechen"
+BindingLabel[45]="Auf Teamkanal sprechen"
+BindingLabel[46]="Wechseln zum öffentlichen Kanal"
+BindingLabel[47]="Wechseln zum lokalem Kanal"
+BindingLabel[48]="Wechseln zum Teamkanal"
+BindingLabel[49]="Spott"
+BindingLabel[50]="Beckenstoß"
+BindingLabel[51]="Hinternklaps"
+BindingLabel[52]="Kehle durchschneiden"
+BindingLabel[53]="Prahlerei"
+BindingLabel[54]="Hud"
+BindingLabel[55]="Hud vergrößern"
+BindingLabel[56]="Hud verkleinern"
+BindingLabel[57]="Radarmap anzeigen"
+BindingLabel[58]="Punktetafel umschalten"
+BindingLabel[59]="Punktetafel"
+BindingLabel[60]="Spiel"
+BindingLabel[61]="Benutzen"
+BindingLabel[62]="Pause"
+BindingLabel[63]="Screenshot"
+BindingLabel[64]="ROTE Basis suchen"
+BindingLabel[65]="BLAUE Basis suchen"
+BindingLabel[66]="Nächster Inventar Gegenstand"
+BindingLabel[67]="Vorheriger Inventar Gegenstand"
+BindingLabel[68]="Aktiviert aktuellen Inventar Gegenstand"
+BindingLabel[69]="Persönliche Statistik anzeigen"
+BindingLabel[70]="Nächste Spielerstatistik anzeigen"
+BindingLabel[71]="Serverinfo""
+BindingLabel[72]="Fahrzeughupe"
+BindingLabel[73]="Sonstiges"
+BindingLabel[74]="Menü"
+BindingLabel[75]="Musik-Player"
+BindingLabel[76]="Abstimmungs Menü"
+BindingLabel[77]="Konsole wechseln"
+BindingLabel[78]="Verbindungsstatus anzeigen"
+BindingLabel[79]="Verbindungsaufbau abbrechen"
+Headings[0]="Aktion"
+PageCaption="Tasten konfigurieren"
+
+[CustomHUDMenuAssault]
+WindowName="Konfiguration des Assault-HUD"
+CancelButton.Caption="Abbrechen"
+CancelButton.Hint="Schließen des Menüs, Verwerfen der Änderungen."
+DrawAllObjectives.Caption="Vollständige Anzeigen"
+DrawAllObjectives.Hint="Anzeigen einblenden, wenn Ziel hinter dem Spieler ist."
+InfoPods.Caption="Info-Pods"
+InfoPods.Hint="Info-Pods anzeigen."
+MiscBackground.Caption="Sonstiges."
+ObjectiveBackground.Caption="Ziele"
+ObjectiveReminder.Caption="Zielerinnerungs-Sprecher"
+ObjectiveReminder.Hint="Ziele bei Neueinstieg erwähnen."
+OkButton.Caption="OK"
+OkButton.Hint="Schließen des Menüs, Speichern der Änderungen."
+PulseTime.Caption="Zielaktualisierungszeit"
+PulseTime.Hint="Dauer in Sekunden, in der das aktuelle Ziel hervorgehoben wird."
+ResetButton.Caption="Standard"
+ResetButton.Hint="Auf Standardeinstellungen zurücksetzen."
+ReticleSize.Caption="Zielanzeigeskala"
+ReticleSize.Hint="Ändern der Skalagröße von HUD- Zielanzeigen."
+Reticles.Caption="Zielmarkierungen"
+Reticles.Hint="Zielverfolgungsanzeigen einblenden."
+Show3DArrow.Caption="3D-Pfeil anzeigen"
+Show3DArrow.Hint="3D-Zielverfolgungspfeil einblenden."
+ShowWillowWhisp.Caption="Aktiviert blauen Schweif"
+ShowWillowWhisp.Hint="Aktiviert blauen Schweif, welcher den Weg zum Ziel zeigt."
+
+[CustomHUDMenuOnslaught]
+ShowRadarText="Nur Radar anzeigen"
+ShowScreenText="Gesamten Bildschirm anzeigen"
+CancelButton.Caption="Abbrechen"
+CancelButton.Hint="Schließen des Menüs, Verwerfen der Änderungen."
+EnableMap.Caption="Radarmap aktivieren"
+EnableMap.Hint="Die Radarmap ist eine Ansicht der aktuellen Map in der Vogelperspektive, bei der Kennzeichnungen für Positionen und Status dargestellt werden."
+IconScaleSlider.Caption="Radarmap-Symbolskala"
+IconScaleSlider.Hint="Ändert die Größe der Symbole, die auf der Radarmap dargestellt werden."
+NodeBeamCheck.Caption="Knotenstrahlen anzeigen"
+NodeBeamCheck.Hint="Zeigt Lichtstrahlen über den Knoten an, die für einen Angriff anfällig sind."
+OkButton.Caption="OK"
+OkButton.Hint="Schließen des Menüs, Speichern der Änderungen."
+OptionBackground.Caption="Onslaught HUD Optionen"
+PreviewBackground.Caption="Vorschau"
+RadarPosXFloat.Caption="X:"
+RadarPosXFloat.Hint="Anpassen der Position (links/rechts) der Radarmap."
+RadarPosYFloat.Caption="Y:"
+RadarPosYFloat.Hint="Anpassen der Position (oben/unten) der Radarmap."
+RadarPositionBackground.Caption="Radarposition"
+RadarScaleSlider.Caption="Radarmapskala"
+RadarScaleSlider.Hint="Ändern der Radarmapgröße auf dem HUD."
+RadarTransparencySlider.Caption="Radarmaptransparenz"
+RadarTransparencySlider.Hint="Ändern der Transparenz des Hintergrunds der Radarmap."
+ResetButton.Caption="Standards"
+ResetButton.Hint="Auf Standardeinstellungen zurücksetzen."
+
+[EditFavoritePage]
+UnknownText="Unbekannter Server"
+OKButtonHint="Schließen Sie die Seite und speichern Sie die neue IP in Ihrer Favoritenliste."
+CancelButtonHint="Schließen Sie die Seite und verwerfen Sie vorgenommene Änderungen."
+EditBoxHint="Geben Sie die URL für diesen Favoriten ein - trennen Sie IP und Port mit einem Doppelpunkt (:)."
+IpEntryBox.Caption="IP-Adresse: "
+
+[FilterPageBase]
+SaveString="Einstellung erfolgreich gespeichert!"
+
+[GUIDynArrayPage]
+NewText="Neu"
+RemoveText="Entfernen"
+
+[IAMultiColumnRulesPanel]
+AdvancedButton.Caption="Erweiterte Optionen"
+AdvancedButton.Hint="Erweiterte Einstellungen anzeigen/ausblenden."
+SymbolButton.ButtonCaption="Konfigur."
+SymbolButton.Caption="Teamsymbole"
+SymbolButton.Hint="Wählen Sie die Fahnensymbole für jedes Team."
+
+[ID3TagEditor]
+EditBoxHint="Klicken, um zu bearbeiten."
+WindowName="Tag-Editor"
+
+[KeyBindMenu]
+Headings[1]="Taste 1"
+Headings[2]="Taste 2"
+CloseCaption="SCHLIESSEN"
+ResetCaption="ZURÜCKS."
+ClearCaption="Drücke '%backspace%' um '%keybind%' von '%keyname%' zu lösen."
+ActionText="{%keybinds%} - aktuelle Tastenverbindung für diese Aktion."
+
+[LockedFloatingWindow]
+LockedCancelButton.Caption="Abbrechen"
+LockedOKButton.Caption="OK"
+
+[MapListBox]
+RCMenu.ContextItems=("Auf dieser Map spielen","Bei dieser Map zuschauen","-","Der Mapliste hinzufügen","Von Mapliste entfernen","Mapliste filtern")
+
+[MaplistEditor]
+InvalidMaplistClassText="Neue benutzerdefinierte Mapliste %name% konnte nicht erstellt werden, da %game% eine ungültige Maplistenklasse aufweist: '%mapclass%'!"
+NewMaplistPageCaption="Benutzerdef. Mapliste erstellen"
+MaplistEditCaption="Maplistenname: "
+RenameMaplistPageCaption="Mapliste umbenennen"
+LinkText="Link-Einstellung"
+AutoSelectText="Autom. Auswahl"
+BonusVehicles=" (Bonus-Fahrzeuge)" 
+WindowName="Konfiguration der Mapliste"
+ActiveBackground.Caption="Aktive Map(s)"
+AddAllButton.Caption="Alle hinzufüg."
+AddAllButton.Hint="Alle Maps Ihrer Mapliste hinzufügen."
+AddButton.Caption="Hinzufüg."
+AddButton.Hint="Ausgewählte Map(s) der Mapliste hinzufügen."
+DeleteMaplistButton.Caption="LÖSCHEN"
+DeleteMaplistButton.Hint="Aktuell ausgewählte Mapliste löschen. Falls dies die letzte Mapliste für diesen Spieltyp ist, wird eine neue Standard-Mapliste generiert."
+InactiveBackground.Caption="Inaktive Map(s)"
+MoveDownButton.Caption="Nach unten"
+MoveDownButton.Hint="Diese Map in der Liste nach unten verschieben."
+MoveUpButton.Caption="Nach oben"
+MoveUpButton.Hint="Diese Map in der Liste nach oben verschieben."
+NewMaplistButton.Caption="NEU"
+NewMaplistButton.Hint="Neue benutzerdefinierte Mapliste erstellen."
+RemoveAllButton.Caption="Alle entfernen"
+RemoveAllButton.Hint="Alle Maps aus Ihrer Mapliste entfernen."
+RemoveButton.Caption="Entfernen"
+RemoveButton.Hint="Ausgewählte Map(s) von Mapliste entfernen."
+RenameMaplistButton.Caption="UMBENENNEN"
+RenameMaplistButton.Hint="Ausgewählte Mapliste umbenennen."
+SelectMaplistCombo.Hint="Vorhandene benutzerdefinierte Mapliste laden."
+
+[MutatorConfigMenu]
+ConfigButtonText="Öffnen"
+EditButtonText="Bearbeiten"
+NoPropsMessage="Keine konfigurierbaren Eigenschaften."
+SubCaption="Mutator-Konfiguration"
+WindowName="Benutzerdefinierte Konfigurationsseite"
+AdvancedButton.Caption="Erweiterte Optionen anzeigen"
+AdvancedButton.Hint="Erweiterte Einstellungen anzeigen/ausblenden."
+
+[MySubTestPanelA]
+cTestMenu.ContextItems=("Test 0","Test 1","Fuck YOU","ABCDEFGHIJKLM","NOPQR")
+
+[MyTestMultiColumnList]
+ColumnHeadings=("Beschriftung","Wert","Taste")
+
+[MyTestPage]
+MyBackButton.Caption="ZURÜCK"
+MyBackButton.Hint="Zum vorherigen Menü."
+MyHeader.Caption="Einstellungen"
+
+[MyTestPanelA]
+cFive.Caption="moNumericEdit Test"
+cFive.Hint="Dies ist ein ganzzahliges Bearbeitungsfeld."
+cFour.Caption="moFloatEdit Test"
+cFour.Hint="Dies ist ein Fließkomma-Bearbeitungsfeld."
+cSix.Hint="Dies ist ein Schieberegler-Test."
+cThree.Caption="moEditBox Test"
+cThree.Hint="Dies ist ein Bearbeitungsfeld."
+cTwo.Caption="moCheckBox Test"
+cTwo.Hint="Dies ist ein Kontrollkästchen."
+laSix.Caption="Schieberegler-Test"
+
+[MyTestPanelB]
+caOne.Caption="moComboBox Test"
+caOne.Hint="Dies ist ein Kombo-Feld."
+laThree.Caption="Text-Bildlauf-Test"
+laTwo.Caption="Listenfeld-Test"
+
+[PlayInfoList]
+ColumnHeadings=("Einstellungsname","Wert")
+
+[RemoteAdmin]
+LoggedInText="Eingeloggt als '%name%'"
+LoggedOutText="Nicht eingeloggt"
+AutoLogout.Caption="AutoLogout"
+AutoLogout.Hint="Bei Aktivierung wird man automatisch als Admin ausgeloggt, wenn dieses Menü geschlossen wird."
+OptionsCombo.Caption="Abschnitt:"
+OptionsCombo.Hint="Wählen Sie die gewünschte Gruppe der zu konfigurierenden Administrationsoptionen aus."
+
+[SPHighScore]
+CheaterName="*** CHEATER ***"
+
+[Settings_Tabs]
+PerformanceWarningText="Die aktuellen Änderungen können sich negativ auf die Leistung auswirken."
+
+[SimpleFilterPanel]
+ViewStatsStrings[0]="Beliebige Server"
+ViewStatsStrings[1]="Nur Statistik-Server"
+ViewStatsStrings[2]="Keine Statistik-Server"
+MutatorModeStrings[0]="Beliebige Mutatoren"
+MutatorModeStrings[1]="Dieser Mutator"
+MutatorModeStrings[2]="Nicht dieser Mutator"
+MutatorModeStrings[3]="Keine Mutatoren"
+WeaponStayStrings[0]="Beliebige Server"
+WeaponStayStrings[1]="Nur Server mit bleibenden Waffen"
+WeaponStayStrings[2]="Keine Server mit bleibenden Waffen"
+TranslocatorStrings[0]="Beliebige Server"
+TranslocatorStrings[1]="Nur Translocator-Server"
+TranslocatorStrings[2]="Keine Translocator-Server"
+SaveString="Einstellung erfolgreich gespeichert!"
+MainOptions.Caption="Spiel"
+MutatorCombo.Hint="Wählen Sie den zu filternden Mutator aus."
+MutatorModeCombo.Hint="Wählen Sie den Typ des Mutator-Filters aus."
+MutatorOptions.Caption="Mutatoren"
+NoBotServersCheckBox.Caption="Keine Server mit Bots"
+NoBotServersCheckBox.Hint="Keine Server im Server-Browser anzeigen, die Bots erlauben."
+NoEmptyCheckBox.Caption="Keine leeren Server"
+NoEmptyCheckBox.Hint="Keine leeren Server im Server-Browser anzeigen."
+NoFullCheckBox.Caption="Keine vollen Server"
+NoFullCheckBox.Hint="Keine vollen Server im Server-Browser anzeigen."
+NoPasswdCheckBox.Caption="Keine Passwort-Server"
+NoPasswdCheckBox.Hint="Keine passwortgeschützten Server im Server-Browser anzeigen."
+StatsViewCombo.Caption="Statistik-Server"
+StatsViewCombo.Hint="Nur Server im Server-Browser anzeigen, bei denen Statistiken aktiviert sind."
+TranslocatorCombo.Caption="Translocator"
+TranslocatorCombo.Hint="Nur Server mit aktiviertem Translocator im Server-Browser anzeigen."
+WeaponStayCombo.Caption="Waffen bleiben"
+WeaponStayCombo.Hint="Nur Server im Server-Browser anzeigen, bei denen Waffen aktiviert bleiben."
+
+[SpeechBinder]
+Headings[0]="Satz"
+PageCaption="Sprach-Belegung"
+
+[StreamPlayer]
+CollapsePlaylistHint="Aktuelle Wiedergabeliste verbergen."
+ExpandPlaylistHint="Aktuelle Wiedergabeliste anzeigen."
+PlayHint="Spielen"
+PauseHint="Pause"
+CollapseManagementHint="Wiedergabelisten-Optionen ausblenden."
+ExpandManagementHint="Wiedergabelisten-Optionen anzeigen."
+RenameCaption="Mapliste umbenennen"
+NewCaption="Neu Mapliste erstellen"
+PlaylistNameCaption="Name:"
+PLAdd="Hinzufüg."
+PLRemove="Entfernen"
+PLClear="Leeren"
+MGNew="Neu"
+MGRemove="Entfernen"
+MGRename="Umbenennen"
+WindowName="Musik-Player"
+ManagePlaylistsButton.Hint="Wiedergabelisten verwalten"
+NextTrackButton.Hint="Nächstes"
+PlayerRCMenu.ContextItems=("Einstellungen ändern")
+PlaylistListBox.Hint="Aktuelle Wiedergabeliste"
+PlaylistRCMenu.ContextItems=("Wiedergabeliste aktivieren","Wiedergabeliste umbenennen","Neue Wiedergabeliste erstellen","-","Wiedergabeliste löschen","Wiedergabeliste leeren")
+PrevTrackButton.Hint="Zurück"
+RepeatAllCheck.Hint="Alles wiederholen"
+RepeatCheck.Hint="Wiederholen"
+SelectPlaylistListBox.Hint="Wiedergabeliste auswählen."
+ShuffleAllCheck.Hint="Alles mischen"
+ShuffleCheck.Hint="Mischen"
+SongRCMenu.ContextItems=("Auswahl abspielen","Wiedergabelisten-Editor öffnen","Tag aktualisieren","-","Von Wiedergabeliste entfernen","Wiedergabeliste leeren")
+SongTime.Caption="0:00"
+StopButton.Hint="Stopp"
+StreamVolume.Hint="Lautstärke"
+bBotA.Caption="Hinzufüg."
+bBotB.Caption="Entfernen"
+bBotC.Caption="Leeren"
+sbManagement.Caption="Wiedergabelisten-Manager"
+sbPlayList.Caption="Aktuelle Wiedergabeliste"
+
+[StreamPlaylistEditor]
+GeneralFileItems=("Auswahl abspielen")
+GeneralFolderItems=("Der Wiedergabeliste hinzufügen")
+PlaylistItems=("Von Wiedergabeliste entfernen")
+NonPlaylistItems=("Der Wiedergabeliste hinzufügen","Der Wiedergabeliste hinzufügen & abspielen")
+ImportItems=("In neue Wiedergabeliste importieren","In aktuelle Wiedergabeliste importieren")
+WindowName="Wiedergabeliste wird bearbeitet"
+AddButton.Caption="Hinzufüg."
+AddButton.Hint="Ausgewähltes Objekt der Wiedergabeliste hinzufügen. Wenn das ausgewählte Objekt ein Verzeichnis ist, werden alle Lieder im Verzeichnis der Wiedergabeliste hinzugefügt."
+CloseButton.Caption="SCHLIESSEN"
+lbDriveLetters.Caption="Verzeichnis:"
+
+[TeamSymbolConfig]
+ResetString="Zurücksetzen"
+RedString="Team ROT"
+WindowName="Teamsymbole konfigurieren"
+back2.Caption="Team BLAU"
+back3.Caption="Verfügbare Teamsymbole"
+
+[UT2K4ArenaConfig]
+DialogText.Caption="Waffen-Arena"
+OkButton.Caption="OK"
+WeaponSelect.Caption="Wählen Sie die Waffe für Ihre Arena aus."
+
+[UT2K4BadCDKeyMsg]
+BadCDLabel.Caption="CD-Key ist ungültig oder wird von einem anderen Spieler genutzt."
+OkButton.Caption="OK"
+
+[UT2K4BotConfigPage]
+NoInformation="Keine Informationen verfügbar!"
+NoPref="Keine Präferenz"
+DefaultString="Standard"
+ResetString="Zurücksetzen"
+AttributesString="Attribute"
+BotAccuracySlider.Caption="Genauigkeit"
+BotAccuracySlider.Hint="Konfiguriert die Genauigkeit des Bots."
+BotAggrSlider.Caption="Aggressivität"
+BotAggrSlider.Hint="Konfiguriert die Aggressivität des Bots."
+BotCStyleSlider.Caption="Kampfstil"
+BotCStyleSlider.Hint="Stellt den Kampfstil des Bots ein."
+BotJumpy.Caption="Sprunghaftigkeit"
+BotJumpy.Hint="Steuert, ob der Bot im Spiel viele Sprünge macht."
+BotOrders.Caption="Befehle"
+BotOrders.Hint="Wählen Sie, welche Rolle der Bot spielen soll."
+BotReactionSlider.Caption="Reaktionszeit"
+BotReactionSlider.Hint="Stellt die Reaktionsgeschwindigkeit des Bots ein."
+BotStrafeSlider.Caption="Seitschritt-Fähigkeit"
+BotStrafeSlider.Hint="Stellt die Seitschritt-Fähigkeit des Bots ein."
+BotTacticsSlider.Caption="Taktik"
+BotTacticsSlider.Hint="Stellt die Teamfähigkeit des Bots ein."
+BotVoice.Caption="Sprache"
+BotVoice.Hint="Sprache für Bot auswählen."
+BotWeapon.Caption="Lieblingswaffe"
+BotWeapon.Hint="Sucht die Lieblingswaffe des Bots aus."
+
+[UT2K4BotInfoPage]
+NoInformation="Keine Informationen verfügbar!"
+AggressionCaption="Aggressivität"
+AccuracyCaption="Genauigk."
+AgilityCaption="Wendigkeit"
+TacticsCaption="Taktik"
+
+[UT2K4Browser_Page]
+MustUpgradeString="Upgrade verfügbar. Bitte aktualisieren Sie die Seite mit den Neuigkeiten."
+QueryCompleteString="Abfrage abgeschlossen!"
+StartQueryString="Master-Server abfragen"
+AuthFailString="Authentifizierung fehlgeschlagen"
+ConnFailString="Verbindungsfehler"
+ConnTimeoutString="Verbindung abgelaufen"
+RetryString=" - Neuer Versuch"
+ReadyString="Fertig"
+BackCaption="ZURÜCK"
+RefreshCaption="AKTUALISIEREN"
+JoinCaption="TEILNEHMEN"
+SpectateCaption="ZUSCHAUEN"
+FilterCaption="FILTER"
+UnspecifiedNetworkError="Es gab einen unbekannten Fehler beim Verbindungsaufbau zum Netzwerk."
+
+[UT2K4Browser_ServerListPageMS]
+PanelCaption="Server-Browser: Internet"
+
+[UT2K4ChatPassword]
+IncorrectPassword="Ungültiges Passwort für Kanal '%ChatRoom%'."
+GetPassFail.Caption="ABBR."
+GetPassLabel.Caption="Für diesen Chat-Raum wird ein Passwort benötigt."
+GetPassPW.Caption="Chat-Raum-Passwort"
+GetPassRetry.Caption="WIEDERH."
+
+[UT2K4CustomFilterPage]
+PanelCaption=("Filterübersicht","Benutzerdefinierte Regeln")
+PanelHint=("Momentan konfigurierte Regeln für diesen Filter anzeigen","Zusätzliche benutzerdefinierte Filter","Filter")
+
+[UT2K4DefaultGame]
+ModName="Epic's Unreal Tournament 2004"
+ModInfo="Mit dieser Option wird das Standard-Spiel wieder hergestellt."
+ModLogo="2K4Menus.Content.ModMenuLogo"
+
+[UT2K4Demo2AVI]
+WindowName="Output to AVI..."
+coResolution.Caption="Resolution"
+coResolution.Hint="The resolution of the final movie."
+ebFilename.Caption="Filename: "
+ebFilename.Hint="The name of the AVI file to create"
+lbSavePos.Caption="AVI's saved to ..\UserMovies"
+soQuality.Caption="Quality"
+soQuality.Hint="The quality level of the compression used"
+
+[UT2K4DemoPlayback]
+lbMod.Caption="2X"
+
+[UT2K4Demos]
+ltScoreLimit="Punktelimit:"
+ltTimeLimit="Zeitlimit:"
+UnknownText="Unbekannt"
+CorruptDemText="Beschädigte oder fehlende .DEM-Datei!"
+ltSelectMsg="Bitte wählen Sie ein Demo aus der Liste links."
+ltClientSide="Demo Client-Seite"
+ltServerSide="Demo Server-Seite/Einzelspieler"
+ltRecordedBy="Aufnahme:"
+ltGoodMsg="Alle für dieses Demo benötigten Pakete sind installiert."
+ltBadMsg="Für das Abspielen benötigt das Demo unten aufgeführte Pakete. Bei einer aktiven Internet-Verbindung werden die Pakete beim Abspielen des Demos automatisch heruntergeladen||::Benötigte Pakete::"
+NoPreview.Caption="Keine Vorschau verfügbar"
+iInfoBk.Caption="... Informationen ..."
+sb1.Caption="Demos"
+sb3.Caption="Benötigte Pakete"
+
+[UT2K4DisconnectOptionPage]
+MainMenuButton.Caption="HAUPTMENÜ"
+QuitButton.Caption="UT2004 VERLASSEN"
+ReconnectButton.Caption="ERNEUT VERBINDEN"
+ServerBrowserButton.Caption="SERVER-BROWSER"
+cNetStatLabel.Caption="Wählen Sie eine Option"
+
+[UT2K4FilterControlPanel]
+CopyText="Kopie von"
+CreateFilterCaption="Filter erstellen"
+RenameText="Filter umbenennen"
+FilterNameCaption="Filtername:"
+BackgroundSec.Caption="Benutzerdefinierte Filter"
+CreateFButton.Caption="Neu"
+CreateFButton.Hint="Neuen benutzerdefinierten Filter erstellen."
+GameTypeCombo.Caption="Spielart"
+GameTypeCombo.Hint="Es werden nur die Regeln für diese Spielart angezeigt."
+RCMenu.ContextItems=("Filter klonen","Filter umbenennen","-","Alle Filter zurücksetzen", "Alle Filter entfernen")
+RemoveFButton.Caption="Entfernen"
+RemoveFButton.Hint="Aktuell ausgewählten Filter dauerhaft löschen."
+
+[UT2K4FilterRulesPanel]
+EnableRule="Diesen Filter aktivieren"
+MaxText="Max."
+MinText="Min."
+
+[UT2K4FilterSummaryList]
+ColumnHeadings=("Objektname","Filter","Wert")
+
+[UT2K4FilterSummaryListBox]
+RCMenu.ContextItems=("Diese Regel entfernen","Diese Regel bearbeiten","-","Änderungen übernehmen")
+
+[UT2K4GameFooter]
+GameBackButton.Caption="ZURÜCK"
+GameBackButton.Hint="Zum vorherigen Menü."
+
+[UT2K4GamePageBase]
+PanelCaption=("Spielart","Map auswählen","Spielregeln","Mutatoren","Bot-Konfiguration")
+PanelHint=("Wählen Sie die Spielart aus ...","Vorschau der Maps für die derzeit ausgewählte Spielart anzeigen ...","Aktuelle Spielart konfigurieren ...","Mutatoren auswählen und konfigurieren ...","Bots konfigurieren, die teilnehmen sollen ...")
+
+[UT2K4GamePageMP]
+PageCaption="Spiel hosten"
+PanelCaption=("Spielart","Map auswählen","Spielregeln","Mutatoren","Bot-Konfiguration","Serverregeln")
+PanelHint=("Wählen Sie die Spielart aus ...","Vorschau der Maps für die derzeit ausgewählte Spielart anzeigen ...","Aktuelle Spielart konfigurieren ...","Mutatoren auswählen und konfigurieren ...","Bots konfigurieren, die teilnehmen sollen ...","Die Servereinstellungen konfigurieren ...")
+MPFooter.PrimaryCaption="LISTEN"
+MPFooter.PrimaryHint="Einen Listen-Server mit diesen Einstellungen starten."
+MPFooter.SecondaryCaption="DEDIZIERTER"
+MPFooter.SecondaryHint="Einen dedizierten Server mit diesen Einstellungen starten."
+
+[UT2K4GamePageSP]
+PageCaption="Schnellstart"
+SPFooter.PrimaryCaption="SPIELEN"
+SPFooter.PrimaryHint="Match mit diesen Einstellungen starten."
+SPFooter.SecondaryCaption="ZUSCHAUEN"
+SPFooter.SecondaryHint="Einem Match mit diesen Einstellungen zuschauen."
+
+[UT2K4GenericMessageBox]
+DialogText.Caption="ACHTUNG"
+OkButton.Caption="OK"
+
+[UT2K4GetDataMenu]
+CancelButton.Caption="ABBR."
+CancelButton.Hint="Schließen des Menüs, Verwerfen der Änderungen."
+
+[UT2K4GetPassword]
+IncorrectPassword="Passwort nicht korrekt. Bitte erneut versuchen."
+GetPassFail.Caption="ABBR."
+GetPassLabel.Caption="Für das Spielen auf diesem Server wird ein Passwort benötigt."
+GetPassPW.Caption="Server-Passwort"
+GetPassRetry.Caption="SENDEN"
+
+[UT2K4IRCLink]
+InvalidAddressText="Ungültige Serveradresse; Abbruch."
+ErrorBindingText="Fehler bei Verb. des lokalen Ports; Abbruch."
+ResolveFailedText="Serveradresse nicht gefunden; Abbruch."
+ConnectedText="Verbunden."
+ConnectingToText="Verbinden mit"
+TimeOutError="Zeit f. Verbindungsaufbau abgelaufen."
+InviteString="lädt Sie ein"
+
+[UT2K4IRC_ChanKey]
+EditCaption="Kanaltaste: "
+EditHint="Geben Sie den Kanalschlüssel ein."
+msgCaption="%chan% ist mit einem Schlüssel geschützt."
+
+[UT2K4IRC_Page]
+HasLeftText="%Name% hat %Chan% verlassen."
+HasJoinedText="%Name% hat %Chan% betreten."
+WasKickedByText="%Kicked% wurde von %Kicker% rausgeworfen ( %Reason% )."
+NowKnownAsText="%OldName% heißt jetzt %NewName%."
+QuitText="*** %Name% hört auf ( %Reason% )."
+SetsModeText="*** %Name% aktiviert Modus: %mode%."
+NewTopicText="Thema"
+
+[UT2K4InGameChat]
+WindowName="Chat im Spiel"
+ebSend.Caption="Sagt:"
+ebSend.Hint="Stellen Sie einer Mitteilung einen Punkt voran (.), um eine Teammitteilung zu senden oder einen Schrägstrich (/), um einen Befehl zu senden"
+
+[UT2K4InternetSettingsPage]
+InternetSettingsCancelButton.Caption="ABBR."
+InternetSettingsOKButton.Caption="OK"
+NetspeedComboBox.Caption="Netzgeschwindigkeit:"
+PlayerNameEditbox.Caption="Spielername:"
+
+[UT2K4InvasionWaveConfig]
+DiffHint="Wie stark sollte diese Welle sein."
+DurationHint="Wie lang sollte diese Welle anhalten."
+MaxInvaderHint="Was ist die Höchstanzahl an Monstern, die für diese Welle erzeugt werden."
+AIHint="Dieses Monster anerkennen/ablehnen."
+WaveMonsters[0].mName="Pupae"
+WaveMonsters[1].mName="Razor Fly"
+WaveMonsters[2].mName="Manta"
+WaveMonsters[3].mName="Krall"
+WaveMonsters[4].mName="Elite Krall"
+WaveMonsters[5].mName="Gasbag"
+WaveMonsters[6].mName="Brute"
+WaveMonsters[7].mName="Skaarj"
+WaveMonsters[8].mName="Behemoth"
+WaveMonsters[9].mName="Ice Skaarj"
+WaveMonsters[10].mName="Fire Skaarj"
+WaveMonsters[11].mName="Warlord"
+WaveMonsters[12].mName="Pupae"
+WaveMonsters[13].mName="Pupae"
+WaveMonsters[14].mName="Razor Fly"
+WaveMonsters[15].mName="Razor Fly"
+WaveNumber.Caption="Welle-Nr."
+WaveNumber.Hint="Wählen Sie die Welle aus, die Sie konfigurieren möchten."
+
+[UT2K4MidGameMenu]
+LeaveMPButtonText="TRENNEN"
+LeaveSPButtonText="AUFGEBEN"
+LeaveEntryButtonText="SERVER-BROWSER"
+AddFavoriteButton.Caption="FAVORIT HINZUFÜGEN"
+BrowserButton.Caption="SERVER-BROWSER"
+ChangeTeamButton.Caption="TEAM WECHS."
+ContMatchButton.Caption="WEITER"
+KickVotingButton.Caption="Rauswurf-Abstimmung"
+MapVotingButton.Caption="Map-Abstimmung"
+MatchSetupButton.Caption="Match-Einstellung"
+QuitGameButton.Caption="UT2004 VERLASSEN"
+SettingsButton.Caption="EINSTELLUNGEN"
+VotingButton.Caption="Abstimmung ..."
+
+[UT2K4ModFooter]
+BB1.Caption="Aktivieren"
+BB1.Hint="Aktiviert dieses Mod."
+BB2.Caption="Website besuchen"
+BB2.Hint="Besuchen Sie die Website für eines der Mods."
+BB3.Caption="Download"
+BB3.Hint="Ownage-Map herunterladen."
+BB4.Caption="Demo anzeigen"
+BB4.Hint="Das ausgewählte Demo ansehen."
+BB5.Caption="AVI erstellen"
+BB5.Hint="Konvertiert ein Demo zu DIVX AVI."
+BB66.Caption="Film abspielen"
+BB66.Hint="Den ausgewählten Film ansehen."
+BackB.Caption="ZURÜCK"
+BackB.Hint="Zum vorherigen Menü."
+
+[UT2K4ModsAndDemos]
+ConnectFailed="Der UT2004 Master Server konnte nicht erreicht werden. Bitte versuchen Sie es später erneut."
+ConnectTimeout="Ihr Verbindung zum UT2004 Master Server wurde unterbrochen."
+PanelCaption=("Neuigkeiten","Benutzermods","Ownage-Maps","Demos","Filme")
+PanelHint=("Erfahren Sie das Neueste von der UT2004-Community ...","Aktivieren Sie eine bereits installierte Benutzermod ...","Epic empfiehlt ...","Aufgezeichnete Demodatei erneut abspielen ...", "Sehen Sie sich Fan-Filme an, die mit UnrealEd und Matinee erstellt wurden!")
+ModHeader.Caption="Die UT2004-Community"
+
+[UT2K4Movies]
+DefaultItems=((MapName="MOV-UT2004-Intro",Title="Einführung in den Einzelspieler-Modus von UT2004",Author="Epic Games"),(MapName="MOV-UT2-Intro",Title="Einführung in den Einzelspieler-Modus von UT2003",Author="Epic Games"),(MapName="TUT-BR",Title="Bombing Run Tutorial",Author="Epic Games"),(MapName="TUT-CTF",Title="Capture the Flag Tutorial",Author="Epic Games"),(MapName="TUT-DM",Title="Deathmatch Tutorial",Author="Epic Games"),(MapName="TUT-DOM",Title="Double Domination Tutorial",Author="Epic Games"),(MapName="TUT-ONS",Title="Onslaught Tutorial",Author="Epic Games"))
+lNoPreview.Caption="Keine Vorschau verfügbar"
+lbMaps.Hint="Klicken Sie auf einen Film, um eine Vorschau und eine Beschreibung zu sehen. Doppelklicken Sie, um sich den Film anzusehen."
+sbMaps.Caption="Film-Auswahl"
+sbPreview.Caption="Vorschau"
+sbScroll.Caption="Film-Beschreibung"
+
+[UT2K4NetworkStatusMsg]
+StatusMessages[0]="Ungültiger CD-Key!||Laut Master Server ist Ihr CD-Key entweder ungültig oder wird bereits verwendet. Wenn das Problem weiterhin besteht, wenden Sie sich bitte an den technischen Support von Infogrames."
+StatusMessages[1]="Verbindung fehlgeschlagen!||Es konnte keine Verbindung zum Master Server von Unreal Tournament 2004 hergestellt werden. Bitte überprüfen Sie Ihren Anschluss zum Internet, und versuchen Sie es erneut."
+StatusMessages[2]="Verbindungsabbruch!||Ihre Verbindung zum Master Server von Unreal Tournament 2004 wurde offenbar unterbrochen. Bitte überprüfen Sie Ihren Anschluss zum Internet, und versuchen Sie es erneut."
+StatusMessages[3]="Upgrade erforderlich"
+StatusMessages[4]="Client ist im Entwicklungsmodus!||Ihr Client ist derzeit im Entwicklungsmodus und sein Zugriff auf den Master Server wurde eingeschränkt. Bitte starten Sie das Spiel erneut, und vermeiden Sie SET-Befehle, die Probleme verursachen können. Falls das Problem weiterhin besteht, wenden Sie sich an den Technischen Support von Atari."
+StatusMessages[5]="Modifizierter Client!||Ihr Exemplar von Unreal Tournament 2004 wurde auf irgendeine Weise modifiziert. Aus diesem Grund wurde der Zugriff auf den Master Server eingeschränkt. Falls das Problem weiterhin besteht, installieren Sie das Spiel bzw. den neuesten Patch neu.||Dieser Fehler wurde beim Master Server aufgezeichnet."
+StatusMessages[6]="Gesperrter Client!||Ihr CD-Key wurde vom Master Server gesperrt. Diese Sperrung bleibt aktiv bis %data%."
+StatusMessages[7]="Der Server, zu dem Sie versuchen eine Verbindung aufzubauen, ist momentan voll. Bitte versuchen Sie diesen Server später noch einmal oder versuchen Sie, eine Verbindung als Zuschauer aufzubauen, wenn vom Server zugelassen."
+StatusMessages[8]="Der Administrator dieses Servers hat Sie für das Spielen hier gesperrt. Wenn Sie diese Vorgehensweise für ungerechtfertigt halten, kontaktieren Sie den Administrator unter der folgenden E-Mail-Adresse: [%data%]."
+StatusMessages[9]="Diese Kopie von UT2004 ist nicht kompatibel mit dem Server zu dem Sie eine Verbindung aufbauen."
+StatusMessages[10]="Während des Einloggens trat ein fatales Problem auf; deshalb wurde die Verbindung zum Server abgebrochen.||Grund: %data%"
+StatusMessages[11]="Sie wurden gewaltsam aus dem Spiel geworfen.||Grund: %data%"
+StatusMessages[12]="Der Administrator dieses Servers hat Sie für den Rest des aktuellen Spiels gesperrt.||Wenn Sie diese Vorgehensweise für ungerechtfertigt halten, kontaktieren Sie den Administrator unter der folgenden E-Mail-Adresse: [%data%]."
+StatusMessages[13]="Sie wurden dauerhaft vom Spielen auf diesem Server gesperrt.||Wenn Sie diese Vorgehensweise für ungerechtfertigt halten, kontaktieren Sie den Administrator unter der folgenden E-Mail-Adresse: [%data%]."
+StatusTitle[0]="Ungültiger CD-Key"
+StatusTitle[1]="Verbindungsfehler"
+StatusTitle[2]="Verbindung abgelaufen"
+StatusTitle[3]="Upgrade erforderlich"
+StatusTitle[4]="Entwicklungsmodus"
+StatusTitle[5]="Modifizierter Client"
+StatusTitle[6]="Sie wurden gesperrt"
+StatusTitle[7]="Der Server ist voll"
+StatusTitle[8]="Sie wurden gesperrt"
+StatusTitle[9]="Inkompatible Version"
+StatusTitle[10]="Problem während des Einloggens"
+StatusTitle[11]="Rausgeworfen"
+StatusTitle[12]="Sitzungssperre"
+StatusTitle[13]="Dauerhafte Sperre"
+UnknownError="Unbekannter Netzwerkfehler"
+WindowName="Netzwerknachricht ..."
+
+[UT2K4OnslaughtLoginMenu]
+OnslaughtMapPanel.Caption="Map"
+OnslaughtMapPanel.Hint="Gebietsmap"
+
+[UT2K4OnslaughtPowerLinkDesigner]
+Hint="Klicken Sie auf einen beliebigen Power-Kern oder Power-Knoten, um diesen auszuwählen, und klicken Sie anschließend auf einen anderen Power-Kern oder Power-Knoten, um eine Verbindung zwischen den beiden herzustellen."
+ClearButton.Caption="Links leeren"
+ClearButton.Hint="Leere alle Links auf dieser Map."
+CloseButton.Caption="Schließ."
+DeleteSetupButton.Caption="Löschen"
+DeleteSetupButton.Hint="Löschen der momentan ausgewählten Link-Einstellung."
+ExportButton.Caption="Export zu UnrealEd"
+ExportButton.Hint="NUR LEVEL-DESIGNER: Exportieren Sie die aktuelle Link-Einstellung in die Zwischenablage. Dann können Sie die Map in UnrealEd öffnen, um mit Einfügen einen offiziellen Link-Einstellungs-Darsteller zu erstellen und damit diese Link-Einstellung zu einer offiziellen Link-Einstellung für Ihre Map machen."
+LinkDesignerMap.Hint="Klicken Sie auf einen beliebigen Power-Kern oder Power-Knoten, um diesen auszuwählen, und klicken Sie anschließend auf einen anderen Power-Kern oder Power-Knoten, um eine Verbindung zwischen den beiden herzustellen."
+SaveSetupButton.Caption="Speichern"
+SaveSetupButton.Hint="Speichern der aktuellen Link-Einstellungen."
+SetupNameBox.Caption="Name"
+SetupNameBox.Hint="Der Name dieser Link-Einstellung. Geben Sie einen Namen ein und klicken Sie auf Speichern, um eine neue Link-Einstellung zu erstellen."
+
+[UT2K4Ownage]
+sb1.Caption="Ownage-Maps"
+sb2.Caption="Mapdetails"
+
+[UT2K4PerformWarn]
+DialogText.Caption="ACHTUNG"
+DialogText2.Caption="Die aktuellen Änderungen können sich negativ auf die Leistung auswirken."
+HideCheckbox.Caption="  Diese Warnung nicht mehr anzeigen"
+HideCheckbox.Hint="Wählen Sie diese Option aus, um Warnhinweise beim Anpassen von Eigenschaften im Einstellungsmenü zu deaktivieren. "
+OkButton.Caption="OK"
+
+[UT2K4PlayInfoPanel]
+EditText="Bearbeit."
+
+[UT2K4PlayerLoginMenu]
+Panels=((Caption="Spiel",Hint="Spielsteuerung"),(Caption="NDT",Hint="Nachricht des Tages"),(Caption="Serverinfo",Hint="Aktuelle Maprotation und Spieleinstellungen"),(Caption="Kommunikation",Hint="Kommunikation mit anderen Spielern verwalten"),(Caption="Hilfe",Hint="Nützliche Tipps"))
+SPRulesPanel.Caption="Regeln"
+SPRulesPanel.Hint="Spieleinstellungen"
+
+[UT2K4QuickPlay]
+DifficultyOptions=("Anfänger","Erfahren","Experte")
+SearchingText="SUCHE ..."
+ReadyText="Fertig"
+ConnectText="SUCHEN"
+CancelText="ABBR."
+ConnectHint="Sobald Sie eine Spielart und einen Schwierigkeitsgrad eingestellt haben, klicken Sie auf "Spielen", um nach einem Server in der Kategorie zu suchen, der die niedrigste Ping-Rate aufweist."
+CancelHint="Aktuelle "Schnellbeitritt"-Suche abbrechen."
+BeginningSearchText="Bitte warten ... Server werden auf Spielart überprüft:"
+AuthFailedText="Authentifizierung fehlgeschlagen! Bitte später erneut versuchen ..."
+ServerCountText="Empfangen/Gesamt - %NumReceived%/%TotalServers%"
+SearchCancelledText="Suche abgebrochen!"
+ConnectionFailedText="Verbindung fehlgeschlagen - Kontakt zu Master Server konnte nicht hergestellt werden. Bitte überprüfen Sie Ihren Netzwerkanschluss und versuchen Sie es erneut!"
+TimedOutText="Master Server hat zu lange zur Beantwortung der Anfrage gebraucht. Bitte versuchen Sie es später erneut."
+NoServersReceivedText="Es wurden leider keine gültigen Server für diese Spielart gefunden!"
+NoValidText="Unbekannter Fehler beim Pingen von Servern! Bitte Abfrage erneut starten ..."
+WindowName="Schnellbeitritt"
+DifficultyLevel.Caption="Schwierigkeit"
+DifficultyLevel.Hint="Wählen Sie den Schwierigkeitsgrad, nach dem gesucht werden soll. Wenn Sie ein UT2004-Neuling sind, sollten Sie die Einstellung "Anfänger" wählen."
+GameType.Caption="Spielart"
+GameType.Hint="Wählen Sie die Spielart, die Sie spielen möchten."
+QuickPlayClose.Caption="SCHL."
+QuickPlayClose.Hint="Dieses Fenster schließen."
+
+[UT2K4QuitPage]
+cNoButton.Caption="NEIN"
+cQuitDesc.Caption="Möchten Sie wirklich beenden?"
+cYesButton.Caption="JA"
+
+[UT2K4SPTab_Base]
+CaptionPlay="SPIELEN"
+CaptionLoad="LADEN"
+CaptionCreate="ERSTELLEN"
+CaptionDone="FERTIG"
+CaptionCancel="ABBR."
+CaptionBack="ZURÜCK"
+
+[UT2K4SPTab_DetailEnemies]
+StrengthLabels=("Schwach","Zäh","Stark","Göttergleich","Phantom")
+ColumnHeadings[0]="Name"
+ColumnHeadings[1]="Spiele"
+ColumnHeadings[2]="Gewonnen"
+ColumnHeadings[3]="Einstufung"
+ColumnHeadings[4]="Stärke"
+msgMembers="Mitglieder:"
+PanelCaption="Gegnerische Teams"
+SPDEcmFoes.ContextItems=("Teamdetails")
+SPPsbgFoesBG.Caption="Feindliche Teams"
+
+[UT2K4SPTab_DetailMatch]
+MatchTitleCaption="%gametype% in %map%"
+msgWon="Sie haben das %gametype%-Spiel gegen %enemies% Feind(e) in %map% in %gametime% Minuten gewonnen.|Sie erhalten %PrizeMoney%%BonusMoney%. %team_payment%"
+msgLost="Sie haben das %gametype%-Spiel gegen %enemies% Feind(e) in %map% nach %gametime% Minuten verloren. %BonusMoney%. %team_payment%"
+msgTeamPayment="Nach Bezahlung Ihrer Teamkollegen %balance_change%."
+msgInjury="Im letzten Spiel wurde %player% verletzt und seine Gesundheit auf %health%% reduziert. Die Behandlung der Verletzungen kostet %treatment%"
+msgSpecialAwards="%player% hat folgende Spezial-Auszeichnungen gewonnen:|        %awards%"
+msgBalanceChangeUp="Kontostand um %balance_absolute% erhöht"
+msgBalanceChangeDown="Kontostand um %balance_absolute% verringert"
+msgPayCheck="Zahlungs-Übersicht:"
+msgEarns="    %player% verdiente %payment%."
+msgBonusMoneyWon=", außerdem haben Sie %BonusMoney% an Bonusgeld gewonnen"
+msgBonusMoneyLost=", Sie haben jedoch %BonusMoney% an Bonusgeld gewonnen."
+msgBonusOverview="Sie haben die folgenden Boni gewonnen:"
+msgBonusOverviewItem="    %bonuscount% x %bonusname% %bonusmoney%"
+ColumnHeadings[0]="Name"
+ColumnHeadings[1]="Punkte"
+ColumnHeadings[2]="Kills"
+ColumnHeadings[3]="Tode"
+msgSelectChal="Herausforderung auswählen"
+PanelCaption="Letztes gespieltes Match"
+SPDMimgDetailsBg.Caption="Details"
+SPLcbChallenges.Hint="Ein anderes Team herausfordern."
+SPLsbgChallengeBg.Caption="Herausforderung"
+
+[UT2K4SPTab_DetailPhantom]
+VS="gegen"
+msgMatchInfo="%gametype% in %map%"
+msgGameTime="Spielzeit: %gametime% Minuten"
+msgScore="Ergebnis: %team1% - %team2%"
+PanelCaption="Andere Tournament-Spiele"
+SPDPcmMatches.ContextItems=("Teamdetails")
+SPDPimgMatchesBg.Caption="Andere Tournament-Spiele; gespielt während Ihres Spieles"
+
+[UT2K4SPTab_ExtraLadder]
+PanelCaption="Mehr"
+
+[UT2K4SPTab_Ladder]
+msgSelectChal="Herausforderung auswählen"
+PanelCaption="Mehr"
+SPLcbChallenges.Hint="Ein anderes Team herausfordern"
+SPLimgLadderBg.Caption="Kein Leiter ausgewählt"
+SPLsbgChallengeBg.Caption="Herausforderung"
+
+[UT2K4SPTab_LadderBase]
+PrizeMoney="Preisgeld:"
+EntryFee="Eintrittsgeld:"
+NotEnoughPlayers="Sie verfügen nicht über genügend gesunde Teamkameraden für dieses Spiel.|Es sind %teammates% gesunde Teamkameraden erforderlich und Sie haben nur %healthy%."
+BalanceLabel="Kontostand:"
+SPLbtnChallengeMap.Caption="ARENA ÄNDERN"
+SPLbtnChallengeMap.Hint="Wählen Sie eine alternative Arena für dieses Spiel aus."
+SPLlblNoMoney.Caption="Sie haben nicht genügend Geld, um an diesem Spiel teilzunehmen."
+SPPsbgDetail.Caption="Details"
+SPPsbgMatch.Caption="Spiel auswählen"
+
+[UT2K4SPTab_Profile]
+NoProfileSelected="Kein Profil ausgewählt ..."
+ProfileDetails="Team: %teamname%|Anführer: %playername%|Mitglieder: %teammembers%||Spielzeit: %totaltime% minutes|Kontostand: %credits%||Spiele: %matches%|Siege: %wins%|Kills: %kills%|Tode: %deaths%|Tore: %Goals%|%sprees%|%multikills%|%specialawards%"
+DeleteProfile="Sie sind dabei, das Profil für '%profile%' zu löschen.||Möchten Sie dieses Profil wirklich löschen?"
+OverloadProfile="Sie haben bereits ein Profil geladen.||Sind Sie sicher, dass Sie dieses Profil laden wollen?"
+CheatWarning="Warnung!|Dieses Profil stammt NICHT von Ihrem Rechner.|Mit diesem Profil können keine Spielfiguren freigeschaltet werden.|Möchten Sie dieses Profil laden?"
+SpreeLabel[0]="Blutrausch:"
+SpreeLabel[1]="Straßengemetzel:"
+SpreeLabel[2]="Dominiert:"
+SpreeLabel[3]="Nicht aufzuhalten:"
+SpreeLabel[4]="GÖTTERGLEICH:"
+SpreeLabel[5]="ABSOLUT KRANK:"
+MultiKillsLabel[0]="Doppel-Kill:"
+MultiKillsLabel[1]="Multi-Kill:"
+MultiKillsLabel[2]="Mega-Kill:"
+MultiKillsLabel[3]="Ultra-Kill:"
+MultiKillsLabel[4]="MONSTER-KILL:"
+MultiKillsLabel[5]="HAARSTRÄUBENDER KILL:"
+MultiKillsLabel[6]="HEILIGE SCHEISSE:"
+PanelCaption="Profil"
+SPPbtnCreate.Caption="NEU ERSTELLEN"
+SPPbtnCreate.Hint="Erstellen eines neuen Profils."
+SPPbtnDelete.Caption="LÖSCHEN"
+SPPbtnDelete.Hint="Löschen des ausgewählten Profils."
+SPPbtnHighScores.Caption="BESTE ERGEBNISSE"
+SPPbtnHighScores.Hint="Beste Ergebnisse anschauen."
+SPPlbProfiles.Hint="Auswählen eines Profils."
+SPPsbDetailsBg.Caption="Details"
+SPPsbProfiles.Caption="Profile"
+
+[UT2K4SPTab_ProfileNew]
+DefaultTeamName="Team"
+ErrorProfileExists="Profil mit dem Namen '%profile%' existiert bereits!"
+ErrorCantCreateProfile="Erstellung des Profils fehlgeschlagen."
+DifficultyLevels[0]="Anfänger"
+DifficultyLevels[1]="Normal"
+DifficultyLevels[2]="Erfahren"
+DifficultyLevels[3]="Begabt"
+DifficultyLevels[4]="Kenner"
+DifficultyLevels[5]="Meister"
+DifficultyLevels[6]="Unmenschlich"
+DifficultyLevels[7]="Göttergleich"
+PanelCaption="Neues Profil"
+SPNbtnNextSkin.Hint="Wählt ein neues Aussehen für Ihre Spielfigur aus."
+SPNbtnNextSponsor.Hint="Wählt ein neues Symbol für Ihr Team aus."
+SPNbtnPrevSkin.Hint="Wählt ein neues Aussehen für Ihre Spielfigur aus."
+SPNbtnPrevSponsor.Hint="Wählt ein neues Symbol für Ihr Team aus."
+SPNclPlayerSkins.Hint="Aussehen Ihrer Spielfigur; mit Pfeiltasten ändern."
+SPNilSponsor.Hint="Der Sponsor Ihres Teams; mit Pfeiltasten ändern."
+SPNimgEditBg.Caption="Profil"
+SPNimgPortraitBack.Caption="Hochformat"
+SPNimgSponsorBack.Caption="Teamsymbole"
+SPNmcDifficulty.Caption="Schwierigkeit:"
+SPNmcDifficulty.Hint="Anpassen Ihrer Herausforderung."
+SPNmeName.Caption="Spielername:"
+SPNmeName.Hint="Der Name Ihrer Spielfigur."
+SPNmeTeam.Caption="Teamname:"
+SPNmeTeam.Hint="Der Name Ihres Teams."
+
+[UT2K4SPTab_Qualification]
+EntryLabels=("Tutorial","Zweikampf","Zweikampf","Gnadenloses DeathMatch","Fünffach-DeathMatch","Stellen Sie Ihr Team zusammen, und besiegen Sie dann Ihren Gegner.")
+PanelCaption="Qualifikation"
+
+[UT2K4SPTab_TeamManagement]
+HealthHint="Die Gesundheit von %player% liegt bei %health%%."
+NameTitle="Name:"
+AggressionCaption="Aggressivität:"
+AccuracyCaption="Genauigkeit:"
+AgilityCaption="Wendigkeit:"
+TacticsCaption="Taktik:"
+FeeCaption="Gehalt:"
+HealthCaption="Gesundheit:"
+msgFirstDraftYourTeam="Stellen Sie zuerst Ihr Team zusammen."
+PanelCaption="Team-Management"
+SPLsbgFreeAgentBg.Caption="Freiwillige Spieler"
+SPLsbgSelectionBg.Caption="Auswahl"
+SPLsbgTeamBg.Caption="Ihr Team"
+SPPbtnAutoMake.Caption="AUTO-AUFFÜLLEN"
+SPPbtnAutoMake.Hint="Füllen Sie automatisch Ihr Team auf."
+SPPbtnFire.Caption="ENTLASSEN"
+SPPbtnFire.Hint="Den Spieler feuern."
+SPPbtnHire.Caption="ANHEUERN"
+SPPbtnHire.Hint="Den gewählten Spieler anheuern."
+SPPbtnTreat.Caption="VERLETZ. BEH."
+SPPbtnTreat.Hint="Die Verletzungen des aktuellen Spielers behandeln."
+SPPbtnTreatAll.Caption="ALLE BEHANDELN"
+SPPbtnTreatAll.Hint="Die Verletzungen aller Spieler behandeln."
+SPTMedBalance.Caption="Kontostand:"
+
+[UT2K4SPTab_TeamQualification]
+EntryLabels=("Erste Qualifikation","Zweite Runde","Dritte Runde","Letzte Qualifikationsrunde")
+PanelCaption="Team-Qualifikation"
+
+[UT2K4SPTab_Tutorials]
+StartTutorial="Klicken Sie, um ein Tutorial aufzurufen für"
+PanelCaption="Tutorial"
+
+[UT2K4SP_CGBRTrade]
+FullTeamWarning="Ihr Team ist jedoch bereits vollständig. Sie müssten zuerst einen Ihrer Teamkameraden entlassen. Sie erhalten eine Rückerstattung für den Verlust des ausgewählten Spielers. "
+FireInfo="Sie haben sich entschieden, %fireplayer% zu entlassen. Die Rückerstattung beträgt %refund%."
+Message="Sie haben die Herausforderung gegen %enemyteam% gewonnen. %player% wird nun Teil Ihres Teams."
+CGBbtnNextChar.Hint="Wählen Sie den Mitspieler aus, den Sie entlassen möchten."
+CGBbtnPrevChar.Hint="Wählen Sie den Mitspieler aus, den Sie entlassen möchten."
+CGBclSelChar.Hint="Sie werden diesen Mitspieler entlassen."
+
+[UT2K4SP_CGBRUnTrade]
+Message="Da Sie gegen %enemyteam% verloren haben, müssen Sie Ihren Mitspieler %player% abtreten.|%player% gehört nun zu %enemyteam%."
+SPClblTitle.Caption="Blutige Rituale"
+SPMbtnOk.Caption="OK"
+
+[UT2K4SP_CGBloodRites]
+PenaltyWarning="Wenn Sie ablehnen, wird eine Strafgebühr von %cancelpenalty% fällig.||Sicher, dass Sie ablehnen wollen?"
+SelectAMap="Wählen Sie einen Bereich für die Herausforderung aus."
+msgChallenge="Sie haben sich entschieden, mit %enemyteam% um ihr Teammitglied %selectedchar% zu spielen. Wenn Sie mit %enemyteam% um ein Teammitglied spielen möchten, müssen Sie %entryfee% bezahlen. Das %gametype%-Spiel wird in %map% stattfinden."
+msgChallenged="Sie wurden von %enemyteam% herausgefordert. Sie wollen mit Ihnen um Ihr Teammitglied %selectedchar% spielen. Das %gametype%-Spiel wird in %map% stattfinden.|Wenn Sie ablehnen, müssen Sie ihnen %penalty% bezahlen."
+msgInstaGib="InstaGib"
+CantAffordCancel="Sie können es sich nicht leisten, diese Herausforderung abzulehnen.|Sie müssten %cancelpenalty% bezahlen, um abzulehnen, aber Sie haben nur %balance%."
+CGBbtnNextChar.Hint="Wählen Sie den gewünschten Mitspieler aus."
+CGBbtnPrevChar.Hint="Wählen Sie den gewünschten Mitspieler aus."
+CGBclSelChar.Hint="Spielen Sie um diesen Spieler."
+CGBlblSelChar.Caption="Teammitglied"
+NoPreview.Caption="Keine Vorschau verfügbar"
+SPCbtnCancel.Caption="ABLEHNEN"
+SPCcbEnemyTeam.Caption="Ein anderes Team herausfordern:"
+SPCcbEnemyTeam.Hint="Fordern Sie dieses Team zu einem Match heraus."
+SPCcbInstaGib.Caption="InstaGib-Spiel"
+SPCcbInstaGib.Hint="Das ist ein InstaGib-Match."
+SPClblTitle.Caption="Blutige Rituale"
+SPMbtnOk.Caption="AKZEPTIEREN"
+
+[UT2K4SP_CGManoEMano]
+PenaltyWarning="Wenn Sie ablehnen, wird eine Strafgebühr von %cancelpenalty% fällig.||Sicher, dass Sie ablehnen wollen?"
+YouveBeenChallenged="Sie wurden herausgefordert!"
+SelectAMap="Wählen Sie einen Bereich für die Herausforderung aus."
+msgChallenge="Sie haben sich entschieden, ein %gametype%-Spiel in %map% durchzuführen. Sie werden gegen %teamleader% von %teamname% antreten.|Sie müssen %entryfee% bezahlen, um an dieser Herausforderung teilzunehmen. Wenn Sie gewinnen, erhalten Sie %prizemoney%."
+msgChallenged="Sie wurden von %teamname% zu einem Anführerkampf herausgefordert. Sie werden gegen %teamleader% antreten.|Wenn Sie gewinnen, erhalten Sie %prizemoney%, aber Sie müssen %entryfee% bezahlen, um an dieser Herausforderung teilnehmen zu können.|Sie werden ein %gametype%-Spiel in %map% durchführen.|Wenn Sie das Match ablehnen, müssen Sie %penalty% bezahlen."
+NotEnoughCash="Sie haben nicht genügend Geld, um den Mindesteinsatz für diese Herausforderung zu bezahlen."
+msgMinMaxBet="Minimum: %min%, Maximum: %max%"
+NoPreview.Caption="Keine Vorschau verfügbar."
+SPCbtnCancel.Caption="ABLEHNEN"
+SPCcbEnemyTeam.Caption="Ein anderes Team herausfordern:"
+SPCcbEnemyTeam.Hint="Fordern Sie dieses Team zu einem Match heraus."
+SPClblTitle.Caption="Anführerkampf"
+SPCneBet.Caption="Einsatz:"
+SPCneBet.Hint="Einsatz für diese Herausforderung"
+SPMbtnOk.Caption="AKZEPTIEREN"
+
+[UT2K4SP_Challenge]
+ChallengeGameNames=("Team DeathMatch","1-gegen-1 DeathMatch","Mutant","InstaGib Team DeathMatch")
+PenaltyWarning="Wenn Sie ablehnen, wird eine Strafgebühr von %cancelpenalty% fällig.||Sicher, dass Sie ablehnen wollen?"
+ChallengeDescription="Für diese Herausforderung wird eine Eintrittsgebühr von %entryfee% fällig.|Bei Gewinn des Spiels können Sie ein Preisgeld von %PrizeMoney% gewinnen.|Ihr aktueller Kontostand: %balance%."
+ChallengedDescription="Sie wurden von %enemyteam% herausgefordert.|Bei einem Sieg können Sie %PrizeMoney% gewinnen.|Wenn Sie die Herausforderung nicht annehmen, müssen Sie %cancelfee% an das gegnerische Team zahlen.|Ihr aktueller Kontostand: %balance%."
+NotEnoughCash="Sie verfügen nicht über ausreichend Geld, um ein anderes Team herauszufordern."
+YouveBeenChallenged="Sie wurden herausgefordert!"
+PlayTitle="Spielen"
+NoPreview.Caption="Keine Vorschau verfügbar"
+SPCbtnCancel.Caption="ABLEHNEN"
+SPCcbEnemyTeam.Caption="Ein anderes Team herausfordern:"
+SPCcbEnemyTeam.Hint="Fordern Sie dieses Team zu einem Match heraus."
+SPCcbGameType.Hint="Spiel auswählen"
+SPClblTitle.Caption="Herausforderung"
+SPMbtnOk.Caption="AKZEPTIEREN"
+
+[UT2K4SP_Details]
+PageCaption="Tournament-Detailinformationen"
+ProfileExported="Profildetails exportiert nach:|%filename%"
+PanelCaption=("Letztes gespieltes Match","Gegnerische Teams","Andere Tournament-Spiele")
+PanelHint=("Überblick über die zuletzt durchgeführten Spiele","Überblick über die Teams, gegen die Sie gespielt haben","Übersicht über Matches anderer Teams")
+SPDbtnClose.Caption="SCHL."
+SPDbtnClose.Hint="Zurück zur Leiter."
+SPDbtnExport.Caption="EXPORT"
+SPDbtnExport.Hint="Details in eine Datei exportieren."
+SPDcbAlwaysShow.Caption="Nach dem Spiel zeigen"
+
+[UT2K4SP_DetailsTeam]
+SPDTbtnOk.Caption="SCHL."
+
+[UT2K4SP_HighScores]
+ColumnHeaders[0]="Name"
+ColumnHeaders[1]="Kontostand"
+ColumnHeaders[2]="Spiele"
+ColumnHeaders[3]="Siege"
+ClickToExit="K L I C K E N   Z U M   B E E N D E N"
+SPMbtnExport.Caption="IN DATEI SPEICHERN"
+
+[UT2K4SP_Injury]
+SPLlblMessage.Caption="%player% ist im letzten Spiel verletzt worden.|Die Gesundheit von %player% ist auf %health%% gefallen, die Behandlung seiner Verletzungen kostet %treatment%.|Statistik: %balance%"
+SPLlblTitle.Caption="Verletzung"
+SPMbtnCancel.Caption="ABBR."
+SPMbtnTreat.Caption="JETZT BEHANDELN"
+
+[UT2K4SP_LadderLoading]
+LoadingMessage="Ladevorgang ..."
+StatNames[0]="GG"
+StatNames[1]="Genauigkeit"
+StatNames[2]="Aggressivität"
+StatNames[3]="Wendigkeit"
+StatNames[4]="Taktik"
+
+[UT2K4SP_Main]
+PageCaption="Tournament"
+LoadedPageCaption="s Tournament"
+LadderCompleteMsg="fertig"
+msgFullTeamRequired="Für dieses Spiel ist ein vollständiges Team erforderlich."
+DonationMsg=("Sie wären fast pleite gegangen, aber ein anonymer Wohltäter spendete einige Credits, so dass Sie Ihr Tournament fortsetzen können.","Ein Fan rettete Sie vor dem Bankrott gehen, Sie können Ihr Tournament jetzt fortsetzen.")
+PanelCaption=("Profil","Neues Profil","Tutorials","Qualifikation","Team-Qualifikation","Leiter","Team-Management","Mehr")
+PanelHint=("Verwalten Sie Ihre Profile","Erstellen Sie ein neues Profil","Spielarten-Tutorials","Qualifizieren Sie sich, um beim Tournament teilzunehmen","Qualifizieren Sie Ihr Team, um beim Tournament teilzunehmen","Die Tournament-Leiter","Verwalten Sie Ihr Team","Zusätzliche Leitern")
+SPbtnBack.Caption="ZURÜCK"
+SPbtnBack.Hint="Zum vorherigen Menü."
+SPbtnDebugExec.Caption="AUSFÜHR."
+SPbtnDebugExec.Hint="Besonderes Ereignis ausführen."
+SPbtnDetails.Caption="DETAILS"
+SPbtnDetails.Hint="Profildetails anzeigen."
+SPbtnPlay.Caption="SPIELEN"
+SPbtnPlay.Hint="Dieses Turnier fortsetzen."
+
+[UT2K4SP_MapChallenge]
+ChallengeDesc="Die aktuelle Arena für dieses Spiel ist %curmap%.|Sie können diese Arena in %altmap% umändern, wenn Sie %fee% bezahlen."
+SPCbtnCancel.Caption="ABBR."
+SPClblTitle.Caption="Arena ändern"
+SPMbtnOk.Caption="ÄNDERN"
+
+[UT2K4SP_Message]
+Messages[0]="Das Unreal Tournament der Liandri Corporation geht jetzt ins zwölfte Jahr als gesetzlich anerkannter Wettbewerb. In diesem Jahr wird das Turnier mit besonderer Spannung erwartet, da sich als Mannschaftskapitäne hochkarätige Champions angekündigt haben, unter anderem Malcolm, Gorge und Xan Kriegor, der lange Jahre nicht dabei gewesen ist, und auch ein gefährliches Team aus dem Skaarj-Imperium. Bevor Sie aber in das Turnier einsteigen können, müssen Sie sich in den Qualifikationsrunden gegen die anderen Teams beweisen."
+Messages[1]="Ihr Erfolg in den Vorrunden hat Ihren Sponsor überzeugt. Er wird ein Team mit Ihnen als Kapitän gründen. Wenn Sie Ihr Team zusammengestellt haben, müssen Sie ein Jeder-gegen-jeden-DeathMatch gewinnen, um Ihre Führungsqualitäten unter Beweis zu stellen."
+Messages[2]="Das Team hat Sie als Kapitän angenommen. Um in das Turnier zu gelangen, müssen Sie nun nur noch die Qualifikationsrunden bestehen. Sie treten gegen Sun Blade, Super Nova und das neue Goliath-Team der Juggernauten an, die sich ebenfalls für das Turnier qualifizieren wollen."
+Messages[3]="Ihr Team hat sich für das Turnier qualifiziert. Um sich für das Turnierfinale zu qualifizieren, müssen Sie alle vier Leitern erklimmen. Zu Beginn ist für Sie nur die Double Domination-Leiter zugänglich."
+Messages[4]="Nach Ihrem Erfolg auf der Double Domination-Leiter ist jetzt die Capture the Flag-Leiter für Sie zugänglich."
+Messages[5]="Nach Ihrem Erfolg auf der Capture the Flag-Leiter ist jetzt die Bombing Run-Leiter für Sie zugänglich."
+Messages[6]="Nach Ihrem Erfolg auf der Bombing Run-Leiter ist jetzt die Assault-Leiter für Sie zugänglich."
+Messages[7]="Die Skaarj haben alle anderen Gegner auf ihrem Weg ins diesjährige Finale niedergerungen. Nach der überraschenden Niederlage auf Ihrer Leiter verstärken sie ihr Team mit ihrem Clan Lord, der stärker ist als alle anderen Skaarj."
+Messages[8]="Malcolm ist wieder da. Thunder Crash haben alle anderen Gegner ohne ihren großen Champion besiegt. Jetzt, nach seiner Rückkehr, scheint ihnen der Turniersieg schon so gut wie sicher."
+Messages[9]="The Corrupt haben getan, wie ihr Chef Xan Kriegor ihnen geheißen hat, und sind ins Turnierfinale vorgerückt. Jetzt greift Xan aktiv ins Geschehen ein und Ihr letzter Sieg gegen The Corrupt könnte tatsächlich der letzte gewesen sein."
+Messages[10]="Sie haben gewonnen! Heute werden auch Sie in das Pantheon der unsterblichen Turnierchampions einziehen."
+messageslength[0]="6.4119|14.8049|99"
+messageslength[1]="6.4471|99"
+messageslength[2]="2.6257|5.7838|99"
+messageslength[3]="2.9667|5.1766|99"
+messageslength[4]="99"
+messageslength[5]="99"
+messageslength[6]="99"
+messageslength[7]="4.7696|7.5625|99"
+messageslength[8]="3.7642|3.9952|99"
+messageslength[9]="5.511|99"
+messageslength[10]="99"
+SPMbtnClock.Caption="Uhr"
+SPMbtnOk.Caption="OK"
+
+[UT2K4SP_PictureMessage]
+SPLlblTitle.Caption="kein Titel"
+SPMbtnOk.Caption="OK"
+
+[UT2K4SP_TeamRoles]
+InactiveMsg="INAKTIV"
+MinimalFeeCaption="Minimalgehalt:|%fee%"
+InjuredCaption="VERLETZT"
+AggressionCaption="Aggressivität:"
+AccuracyCaption="Genauigkeit:"
+AgilityCaption="Wendigkeit:"
+TacticsCaption="Taktik:"
+SPMbtnOk.Caption="OK"
+SPTbtnCancel.Caption="ABBR."
+SPTlblBalance.Caption="Kontostand: %balance%"
+SPTlblInfo.Caption="%gametype% in %map% mit %teammates% Teamkollegen"
+SPTlblNoMoney.Caption="Sie haben nicht genug Geld, um das Minimalgehalt des Teams zu bezahlen"
+SPTlblTitle.Caption="Spielplan des Teams"
+
+[UT2K4ServerInfo]
+PanelCaption=("NDT","Regeln","Maps")
+PanelHint=("Nachricht des Tages","Spielregeln","Maprotation")
+ServerBackButton.Caption="Schließ."
+ServerBackButton.Hint="Dieses Menü schließen."
+
+[UT2K4ServerLoading]
+OpLoading.Text="... LÄDT"
+
+[UT2K4SettingsPage]
+InvalidStats="Ungültige Statistikinfo."
+PanelCaption=("Anzeige","Audio","Spieler","Spiel","Eingabe","Waffen","HUD")
+PanelHint=("Wählen Sie Ihre Auflösung aus, oder ändern Sie Ihre Anzeigen- und Detaileinstellungen ...","Spielen Sie mit den akustischen Optionen ...","Konfigurieren Sie Ihren UT2004-Avatar ...","Konfigurieren Sie Spiel- und Netzwerkeinstellungen ...","Konfigurieren Sie verschiedene Eingabeoptionen ...","Passen Sie Ihre Waffenprioritäten und Einstellungen an ...","Passen Sie Ihr HUD an ...")
+SettingHeader.Caption="Einstellungen"
+
+[UT2K4Settings_Footer]
+BackB.Caption="ZURÜCK"
+BackB.Hint="Zum vorherigen Menü zurückkehren."
+DefaultB.Caption="STANDARD"
+DefaultB.Hint="Alle Einstellungen auf dieser Seite auf die Standardwerte zurücksetzen."
+
+[UT2K4StatsPrompt]
+NoButton.Caption="NEIN"
+PromptDesc.Caption="Sie können diesem Server nur beitreten, wenn Sie "Statist. aufz." aktivieren und einen eindeutigen Statist.-Benutzernamen und ein Passwort festlegen. Momentan können Sie nur eine Verbindung zu Servern herstellen, bei denen Statistiken DEAKTIVIERT sind.||Möchten Sie jetzt Ihren Statist.-Benutzernamen und das Passwort konfigurieren?"
+PromptHeader.Caption="Auf diesem Server sind UT2003 Statist. AKTIVIERT!"
+YesButton.Caption="JA"
+
+[UT2K4Tab_AdminPlayerList]
+AdminPlayerBan.Caption="Sperren"
+AdminPlayerBan.Hint="Diesen Spieler sperren."
+AdminPlayerKick.Caption="Rauswerfen"
+AdminPlayerKick.Hint="Diesen Spieler rauswerfen."
+
+[UT2K4Tab_AudioSettings]
+AudioModes[0]="Sicherer Modus"
+AudioModes[1]="3D-Audio"
+AudioModes[2]="H/W 3D-Audio"
+AudioModes[3]="H/W 3D + EAX"
+VoiceModes[0]="Alle"
+VoiceModes[1]="Kein auto. Sp."
+VoiceModes[2]="Kein Spott"
+VoiceModes[3]="Keine"
+AnnounceModes[0]="Keine"
+AnnounceModes[1]="Minimal"
+AnnounceModes[2]="Alle"
+PanelCaption="Audio"
+AudioAnnounce.Caption="Ankündigungen"
+AudioAnnounce.Hint="Passt die Menge an Ankündigungen im Spiel an."
+AudioAnnouncerVolume.Caption="Lautstärke"
+AudioAnnouncerVolume.Hint="Anpassen der Lautstärke aller Ansagernachrichten im Spiel."
+AudioAutoTaunt.Caption="Automatischer Spott"
+AudioAutoTaunt.Hint="Ist diese Option aktiviert, verspottet Ihre Spielfigur automatisch die Gegner."
+AudioBK1.Caption="Soundeffekte"
+AudioBK2.Caption="Ansager"
+AudioBK3.Caption="Text-zu-Sprache"
+AudioDefaultDriver.Caption="Systemtreiber"
+AudioDefaultDriver.Hint="Auf dem Rechner installierte OpenAL-Treiber verwenden."
+AudioEffectsVolumeSlider.Caption="Effektlautstärke"
+AudioEffectsVolumeSlider.Hint="Anpassen der Lautstärke aller Soundeffekte im Spiel."
+AudioEnableTTS.Caption="Im Spiel aktivieren"
+AudioEnableTTS.Hint="Aktiviert die Verarbeitung von Text-zu-Sprache-Nachrichten."
+AudioLowDetail.Caption="Reduzierter Sound"
+AudioLowDetail.Hint="Verringert die Soundqualität."
+AudioMatureTaunts.Caption="Derber Spott"
+AudioMatureTaunts.Hint="Aktiviert derbe Kommentare."
+AudioMessageBeep.Caption="Meldungssignalton"
+AudioMessageBeep.Hint="Aktiviert einen Signalton, der zu hören ist, wenn eine Textnachricht von anderen Spielern eingeht."
+AudioMode.Caption="Audio-Modus"
+AudioMode.Hint="Ändert den Modus des Audio-Systems."
+AudioMusicVolume.Caption="Musiklautstärke"
+AudioMusicVolume.Hint="Anpassen der Lautstärke der Hintergrundmusik."
+AudioPlayVoices.Caption="Sprache wiedergeben"
+AudioPlayVoices.Hint="Bestimmt die Sprachmitteilungsarten, die wiedergegeben werden."
+AudioReverseStereo.Caption="Umgekehrtes Stereo"
+AudioReverseStereo.Hint="Vertauscht den linken Audio-Kanal mit dem rechten."
+AudioRewardAnnouncer.Caption="Belohnungsansager"
+AudioRewardAnnouncer.Hint="Jeder Tournament-Spieler steht mit einem Belohnungsansager in Verbindung, der einen informiert, wenn man außergewöhnliche Kampffähigkeiten demonstriert hat."
+AudioStatusAnnouncer.Caption="Statusansager"
+AudioStatusAnnouncer.Hint="Der Statusansager leitet wichtige Informationen zum Spiel an Tournament-Spieler und -Zuschauer weiter."
+EnableVoiceChat.Caption="Sprach-Chat"
+EnableVoiceChat.Hint="Aktiviert Sprach-Chat-System während Online-Spielen."
+IRCTextToSpeech.Caption="Im IRC aktivieren"
+IRCTextToSpeech.Hint="Aktiviert Text-zu-Sprache-Verarbeitung beim IRC-Client (nur Nachrichten von der aktiven Registerkarte werden verarbeitet)."
+OnlyTeamTTSCheck.Caption="Nur Teammitteilungen"
+OnlyTeamTTSCheck.Hint="Bei Aktivierung werden nur Teammitteilungen gesprochen, sofern das Match oder die Runde nicht vorbei ist."
+VoiceOptions.ButtonCaption="konfig."
+VoiceOptions.MenuTitle="Sprach-Chat-Optionen"
+VoiceOptions.Caption="Sprach-Optionen"
+
+[UT2K4Tab_BotConfigBase]
+DMCaption="DeathMatch-Team"
+RedCaption="Team ROT"
+BotConfigBlueBackground.Caption="Team BLAU"
+BotConfigBlueList.Hint="Dies sind die Bots, die beim BLAUEM Team mitspielen werden."
+BotConfigCharList.Hint="Um einen Bot hinzuzufügen, ziehen Sie das Portrait zur Liste des gewünschten Teams, oder verwenden Sie die Pfeiltasten oben."
+BotConfigMainBG.Caption="Ziehen Sie eine Spielfigur zu ihrem jeweiligen Team"
+BotConfigRedBackground.Caption="Team ROT"
+BotConfigRedList.Hint="Dies sind die Bots, die beim ROTEM Team mitspielen werden."
+IABotConfigConfig.Caption="Info"
+IABotConfigConfig.Hint="Detaillierte Statistiken für diesen Bot anzeigen."
+IABotConfigDoConfig.Caption="Bearbeiten"
+IABotConfigDoConfig.Hint="Ändern der KI-Eigenschaften dieses Bots."
+
+[UT2K4Tab_DetailSettings]
+BitDepthText[0]="16-Bit"
+BitDepthText[1]="32-Bit"
+DetailLevels[0]="Am niedrigs."
+DetailLevels[1]="Sehr niedrig"
+DetailLevels[2]="Niedriger"
+DetailLevels[3]="Niedrig"
+DetailLevels[4]="Normal"
+DetailLevels[5]="Hoch"
+DetailLevels[6]="Höher"
+DetailLevels[7]="Sehr hoch"
+DetailLevels[8]="Am höchsten"
+ShadowOptions[0]="Keine"
+ShadowOptions[1]="Blob"
+ShadowOptions[2]="Komplett"
+RenderModeText[0]="Direct 3D"
+RenderModeText[1]="Software"
+RelaunchQuestion="Der Grafikmodus wurde erfolgreich geändert. Er wird jedoch erst beim nächsten Mal aktiv, wenn das Spiel gestartet wird. Möchten Sie UT2004 jetzt neu starten?"
+InvalidSelectionText="Die von Ihnen gewählte Auflösung ist mit Ihrem Computer nicht kompatibel. Um die maximale Stabilität des Spiels zu gewährleisten, wählen Sie bitte eine kompatible Auflösung aus dem Menü "Auflösung"."
+PanelCaption="Darstellung"
+BrightnessSlider.Caption="Helligkeit"
+BrightnessSlider.Hint="Mit dem Schieberegler kann die Helligkeit Ihrem Monitor angepasst werden."
+ContrastSlider.Caption="Kontrast"
+ContrastSlider.Hint="Mit dem Schieberegler kann der Kontrast Ihrem Monitor angepasst werden."
+DetailCharacterDetail.Caption="Spielfigurdetail"
+DetailCharacterDetail.Hint="Bestimmt, wie viele Spielfigurdetails angezeigt werden."
+DetailCharacterShadows.Caption="Spielfigurschatten"
+DetailCharacterShadows.Hint="Passen Sie die Detailstufe der Spielfigurschatten an. 'Blob' bzw. 'Deaktiviert' werden für PCs mit niedriger Performance empfohlen."
+DetailCoronas.Caption="Koronas aktivieren"
+DetailCoronas.Hint="Aktiviert Koronas."
+DetailDecalStay.Caption="Spurdauer"
+DetailDecalStay.Hint="Bestimmt, wie lange Waffenspuren bleiben."
+DetailDecals.Caption="Spuren"
+DetailDecals.Hint="Aktiviert Spuren, die durch Waffen verursacht wurden."
+DetailDecoLayers.Caption="Blätter und Gräser"
+DetailDecoLayers.Hint="Aktiviert Gras und anderes schmückendes Beiwerk."
+DetailDetailTextures.Caption="Detailtexturen"
+DetailDetailTextures.Hint="Aktiviert detaillierte Texturen."
+DetailDynamicLighting.Caption="Dynamische Beleuchtung"
+DetailDynamicLighting.Hint="Aktiviert dynamische Lichter."
+DetailPhysics.Caption="Physikdetails"
+DetailPhysics.Hint="Bestimmt den Simulationsdetailgrad der Physik-Engine."
+DetailProjectors.Caption="Projektoren"
+DetailProjectors.Hint="Aktiviert Projektoren."
+DetailTextureDetail.Caption="Texturdetails"
+DetailTextureDetail.Hint="Bestimmt, wie viele Details der Welt angezeigt werden."
+DetailTrilinear.Caption="Trilineare Filterung"
+DetailTrilinear.Hint="Aktiviert trilineare Filterung. Empfohlen für schnelle PCs."
+DetailWorldDetail.Caption="Weltdetails"
+DetailWorldDetail.Hint="Bestimmt den Detailgrad, der für optionale Geometrie und Effekte angewandt wird."
+DistanceLODSlider.Caption="Nebeldistanz"
+DistanceLODSlider.Hint="Reduzieren Sie die Nebeldistanz, um die Performance zu verbessern."
+GammaSlider.Caption="Gamma"
+GammaSlider.Hint="Mit dem Schieberegler kann die Gamma-Einstellung Ihrem Monitor angepasst werden."
+MeshLOD.Caption="Dynamisches Mesh"
+MeshLOD.Hint="Stellt ein, wie stark Spielfigur- und Fahrzeugdetails bei einer bestimmten Distanz reduziert werden. Höhere Einstellungen erhöhen die Distanz, bei der Details verringert werden, was möglicherweise visuelle Details auf Kosten der Performance verbessert."
+RenderDeviceCombo.Caption="Render-Methode"
+RenderDeviceCombo.Hint="Andere Render-Methoden können u.U. eine bessere Performance auf Ihrem Rechner ermöglichen."
+VideoColorDepth.Caption="Farbtiefe"
+VideoColorDepth.Hint="Auswählen der Höchstzahl an Farben, die gleichzeitig dargestellt werden."
+VideoFullScreen.Caption="Vollbild"
+VideoFullScreen.Hint="Aktivieren Sie dieses Feld, um das Spiel im Vollbildmodus auszuführen."
+VideoResolution.Caption="Auflösung"
+VideoResolution.Hint="Auswählen der Grafik-Auflösung, mit der Sie spielen möchten."
+WeatherEffects.Caption="Wettereffekte"
+WeatherEffects.Hint="Aktiviert Wettereffekte wie z.B. Regentropfen und Blitze."
+sbSection1.Caption="Auflösung"
+sbSection2.Caption="Optionen"
+sbSection3.Caption="Gamma Test"
+
+[UT2K4Tab_GameSettings]
+NetSpeedText[0]="Modem"
+NetSpeedText[1]="ISDN"
+NetSpeedText[2]="Kabel/ADSL"
+NetSpeedText[3]="LAN/T1"
+StatsURL="http://ut2003stats.epicgames.com/"
+EpicIDMsg="Ihre eindeutige ID ist:"
+PanelCaption="Spiel"
+EpicID.Caption="Ihre eindeutige ID ist:"
+GameAutoAim.Caption="Autom. Zielen"
+GameAutoAim.Hint="Bei Auswahl dieser Option wird die computergestützte Zielerfassung in Einzelspieler-Matches aktiviert."
+GameBK1.Caption="Spieleinstellungen"
+GameBK2.Caption="Netzwerk"
+GameBK3.Caption="Statistik"
+GameBK4.Caption="Sonstiges"
+GameBK5.Caption="Eindeutige ID / Nachrichten"
+GameClassicTrans.Caption="Hohe Scheiben-Flugbahn"
+GameClassicTrans.Hint="Aktiviert den Einsatz traditioneller Translocator-Abschüsse mit hoher Flugbahn."
+GameDodging.Caption="Ausweichen"
+GameDodging.Hint="Schalten Sie diese Option aus, um spezielle Ausweichbewegungen zu deaktivieren."
+GameGoreLevel.Caption="Blut-Level"
+GameGoreLevel.Hint="Stellen Sie ein, wie viele Bluteffekte im Spiel zu sehen sind."
+GameWeaponBob.Caption="Waffenwippen"
+GameWeaponBob.Hint="Verhindern Sie, dass die Waffe beim Bewegen nach oben und unten wippt."
+InvalidWarning.Caption="Ihr Statistik-Benutzername oder -Kennwort ist ungültig. Ihr Benutzername muss mindestens 4 Zeichen und das Kennwort 6 Zeichen lang sein."
+LandShaking.Caption="Landungs-Rütteln"
+LandShaking.Hint="Aktiviert Rütteln der Anzeige bei der Landung."
+NetworkDynamicNetspeed.Caption="Dynamische Netzgeschwindigkeit"
+NetworkDynamicNetspeed.Hint="Die Netzgeschwindigkeit wird automatisch an die Geschwindigkeit Ihrer Netzwerkverbindung angepasst."
+OnlineNetSpeed.Caption="Verbindung"
+OnlineNetSpeed.Hint="Wie schnell ist Ihre Verbindung?"
+OnlineStatsName.Caption="Benutzername"
+OnlineStatsName.Hint="Wählen Sie einen Namen aus, der für die UT-Statistiken verwendet werden soll."
+OnlineStatsPW.Caption="Kennwort"
+OnlineStatsPW.Hint="Wählen Sie ein Kennwort aus, das Ihre UT-Statistiken sichert."
+OnlineTrackStats.Caption="Statist. aufz."
+OnlineTrackStats.Hint="Aktivieren Sie diese Option, um am Online-Rangsystem teilzunehmen."
+PrecacheSkins.Caption="Alle Spieler-Skins vorher laden"
+PrecacheSkins.Hint="Alle Spieler-Skins werden vor jedem Level geladen. Dadurch erhöht sich die Ladezeit der Level, aber es treten weniger Schwierigkeiten bei Netzwerk-Spielen auf. Mindestens 512 MB Systemspeicher erforderlich."
+SpeechRecognition.Caption="Spracherkennung"
+SpeechRecognition.Hint="Spracherkennung aktivieren."
+ViewOnlineStats.Caption="Statist. anz."
+ViewOnlineStats.Hint="Klicken Sie hierauf, um die UT-Statistik-Website aufzurufen."
+WeaponAutoSwitch.Caption="Waffenwechsel beim Aufs."
+WeaponAutoSwitch.Hint="Wechselt automatisch die Waffen, wenn Sie eine bessere aufsammeln."
+
+[UT2K4Tab_GameTypeBase]
+EpicGameCaption="Standard-Spielarten"
+CustomGameCaption="Benutzerdefinierte Spielart"
+GameTypeLeftGroup.Caption="Verfügbare Spielarten"
+GameTypeRightGroup.Caption="Vorschau"
+NoPreview.Caption="Keine Vorschau verfügbar"
+
+[UT2K4Tab_HudSettings]
+PanelCaption="HUD"
+CustomHUDButton.Caption="Konfigurier."
+CustomHUDButton.Hint="Ruft das benutzerdefinierte HUD-Konfigurationsmenü für die angegebene Spielart auf."
+CustomHUDColor.Caption="Benutzerdefinierte HUD-Farbe"
+CustomHUDColor.Hint="Konfigurierte HUD-Farbe anstelle von Team-Farben verwenden."
+CustomHUDSelect.Hint="Um spezielle Einstellungen für eine bestimmte Spielart zu konfigurieren, wählen Sie die Spielart aus der Liste aus und klicken Sie dann auf die Schaltfläche, um das Menü zu öffnen."
+GameBK.Caption="Optionen"
+GameBK1.Caption="Darstellung"
+GameDeathMsgs.Caption="Keine Konsolen-Todesmeld."
+GameDeathMsgs.Hint="Abschalten der Mitteilung von Todesmeldungen in der Konsole."
+GameHUDShowVCPortraits.Caption="VoIP-Portraits anzeigen"
+GameHUDShowVCPortraits.Hint="Zeigt Ihnen bei Erhalt von Sprach-Chat-Mitteilungen das Portrait des jeweiligen Spielers."
+GameHudMessageCount.Caption="Max. Chat-Zeilen"
+GameHudMessageCount.Hint="Anzahl der Zeilen, die gleichzeitig im Chat dargestellt werden."
+GameHudMessageOffset.Caption="Mitteilungs-Schriftabstand"
+GameHudMessageOffset.Hint="Anpassen der Größe von Spielmitteilungen."
+GameHudMessageScale.Caption="Chat-Schriftgröße"
+GameHudMessageScale.Hint="Anpassen der Größe von Chat-Mitteilungen."
+GameHudOpacity.Caption="Hud-Transparenz"
+GameHudOpacity.Hint="Anpassen der Transparenz des HUD."
+GameHudScale.Caption="Hud-Skalierung"
+GameHudScale.Hint="Anpassen der Größe des HUD."
+GameHudShowEnemyNames.Caption="Namen der Feinde anzeigen"
+GameHudShowEnemyNames.Hint="Zeigt die Namen der Feinde über ihrem Kopf an."
+GameHudShowPersonalInfo.Caption="Persönliche Infos anzeigen"
+GameHudShowPersonalInfo.Hint="Gesundheit und Panzerung im HUD anzeigen."
+GameHudShowPortraits.Caption="Portraits anzeigen"
+GameHudShowPortraits.Hint="Spielerportraits beim Empfang von Textnachrichten anzeigen."
+GameHudShowScore.Caption="Punktestand anzeigen"
+GameHudShowScore.Hint="Auswählen, um Punktestände im HUD anzuzeigen."
+GameHudShowWeaponBar.Caption="Waffenleiste"
+GameHudShowWeaponBar.Hint="Bestimmen Sie, ob die Waffenleiste im HUD erscheint."
+GameHudShowWeaponInfo.Caption="Waffeninfos anzeigen"
+GameHudShowWeaponInfo.Hint="Munitionsstatus der aktuellen Waffe anzeigen."
+GameHudVisible.Caption="HUD ausblenden"
+GameHudVisible.Hint="HUD während des Spiels ausblenden."
+HudColorB.Caption="Blau:"
+HudColorB.Hint="Anpassen des Blau-Anteils im HUD."
+HudColorG.Caption="Grün:"
+HudColorG.Hint="Anpassen des Grün-Anteils im HUD."
+HudColorR.Caption="Rot:"
+HudColorR.Hint="Anpassen des Rot-Anteils im HUD."
+
+[UT2K4Tab_IForceSettings]
+PanelCaption="Eingabe"
+ControlBindButton.Caption="Steuerung konfigurieren"
+ControlBindButton.Hint="Steuerung und Tastaturbelegung konfigurieren."
+InputAutoSlope.Caption="Autom. Gefälle"
+InputAutoSlope.Hint="Bei Aktivierung wird die Ansicht bei einem Gefälle automatisch nach oben/unten geneigt."
+InputBK1.Caption="Optionen"
+InputBK2.Caption="TouchSense Force Feedback"
+InputBK3.Caption="Feineinstellungen"
+InputDodgeTime.Caption="Ausweich-Doppelklickzeit"
+InputDodgeTime.Hint="Bestimmt, wie schnell Sie doppelklicken müssen, um auszuweichen."
+InputIFDamageEffects.Caption="Schadenseffekte"
+InputIFDamageEffects.Hint="Schalten Sie diese Option ein/aus, um den erlittenen Schaden zu spüren."
+InputIFGUIEffects.Caption="GUI-Effekte"
+InputIFGUIEffects.Hint="Schalten Sie diese Option ein/aus, um die GUI zu spüren."
+InputIFPickupEffects.Caption="Aufsammeleffekte"
+InputIFPickupEffects.Hint="Schalten Sie diese Option ein/aus, um die Objekte zu spüren, die Sie aufsammeln."
+InputIFWeaponEffects.Caption="Waffeneffekte"
+InputIFWeaponEffects.Hint="Schalten Sie diese Option ein/aus, um die Waffen zu spüren, die Sie abfeuern."
+InputInvertMouse.Caption="Umgekehrte Maus"
+InputInvertMouse.Hint="Bei Aktivierung ist die Y-Achse Ihrer Maus invertiert."
+InputMenuSensitivity.Caption="Mausempfindlichkeit (Menüs)"
+InputMenuSensitivity.Hint="Anpassen der Mausgeschwindigkeit in den Menüs."
+InputMouseAccel.Caption="Mausbeschl.-Schwelle"
+InputMouseAccel.Hint="Bestimmen der erforderlichen Bewegung, bevor eine Beschleunigung angewandt wird."
+InputMouseLag.Caption="Mausverzög. reduzieren"
+InputMouseLag.Hint="Bei Aktivierung dieser Option wird die Mausverzögerung reduziert."
+InputMouseSensitivity.Caption="Mausempfindlichkeit (Spiel)"
+InputMouseSensitivity.Hint="Anpassen der Mausempfindlichkeit."
+InputMouseSmoothStr.Caption="Mausausgleichsstärke"
+InputMouseSmoothStr.Hint="Einstellen des Ausgleichs, der bei den Mausbewegungen angewandt wird."
+InputMouseSmoothing.Caption="Mausausgleich"
+InputMouseSmoothing.Hint="Bei Aktivierung dieser Option werden Bewegungen in Ihrer Maus automatisch ausgeglichen."
+InputUseJoystick.Caption="Joystick aktivieren"
+InputUseJoystick.Hint="Bei Auswahl dieser Option wird die Joystick-Unterstützung aktiviert."
+SpeechBindButton.Caption="Sprach-Belegung"
+SpeechBindButton.Hint="Benutzerdefinierte Tastaturbelegung für Nachrichten während des Spiels konfigurieren."
+
+[UT2K4Tab_MainBase]
+MessageNoInfo="Keine Informationen verfügbar!"
+AuthorText="Autor"
+PlayerText="Spieler"
+FilterText="Nur offizielle Maps"
+ClearText="Alle Maps zeigen"
+LinkText="Link-Einstellung"
+DefaultText="Standard"
+AutoSelectText="Autom. Auswahl"
+FilterCheck.Caption="Nur offizielle Maps"
+FilterCheck.Hint="Alle Maps, die nicht von Epic oder Digital Extremes sind, ausblenden."
+
+[UT2K4Tab_MainSP]
+MapCaption="Maps"
+BonusVehicles=" (Bonus-Fahrzeuge)" 
+BonusVehiclesMsg="(Enthält Bonus-Fahrzeuge)|" 
+AvailableMaps.Hint="Klicken Sie auf einen Mapnamen, um eine Vorschau und eine Beschreibung aufzurufen. Doppelklicken Sie darauf, um ein Spiel auf der Map durchzuführen."
+FilterCheck.Caption="Nur offizielle Map"
+FilterCheck.Hint="Alle Maps, die nicht von Epic oder Digital Extremes sind, ausblenden."
+MapAuthorLabel.Caption="Test"
+MaplistButton.ButtonCaption="Konfiguration der Mapliste"
+MaplistButton.Hint="Modifizieren Sie die Maps, die während des Spiels verwendet werden sollen."
+NoPreview.Caption="Keine Vorschau verfügbar"
+OptionsGroup.Caption="Optionen"
+PreviewGroup.Caption="Vorschau"
+RecommendedPlayers.Caption="Am besten für 4 bis 8 Spieler"
+ScrollSection.Caption="Map-Info"
+SelectionGroup.Caption="Mapauswahl"
+TutorialButton.ButtonCaption="Tutorial anschauen"
+TutorialButton.Hint="Sehen Sie sich das Tutorial für diese Spielart an."
+
+[UT2K4Tab_MidGameHelp]
+NextHint.Caption="Nächster Tipp"
+PrevHint.Caption="Vorheriger Tipp"
+sbGameDesc.Caption="Spielbeschreibung"
+sbHints.Caption="Hilfreiche Tipps"
+
+[UT2K4Tab_MidGameRulesCombo]
+DefaultRulesText="Abrufen der Spielregeln vom Server"
+DefaultMapsText="Abrufen einer Mapliste vom Server"
+ComboContextMenu.ContextItems=("Zu dieser Map wechseln","Diese Map aus Rotation entfernen")
+sbMaps.Caption="Maprotation"
+sbRules.Caption="Serverregeln"
+
+[UT2K4Tab_MidGameVoiceChat]
+ApplySuccessText="Änderungen erfolgreich gespeichert!"
+ApplyFailText="Änderungen konnten nicht gespeichert werden!"
+RedTeamDesc="TEAM ROT"
+BlueTeamDesc="TEAM BLAU"
+BanPlayer.Caption="Spieler sperren"
+BanPlayer.Hint="Diesen Spieler aus Ihrem persönlichen Sprach-Chat-Kanal aussperren."
+NOSPEECH.Caption="Sprache ignorieren"
+NOSPEECH.Hint="Keine Sprachnachrichten (wie z.B. "In Deckung!") von diesem Spieler empfangen."
+NOTEXT.Caption="Text ignorieren"
+NOTEXT.Hint="Keine Textnachrichten von diesem Spieler erhalten."
+NoVoiceChat.Caption="Sprach-Chat ignorieren"
+NoVoiceChat.Hint="Keine Sprach-Chat-Nachrichten von diesem Spieler erhalten, egal in welchem Sprach-Chat-Room."
+OptionBackground.Caption="Sprach-Optionen"
+PlayersBackground.Caption="Spieler"
+ResetButton.Caption="Zurücks."
+ResetButton.Hint="Alle Spieler-Chat-Einschränkungen zurücksetzen und neu laden"
+SpecBackground.Caption="Zuschauer"
+
+[UT2K4Tab_MutatorBase]
+GroupConflictText="Es können nicht mehrere Mutatoren von der gleichen Mutatorengruppe hinzugefügt werden!"
+ThisText="Dieser Mutator"
+TheseText="Diese Mutatoren"
+ContextItems[0]="%text% hinzufügen"
+ContextItems[1]="%text% entfernen"
+ContextItems[2]="%text% konfigurieren"
+ActiveBackground.Caption="Aktive Mutatoren"
+AvailBackground.Caption="Verfügbare Mutatoren"
+DescriptionBackground.Caption="Mutatordetails"
+IAMutatorAdd.Caption="Hinzufüg."
+IAMutatorAdd.Hint="Fügt die Auswahl der Mutatoren-Liste für das Spiel hinzu."
+IAMutatorAll.Caption="Alle hinzufü."
+IAMutatorAll.Hint="Fügt alle Mutatoren der Mutatoren-Liste für das Spiel hinzu."
+IAMutatorAvailList.Hint="Dies sind die Mutatoren, die verfügbar sind."
+IAMutatorClear.Caption="Alle entfern."
+IAMutatorClear.Hint="Entfernt alle Mutatoren aus der Mutatoren-Liste für das Spiel."
+IAMutatorConfig.Caption="Mutator konfigurieren"
+IAMutatorConfig.Hint="Konfigurieren des ausgewählten Mutators."
+IAMutatorRemove.Caption="Entfernen"
+IAMutatorRemove.Hint="Entfernt die Auswahl aus der Mutatoren-Liste für das Spiel."
+IAMutatorSelectedList.Hint="Dies sind die derzeit ausgewählten Mutatoren."
+
+[UT2K4Tab_OnslaughtMap]
+MapPreferenceStrings[0]="Nie"
+MapPreferenceStrings[1]="Bei Stillstand"
+MapPreferenceStrings[2]="Sofort"
+NodeTeleportHelpText="Knoten-Teleportziel auswählen."
+SetDefaultText="Standard einstellen."
+ChooseSpawnText="Wählen Sie Ihren Einstiegspunkt."
+ClearDefaultText="Standard löschen."
+SetDefaultHint="Den momentan ausgewählten Knoten als bevorzugten Einstiegsort festlegen."
+ClearDefaultHint="Dem Spiel erlauben, den passendsten Einstiegsort auszusuchen."
+SpawnText="Hier einsteigen"
+TeleportText="Hier teleportieren"
+SpawnHint="Einstieg beim momentan ausgewählten Knoten."
+TeleportHint="Teleport zum momentan ausgewählten Knoten."
+SelectedHint="Bevorzugter Einstiegsort"
+UnderAttackHint="Knoten wird derzeit angegriffen."
+CoreHint="Hauptenergiekern"
+NodeHint="Knoten ist derzeit für gegnerischen Angriff anfällig."
+UnclaimedHint="Knoten ist derzeit neutral und kann von jedem Team eingenommen werden."
+LockedHint="Knoten ist derzeit nicht verknüpft und kann nicht vom Feind angegriffen werden."
+Titles[0]="Kern (wird angegr.)"
+Titles[1]="Bevorzugter Knoten"
+Titles[2]="Kern"
+Titles[3]="Knoten (Unbeansprucht)"
+Titles[4]="Knoten (Gesperrt)"
+Titles[5]="Knoten (Angreifbar)"
+NewSelectedHint="||Klicke rechts auf diesen Knoten, um ihn als den bevorzugten Einstiegsort zu wählen."
+NewTeleportHint="||Klicke links auf diesen Knoten, um dahin zu teleportieren."
+EnemyCoreHint="Feindlicher Kern||Verbinden Sie die Knoten, bis dieser Kern erreicht werden kann" 
+DefendMsg="%t Kern verteidigen"
+LinkDesignButton.Caption="Link-Designer"
+MapComboBox.Caption="Map anzeigen:"
+TeamLabel.Caption="Roten Kern verteidigen"
+
+[UT2K4Tab_PlayerLoginControls]
+LeaveMPButtonText="Trennen"
+LeaveSPButtonText="Aufgeben"
+SpectateButtonText="Zuschauen"
+JoinGameButtonText="Teilnehmen"
+ContextItems=("Text nicht mehr ignorieren","Sprache nicht mehr ignorieren","Sprach-Chat nicht mehr ignorieren","Sperrung vom Sprach-Chat aufheben")
+DefaultItems=("Text ignorieren","Sprache ignorieren","Sprach-Chat ignorieren","Sperrung vom Sprach-Chat")
+KickPlayer="Rauswerfen"
+BanPlayer="Sperren"
+BuddyText="Der Freundesliste hinzufügen"
+RedTeam="Team ROT"
+BlueTeam="Team BLAU"
+BrowserButton.Caption="Server-Browser"
+FavoritesButton.Caption="Den Favoriten hinzufügen"
+FavoritesButton.Hint="Diesen Server den eigenen Favoriten hinzufügen. "
+KickVotingButton.Caption="Rauswurf-Abstimmung"
+MapVotingButton.Caption="Map-Abstimmung"
+MatchSetupButton.Caption="Match-Einstellung"
+QuitGameButton.Caption="Spiel beenden"
+SBBlue.Caption="Team BLAU"
+SBFFA.Caption="Spieler"
+SBRed.Caption="Team ROT"
+SettingsButton.Caption="Einstellungen"
+SpectateButton.Caption="Zuschauen"
+TeamButton.Caption="Team wechseln"
+
+[UT2K4Tab_PlayerSettings]
+HandNames[0]="Links"
+HandNames[1]="Mitte"
+HandNames[2]="Rechts"
+HandNames[3]="Versteckt"
+TeamNames[0]="Rot"
+TeamNames[1]="Blau"
+TeamNames[2]="Keine"
+ClickInst="Auswahl: Doppelklick oder Drag&Drop"
+All="Alle"
+Previews[0]="Normale Skin anzeigen"
+Previews[1]="Rote Skin anzeigen"
+Previews[2]="Blaue Skin anzeigen"
+ShowBioCaption="Hochformat"
+Show3DViewCaption="3D-Ansicht"
+DefaultText="Standard"
+PanelCaption="Spieler"
+Player3DView.Caption="3D-Ansicht"
+Player3DView.Hint="Zwischen 3D-Ansicht und Biographie der Spielfigur umschalten."
+PlayerBK1.Caption="3D Ansicht"
+PlayerBK2.Caption="Sonstiges"
+PlayerBK3.Caption="Biografie"
+PlayerFOV.Caption="Standardsichtfeld"
+PlayerFOV.Hint="Dieser Wert ändert Ihr Sichtfeld während des Spielens."
+PlayerHand.Caption="Waffe - Hand"
+PlayerHand.Hint="Bestimmt, ob Ihre Waffe sichtbar ist."
+PlayerName.Caption="Name"
+PlayerName.Hint="Ändert Ihren Alias-Namen."
+PlayerSmallWeap.Caption="Kleine Waffen"
+PlayerSmallWeap.Hint="Stellt Ihre Waffe in der Egoperspektive kleiner dar."
+PlayerTeam.Caption="Bevorzugtes Team"
+PlayerTeam.Hint="Bestimmt, bei welchem Team Sie standardmäßig mitspielen."
+SkinPreview.Hint="Anzeigen, wie die Modelle mit der ausgewählten Skin aussehen."
+VoiceType.Caption="Sprach-Typ"
+VoiceType.Hint="Wählen Sie Ihre Charakterstimme für das Spiel."
+bPickModel.Caption="Charakter wechseln"
+bPickModel.Hint="Neuen Charakter auswählen."
+
+[UT2K4Tab_ServerInfo]
+DefaultText="Empfängt Regeln von Server ...||Dieses Feature erfordert, dass der Server den neuesten Patch installiert hat."
+ServerInfoLabel.Caption="Regeln"
+
+[UT2K4Tab_ServerMOTD]
+sbAdmin.Caption="Ihr Administrator ist"
+sbMOTD.Caption="Nachricht des Tages"
+
+[UT2K4Tab_ServerMapList]
+DefaultText="Empfängt Maprotation vom Server ..."
+ServerInfoLabel.Caption="Maps"
+
+[UT2K4Tab_ServerRulesPanel]
+EnableWebadmin.Caption="Webadmin erlauben"
+EnableWebadmin.Hint="Erlaubt die Administration des Servers über das Web."
+LANServer.Caption="LAN-Server"
+LANServer.Hint="Optimisiert verschiedene Engine- und Netzwerkeinstellungen für das LAN-Spiel. Das Einschalten dieser Option während der Internetserver läuft, führt zu EXTREMEN Verzögerungen während des Spiels!"
+WebadminPort.Caption="WebAdmin-Port"
+WebadminPort.Hint="Wählen Sie den Port, der für die Administration des Servers über das Web verwendet werden soll."
+
+[UT2K4Tab_WeaponPref]
+HiddenText="Versteckt"
+LoadingText="... Lädt Waffen Datenbank ..."
+PanelCaption="Waffen"
+CustomWeaponCrosshair.Caption="Waffenspezifische Fadenkreuze"
+CustomWeaponCrosshair.Hint="Aktivieren Sie diese Option für die Verwendung waffenspezifischer Fadenkreuze."
+GameCrossHair.Caption="Fadenkreuz"
+GameCrossHair.Hint="Bitte wählen Sie Ihr Fadenkreuz aus."
+GameHudCrossHairA.Caption="Transparenz:"
+GameHudCrossHairA.Hint="Ändert den Transparenzgrad Ihres Fadenkreuzes."
+GameHudCrossHairB.Caption="Blau:"
+GameHudCrossHairB.Hint="Ändert die Farbe Ihres Fadenkreuzes."
+GameHudCrossHairG.Caption="Grün:"
+GameHudCrossHairG.Hint="Ändert die Farbe Ihres Fadenkreuzes."
+GameHudCrossHairR.Caption="Rot:"
+GameHudCrossHairR.Hint="Ändert die Farbe Ihres Fadenkreuzes."
+GameHudCrosshairScale.Caption="Format:"
+GameHudCrosshairScale.Hint="Ändert das Fadenkreuz-Format."
+WeaponBK.Caption="Waffe"
+WeaponMesh.Caption="Klassisches Modell"
+WeaponMesh.Hint="Aktiviert klassisches Modell für diese Waffe."
+WeaponOptionBK.Caption="Fadenkreuz"
+WeaponPrefWeapDown.Hint="Reduzieren Sie die Priorität, die diese Waffe haben wird, wenn Sie Ihre beste Waffe aufsammeln."
+WeaponPrefWeapList.Hint="Wählen Sie die Reihenfolge der Waffen aus."
+WeaponPrefWeapUp.Hint="Erhöhen Sie die Priorität, die diese Waffe haben wird, wenn Sie Ihre beste Waffe aufsammeln."
+WeaponPriorityBK.Caption="Waffen Eigenschaften"
+WeaponSwap.Caption="Feuermodi tausch."
+WeaponSwap.Hint="Wählen Sie dieses Kästchen aus, um die Feuermodi bei der ausgewählten Waffe auszutauschen."
+
+[UT2K4TryAMod]
+InfoText="Unten im Server-Browser finden Sie ein Kästchen mit der Beschriftung |Nur Standard-Server], das standardmäßig mit einem Häkchen versehen ist. Wenn Sie das Häkchen entfernen, zeigt der Server-Browser auch Server mit Gameplay-Varianten an, die z. T. ein völlig anderes Spielgefühl bieten. Wenn Sie also mal etwas anderes ausprobieren möchten, sollten Sie das Häkchen entfernen."
+InfoCaption="Spezielle Mitteilung..."
+
+[UT2K4UserMods]
+NoModsListText="Keine Mods installiert"
+NoModsInfoText="Für diese Version von UT2004 sind aktuell keine Mods oder TC installiert."
+sb1.Caption="Mods"
+sb2.Caption="Beschreibung"
+
+[UT2K4VideoChangeOK]
+RestoreText="(Originaleinstellung wird in %count% %seconds% wiederhergestellt.)"
+SecondText="Sekunde"
+SecondsText="Sekunden"
+bCancel.Caption="Einstell. wiederh."
+bOk.Caption="Einstell. übern."
+lbText.Caption="Diese Einstellungen annehmen?"
+lbText2.Caption="(Originaleinstellung wird in 15 Sekunden wiederhergestellt.)"
+
+[UT2K4_FilterListPage]
+CantRemove="Sie können den Standardfilter nicht entfernen."
+WindowName="Filter auswählen"
+bCancel.Caption="Abbrechen"
+bCreate.Caption="Erstellen"
+bEdit.Caption="Bearbeiten"
+bOk.Caption="OK"
+bRemove.Caption="Entfernen"
+sbBackground.Caption="Filter..."
+
+[UT2k4Browser_BuddyList]
+ColumnHeadings=("Freundname")
+
+[UT2k4Browser_Footer]
+BrowserBack.Caption="ZURÜCK"
+BrowserBack.Hint="Zum vorherigen Menü zurückkehren."
+BrowserFilter.Caption="FILTER"
+BrowserFilter.Hint="Filter ermöglichen eine bessere Kontrolle über die Server, die in den Server-Browser-Listen aufgeführt werden."
+BrowserJoin.Caption="TEILNEHMEN"
+BrowserRefresh.Caption="AKTUALISIEREN"
+BrowserSpec.Caption="ZUSCHAUEN"
+OnlyStandardCheckBox.Caption="Nur Standard-Server"
+OnlyStandardCheckBox.Hint="Nur Standard-Server (keine Mutatoren) im Server-Browser anzeigen.  Diese Option überschreibt die Filtereinstellungen."
+
+[UT2k4Browser_IRC]
+SystemLabel="System"
+PanelCaption="UT2004 Internet Chat Client"
+
+[UT2k4Browser_MOTD]
+UpgradeCaption="UPGRADE"
+VersionString="Version"
+ConnectFailed="Der UT2004 Master Server konnte nicht erreicht werden. Bitte versuchen Sie es später erneut."
+ConnectTimeout="Ihre Verbindung zum UT2004 Master Server wurde unterbrochen."
+PanelCaption="Neuigkeiten von Epic"
+QuickPlay.Caption="SCHNELLES SPIEL"
+QuickPlay.Hint="Öffnet ein Dialogfenster, mit dessen Hilfe Sie schnell einen Server finden, der Ihren Kriterien entspricht."
+
+[UT2k4Browser_OpenIP]
+OKButtonHint="Verbindung zu dieser IP-Adresse öffnen."
+CancelButtonHint="Diese Seite schließen, ohne eine Verbindung zu einem Server herzustellen."
+EditBoxHint="Geben Sie die Adresse für den Server ein, zu dem Sie eine Verbindung herstellen möchten - trennen Sie die IP und den Port mit einem Doppelpunkt (:)."
+IPDesc.Caption="Neue IP-Adresse eingeben"
+IpEntryBox.Caption="IP-Adresse:"
+
+[UT2k4Browser_PlayersList]
+ColumnHeadings=("Name","Punkte","Rang","Ping")
+
+[UT2k4Browser_PlayersListBox]
+ContextMenuText[0]="Spielerstatistik anzeigen"
+ContextMenuText[1]="Der Freundesliste hinzufügen"
+
+[UT2k4Browser_RulesList]
+TrueString="Aktiviert"
+FalseString="Deaktiviert"
+ServerModeString="Server-Modus"
+DedicatedString="Dediziert"
+NonDedicatedString="Nicht dediziert"
+AdminNameString="Server-Admin"
+AdminEmailString="Admin-E-Mail"
+PasswordString="Kennwort erforderlich"
+GameStatsString="UT2004 Statistiken"
+GameSpeedString="Spieltempo"
+MutatorString="Mutator"
+BalanceTeamsString="Bots gleichen Teams aus"
+PlayersBalanceTeamsString="Teams ausgleichen"
+FriendlyFireString="Beschuss eigener Kameraden"
+GoalScoreString="Zielpunktestand"
+TimeLimitString="Zeitlimit"
+MinPlayersString="Mindestanzahl an Spielern (Bots)"
+TranslocatorString="Translocator"
+WeaponStayString="Waffen bleiben"
+MapVotingString="Map-Abstimmung"
+KickVotingString="Rauswurf-Abstimmung"
+ColumnHeadings=("Einstellung","Wert")
+
+[UT2k4Browser_ServerListBox]
+RCMenu.ContextItems=("Server beitreten","Als Zuschauer beitreten","-","Server-Info aktualisieren","Liste aktualisieren","-","Filter konfigurieren","Vorlage erstellen","Alle Filter deaktivieren","-","Den Favoriten hinzufügen","Server-Adresse kopieren","Offene IP")
+
+[UT2k4Browser_ServerListPageBase]
+PingingText="Pinge Server ( %NumRec% / %TotalNum% )"
+PingCompleteText="Pingvorgang abgeschlossen! %NumServers% Server, %NumPlayers% Spieler"
+QueryCompleteString="Anfrage abgeschlossen! Erhalten: %NumServers% Server"
+PanelCaption="Server-Browser"
+
+[UT2k4Browser_ServerListPageBuddy]
+AddBuddyCaption="FREUND HINZUFÜGEN"
+AddBuddyLabel="Freund hinzufügen"
+RemoveBuddyCaption="FREUND ENTFERNEN"
+BuddyNameCaption="Name d. Freundes:"
+PanelCaption="Freund-Browser"
+RCMenu.ContextItems=("Freund hinzufügen","Freund entfernen")
+
+[UT2k4Browser_ServerListPageFavorites]
+AddFavoriteCaption="FAVORIT HINZUFÜGEN"
+RemoveFavoriteCaption="FAVORIT ENTFERNEN"
+RemoveFavoriteText="Favorit entfernen"
+EditFavoriteText="IP-Adresse bearbeiten"
+PanelCaption="Server-Browser: Favoriten"
+
+[UT2k4Browser_ServerListPageLAN]
+PanelCaption="Server-Browser: LAN"
+
+[UT2k4Browser_ServersList]
+IconDescriptions=("Mit Passwort geschützt","Statist. aktiviert","Neueste Version","Listen-Server","InstaGib","Standard-Server","UT Classic")
+ColumnHeadings=(,"Servername","Map","Spieler","Ping")
+
+[UT2k4IRC_Channel]
+OpUserText="Zu Op machen"
+HelpUserText="Zu Helfer machen"
+VoiceUserText="Stimme geben"
+ReasonText="Grund: "
+MessageUserText="Offene Anfrage"
+WhoisUserText="Whois"
+DeopUserText="Op entfernen"
+DehelpUserText="Helfer entfernen"
+DevoiceUserText="Stimme nehmen"
+KickUserText="Benutzer rauswerfen"
+
+[UT2k4IRC_NewNick]
+EditCaption="Neuer Benutzername:"
+EditHint="Geben Sie den gewünschten Benutzernamen ein, und klicken Sie dann auf OK, um die Änderungen zu speichern."
+
+[UT2k4IRC_Panel]
+ConnectText="VERBINDEN"
+DisconnectText="TRENNEN"
+LocalChannel="#ut"
+MyChannelCombo.Caption="Kanal"
+MyConnectButton.Caption="VERBINDEN"
+MyJoinChannelButton.Caption="TEILNEHMEN"
+MyRemoveChannelButton.Caption="ENTFERNEN"
+MyRemoveServerButton.Caption="ENTFERNEN"
+MyServerCombo.Caption="Server"
+
+[UT2k4IRC_System]
+NotInAChannelText="In keinem Kanal!"
+KickedFromText="Rausgeworfen von"
+ByText="von"
+IsAwayText="ist weg"
+ChooseNewNickText="Wählen Sie einen neuen IRC-Benutzernamen aus."
+NickInUseText="Benutzername wird bereits verwendet."
+NickInvalidText="Benutzername ist ungültig."
+LeavePrivateText="%ChanName% SCHLIESSEN"
+CloseWindowCaption="KANAL VERLASSEN"
+DisconnectCaption="TRENNEN"
+ChangeNickCaption="NAMEN ÄNDERN"
+InvalidModeText="Ungültige Parameter für MODUS - Syntax: /MODE [#]target [[+|-]modes [Extra Params]]"
+InvalidKickText="Ungültige Parameter für %Cmd% - Syntax: /%Cmd% #ChannelName Nick :[Reason]"
+
+[UT2k4MainMenu]
+NewNewsMsg="  (Neues Update verfügbar)"
+HostButton.Caption="Spiel hosten"
+HostButton.Hint="Einen Server starten und andere zum Spiel einladen."
+InstantActionButton.Caption="Schnellstart"
+InstantActionButton.Hint="Ein Übungs-Match spielen."
+ModsAndDemosButton.Caption="Community"
+ModsAndDemosButton.Hint="Holen Sie sich die aktuellsten News, Demos und Mods der UT2004-Community."
+MultiplayerButton.Caption="Spielbeitritt"
+MultiplayerButton.Hint="Mit menschlichen Gegnern über LAN oder das Internet spielen."
+QuitButton.Caption="UT2004 beenden"
+QuitButton.Hint="Spiel beenden"
+SettingsButton.Caption="Einstellungen"
+SettingsButton.Hint="Steuerung und Einstellungen ändern."
+SinglePlayerButton.Caption="Einzelspieler"
+SinglePlayerButton.Hint="Das Tournament durchspielen."
+
+[UT2k4ModelSelect]
+WindowName="Spielfigur auswählen"
+CharRace.Caption="Rasse"
+CharRace.Hint="Verfügbare Charaktere nach ihrer Rasse filtern."
+
+[UT2k4ServerBrowser]
+InternetOptionsText="Sie haben Ihre Internetspiel-Optionen nicht vollständig konfiguriert. Sie sollten einen eindeutigen Spielernamen konfigurieren und Ihre Netzgeschwindigkeitseinstellungen überprüfen, bevor Sie an einem Mehrspieler-Spiel teilnehmen.|Möchten Sie Ihre Einstellungen jetzt konfigurieren?"
+PanelCaption=("Neuigkeiten","Chat","Favoriten","LAN","Freunde","Internet")
+PanelHint=("Erfahren Sie das Neueste von Epic","In UT2004 integrierter IRC-Client","Wählen Sie aus den Favoriten einen Server, dem Sie beitreten wollen","Alle UT2004/UT2003-Server anzeigen, die in Ihrem LAN laufen","Sehen Sie, wo Ihre Freunde gerade spielen, oder machen Sie bei ihrem Spiel mit","Wählen Sie einen von Hunderten UT2004/UT2003-Servern auf der ganzen Welt")
+GameTypeCombo.Caption="Spielart"
+GameTypeCombo.Hint="Wählen Sie die Spielart aus, die abgefragt werden soll."
+ServerBrowserHeader.Caption="Server-Browser"
+
+[Ut2K4Community]
+DefaultNews="Danke, dass Sie sich für Unreal Tournament 2004 entschieden haben.||Verbinden zum Master Server mit aktuellen News, bitte warten ..."
+
+[Ut2K4_FilterEdit]
+ComboOpts[0]="Ist egal"
+ComboOpts[1]="Muss an sein"
+ComboOpts[2]="Muss aus sein"
+MutOpts[0]="Keine Mutatoren"
+MutOpts[1]="Beliebige Mutatoren"
+MutOpts[2]="Benutzerdefiniert"
+WindowName="Filterregeln bearbeiten..."
+bCancel.Caption="Abbrechen"
+bOk.Caption="OK"
+cbMutators.Caption="Mutatoren:"
+cbStats.Caption="Statistik-Server:"
+cbTranslocator.Caption="Translocator:"
+cbWeaponStay.Caption="Waffen bleiben:"
+ckBots.Caption="Keine Bots"
+ckEmpty.Caption="Keine leeren Server"
+ckFull.Caption="Keine vollen Server"
+ckPassworded.Caption="Keine Passwort-Server"
+ebName.Caption="Filtername:"
+sbMutators.Caption="Benutzerdef. Mutator-Konfig."
+sbOptions.Caption="Optionen..."
+
+[VoiceChatConfig]
+ResetCaption="Zurücksetzen"
+ResetHint="Die Werte aller Optionen auf ihre Standardwerte zurücksetzen."
+WindowName="Sprach-Chat-Konfiguration"
+AutoJoinLocal.Caption="Auto-Beitritt (Lokaler Kanal)"
+AutoJoinLocal.Hint="Wenn Sie sich mit einem Server verbinden, versuchen Sie automatisch, dem 'lokalen' Kanal beizutreten."
+AutoJoinPublic.Caption="Auto-Beitritt (Öffentlicher Kanal)"
+AutoJoinPublic.Hint="Wenn Sie sich mit einem Server verbinden, versuchen Sie automatisch, dem 'öffentlichen' Kanal beizutreten."
+AutoJoinTeam.Caption="Auto-Beitritt (Team-Kanal)"
+AutoJoinTeam.Hint="Wenn Sie sich mit einem Server verbinden, versuchen Sie automatisch, dem 'Team'-Kanal beizutreten."
+AutoSpeakCheckbox.Caption="Auto-Auswahl d. aktiven Kanals"
+AutoSpeakCheckbox.Hint="Automatische Einstellung eines aktiven Kanals bei Beitritt zu einem Server. Der Standardkanal wird von der Spielart bestimmt, aber Sie können Ihren eigenen mit Hilfe des Bearbeitungsfelds unten angeben."
+ChatPasswordEdit.Caption="Chat-Kennwort"
+ChatPasswordEdit.Hint="Kennwort für persönlichen Chat-Raum festlegen, um die Teilnahme einzuschränken."
+DefaultActiveChannelEditBox.Caption="Standard-Kanalname"
+DefaultActiveChannelEditBox.Hint="Geben Sie den Namen des Kanals ein, über den standardmäßig gesprochen werden soll, wenn Sie bei einem Server angemeldet sind. Um den standardmäßigen Chatroom für die entsprechende Spielart zu verwenden, lassen Sie dieses Feld frei."
+VoiceQuality.Caption="Internetqualität"
+VoiceQuality.Hint="Bestimmt den Codec, der für die Übertragung des Sprach-Chats zwischen Internetservern benutzt wird."
+VoiceQualityLAN.Caption="LAN-Qualität"
+VoiceQualityLAN.Hint="Bestimmt den Codec, der für die Übertragung des Sprach-Chats zwischen LAN-Servern benutzt wird."
+VoiceVolume.Caption="Lautstärke Sprach-Chat"
+VoiceVolume.Hint="Zum Einstellen der Sprach-Chat-Lautstärke anderer Spieler."
+
+[VoiceChatKeyBindPage]
+NoneText="Keine"
+AnyKeyText="Beliebige Taste drücken|um Befehl zuzuweisen."
+ChannelName.Caption="Name des Kanals"
+KeyLabel1.Caption="Taste 1"
+KeyLabel2.Caption="Taste 2"
+OkButton.Caption="Übernehmen"
+Title.Caption="Zugewiesenes Tastenkürzel modifizieren."
+
+[fntUT2K4Medium]
+FontArrayNames=("2K4Fonts.Verdana10","2K4Fonts.Verdana12","2K4Fonts.Verdana14","2K4Fonts.Verdana16","2K4Fonts.Verdana18")
+
+[fntUT2k4Default]
+FontArrayNames=("2K4Fonts.Verdana10")
+
+[fntUT2k4Header]
+FontArrayNames=("2K4Fonts.Verdana18","2K4Fonts.Verdana20","2K4Fonts.Verdana22","2K4Fonts.Verdana24","2K4Fonts.Verdana26")
+
+[fntUT2k4IRC]
+FontArrayNames=("2K4Fonts.FontSmallText","2K4Fonts.Verdana8","2K4Fonts.Verdana8","2K4Fonts.Verdana10","2K4Fonts.Verdana10")
+
+[fntUT2k4Large]
+FontArrayNames=("2K4Fonts.Verdana14","2K4Fonts.Verdana16","2K4Fonts.Verdana18","2K4Fonts.Verdana20","2K4Fonts.Verdana22")
+
+[fntUT2k4MainMenu]
+FontArrayNames=("2K4Fonts.Impact32","2K4Fonts.Verdana24")
+
+[fntUT2k4Menu]
+FontArrayNames=("2K4Fonts.Verdana8","2K4Fonts.Verdana10","2K4Fonts.Verdana12","2K4Fonts.Verdana14","2K4Fonts.Verdana16")
+
+[fntUT2k4MidGame]
+FontArrayNames=("UT2003Fonts.FontEurostile17","UT2003Fonts.FontEurostile14","UT2003Fonts.FontEurostile11","UT2003Fonts.FontEurostile11","UT2003Fonts.FontEurostile9","UT2003Fonts.FontNeuzeit9","UT2003Fonts.FontSmallText")
+
+[fntUT2k4ServerList]
+FontArrayNames=("2K4Fonts.Verdana8")
+
+[fntUT2k4Small]
+FontArrayNames=("2K4Fonts.FontSmallText","2K4Fonts.Verdana8","2K4Fonts.Verdana10","2K4Fonts.Verdana12","2K4Fonts.Verdana14")
+
+[fntUT2k4SmallHeader]
+FontArrayNames=("2K4Fonts.Verdana12","2K4Fonts.Verdana14","2K4Fonts.Verdana16","2K4Fonts.Verdana18","2K4Fonts.Verdana20")
+

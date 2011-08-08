@@ -1,0 +1,39 @@
+[LevelInfo0]
+Title="Leviathan"
+
+[LevelSummary]
+Title="Leviathan"
+
+[ZoneInfo0]
+LocationName="Pasadizo superior Noreste"
+
+[ZoneInfo1]
+LocationName="Sala superior"
+
+[ZoneInfo10]
+LocationName="Pasadizo superior Noreste"
+
+[ZoneInfo2]
+LocationName="Pasadizo superior Noroeste"
+
+[ZoneInfo3]
+LocationName="Pasadizo superior Noroeste"
+
+[ZoneInfo4]
+LocationName="Cámara Oeste"
+
+[ZoneInfo5]
+LocationName="Pasadizo suroeste"
+
+[ZoneInfo6]
+LocationName="Pasadizo superior suroeste"
+
+[ZoneInfo7]
+LocationName="Pasadizo superior sureste"
+
+[ZoneInfo8]
+LocationName="Pasadizo sureste"
+
+[ZoneInfo9]
+LocationName="Cámara este"
+

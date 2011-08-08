@@ -1,0 +1,23 @@
+[LevelInfo0]
+Title="Skyline"
+
+[LevelSummary]
+Title="Skyline"
+
+[MessageTextureClient0]
+ScrollingMessage="%lp GEWINNT MIT %lf PUNKTEN"
+
+[Volume2]
+LocationName="BLAUER Turm innen"
+
+[Volume3]
+LocationName="Turm Mitte"
+
+[Volume4]
+LocationName="ROTER Turm innen"
+
+[Volume5]
+LocationName="ROTER Turm"
+
+[Volume6]
+LocationName="BLAUER Turm"

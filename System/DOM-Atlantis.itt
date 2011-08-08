@@ -1,0 +1,58 @@
+[LevelInfo0]
+Title="Atlantide"
+
+[LevelSummary]
+Title="Atlantide"
+Description="Anche se questa grande e mitica metropoli è sprofondata nei più oscuri abissi oceanici, non significa necessariamente che sia interdetta al Torneo. E anche se si trova 20.000 leghe sotto i mari, i misteriosi poteri atlantidei impediscono ai concorrenti di bagnarsi anche soltanto la punta di un dito."
+
+[Volume0]
+LocationName="Punto DOM B"
+
+[Volume1]
+LocationName="Punto DOM A"
+
+[ZoneInfo0]
+LocationName="Cannone Flak"
+
+[ZoneInfo1]
+LocationName="Lanciarazzi"
+
+[ZoneInfo10]
+LocationName="Lanciarazzi"
+
+[ZoneInfo11]
+LocationName="Lanciarazzi"
+
+[ZoneInfo12]
+LocationName="Lanciarazzi"
+
+[ZoneInfo2]
+LocationName="Lanciarazzi"
+
+[ZoneInfo3]
+LocationName="Cannone Flak"
+
+[ZoneInfo4]
+LocationName="Cannone Flak"
+
+[ZoneInfo5]
+LocationName="Camera centrale"
+
+[ZoneInfo6]
+LocationName="Cannone Flak"
+
+[ZoneInfo7]
+LocationName="Lanciarazzi"
+
+[ZoneInfo8]
+LocationName="Cannone Flak"
+
+[ZoneInfo9]
+LocationName="Lanciarazzi"
+
+[xDomPointA0]
+ObjectiveName="PRA"
+
+[xDomPointB1]
+ObjectiveName="PRB"
+

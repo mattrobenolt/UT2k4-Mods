@@ -1,0 +1,148 @@
+[Errors]
+MissingProductTitle="%s no puede ser %s en esta carpeta"
+MissingProductInstalled="instalado"
+MissingProductPatched="actualizado"
+MissingProductThis="Esta actualización"
+MissingProduct="%s requiere que se instale primero %s en esta carpeta. Localiza la carpeta existente de %s, o sal e instálalo ahora.\n\nPuedes hacer clic en el enlace web de abajo para obtener más información de producto."
+OldVersion="%s requiere %s versión %i o posterior, pero la versión en tu equipo es más antigua (tienes la versión %i). Instala %s versión %i o inténtalo de nuevo más tarde. Puedes hacer clic en el enlace web de abajo para obtener más información.\n\nAhora el programa de instalación va a salir al escritorio."
+FolderTitle="Carpeta '%s'"
+FolderFormat="La carpeta que has introducido, '%s', no es válida. Inténtalo de nuevo."
+CDKeyTitle="Clave de CD no válida"
+CDKeyFormat="La clave de CD que has introducido no es correcta. Vuelve a comprobar la clave de CD que hay impresa en la parte de atrás del manual e inténtalo de nuevo."
+AlreadyRunningTitle="No se puede instalar mientras se usa"
+AlreadyRunning="Para seguir con el proceso de instalación, cierra el programa y pulsa Aceptar. Para salir, pulsa Cancelar."
+WrongCdTitle="Archivos no encontrados en el CD-ROM"
+WrongCd="El archivo %s de la versión esperada de %s no se ha encontrado en la unidad de CD-ROM\n\nComprueba que se trata del CD correcto."
+MissingInstallerFile="Archivo de instalación no encontrado"
+MissingReferenceFile="Archivo de referencia no encontrado"
+MissingSourceFile="Archivo fuente no encontrado"
+FailedOpenSource="Error al abrir archivo fuente"
+FailedOpenDest="Error al abrir archivo destino"
+FailedReadingSource="Error al leer archivo fuente"
+FailedWritingDest="Error al escribir archivo destino"
+FailedLoadingUpdate="Error al cargar archivo de actualización"
+FailedReadingReference="Error al leer archivo de referencia"
+FailedClosingSource="Error al cerrar archivo fuente"
+FailedClosingDest="Error al cerrar archivo destino"
+FailedMakeDir="Error al crear directorio para el archivo destino"
+AdviseBadMedia="Puede que haya un problema con el medio. Si estás instalando desde un CD, prueba a limpiarlo, comprueba tu unidad de CD e inténtalo de nuevo."
+AdviseBadDownload="Los archivos de actualización que has descargado podrían estar dañados."
+AdviseBadDest="La unidad de destino podría estar llena, o tener sectores defectuosos."
+PatchCorrupt="El archivo de parche %s está dañado.\n\n%s"
+CdFileMismatch="El archivo%s del CD-ROM no es la versión esperada. Por tanto, no se puede aplicar el parche a %s."
+
+[General]
+Space="%i Megabytes"
+Ready="El programa de instalación está listo para instalar %s.\nLa carpeta destino es: %s\n\nHaz clic en "Instalar" para comenzar.\nHaz clic en "Cancelar" para salir sin instalar %s."
+InstallCancel="Cancelar sin instalar"
+CancelPrompt="¡Aviso! Si cancelas la instalación ahora %s no funcionará correctamente. ¿Estás seguro de que deseas cancelarla?"
+DidCancel="Has cancelado la instalación. El producto no se ha instalado con éxito y no funcionará correctamente."
+CdDescription="Para instalar la actualización de %s, se tienen que copiar algunos archivos del CD-ROM original de %s CD-ROM.\n\nColoca el CD-ROM de %s en tu unidad, y haz clic en "Siguiente". Si la letra de tu unidad de CD no es la que se muestra, introdúcela abajo."
+CdDrive="Unidad de CD-ROM"
+NotEnoughSpaceTitle="No puedes instalar ahí"
+NotEnoughSpace="No hay suficiente espacio disponible en la unidad %s para instalar %s. Selecciona una unidad con más espacio libre, o sal, libera más espacio, e inténtalo de nuevo."
+Finish="&Final."
+RebootButton="&Reiniciar"
+ExitButton="&Salir"
+Abbreviation="Instalación de UT2004"
+CDPromptTitle="Esperando al CD"
+CDPromptMessage="Por favor inserta el CD de Unreal Tournament 2004 número %d"
+LastCDPromptMessage="Por favor inserta el CD de Unreal Tournament 2004 número 6"
+InstallQFE="El programa de instalación de Unreal Tournament 2004 tiene que instalar una actualización a DirectX 8.1. Sigue las instrucciones en la siguiente caja de diálogo."
+ECEPromptTitle="Esperando CD de ECE"
+ECEPromptMessage="Insertar el disco 1 del Editor Choice Mod"
+
+[IDDIALOG_FilerPageAutoPlay]
+IDC_Play="&Jugar"
+IDC_Reinstall="&Inst."
+IDC_Uninstall="&Desinstalar"
+IDC_ReleaseNotes="&Notas de edición"
+IDC_Web="&Sitio web de Unreal Tournament 2004"
+IDC_Complete="¡Instalación completada con éxito!"
+IDC_CompleteReboot="¡Instalación completada con éxito!\nAntes de jugar, tienes que reiniciar tu ordenador."
+
+[IDDIALOG_FilerPageWelcome]
+IDC_WelcomePrompt="Vas a instalar %s en tu ordenador.\n\nHaz clic en "Siguiente" para comenzar la instalación, o haz clic en "Cancelar" en cualquier momento para salir.\n\nLa información de abajo contiene enlaces web en los que puedes hacer clic para obtener más información."
+IDC_WelcomePromptUpdate="Este programa actualizará tu copia de %s a la versión %s.\n\nHaz clic en "Siguiente" para comenzar la instalación, o haz clic en "Cancelar" en cualquier momento para salir.\n\nLa información de abajo contiene enlaces web en los que puedes hacer clic para obtener más información."
+IDC_LanguagePrompt="&Idioma:"
+
+[IDDIALOG_FilerPageLicense]
+IDC_LicenseText="Lea atentamente el siguiente acuerdo de licencia, que sustituye al que viene con el juego. La instalación de este programa requiere que acepte las condiciones de la licencia."
+IDC_LicenseQuestion="¿Aceptas las condiciones de la licencia? Haz clic en "Acepto" o "Cancelar"."
+
+[IDDIALOG_FilerPageComponents]
+IDC_ComponentsText="Selecciona los componentes que deseas instalar."
+IDC_ComponentsPrompt="&Componentes:"
+IDC_DiskSpaceFrame="Espacio de disco"
+IDC_DescriptionFrame="Descripción"
+IDC_SpaceRequiredMessage="Requerido:"
+IDC_SpaceAvailableMessage="Disponible:"
+
+[IDDIALOG_FilerPageUninstallComponents]
+IDC_ComponentsText="Selecciona los componentes que deseas instalar."
+IDC_ComponentsPrompt="&Componentes:"
+IDC_DependenciesFrame="Dependencias"
+IDC_DependenciesText="Si continuas se desinstalarán los siguientes componentes: %s"
+
+[IDDIALOG_FilerPageFolder]
+IDC_FolderDescription="El programa de instalación instalará %s en la siguiente carpeta.\n\nPara instalar en esta carpeta, haz clic en Siguiente.\n\nPara instalar en otra carpeta, escribe su nombre completo, incluyendo la letra de unidad. Por ejemplo: C:\\NuevaCarpeta"
+IDC_FolderDescriptionPatch="El programa de instalación instalará %s en la siguiente carpeta.\n\nPara seguir, haz clic en Siguiente.\n\nSi tienes más de una copia instalada, escribe el nombre completo de la carpeta existente, incluyendo la letra de la unidad. Por ejemplo: C:\\AlgunaCarpeta"
+IDC_FolderDescriptionMissing="El programa de instalación va a actualizar una instalación existente de %s.\n\nEscribe el nombre completo de la carpeta existente, incluyendo la letra de la unidad. Por ejemplo: C:\\AlgunaCarpeta"
+IDC_FolderHolder="Carpeta destino"
+IDC_Browse="&Examinar"
+IDC_Default="&Reajustar"
+IDC_SpaceAvailableMessage="Espacio disponible en la unidad:"
+IDC_FullSpaceRequiredMessage="Espacio requerido para instalación predeterminada:"
+
+[IDDIALOG_FilerPageCDKey]
+IDC_CDKeyDescription="Introduce la clave del CD de 20 dígitos que hay impresa en la parte de atrás del manual. Escribe la clave exactamente tal y como aparece, incluyendo cualquier barra inclinada.\n\nLa clave del CD debería introducirse en el formato XXXXX-XXXXX-XXXXX-XXXXX\n\nUna vez hayas introducido tu clave del CD, haz clic en Siguiente para continuar."
+IDC_CDKeyHolder="Clave del CD"
+
+[IDDIALOG_FilerPageInstallProgress]
+IDC_InstallText="Instalando archivos..."
+IDC_InstallingText="Instalando:"
+IDC_ProgressText="Progreso de archivo:"
+IDC_TotalText="Progreso total:"
+
+[IDDIALOG_FilerPageUninstallProgress]
+IDC_InstallText="Desinstalando archivos..."
+IDC_InstallingText="Procesando:"
+IDC_ProgressText="Progreso de archivo:"
+IDC_TotalText="Progreso total:"
+
+[IDDIALOG_Restart]
+IDC_Restart="Instalación completa"
+IDC_RestartMessage="Tienes que reiniciar Windows para completar la instalación."
+IDC_RestartText="Antes de reiniciar, cierra cualquier aplicación abierta, incluyendo sesiones de MS-DOS, y guarda todos los documentos actuales. Extrae cualquier disco extraíble de las unidades de disco. Luego haz clic en el botón Reiniciar Windows."
+IDC_Complete="Tras reiniciar Windows, la instalación habrá concluido."
+IDC_Restart="&Reiniciar Windows"
+IDC_Exit="&Salir de instalación"
+
+[IDDIALOG_WizardDialog]
+IDC_WizardDialog="Instalación de Unreal"
+
+[IDDIALOG_FailedRequirement]
+IDC_FailedRequirement="Este producto no puede instalarse aquí"
+IDC_FailedMessage="Este producto requiere que antes esté instalado el producto siguiente en la carpeta. Localiza la carpeta existente, o sal e instálalo ahora.\n\nPuedes hacer clic en el enlace web de abajo para más información."
+IDC_ProductHolder="Producto requerido"
+
+[IDDIALOG_ProductInfo]
+IDC_ProductHolder="Producto"
+IDC_ProductText="Producto"
+IDC_VersionText="Versión:"
+IDC_DeveloperText="Desarrollador:"
+
+[IDDIALOG_FilerPageUninstall]
+IDC_UninstallPrompt="Esto desinstalará los siguientes componentes:"
+IDC_UninstallQuestion="¿Estás seguro de que deseas eliminar estos componentes?"
+
+[IDDIALOG_AutopatchPageGo]
+IDC_AutoUpdateText="Auto-actualizando archivos..."
+IDC_UpdatingText="Intentando descargar..."
+IDC_ProgressText="Progreso de la descarga"
+IDC_Manual="Haz clic aquí para ir a la página de descarga manual en la web"
+ManualDownloadPage="http://unreal.epicgames.com/ut2004versions.htm"
+CancelText="Hasta que no completes la autoactualización, solo podrás jugar en el modo de un jugador y LAN. ¿Estás seguro de que quieres cancelar esta autoactualización?"
+ContactingText="Contactando con sitio:"
+DownloadingText="Descargando archivo:"
+SuccessText="Archivos descargados con éxito. Haz clic en "Finalizar" para instalar la actualización."

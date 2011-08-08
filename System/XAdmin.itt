@@ -1,0 +1,49 @@
+[AdminIni]
+Msg_FinishGameEditFirst="Devi terminare di modificare la partita prima di riavviare la mappa."
+Msg_FinishGameRestart="Devi terminare di modificare la partita prima di cambiare o riavviare la mappa."
+Msg_MutNeedGameEdit="Devi usare il comando 'Modifica partita' prima dei comandi 'Mutatori'."
+Msg_NoMutatorInUse="Nessun mutatore in uso."
+Msg_NoUnusedMuts="Nessun mutatore inutilizzato trovato."
+Msg_AddedMutator="Aggiunto '%Mutator%' all'elenco dei mutatori usati."
+Msg_ErrAddingMutator="Errore di aggiunta di '%Mutator%' all'elenco dei mutatori usati."
+Msg_RemovedMutator="Rimosso '%Mutator%' dall'elenco dei mutatori usati."
+Msg_ErrRemovingMutator="Errore di rimozione di '%Mutator%' dall'elenco dei mutatori usati."
+Msg_MapListNeedGameEdit="Devi usare 'Modifica partita' prima del comando 'MapList'."
+Msg_MustEndGameEdit="Prima devi terminare di modificare la partita."
+Msg_EditingClass="Modifica di %Class%"
+Msg_EditFailed="Impossibile iniziare a modificare"
+Msg_AlreadyEdited="Qualcun altro sta già modificando la partita."
+Msg_NotEditing="Non stai modificando le impostazioni di gioco, usa prima 'Modifica partita'."
+Msg_EditingCompleted="Modifica completata."
+Msg_EditingCancelled="Modifica annullata."
+Msg_NoBotGameFull="Impossibile aggiungere bot, la partita è completa."
+Msg_NoAddNamedBot="Quando la partita è iniziata si possono aggiungere solo bot con il nome."
+Msg_NoBotsPlaying="Attualmente non sta giocando nessun bot."
+Msg_GameNoSupportBots="Il tipo di partita attuale non supporta i bot."
+Msg_StatsNoBots="Impossibile controllare i bot quando le statistiche mondiali sono attivate."
+Msg_SetBotNeedVal="Questo comando richiede un valore numerico da 0 a 32."
+
+[xExtraPrivs]
+LoadMsg="Privilegi extra caricati."
+MainPrivs="X"
+SubPrivs="Xb|Xc|Xp|Xs|Xi|Xv|Xm"
+Tags=("Varie","Imposta abilità bot","Usa la console","Elenco giocatori","Cambia skin amministratore","Gestisci politiche d'accesso","Gestione chat vocale","Impostazioni partita")
+
+[xGamePrivs]
+LoadMsg="Mappe e privilegi di gioco caricati"
+MainPrivs="M"
+SubPrivs="Mr|Mt|Mm|Ml|Ms|Mu|Mb|Ma"
+Tags=(""Impostazioni mappe/gioco","Riavvia la mappa","Cambia tipo di partita","Cambia mappa","Gestisce la rotazione della mappa","Impostazioni di gioco","Scegli i mutatori","Aggiungi/rimuovi bot","Stato della partita"
+
+[xKickPrivs]
+LoadMsg="Privilegi di bando ed espulsione caricati"
+MainPrivs="K"
+SubPrivs="Kp|Kb|Ko"
+Tags=(""Espelli/bandisci","Espelli giocatori","Bandisci giocatori","Espelli bot")
+
+[xUserGroupPrivs]
+LoadMsg="Gestione gruppi e amministratori caricati"
+MainPrivs="A|G"
+SubPrivs="Al|Aa|Ae|Ag|Am|Gl|Ga|Ge"
+Tags=(""Utenti","Elenca amministratori","Aggiungi/rimuovi amministratori","Modifica amministratori","Assegna gruppi","Crea gestori","Gruppi","Elenca gruppi","Aggiungi/rimuovi gruppi","Modifica gruppi")
+

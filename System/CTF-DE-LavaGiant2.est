@@ -1,0 +1,57 @@
+[LevelInfo0]
+Title="Lava Giant 2"
+
+[LevelSummary]
+Title="Lava Giant 2"
+Description="En nuestra era muchas cosas se han construido mediante sangre, sudor y lágrimas. En el infernal calor de los campos de lava de Purgatorio, se evaporan tan rápido que el único rastro que dejan es una mugrienta costra en la armadura del prisionero."
+
+[Volume0]
+LocationName="Base roja"
+
+[Volume1]
+LocationName="Base azul"
+
+[Volume2]
+LocationName="RocaPequeña"
+
+[Volume3]
+LocationName="AltoCerro"
+
+[Volume4]
+LocationName="ZonaInferiorRoja"
+
+[Volume5]
+LocationName="ZonaInferiorAzul"
+
+[ZoneInfo0]
+LocationName="Exterior"
+
+[ZoneInfo1]
+LocationName="SalaMediaGenerador"
+
+[ZoneInfo10]
+LocationName="Base roja"
+
+[ZoneInfo2]
+LocationName="SalaMediaGenerador"
+
+[ZoneInfo3]
+LocationName="SalaMediaEscudo "
+
+[ZoneInfo4]
+LocationName="SalaMediaCohete"
+
+[ZoneInfo5]
+LocationName="SalaMediaCohete"
+
+[ZoneInfo6]
+LocationName="SalaMediaCohete"
+
+[ZoneInfo7]
+LocationName="Base azul"
+
+[ZoneInfo8]
+LocationName="Base azul"
+
+[ZoneInfo9]
+LocationName="Base roja"

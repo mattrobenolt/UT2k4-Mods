@@ -1,0 +1,100 @@
+[ASOBJ_EnergyCore_Delivery0]
+DestructionMessage="¡El vehículo ha sido reparado!"
+ObjectiveDescription="Entrega el núcleo de energía para reparar el vehículo"
+Objective_Info_Attacker="Devuelve el núcleo al vehículo"
+Objective_Info_Defender="Evita que los atacantes recuperen el núcleo"
+
+[ASOBJ_EnergyCore_Spawn0]
+ObjectiveDescription="Tienes que recoger el núcleo de energía y llevarlo a tu vehículo para repararlo"
+Objective_Info_Attacker="Encuentra el núcleo de energía"
+Objective_Info_Defender="Protege el núcleo de energía"
+
+[HoldObjective0]
+DestructionMessage="¡Puerta de punto de control abierta!"
+ObjectiveDescription="Ponte ante el interruptor para abrir la puerta"
+Objective_Info_Attacker="Abre la puerta del punto de control"
+Objective_Info_Defender="Protege el interruptor del punto de control"
+
+[HoldObjective1]
+DestructionMessage="¡Se ha bajado el puente!"
+ObjectiveDescription="Ponte ante el interruptor para bajar el puente"
+Objective_Info_Attacker="Baja el puente"
+Objective_Info_Defender="Defiende el interruptor del puente"
+
+[LevelInfo0]
+Title="JUnkyard"
+
+[LevelSummary]
+Title="Junkyard"
+Description="Este escenario está basado en un infame episodio de un popular programa de holovisión. En el episodio original, dos equipos de mecánicos competían para reparar su vehículo y escapar del depósito de chatarra. Lo que nadie esperaba es que el equipo que iba perdiendo se hiciese con algunas armas improvisadas y machacase a sus oponentes antes de que pudieran escapar. Dado que no había ninguna regla específica que prohibiese la violencia, fueron declarados ganadores, y así nació un nuevo clásico del torneo."
+
+[SceneSubtitles0]
+SubTitles=("Este escenario está basado en un infame episodio de un popular programa de holovisión.","En el episodio original, dos equipos de mecánicos competían para reparar su vehículo y escapar del depósito de chatarra."," Lo que nadie esperaba es que el equipo que iba perdiendo se hiciese con algunas armas improvisadas y machacase a sus oponentes antes de que pudieran escapar.","Dado que no había ninguna regla específica que prohibiese la violencia, fueron declarados ganadores, y así nació un nuevo clásico del torneo.","Tienes que encontrar y hacerte con el núcleo de energía del vehículo, que está en el interior del depósito de chatarra, llevándolo de vuelta a tu vehículo.","Una vez que el vehículo esté operativo, tienes que conducirlo por el depósito y sacarlo por las puertas principales.","Para cruzar el puente levadizo tienes que bajarlo, tirando de la palanca.","Cuando cruces el puente, debes llegar al punto de control.","Puedes hacerlo siguiendo este camino y abriendo las puertas del punto de control.","Puedes utilizar este imán. Aunque el camino es más corto, es más arriesgado y visible.","Cuando llegues al punto de control, ve a la puerta principal para escapar.")
+
+
+[ProximityObjective0]
+DestructionMessage="¡Los atacantes han escapado del depósito de chatarra!"
+ObjectiveDescription="Escapa del depósito de chatarra"
+Objective_Info_Attacker="Avanza hasta las puertas principales"
+Objective_Info_Defender="Protege las puertas principales"
+
+[ProximityObjective2]
+DestructionMessage="¡Se ha cruzado el puente!"
+ObjectiveDescription="Cruza el puente para avanzar"
+Objective_Info_Attacker="Cruza el puente"
+Objective_Info_Defender="Defiende el puente"
+
+[ProximityObjective3]
+DestructionMessage="¡Punto de control asegurado!"
+ObjectiveDescription="Asegura el punto de control para avanzar"
+Objective_Info_Attacker="Asegura el punto de control"
+Objective_Info_Defender="Protege el punto de control"
+
+[Volume10]
+LocationName="Colina magnética"
+
+[Volume11]
+LocationName="Atajo magnético"
+
+[Volume12]
+LocationName="Montón de tuberías"
+
+[Volume13]
+LocationName="Túnel de chatarra"
+
+[Volume14]
+LocationName="Desguazadora de coches"
+
+[Volume15]
+LocationName="Paso de vehículos"
+
+[Volume16]
+LocationName="Punto de control"
+
+[Volume17]
+LocationName="Baño"
+
+[Volume18]
+LocationName="Torre de comunicaciones"
+
+[Volume19]
+LocationName="Puerta principal"
+
+[Volume4]
+LocationName="Torre del núcleo"
+
+[Volume5]
+LocationName="Colina de defensa"
+
+[Volume7]
+LocationName="Puente"
+
+[Volume8]
+LocationName="Garaje"
+
+[Volume9]
+LocationName="Pozo de fuego"
+
+[ZoneInfo1]
+LocationName="Depósito de chatarra"
+

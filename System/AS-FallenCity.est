@@ -1,0 +1,121 @@
+[ASCriticalObjectiveVolume2]
+LocationName="Entrada de la estación de metro"
+
+[ASCriticalObjectiveVolume3]
+LocationName="Metro"
+
+[ASCriticalObjectiveVolume4]
+LocationName="Andén"
+
+[DestroyableObjective_SM0]
+ObjectiveName="Cerradura de la puerta"
+DestructionMessage="¡Cerradura de puerta destruida!"
+ObjectiveDescription="Destruye la cerradura de la puerta"
+Objective_Info_Attacker="Destruir cerradura de la puerta"
+Objective_Info_Defender="Defender cerradura de la puerta"
+
+[DestroyableObjective_SM1]
+ObjectiveName="barricada"
+DestructionMessage="¡barricada destruida!"
+ObjectiveDescription="Destruye la barricada"
+Objective_Info_Attacker="Destruir la barricada"
+Objective_Info_Defender="Defender la barricada"
+
+[DestroyableObjective_SM2]
+ObjectiveName="Cerradura de la puerta"
+DestructionMessage="¡Cerradura de puerta destruida!"
+ObjectiveDescription="Destruye la cerradura de la puerta"
+Objective_Info_Attacker="Destruir cerradura de la puerta"
+Objective_Info_Defender="Defender cerradura de la puerta"
+
+[HoldObjective0]
+ObjectiveName="Explosivo Nº2"
+DestructionMessage="¡Los explosivos están colocados!"
+ObjectiveDescription="Coloca un explosivo"
+Objective_Info_Attacker="Destruye centro de mando"
+Objective_Info_Defender="Defiende centro de mando"
+
+[HoldObjective1]
+ObjectiveName="Puesto avanzado"
+DestructionMessage="¡Puesto avanzado tomado!"
+ObjectiveDescription="Toma el puesto avanzado"
+Objective_Info_Attacker="Asegura el puesto avanzado"
+Objective_Info_Defender="Defiende el puesto avanzado"
+
+[HoldObjective2]
+ObjectiveName="Explosivo Nº1"
+DestructionMessage="¡Los explosivos están colocados!"
+ObjectiveDescription="Coloca un explosivo"
+Objective_Info_Attacker="Destruye centro de mando"
+Objective_Info_Defender="Defiende centro de mando"
+
+[LevelInfo0]
+Title="Fallen City"
+
+[LevelSummary]
+Title="Fallen City"
+Description="Al terminar la guerra entre humanos y skaarj, muchas ciudades de la Tierra estaban en ruinas. Cuando el Gobierno de la Nueva Tierra intentó imponer su autoridad sobre esas zonas, se tuvieron que enfrentar a muchos grupos rebeldes, a menudo financiados de forma encubierta por las grandes corporaciones que habían establecido bases en las ciudades destruidas. Este escenario recrea la destrucción de un centro de mando rebelde por parte de las fuerzas NEG. Para mantener la coherencia histórica del combate, el punto de inserción de los atacantes está algo alejado del centro de mando, ya que alrededor del búnker había mucha protección antiaérea."
+
+[SceneSubtitles1]
+SubTitles=("Al terminar la guerra entre humanos y skaarj, muchas ciudades de la Tierra estaban en ruinas. Cuando el Gobierno de la Nueva Tierra intentó imponer su autoridad sobre esas zonas","se tuvieron que enfrentar a muchos grupos rebeldes, a menudo financiados de forma encubierta por las grandes corporaciones que habían establecido bases en las ciudades destruidas.","Este escenario recrea la destrucción de un centro de mando rebelde por parte de las fuerzas NEG.","Para mantener la coherencia histórica del combate, el punto de inserción de los atacantes está algo alejado del centro de mando, ya que alrededor del búnker había mucha protección antiaérea.","Lo primero que deben hacer los atacantes es abrirse camino por las calles, a pie, y acabar con cualquier resistencia que encuentren.","Los atacantes deben destruir la barricada para pasar al siguiente objetivo, cuando la zona esté despejada, un cargamento será lanzado para ayudarte a continuar.","Los defensores están guarnecidos en un búnker reforzado. Tendrás que pasar a través de ellos y conseguir infiltrarte en el búnker para llegar al punto de control.","Llega al punto de control subterráneo y coloca explosivos para destruir toda la base. Esto debería acabar con la resistencia.")
+
+[Trigger_ASMessageTrigger0]
+Message="¡Infiltrados en el búnker!"
+
+[Trigger_ASMessageTrigger2]
+Message="¡Centro de mando destruido!"
+
+[Trigger_ASMessageTrigger3]
+Message="¡Explosivos colocados!"
+
+[Volume0]
+LocationName="Puesto avanzado"
+
+[Volume1]
+LocationName="Zona de inserción de atacantes"
+
+[Volume10]
+LocationName="Escaleras"
+
+[Volume11]
+LocationName="Andén de estación de metro"
+
+[Volume12]
+LocationName="Tejado de estación"
+
+[Volume13]
+LocationName="Respiraderos"
+
+[Volume14]
+LocationName="Metro"
+
+[Volume15]
+LocationName="Vías del metro"
+
+[Volume2]
+LocationName="Puesto de exploración"
+
+[Volume3]
+LocationName="Avenida Caudle"
+
+[Volume4]
+LocationName="Zona de inserción de atacantes"
+
+[Volume5]
+LocationName="Andén"
+
+[Volume6]
+LocationName="Paso de la estatua"
+
+[Volume7]
+LocationName="Paso de la estatua"
+
+[Volume8]
+LocationName="Camino de los arcos"
+
+[Volume9]
+LocationName="Taquilla del metro"
+
+[ZoneInfo0]
+LocationName="Ciudad destruida"
+

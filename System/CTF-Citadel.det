@@ -1,0 +1,71 @@
+[LevelInfo0]
+Title="Citadel"
+
+[LevelSummary]
+Title="Citadel"
+
+[Volume0]
+LocationName="Mittlere Brücke"
+
+[Volume1]
+LocationName="Obere Brücke ROT"
+
+[Volume10]
+LocationName="Eingang Steilhügel ROT"
+
+[Volume11]
+LocationName="ROTER EINGANG"
+
+[Volume12]
+LocationName="BLAUER EINGANG"
+
+[Volume2]
+LocationName="Untere Brücke ROT"
+
+[Volume3]
+LocationName="Untere Brücke BLAU"
+
+[Volume4]
+LocationName="Obere Brücke BLAU"
+
+[Volume5]
+LocationName="BLAUE Hochebene"
+
+[Volume6]
+LocationName="ROTE Hochebene"
+
+[Volume7]
+LocationName="Eingang Steilhügel BLAU"
+
+[Volume8]
+LocationName="BLAUE Flaggenbasis"
+
+[Volume9]
+LocationName="ROTE Flaggenbasis"
+
+[ZoneInfo0]
+LocationName="Eingang Steilhügel BLAU"
+
+[ZoneInfo1]
+LocationName="Außen"
+
+[ZoneInfo3]
+LocationName="Eingang Steilhügel ROT"
+
+[ZoneInfo4]
+LocationName="ROTE Flaggenbasis"
+
+[ZoneInfo5]
+LocationName="ROTER Eingang"
+
+[ZoneInfo6]
+LocationName="BLAUER Eingang"
+
+[ZoneInfo7]
+LocationName="BLAUER Eingang"
+
+[ZoneInfo8]
+LocationName="BLAUER Eingang"
+
+[ZoneInfo9]
+LocationName="BLAUE Flaggenbasis"

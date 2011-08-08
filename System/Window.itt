@@ -1,0 +1,73 @@
+[Errors]
+Critical="Errore critico"
+FailedConfigLoad="%s (caricamento fallito)"
+
+[General]
+BrowseButton="..."
+UseButton="Usa"
+ClearButton="Azzera"
+ColorButton="Colore"
+PickButton="Prendi"
+FindButton="Trova"
+OkButton="OK"
+AddButton="Aggiungi"
+EmptyButton="Svuota"
+InsertButton="Inserisci"
+DeleteButton="Elimina"
+DefaultsButton="Predefiniti"
+BackButton="< &Indietro"
+NextButton="&Avanti >"
+FinishButton="&Fine"
+CancelButton="Annulla"
+InstallButton="&Installa"
+YesButton="&Sì"
+NoButton="&No"
+AgreeButton="&Accetto"
+LanguagePrompt="Lingua:"
+LanguageWindow="Scelta lingua"
+LogWindow="Finestra del registro di %s"
+PropNone="Nessuna selezione"
+PropSingle="Proprietà di %s"
+PropMulti="Proprietà di %s (selezionato %i)"
+InsertCdText="Inserisci il CD-ROM di Unreal nel relativo lettore e clicca su 'OK' per continuare o su 'Annulla' per uscire."
+InsertCdTitle="All'avvio serve il CD"
+AdvancedOptionsTitle="Advanced Options"
+Low="Basso"
+High="Alto"
+New="Nuovo"
+
+[FirstRun]
+Caption="Configurazione iniziale"
+LowMemory="Unreal ha rilevato %i MB di RAM disponibili. Per migliorare le prestazioni, sono state attivate le opzioni relative a texture e audio di bassa qualità. Puoi cambiare queste impostazioni nel menu 'Prestazioni'."
+NonMMX="Unreal ha rilevato che stai usando un PC non MMX. Pertanto, è stata scelta la frequenza di riproduzione audio che utilizza al minimo la CPU. Puoi cambiare queste impostazioni nel menu 'Opzioni avanzate / Audio'."
+Starting="Unreal sta partendo con le nuove impostazioni. Se ci sono problemi, leggi la sezione dedicata alla risoluzione problemi nelle Note sul gioco, accessibili dal menu 'Start'."
+
+[IDDIALOG_Directory]
+IDC_Directory="Cartella di installazione"
+IDC_ChoosePrompt="Scegli la cartella di installazione."
+IDC_PathTitle="&Percorso:"
+IDC_DirectoryTitle="&Cartelle:"
+IDC_DrivesTitle="&Unità:"
+IDC_NetworkButton="&Rete"
+
+[IDDIALOG_Password]
+IDC_Password="Controllo password"
+IDC_Prompt="Inserisci nome e password."
+IDC_Name="&Nome:"
+IDC_Password="&Password:"
+
+[IDMENU_NotifyIcon]
+ID_NotifyIcon="Menu"
+ID_NotifyShowLog="Console di &UnrealServer"
+ID_NotifyAdvancedOptions="Opzioni &avanzate"
+ID_NotifyExit="&Esci da UnrealServer"
+
+[IDMENU_Log]
+ID_LogFile="&File"
+ID_LogAdvancedOptions="Opzioni &avanzate"
+ID_LogFileExit="&Esci"
+
+[IDDIALOG_CrashBox]
+IDC_Copy="Copia"
+IDC_BugReport="Invia rapporto errori"
+BugReportURL="http://mail1.epicgames.com/utbugreport.php3"

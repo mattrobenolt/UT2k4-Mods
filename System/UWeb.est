@@ -1,0 +1,6 @@
+[Public]
+Preferences=(Caption="Servidor web",Parent="Red",Class=UWeb.WebServer)
+
+[WebResponse]
+CharSet="iso-8859-1"
+

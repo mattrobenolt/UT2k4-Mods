@@ -1,0 +1,2 @@
+Vehicle=(ClassName=Spinner.Passenger,FriendlyName=Spinner.Passenger.VehicleNameString,FallbackName="Spinner Passenger",FallbackDesc="Spinner Passenger")
+Vehicle=(ClassName=Spinner.Spinner,FriendlyName=Spinner.Spinner.VehicleNameString,FallbackName="Spinner",FallbackDesc="Spinner")

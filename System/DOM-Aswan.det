@@ -1,0 +1,33 @@
+[LevelInfo0]
+Title="Aswan"
+
+[LevelSummary]
+Title="Aswan"
+Description="Tief im Herzen des Ozeans der Dünen heißt eine kleine Oase der Zivilisation den müden Reisenden willkommen. Jeder, der durch die Tore des Tempels von Aswan schreitet, ist willkommen, aber niemand kann wieder gehen ohne an den Prüfungen teilzunehmen. Die Anubianer testen auf diese Weise schon seit Jahrhunderten ihre zukünftigen Wettstreiter. Ein Erfolg bringt Ruhm und Ehre - ein Misserfolg bedeutet, dass die Aasfresser das Fleisch von Ihren Knochen pflücken. Sind Sie wirklich so durstig?"
+
+[ZoneInfo0]
+LocationName="Mitte"
+
+[ZoneInfo1]
+LocationName="B-Hinterraum"
+
+[ZoneInfo2]
+LocationName="A-Hinterraum"
+
+[ZoneInfo3]
+LocationName="A-Flak Cannon"
+
+[ZoneInfo4]
+LocationName="A-Rocket Launcher"
+
+[ZoneInfo5]
+LocationName="B-Flak Cannon"
+
+[ZoneInfo6]
+LocationName="B-Rocket Launcher"
+
+[ZoneInfo7]
+LocationName="Einstieg BLAU"
+
+[ZoneInfo8]
+LocationName="Einstieg ROT"

@@ -1,0 +1,46 @@
+[LevelInfo0]
+Title="Access"
+
+[LevelSummary]
+Title="Access"
+Description="Quita el sello al punto de dominación que prefieras controlando el botón de acceso del centro del estadio."
+
+[ZoneInfo0]
+LocationName="Sala de interruptor"
+
+[ZoneInfo1]
+LocationName="Cámaras de generación azules"
+
+[ZoneInfo10]
+LocationName="Sala de interruptor"
+
+[ZoneInfo11]
+LocationName="Sala punto A"
+
+[ZoneInfo12]
+LocationName="Sala punto B"
+
+[ZoneInfo2]
+LocationName="Cámara de generación roja"
+
+[ZoneInfo3]
+LocationName="Cámara de generación roja"
+
+[ZoneInfo4]
+LocationName="Cámaras de generación azules"
+
+[ZoneInfo5]
+LocationName="Cámaras de generación azules"
+
+[ZoneInfo6]
+LocationName="Cámara de generación roja"
+
+[ZoneInfo7]
+LocationName="Sala de interruptor"
+
+[ZoneInfo8]
+LocationName="Sala de interruptor"
+
+[ZoneInfo9]
+LocationName="Sala de interruptor"
+

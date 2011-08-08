@@ -1,0 +1,222 @@
+[DestroyableObjective1]
+ObjectiveName="Schalttafel des sekundären Damms"
+DestructionMessage="Abschaltsequenz des sekundären Damms"
+ObjectiveDescription="Schalttafel des Damms zerstören."
+Objective_Info_Attacker="Sekundären Damm abschalten"
+Objective_Info_Defender="Sekundären Damm verteidigen"
+
+[DestroyableObjective5]
+ObjectiveName="Schalttafel des primären Damms"
+DestructionMessage="Abschaltsequenz des primären Damms"
+ObjectiveDescription="Schalttafel des Damms zerstören."
+Objective_Info_Attacker="Primären Damm abschalten"
+Objective_Info_Defender="Primären Damm verteidigen"
+
+[DestroyableObjective_SM1]
+ObjectiveName="Depot-Tür"
+DestructionMessage="Depot-Tür zerstört"
+ObjectiveDescription="Zerstören Sie die Depot-Türen, die den Weg versperren."
+Objective_Info_Attacker="Depot-Tür zerstören"
+Objective_Info_Defender="Depot-Tür verteidigen"
+
+[DestroyableObjective_SM2]
+ObjectiveName="Panzertür"
+DestructionMessage="Panzertür durchbrochen!"
+ObjectiveDescription="Zerstören Sie die Panzertür, die den Basisausgang blockiert."
+Objective_Info_Attacker="Panzertür zerstören"
+Objective_Info_Defender="Panzertür verteidigen"
+
+[DestroyableObjective_SM3]
+ObjectiveName="Zugangstunneltüren"
+DestructionMessage="Zugangstunneltüren zerstört"
+ObjectiveDescription="Zerstören Sie mit dem Ionenpanzer die Zugangstüren des Kraftwerks."
+Objective_Info_Attacker="Zugangstüren zerstören"
+Objective_Info_Defender="Zugangstüren schützen"
+
+[HoldObjective0]
+ObjectiveName="Ionen-Kern-Schalter"
+DestructionMessage="Ionen-Kern-Schalter aktiviert"
+ObjectiveDescription="Legen Sie die Kern-Schalter um, um den Ionen-Kern zu aktivieren."
+Objective_Info_Attacker="Ionen-Kern aktivieren"
+Objective_Info_Defender="Ionen-Kern verteidigen"
+
+[HoldObjective2]
+ObjectiveName="Schalttafel der Sicherheitstür"
+DestructionMessage="Sicherheitstür geöffnet"
+ObjectiveDescription="Legen Sie den Stromschalter um, um die Sicherheitstür zu öffnen."
+Objective_Info_Attacker="Sicherheitstür öffnen"
+Objective_Info_Defender="Sicherheitstür verteidigen"
+
+[HoldObjective4]
+ObjectiveName="Brückensteuerung"
+DestructionMessage="Brücke oben"
+ObjectiveDescription="Ziehen Sie mit Hilfe der Schalttafel die Brücke hoch."
+Objective_Info_Attacker="Ionen-Kern aktivieren"
+Objective_Info_Defender="Ionen-Kern verteidigen"
+
+[HoldObjective5]
+ObjectiveName="Ionen-Kern-Schalter"
+DestructionMessage="Ionen-Kern-Schalter aktiviert"
+ObjectiveDescription="Legen Sie die Kern-Schalter um, um den Ionen-Kern zu aktivieren."
+Objective_Info_Attacker="Ionen-Kern aktivieren"
+Objective_Info_Defender="Ionen-Kern verteidigen"
+
+[LevelInfo0]
+Title="Glacier"
+
+[LevelSummary]
+Title="Glacier"
+Description="In einer der waghalsigsten Aktionen, der größtenteils verdeckt geführten Unternehmenskriege, wurde die Forschungseinrichtung der Izanagi Corporation auf Lamdon 3 überfallen und von einer Kampfeinheit der Axon Research Corporation zerstört, obwohl sie von der ThunderCrash-Eliteeinheit der Neuen Weltregierung beschützt wurde. In diesem Szenario wird diese Mission nachgestellt. Axon konnte nicht nur die Einrichtung zerstören, sondern zudem den fortschrittlichen Plasma-Ionen-Panzer an sich reißen, der dort entwickelt wurde. Sie müssen die Einrichtung infiltrieren, den Plasma-Ionen-Panzer stehlen und den gesamten Komplex vernichten."
+
+[ProximityObjective0]
+ObjectiveName="Basis infiltrieren"
+DestructionMessage="Basis infiltriert"
+ObjectiveDescription="Passieren Sie die Basistüren, um die Basis zu infiltrieren."
+Objective_Info_Attacker="Basis infiltrieren"
+Objective_Info_Defender="Basis verteidigen"
+
+[ProximityObjective1]
+ObjectiveName="Basis infiltrieren"
+DestructionMessage="Basis infiltriert"
+ObjectiveDescription="Passieren Sie die Basistüren, um die Basis zu infiltrieren."
+Objective_Info_Attacker="Basis infiltrieren"
+Objective_Info_Defender="Basis verteidigen"
+
+[ProximityObjective9]
+ObjectiveName="Basisausgang"
+DestructionMessage="Der Panzer ist entkommen."
+ObjectiveDescription="Fahren Sie den Panzer aus der Basis heraus"
+Objective_Info_Attacker="Aus Basis fliehen"
+Objective_Info_Defender="Halten Sie den flüchtenden Panzer auf."
+
+[SceneSubtitles0]
+SubTitles=("In einer der waghalsigsten Aktionen der größtenteils verdeckt geführten Unternehmenskriege wurde die Forschungseinrichtung der Izanagi Corporation auf Lamdon 3 überfallen","und von einer Kampfeinheit der Axon Research Corporation zerstört, obwohl sie von der ThunderCrash-Eliteeinheit der Neuen Weltregierung beschützt wurde.","In diesem Szenario wird diese Mission nachgestellt. Axon konnte nicht nur die Einrichtung zerstören, sondern zudem den fortschrittlichen Plasma-Ionen-Panzer an sich reißen, der dort entwickelt wurde.","Sie müssen die Einrichtung infiltrieren, den Plasma-Ionen-Panzer stehlen und den gesamten Komplex vernichten.","Bevor Sie in die Basis eindringen können, müssen Sie erst den zugefrorenen See überqueren. Die Schalttafel für die Zugangsbrücke zur Basis befindet sich in der Nähe des Eingangs.","Wenn Sie die Brücke hochziehen, verkürzt sich der Weg deutlich, den Ihre Kameraden zur Basis zurücklegen müssen.","Sobald Sie in der Basis sind, müssen Sie den Ionen-Kern überladen, indem Sie diese beiden Schalter betätigen. ","Das löst das erste Bündel an Notfallmaßnahmen aus, öffnet alle Türen in der Basis und ermöglicht es Ihnen, den Ionen-Panzer zu stehlen.","Wenn Sie den Panzer haben, setzen Sie Ihren Weg durch den Zugangstunnel zum Kraftwerk fort. Das Kraftwerk versorgt den Ionen-Kern über die beiden Turbinen-Staudämme direkt mit Energie.","Um zu den Dämmen zu gelangen, müssen Sie die Sicherheitstür öffnen. Die Schalttafel für die Sicherheitstür befindet sich im Kraftwerk.","Die Flutschleusen der beiden Turbinen-Staudämme müssen geöffnet werden.","Das erzeugt eine Spannungsspitze, die im Ionen-Kern eine Kettenreaktion auslösen wird.","Sobald die Flutschleusen offen sind, wird das zweite Bündel an Notfallmaßnahmen aktiviert, das alle Ausgänge der Basis öffnet.","Haben Sie die Flutschleusen geöffnet, müssen Sie nur noch ein Ziel erreichen. Der einzige Fluchtweg aus der Basis führt durch die Außenmauer.","In sie sind Panzertüren eingelassen, die jedem gewöhnlichen Angriff widerstehen. Allerdings sind sie nicht unzerstörbar.","Einige direkte Treffer mit dem enorm durchschlagkräftigen Geschütz des Ionen-Panzers sollten genügen, um sie zu durchbrechen. Wenn Sie die Türen zerstört haben, fahren Sie mit dem Panzer hinaus in die Freiheit.")
+
+[TriggeredObjective2]
+ObjectiveName="Ionen-Panzer"
+DestructionMessage="Panzer eingenommen"
+Objective_Info_Attacker="Panzer einnehmen"
+Objective_Info_Defender="Panzer verteidigen"
+
+[Volume0]
+LocationName="Ausgang des Panzerhangars"
+
+[Volume1]
+LocationName="Basisbereich links"
+
+[Volume10]
+LocationName="Basisbereich rechts"
+
+[Volume11]
+LocationName="Ionen-Kern"
+
+[Volume12]
+LocationName="Innenbereich des Kraftwerks"
+
+[Volume13]
+LocationName="Innenbereich des sekundären Damms"
+
+[Volume14]
+LocationName="Innenbereich des sekundären Damms"
+
+[Volume15]
+LocationName="Innenbereich des primären Damms"
+
+[Volume16]
+LocationName="Innenbereich des primären Damms"
+
+[Volume2]
+LocationName="Wand des sekundären Damms"
+
+[Volume3]
+LocationName="Basisbereich links"
+
+[Volume4]
+LocationName="Basisbereich rechts"
+
+[Volume6]
+LocationName="Wand des primären Damms"
+
+[Volume7]
+LocationName="Basisausgang"
+
+[Volume8]
+LocationName="Basiseingang"
+
+[Volume9]
+LocationName="Brücke"
+
+[ZoneInfo0]
+LocationName="Außen"
+
+[ZoneInfo1]
+LocationName="Lagerbereich"
+
+[ZoneInfo10]
+LocationName="Turmeingang links"
+
+[ZoneInfo11]
+LocationName="Turmgang links"
+
+[ZoneInfo12]
+LocationName="Panzerhangar"
+
+[ZoneInfo13]
+LocationName="Basiseingangstunnel"
+
+[ZoneInfo14]
+LocationName="Panzerhangar"
+
+[ZoneInfo15]
+LocationName="Ionen-Kern"
+
+[ZoneInfo16]
+LocationName="Zugangstunnel"
+
+[ZoneInfo17]
+LocationName="Schaltzentrale des Kraftwerks"
+
+[ZoneInfo18]
+LocationName="Schaltzentrale des Basisausgangs"
+
+[ZoneInfo19]
+LocationName="Gang des Kraftwerks"
+
+[ZoneInfo2]
+LocationName="Turmeingang rechts"
+
+[ZoneInfo20]
+LocationName="Unteres Kraftwerk"
+
+[ZoneInfo21]
+LocationName="Depot"
+
+[ZoneInfo22]
+LocationName="Schaltzentrale des sekundären Damms"
+
+[ZoneInfo23]
+LocationName="Schaltzentrale des primären Damms"
+
+[ZoneInfo24]
+LocationName="Beobachtungsraum des primären Damms"
+
+[ZoneInfo25]
+LocationName="Ionen-Kern"
+
+[ZoneInfo26]
+LocationName="Beobachtungsraum des sekundären Damms"
+
+[ZoneInfo27]
+LocationName="Schaltzentrale des Basisausgangs"
+
+[ZoneInfo3]
+LocationName="Ionen-Kern"
+
+[ZoneInfo4]
+LocationName="Turmgang links"
+
+[ZoneInfo5]
+LocationName="Oberes Kraftwerk"
+
+[ZoneInfo8]
+LocationName="Turmgang rechts"

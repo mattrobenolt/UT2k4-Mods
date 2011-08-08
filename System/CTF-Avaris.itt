@@ -1,0 +1,172 @@
+[LevelInfo0]
+Title="Avaris"
+
+[LevelSummary]
+Title="Avaris"
+Description="Avaris, ex capitale di un enorme impero, è ormai deserta e abbandonata agli implacabili elementi del deserto. Chi morirà qui durante il Torneo condividerà lo stesso destino."
+
+[ZoneInfo0]
+LocationName="Anticamera sinistra blu"
+
+[ZoneInfo1]
+LocationName="Cortile blu"
+
+[ZoneInfo10]
+LocationName="Sala principale blu"
+
+[ZoneInfo11]
+LocationName="Anticamera destra rossa"
+
+[ZoneInfo12]
+LocationName="Anticamera sinistra rossa (distrutta)"
+
+[ZoneInfo13]
+LocationName="Base bandiera rossa"
+
+[ZoneInfo15]
+LocationName="Edificio nel cortile"
+
+[ZoneInfo16]
+LocationName="Entrata destra rossa"
+
+[ZoneInfo17]
+LocationName="Edificio nel cortile"
+
+[ZoneInfo18]
+LocationName="Entrata sinistra rossa"
+
+[ZoneInfo19]
+LocationName="Sala principale rossa"
+
+[ZoneInfo2]
+LocationName="Base bandiera blu"
+
+[ZoneInfo20]
+LocationName="Entrata sinistra blu"
+
+[ZoneInfo21]
+LocationName="Passaggi di destra rossi"
+
+[ZoneInfo22]
+LocationName="Cortile destro rosso"
+
+[ZoneInfo23]
+LocationName="Base bandiera blu"
+
+[ZoneInfo24]
+LocationName="Base bandiera blu"
+
+[ZoneInfo27]
+LocationName="Lato sinistro blu"
+
+[ZoneInfo28]
+LocationName="Edificio nel cortile"
+
+[ZoneInfo29]
+LocationName="Cortile centrale"
+
+[ZoneInfo3]
+LocationName="Zona centrale"
+
+[ZoneInfo30]
+LocationName="Entrata destra blu"
+
+[ZoneInfo31]
+LocationName="Zona centrale"
+
+[ZoneInfo32]
+LocationName="Scala sinistra blu"
+
+[ZoneInfo33]
+LocationName="Anticamera destra blu"
+
+[ZoneInfo34]
+LocationName="Scala sinistra rossa"
+
+[ZoneInfo35]
+LocationName="Zona centrale"
+
+[ZoneInfo36]
+LocationName="Scala destra rossa"
+
+[ZoneInfo37]
+LocationName="Base bandiera blu"
+
+[ZoneInfo38]
+LocationName="Base bandiera rossa"
+
+[ZoneInfo39]
+LocationName="Base bandiera rossa"
+
+[ZoneInfo42]
+LocationName="Cortile rosso"
+
+[ZoneInfo43]
+LocationName="Edificio nel cortile"
+
+[ZoneInfo44]
+LocationName="Lato sinistro blu"
+
+[ZoneInfo45]
+LocationName="Anticamera destra blu"
+
+[ZoneInfo46]
+LocationName="Anticamera destra blu"
+
+[ZoneInfo47]
+LocationName="Base bandiera blu"
+
+[ZoneInfo48]
+LocationName="Anticamera destra blu"
+
+[ZoneInfo49]
+LocationName="Lato destro rosso"
+
+[ZoneInfo5]
+LocationName="Cortile sinistro rosso"
+
+[ZoneInfo50]
+LocationName="Lato destro blu"
+
+[ZoneInfo51]
+LocationName="Base bandiera blu"
+
+[ZoneInfo52]
+LocationName="Base bandiera blu"
+
+[ZoneInfo53]
+LocationName="Base bandiera rossa"
+
+[ZoneInfo54]
+LocationName="Base bandiera rossa"
+
+[ZoneInfo55]
+LocationName="Lato destro blu"
+
+[ZoneInfo56]
+LocationName="Zona centrale"
+
+[ZoneInfo57]
+LocationName="Zona centrale"
+
+[ZoneInfo59]
+LocationName="Lato destro rosso"
+
+[ZoneInfo6]
+LocationName="Scala destra blu"
+
+[ZoneInfo61]
+LocationName="Lato sinistro rosso"
+
+[ZoneInfo62]
+LocationName="Lato sinistro rosso"
+
+[ZoneInfo7]
+LocationName="Anticamera sinistra blu"
+
+[ZoneInfo8]
+LocationName="Anticamera sinistra blu"
+
+[ZoneInfo9]
+LocationName="Cortile centrale"
+

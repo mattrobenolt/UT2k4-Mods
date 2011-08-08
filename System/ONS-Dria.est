@@ -1,0 +1,55 @@
+[ClassicSniperAmmoPickup2]
+PickupMessage="Has recogido munición para rifle francotirador."
+
+[LevelInfo0]
+Title="Dria"
+
+[LevelSummary]
+Title="Dria"
+Description="Situada entre las runias de el último de los furtes Nali, estos campos de hielo fueron escenario de la batalla final entre los Nali y los Skaarj. Dirigiendo sus enormes piedras delante de ellos, los Skaarj acosaron la ciudad durante tres semanasa, rompiendo al final el muro defensivo y borrando de la escena todo la infanteria enemiga. Ahora arena de masacres, la extensa plenitud de su territorio pondrá a prueba el esfuerzo en equipo y el concentramiento de los mejores."
+
+[Volume0]
+LocationName="Base Roja"
+
+[Volume1]
+LocationName="Base Azul"
+
+[Volume10]
+LocationName="Torre del puente Norte"
+
+[Volume11]
+LocationName="Torre del puente SurSouth Bridge Tower"
+
+[Volume14]
+LocationName="Nodo Norte"
+
+[Volume15]
+LocationName="Nodo Noroeste"
+
+[Volume2]
+LocationName="Nodo MedioEste"
+
+[Volume3]
+LocationName="Nodo SudEste"
+
+[Volume4]
+LocationName="Nodo NorEste"
+
+[Volume5]
+LocationName="Nodo Sur"
+
+[Volume6]
+LocationName="Nodo SudOeste"
+
+[Volume7]
+LocationName="Mideast Nodo MidEste"
+
+[Volume8]
+LocationName="Puente Norte"
+
+[Volume9]
+LocationName="Puente Sur"
+
+[ZoneInfo0]
+LocationName="Exterior"
+

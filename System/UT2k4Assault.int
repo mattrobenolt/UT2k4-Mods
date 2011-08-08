@@ -1,0 +1,170 @@
+[ACTION_ASOpenSentinel]
+ActionString="Awake sentinel"
+
+[ACTION_ASSetPlayerSpawnArea]
+ActionString="ACTION_ASSetPlayerSpawnArea"
+
+[ACTION_ASTeleportToSpawnArea]
+ActionString="teleport to spawn area"
+
+[ACTION_PlayExplosionSound]
+ActionString="Play explosion sound"
+
+[ACTION_PlayerViewShake]
+ActionString="PlayerViewShake"
+
+[ASGameInfo]
+ASPropsDisplayText[0]="Pair of Rounds"
+ASPropsDisplayText[1]="Round Time Limit"
+ASPropsDisplayText[2]="Reset Countdown"
+ASPropsDisplayText[3]="Reinforcements Time"
+ASPropsDisplayText[4]="Practice Time"
+ASPropDescText[0]="Number of pair of rounds (Attack and defense) for this match."
+ASPropDescText[1]="Specifies how long each round lasts."
+ASPropDescText[2]="Specifies how much time there is between each round."
+ASPropDescText[3]="Specifies time between reinforcements spawning."
+ASPropDescText[4]="Specifies how much time lasts the online practice round. (In seconds)"
+ASHints=("A waypoint on the HUD indicates the location of an objective.","Be on the look out for HUD warnings and alarm sounds when an objective is in danger.","When a new spawn area has been enabled, Press %SWITCHWEAPON 10% to teleport to it instantly.","Press %BASEPATH 0% or %BASEPATH 1% to highlight the current objective, show a path to it, and slide out the objective list.","Monitor the respawn countdown to know when to expect backups.","Some weapons are better at destroying enemy Spider Mines than others.","You can be hurt or killed by vehicles exploding near you.","You can heal a friendly vehicle with the Link Gun alt-fire.","If you die, any Spider Mines or Grenades you fired will explode.","The green light on top of the weapon lockers indicates that additional ammo is available at that locker.","All turrets can zoom in by pressing %MOVEFORWARD% and zoom out by pressing %MOVEBACKWARD%.","Link turrets have the same properties as the Link Gun.","The Ion Cannon and Ion Plasma Tank, while charging up, indicate their target with a laser beam.","You can switch between remote controlled turrets by pressing %NEXTWEAPON% and %PREVWEAPON%.","In a SpaceFighter, you can cycle through targets by pressing %NEXTWEAPON% and %PREVWEAPON%.","Various trophies can be obtained by destroying a key vehicle (or turret), completing an objective, or successfully attacking.","A trophy is given to the player completing an objective, but the points reward is shared between all contributors.","Press %TOGGLEBEHINDVIEW% to switch between 1st and 3rd person view in vehicles.")
+GameName="Assault"
+Description="In each round, one team takes the role of the attacker, while the other team defends, in recreations of famous (or infamous) scenarios. After a pair of rounds, the most successful attacking team scores a point."
+
+[ASGameReplicationInfo]
+ERW_PracticeRoundEndedStr="Practice round over. Get ready!"
+ERW_RedAttackedStr="Red team successfully attacked!"
+ERW_BlueAttackedStr="Blue team successfully attacked!"
+ERW_RedDefendedStr="Red team successfully defended!"
+ERW_BlueDefendedStr="Blue team successfully defended!"
+ERW_RedMoreObjectivesStr="Red team scored (more objectives)."
+ERW_BlueMoreObjectivesStr="Blue team scored (more objectives)."
+ERW_RedMoreProgressStr="Red team scored (closer to completion)."
+ERW_BlueMoreProgressStr="Blue team scored (closer to completion)."
+ERW_RedGotSameOBJFasterStr="Red team scored (fastest)."
+ERW_BlueGotSameOBJFasterStr="Blue team scored (fastest)."
+ERW_DrawStr="Draw game."
+
+[ASOBJ_EnergyCore_Delivery]
+ObjectiveName="Energy Core Delivery"
+
+[ASOBJ_EnergyCore_Spawn]
+ObjectiveName="Energy Core Spawn"
+PlayerDroppedMessage=" dropped the Power Core!"
+DroppedMessage="Power Core dropped!"
+EnergyCorePickedUp="Power Core picked up!"
+PlayerPickedUpEnergyCore=" picked up the Power Core!"
+PlayerCoreReset="Power Core reset!"
+
+[ASTurret]
+VehiclePositionString="manning a turret"
+VehicleNameString="Energy Turret"
+
+[ASTurret_Minigun]
+VehiclePositionString="manning a Minigun Turret"
+VehicleNameString="Minigun Turret"
+
+[ASVehicle_Sentinel]
+VehicleNameString="Sentinel"
+
+[ASVehicle_Sentinel_Ceiling]
+VehicleNameString="Ceiling Sentinel"
+
+[ASVehicle_Sentinel_Floor]
+VehicleNameString="Floor Sentinel"
+
+[ASVehicle_SpaceFighter]
+Text_Speed="Speed:"
+
+[Ammo_Dummy]
+ItemName="Dummy"
+
+[DamTypeExploBarrel]
+DeathString="%k took out %o with a barrel explosion."
+FemaleSuicide="%o was a little too close to the barrel she blew up."
+MaleSuicide="%o was a little too close to the barrel he blew up."
+
+[DamTypeMinigunTurretBullet]
+DeathString="%o was mowed down by %k's minigun turret."
+FemaleSuicide="%o turned the minigun on herself."
+MaleSuicide="%o turned the minigun on himself."
+
+[DamTypeSentinelLaser]
+DeathString="%o was served an extra helping of %k's lasers."
+FemaleSuicide="%o fried herself with her own laser blast."
+MaleSuicide="%o fried himself with his own laser blast."
+
+[DestroyVehicleObjective]
+ObjectiveName="Destroy Vehicle Objective"
+ObjectiveDescription="Destroy Objective to disable it."
+Objective_Info_Attacker="Destroy Vehicle Objective"
+Objective_Info_Defender="Protect Vehicle Objective"
+
+[GameObject_EnergyCore]
+PlayerDroppedMessage=" dropped the Power Core!"
+DroppedMessage="Power Core dropped!"
+EnergyCorePickedUp="Power Core picked up!"
+PlayerPickedUpEnergyCore=" picked up the Power Core!"
+PlayerCoreReset="Power Core reset!"
+
+[HUD_Assault]
+IP_Bracket_Open="["
+IP_Bracket_Close="]"
+Cardinal_North="N"
+Cardinal_East="E"
+Cardinal_South="S"
+Cardinal_West="W"
+NoGameReplicationInfoString="Receiving Server State..."
+MetersString="m"
+TargetString="Target:"
+NoTargetString="No Target"
+PracticeRoundString="Practice Round"
+
+[InfoPod]
+POD_Message="-= info pod =-"
+
+[Message_ASKillMessages]
+KillString[0]="Top Gun!"
+KillString[1]="Wrecker!"
+KillString[2]="Vehicle spawn blocking! 5 secs warning"
+KillString[3]="Vehicle spawn blocking! 4 secs warning"
+KillString[4]="Vehicle spawn blocking! 3 secs warning"
+KillString[5]="Vehicle spawn blocking! 2 secs warning"
+KillString[6]="Vehicle spawn blocking! 1 sec warning"
+KillString[7]="Leaving battle field!"
+
+[Message_AssaultTeamRole]
+Message_PostLogin_Attacker="You are Attacking!!"
+Message_PostLogin_Defender="You are Defending!!"
+
+[Message_Awards]
+Msg[0]="You have completed the Objective!"
+Msg[1]="completed the Objective!"
+
+[ObjectiveProgressDisplay]
+HeaderText="Objectives"
+OptionalObjectivePrefix="*"
+ObjTimesString="x"
+TextCutSuffix="..."
+SpaceSeparator=" "
+PrimaryObjectivePrefix="-"
+
+[ScoreBoard_Assault]
+RemainingRoundTime="Remaining round time:"
+CurrentRound="Round:"
+RoundSeparator="/"
+Defender="( Defender )"
+Attacker="( Attacker )"
+WaitForReinforcements="   You were killed. Reinforcements in"
+WaitingToSpawnReinforcements="Waiting for reinforcements..."
+AutoRespawn="Automatically respawning in..."
+YouWonRound="You've won the round!"
+YouLostRound="You've lost the round."
+PracticeRoundOver="Practice round over."
+
+[Trigger_ASMessageTrigger]
+Message="My Message"
+
+[Weapon_Sentinel]
+ItemName="Sentinel weapon"
+
+[Weapon_Turret_Minigun]
+ItemName="Turret weapon"
+

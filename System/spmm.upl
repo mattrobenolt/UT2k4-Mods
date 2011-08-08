@@ -1,0 +1,2 @@
+[Public]
+Player=(DefaultName="Stay Puff Marshmallow Man",Mesh=Staypuffmarshmallowman.Staypuffmarshmallowman,species=xGame.SPECIES_Merc,BodySkin=staypufftextures.body,FaceSkin=staypufftextures.body,Portrait=staypufftextures.STAYPUFFICON,Text=XPlayers.staypuffman,Sex=male,Menu="SP",Ragdoll=Male)

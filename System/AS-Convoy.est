@@ -1,0 +1,168 @@
+[Action_DISPLAYMESSAGE10]
+Message="2..."
+
+[Action_DISPLAYMESSAGE11]
+Message="1..."
+
+[Action_DISPLAYMESSAGE12]
+Message="¡Las puertas están abiertas ahora!"
+
+[Action_DISPLAYMESSAGE4]
+Message="¡Los atacantes se han infiltrado en la escotilla de reparación!"
+
+[Action_DISPLAYMESSAGE6]
+Message="¡Los atacantes han alcanzado el trailer de armas!"
+
+[Action_DISPLAYMESSAGE7]
+Message="5..."
+
+[Action_DISPLAYMESSAGE8]
+Message="4..."
+
+[Action_DISPLAYMESSAGE9]
+Message="3..."
+
+[HoldObjective1]
+DestructionMessage="¡Han robado el alijo de armas de avance!"
+ObjectiveDescription="Abre el panel para acercarte más."
+Objective_Info_Attacker="Abre el panel"
+Objective_Info_Defender="Defiende el panel"
+
+[HoldObjective2]
+DestructionMessage="¡La plataforma de abordaje ha sido extendida!"
+ObjectiveDescription="Extiende la plataforma de abordaje para seguir tu avance."
+Objective_Info_Attacker="Extiende la plataforma de abordaje"
+Objective_Info_Defender="Extiende la plataforma de abordaje"
+
+[HoldObjective3]
+DestructionMessage="¡Los misiles N.E.X.U.S. están asegurados!"
+ObjectiveDescription="¡Recupera los misiles N.E.X.U.S. y habrás terminado tu misión!"
+Objective_Info_Attacker="Recupera los misiles N.E.X.U.S."
+Objective_Info_Defender="Defiende los misiles N.E.X.U.S."
+
+[HoldObjective4]
+DestructionMessage="¡Las puertas de acceso han sido abiertas!"
+ObjectiveDescription="Usa el interruptor de la puerta de acceso para seguir"
+Objective_Info_Attacker="Abre las puertas de acceso"
+Objective_Info_Defender="Defiende el interruptor de la puerta de acceso"
+
+[HoldObjective5]
+DestructionMessage="¡Los explosivos están colocados!"
+ObjectiveDescription="Coloca los explosivos en la puerta trasera para acceder a la nave de reparación"
+Objective_Info_Attacker="Coloca los explosivos en la puerta."
+Objective_Info_Defender="Defiende la puerta"
+
+[HoldObjective6]
+DestructionMessage="¡Refuerzos en camino!"
+ObjectiveDescription="Abre la puerta trasera de la nave de reparación para avanzar"
+Objective_Info_Attacker="Abre la puerta trasera"
+Objective_Info_Defender="Defiende la puerta trasera"
+
+[InfoPod0]
+POD_Message="¡ ¡ ¡Q U É D A T E    A T R Á S ! ! !"
+
+[InfoPod19]
+POD_Message="DÉJATE CAER AQUÍ"
+
+[InfoPod20]
+POD_Message="DÉJATE CAER AQUÍ"
+
+[InfoPod21]
+POD_Message="DÉJATE CAER AQUÍ"
+
+[InfoPod30]
+POD_Message="¡ ¡ ¡Q U É D A T E    A T R Á S ! ! !"
+
+[LevelInfo0]
+Title="Convoy"
+
+[LevelInfo9]
+Title="Convoy"
+
+[LevelSummary]
+Title="Convoy"
+
+Description="Este escenario es una recreación de la recuperación de los prototipos de misiles "Nexus", por parte del ejército del GNT, tras haber sido robados por los Hellions. Las fuerzas del GNT localizaron la ubicación del alijo gracias a un dispositivo de rastreo oculto en estas mortíferas armas de destrucción masiva. La ubicación exacta de los misiles se pudo averiguar durante el breve espacio de tiempo en el que eran transportados desde un lugar a otro en territorio de Taron, y el ejército se vio obligado a atacar en ese mismo instante."
+
+
+[SceneSubtitles0]
+SubTitles=("Este escenario es una recreación de la recuperación de los prototipos de misiles Nexus, por parte del ejército del GNT, tras haber sido robados por los Hellions.","Las fuerzas del GNT localizaron la ubicación del alijo gracias a un dispositivo de rastreo oculto en estas mortíferas armas de destrucción masiva.","La ubicación exacta de los misiles se pudo averiguar durante el breve espacio de tiempo en el que eran transportados desde un lugar a otro en territorio de Taron, y el ejército se vio obligado a atacar en ese mismo instante.","Los atacantes primero deben arreglárselas para llegar a la plataforma de embarque de los hellions. Manipula los controles y extiende la plataforma para que pueda continuar el ataque.",,"En este momento podría ser una buena idea que los atacantes quitaran el panel de control y convirtieran el sistema de circuitos para que trabajara para ellos y no para los hellions. Permitiría mejorar las armas y avanzar más rápido.",,"Los atacantes deben cruzar la plataforma de embarque, llegar a la puerta trasera y colocar explosivos en ella para poder entrar en la nave de reparación hellion.",,"Para poder realizar un avance más rápido, abre las puertas traseras de la nave de reparación. Esto permitirá que los atacantes empiecen mucho más cerca de su siguiente objetivo.",,"Un aviso. Hay un tanque de gasolina en la nave de reparación, cuidado con tus disparos o puede explotar, haciendo que el avance sea más difícil.",,"Los atacantes tienen que girar el conmutador para seguir avanzando. Esto les permitirá controlar las puertas laterales para llegar al objetivo final. Este conmutador también puede tomar el control de las puertas traseras, si es que todavía no se ha hecho.",,"Los atacantes deben llegar hasta el transporte de armas, mantener el conmutador y recuperar los Nexus.")
+
+[Trigger_ASMessageTrigger0]
+Message="¡Ataque aéreo! ¡Busca refugio inmediatamente!"
+
+[TriggeredObjective0]
+DestructionMessage="¡Se ha abierto el transporte N.E.X.U.S.!"
+ObjectiveDescription="Llega hasta el transporte de misiles N.E.X.U.S. y ábrelo"
+Objective_Info_Attacker="Llega hasta el transporte de misiles N.E.X.U.S."
+Objective_Info_Defender="Defiende el transporte de misiles N.E.X.U.S."
+
+[Volume1]
+LocationName="Vehículo atacante"
+
+[Volume12]
+LocationName="Torre trasera de francotirador"
+
+[Volume13]
+LocationName="Torre trasera de francotirador"
+
+[Volume14]
+LocationName="Plataforma de cañón automático"
+
+[Volume15]
+LocationName="Plataforma de cañón automático"
+
+[Volume16]
+LocationName="Torre de vanguardia de francotirador"
+
+[Volume17]
+LocationName="Torre de vanguardia de francotirador"
+
+[Volume2]
+LocationName="Tráiler de carga"
+
+[Volume3]
+LocationName="Vehículo de plataforma de abordaje"
+
+[Volume4]
+LocationName="Alijo de armas de vanguardia"
+
+[Volume5]
+LocationName="Tráiler de tuberías"
+
+[Volume6]
+LocationName="Vehículo de tráiler de armas"
+
+[Volume7]
+LocationName="Techo de tráiler de armas"
+
+[Volume8]
+LocationName="Plataforma de abordaje"
+
+[Volume9]
+LocationName="Plataforma de abordaje"
+
+[ZoneInfo1]
+LocationName="Exterior"
+
+[ZoneInfo2]
+LocationName="Puente de nave de reparación"
+
+[ZoneInfo3]
+LocationName="Cubierta superior de nave de reparación"
+
+[ZoneInfo4]
+LocationName="Cubierta superior de nave de reparación"
+
+[ZoneInfo6]
+LocationName="Puerta"
+
+[ZoneInfo7]
+LocationName="Nave de reparación"
+
+[ZoneInfo8]
+LocationName="Interior tráiler de armas"
+
+[ZoneInfo9]
+LocationName="Exterior"
+

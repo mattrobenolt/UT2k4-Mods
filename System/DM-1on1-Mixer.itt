@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title="Miscelatore"
+
+[LevelSummary]
+Title="Miscelatore"
+Description="L'odore degli spari e della morte non saranno gli unici che sentirai qui."
+
+[ZoneInfo0]
+LocationName="Tubo"
+
+[ZoneInfo1]
+LocationName="Camera dello schermo"
+
+[ZoneInfo10]
+LocationName="Minigun"
+
+[ZoneInfo11]
+LocationName="Lanciarazzi"
+
+[ZoneInfo12]
+LocationName="Danni doppi"
+
+[ZoneInfo13]
+LocationName="Ascensore"
+
+[ZoneInfo14]
+LocationName="Ascensore"
+
+[ZoneInfo3]
+LocationName="Tubi"
+
+[ZoneInfo5]
+LocationName="Fulminatore"
+
+[ZoneInfo6]
+LocationName="Fucile Link"
+
+[ZoneInfo7]
+LocationName="Sotterraneo"
+
+[ZoneInfo9]
+LocationName="Fucile shock"
+

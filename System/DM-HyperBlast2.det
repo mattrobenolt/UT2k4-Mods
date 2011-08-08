@@ -1,0 +1,50 @@
+[LevelInfo0]
+Title="HyperBlast2"
+
+[LevelSummary]
+Title="HyperBlast2"
+Description="Thanks to Magnetic Anti-Vacuum Resonance technology, combatants are able to battle outside of Xan's 'HyperBlast' arena ship for an extended period of time. Use extreme caution though, one mistake and you'll find yourself floating in space."
+
+[ZoneInfo0]
+LocationName="Untere Kammer"
+
+[ZoneInfo1]
+LocationName="Backbord-Rampe"
+
+[ZoneInfo10]
+LocationName="Oberes Atrium"
+
+[ZoneInfo11]
+LocationName="Backbord-Innenbereich"
+
+[ZoneInfo12]
+LocationName="Außenbereich"
+
+[ZoneInfo13]
+LocationName="Steuerbord-Mondgang"
+
+[ZoneInfo14]
+LocationName="Achterraum"
+
+[ZoneInfo2]
+LocationName="Steuerbord-Rampe"
+
+[ZoneInfo4]
+LocationName="Obere Kammer"
+
+[ZoneInfo5]
+LocationName="Unteres Atrium"
+
+[ZoneInfo6]
+LocationName="Steuerbord-Innenbereich"
+
+[ZoneInfo7]
+LocationName="Backbord-Mondgang"
+
+[ZoneInfo8]
+LocationName="Steuerbord-Flügel"
+
+[ZoneInfo9]
+LocationName="Backbord-Flügel"
+
+

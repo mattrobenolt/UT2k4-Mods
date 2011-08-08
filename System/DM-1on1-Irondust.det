@@ -1,0 +1,35 @@
+
+[LevelInfo0]
+Title="Irondust"
+
+[LevelSummary]
+Title="Irondust"
+Description="Kinderspiel? Na klar! Mach dich bereit, terminiert zu werden, Ironman!"
+
+[ZoneInfo1]
+LocationName="Superschild-Lift"
+
+[ZoneInfo10]
+LocationName="Linker Lift"
+
+[ZoneInfo2]
+LocationName="Rechter Lift"
+
+[ZoneInfo4]
+LocationName="Minigun-Bögen"
+
+[ZoneInfo5]
+LocationName="Link Gun-Gebiet"
+
+[ZoneInfo6]
+LocationName="Doppelte Gesundheit"
+
+[ZoneInfo7]
+LocationName="Schild-Bereich"
+
+[ZoneInfo8]
+LocationName="Kreishalle"
+
+[ZoneInfo9]
+LocationName="Laufsteg"
+

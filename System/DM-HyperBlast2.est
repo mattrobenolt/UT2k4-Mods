@@ -1,0 +1,49 @@
+[LevelInfo0]
+Title="Hiper Blast 2"
+
+[LevelSummary]
+Title="Hyper Blast 2"
+Description="Gracias a tecnología de resonancia magnética al vacío, los combatientes son capaces de batallar fuera de los límites de la arena del "Hyper Blast 2" de Xan por un tiempo limitado. Ve con la mayor precaución, sin embargo, puesto que al más mínimo error te verás flotando en el espacio exterior."
+
+[ZoneInfo0]
+LocationName="ventrículo inferior"
+
+[ZoneInfo1]
+LocationName="rampa lateral de babor"
+
+[ZoneInfo10]
+LocationName="atrio superior"
+
+[ZoneInfo11]
+LocationName="interior lateral de babor"
+
+[ZoneInfo12]
+LocationName="exterior"
+
+[ZoneInfo13]
+LocationName="corredor lunar de estribor"
+
+[ZoneInfo14]
+LocationName="sala de popa"
+
+[ZoneInfo2]
+LocationName="rampa lateral de estribor"
+
+[ZoneInfo4]
+LocationName="ventrículo superior"
+
+[ZoneInfo5]
+LocationName="atrio inferior"
+
+[ZoneInfo6]
+LocationName="interior lateral de estribor"
+
+[ZoneInfo7]
+LocationName="corredor lunar de babor"
+
+[ZoneInfo8]
+LocationName="ala lateral de estribor"
+
+[ZoneInfo9]
+LocationName="ala lateral de babor"
+

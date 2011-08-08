@@ -1,0 +1,48 @@
+[AdminIni]
+Msg_FinishGameEditFirst="Sie müssen zuerst Ihre Spielbearbeitung beenden, bevor Sie die Map neu starten."
+Msg_FinishGameRestart="Sie müssen zuerst Ihre Spielbearbeitung beenden, bevor Sie die Map ändern oder neu starten."
+Msg_MutNeedGameEdit="Der Befehl 'Spiel bearbeiten' muss vor dem Befehl 'Mutatoren' verwendet werden."
+Msg_NoMutatorInUse="Keine Mutatoren in Verwendung"
+Msg_NoUnusedMuts="Keine unbenutzten Mutatoren gefunden."
+Msg_AddedMutator="%Mutator%' wurde der Liste verwendeter Mutatoren hinzugefügt."
+Msg_ErrAddingMutator="Fehler beim Hinzufügen von '%Mutator%' zur Liste verwendeter Mutatoren."
+Msg_RemovedMutator="%Mutator%' wurde von der Liste verwendeter Mutatoren entfernt."
+Msg_ErrRemovingMutator="Fehler beim Entfernen von '%Mutator%' von der Liste verwendeter Mutatoren."
+Msg_MapListNeedGameEdit="Der Befehl 'Spiel bearbeiten' muss vor dem Befehl 'Mapliste' verwendet werden."
+Msg_MustEndGameEdit="Sie müssen zuerst Ihre Spielbearbeitung abschließen."
+Msg_EditingClass="Bearbeitung von %Class%"
+Msg_EditFailed="Bearbeitungsstart fehlgeschlagen"
+Msg_AlreadyEdited="Spiel wird bereits von jemand anderem bearbeitet."
+Msg_NotEditing="Sie bearbeiten keine Spieleinstellungen; verwenden Sie zuerst 'Spiel bearbeiten'."
+Msg_EditingCompleted="Bearbeitung abgeschlossen"
+Msg_EditingCancelled="Bearbeitung abgebrochen"
+Msg_NoBotGameFull="Es kann kein Bot hinzugefügt werden, da das Spiel voll ist."
+Msg_NoAddNamedBot="Es können nur Bots mit Namen hinzugefügt werden, sobald das Spiel gestartet wurde."
+Msg_NoBotsPlaying="Es spielen zur Zeit keine Bots."
+Msg_GameNoSupportBots="Die aktuelle Spielart unterstützt keine Bots."
+Msg_StatsNoBots="Es können keine Bots gesteuert werden, wenn Weltstatistik aktiviert ist."
+Msg_SetBotNeedVal="Dieser Befehl benötigt einen nummerischen Wert zwischen 0 und 32."
+
+[xExtraPrivs]
+LoadMsg="Extraberechtigungen geladen"
+MainPrivs="X"
+SubPrivs="Xb|Xc|Xp|Xs|Xi|Xv|Xm"
+Tags=("Sonstiges","Bot-Können einstellen","Konsole verwenden","Spielerliste","Webadmin-Skin ändern","Zugriffsrechte verwalten","Sprach-Chat-Management","Match-Einstellung")
+
+[xGamePrivs]
+LoadMsg="Map & Spielberechtigungen geladen"
+MainPrivs="M"
+SubPrivs="Mr|Mt|Mm|Ml|Ms|Mu|Mb|Ma"
+Tags=("Map/Spieleinstellungen","Map neu starten","Spielart ändern","Map ändern","Verwaltet Maprotation","Spieleinstellungen","Mutatoren auswählen","Bots hinzufügen/entfernen","Spielstatus")
+
+[xKickPrivs]
+LoadMsg="Rauswurf- und Sperrungsrechte geladen"
+MainPrivs="K"
+SubPrivs="Kp|Kb|Ko"
+Tags=("Rauswerfen/Sperren","Spieler rauswerfen","Spieler sperren","Bots rauswerfen")
+
+[xUserGroupPrivs]
+LoadMsg="Admin- & Gruppenverwaltung geladen"
+MainPrivs="A|G"
+SubPrivs="Al|Aa|Ae|Ag|Am|Gl|Ga|Ge"
+Tags=("Benutzer","Admins auflisten","Admins hinzufügen/entfernen","Admins bearbeiten","Gruppen zuweisen","Manager erstellen","Gruppen","Gruppen auflisten","Gruppen hinzufügen/entfernen","Gruppen bearbeiten")

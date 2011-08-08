@@ -1,0 +1,22 @@
+[LevelInfo0]
+Title="Rankin"
+
+[LevelSummary]
+Title="Rankin"
+Description="Un mapa de tamaño medio en un antiguo edificio industrial, en el centro de una gran tormenta."
+
+[Volume0]
+LocationName="Zona de fábrica 2"
+
+[Volume1]
+LocationName="Zona de fábrica 1"
+
+[Volume2]
+LocationName="Sala de antiaéreo"
+
+[Volume3]
+LocationName="Zona de amplificación"
+
+[Volume4]
+LocationName="Sótano"
+

@@ -1,0 +1,39 @@
+[LevelInfo0]
+Title="Severance"
+
+[LevelSummary]
+Title="Severance"
+Description="Hace eones, los habitantes de estas ruinas olvidadas invocaron a una criatura de oscuridad elemental, a la que aprisionaron y adormecieron con la sangre de incontables sacrificios. En la quietud entre batalla y batalla, a veces puede oírse la voz de este titán que, despertado de su sueño, aguarda tu sangre."
+
+[Volume0]
+LocationName="Base azul"
+
+[Volume1]
+LocationName="Base roja"
+
+[Volume2]
+LocationName="Base Azul"
+
+[Volume3]
+LocationName="Nodo noreste"
+
+[Volume4]
+LocationName="Nodo noroeste"
+
+[Volume5]
+LocationName="Nodo central"
+
+[Volume6]
+LocationName="Nodo sureste"
+
+[Volume7]
+LocationName="Nodo suroeste"
+
+[Volume8]
+LocationName="Base Roja"
+
+[ZoneInfo0]
+LocationName="Exterior"
+
+[LadderVolume0]
+LocationName="Base azul"

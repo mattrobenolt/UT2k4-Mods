@@ -1,0 +1,39 @@
+[LevelInfo0]
+Title="Oceanic"
+
+[LevelSummary]
+Title="Oceanic"
+
+[ZoneInfo1]
+LocationName="Pasadizo 1"
+
+[ZoneInfo10]
+LocationName="Rifle de choque"
+
+[ZoneInfo11]
+LocationName="Rifle de choque"
+
+[ZoneInfo12]
+LocationName="Flak Cannon"
+
+[ZoneInfo13]
+LocationName="Sala de lanzacohetes"
+
+[ZoneInfo2]
+LocationName="Centro arriba"
+
+[ZoneInfo4]
+LocationName="Centro arriba"
+
+[ZoneInfo6]
+LocationName="Minigun"
+
+[ZoneInfo7]
+LocationName="Sala central"
+
+[ZoneInfo8]
+LocationName="Pasadizo 2"
+
+[ZoneInfo9]
+LocationName="Centro abajo"
+

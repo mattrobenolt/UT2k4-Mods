@@ -1,0 +1,27 @@
+[LevelInfo0]
+Title="Flux 2"
+
+[LevelSummary]
+Title="Flux 2"
+
+[Volume5]
+LocationName="Vialetto posteriore"
+
+[Volume6]
+LocationName="Area rampa lunga"
+
+[Volume7]
+LocationName="Area rampa lunga"
+
+[Volume8]
+LocationName="Area frontale"
+
+[Volume9]
+LocationName="Area di passaggio"
+
+[ZoneInfo0]
+LocationName="Interno"
+
+[ZoneInfo1]
+LocationName="Esterno"
+

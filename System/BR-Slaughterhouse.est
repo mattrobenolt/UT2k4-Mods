@@ -1,0 +1,113 @@
+[LevelInfo0]
+Title="Slaughterhouse"
+LevelEnterText="Slaughterhouse"
+
+[LevelSummary]
+Title="Slaughterhouse"
+LevelEnterText="Slaughterhouse"
+
+[ZoneInfo0]
+LocationName="Almacén de carne Azules"
+
+[ZoneInfo1]
+LocationName="Sala de lanzam. beta Azules"
+
+[ZoneInfo10]
+LocationName="Sumidero Azules"
+
+[ZoneInfo11]
+LocationName="Entrada almacén de carne Azules"
+
+[ZoneInfo12]
+LocationName="Congelador Rojos"
+
+[ZoneInfo13]
+LocationName="Puerta de bomba Rojos"
+
+[ZoneInfo14]
+LocationName="Sala de lanzam. beta Rojos"
+
+[ZoneInfo15]
+LocationName="Pasadizo trasero Rojos"
+
+[ZoneInfo16]
+LocationName="Fuentes Rojos"
+
+[ZoneInfo17]
+LocationName="Sala de lanzam. alfa Azules"
+
+[ZoneInfo18]
+LocationName="Capilla Rojos"
+
+[ZoneInfo19]
+LocationName="Desagüe Rojos"
+
+[ZoneInfo2]
+LocationName="Puerta de bomba Azules"
+
+[ZoneInfo20]
+LocationName="This guy's Chuck.  Ground Chuck in the Blue room"
+
+[ZoneInfo21]
+LocationName="Sala de lanzam. alfa Rojos"
+
+[ZoneInfo22]
+LocationName="Pasadizo sierra Rojos"
+
+[ZoneInfo23]
+LocationName="Patio Azules"
+
+[ZoneInfo24]
+LocationName="OOoh, está muerto en la base roja"
+
+[ZoneInfo25]
+LocationName="Patio Azules"
+
+[ZoneInfo26]
+LocationName="Sala principal Azules"
+
+[ZoneInfo27]
+LocationName="Pasadizo sierra Azules"
+
+[ZoneInfo28]
+LocationName="Almacén de carne Azules"
+
+[ZoneInfo29]
+LocationName="Pasadizo sierra Rojos"
+
+[ZoneInfo3]
+LocationName="Pasadizo sierra Azules"
+
+[ZoneInfo30]
+LocationName="Sala principal Rojos"
+
+[ZoneInfo35]
+LocationName="Tubería Rojos"
+
+[ZoneInfo36]
+LocationName="Patio Rojos"
+
+[ZoneInfo37]
+LocationName="Tubería Azules"
+
+[ZoneInfo38]
+LocationName="Entrada congelador Rojos"
+
+[ZoneInfo4]
+LocationName="Capilla Azules"
+
+[ZoneInfo5]
+LocationName="Fuentes Azules"
+
+[ZoneInfo6]
+LocationName="Pasadizo trasero Azules"
+
+[ZoneInfo7]
+LocationName="Patio de bomba"
+
+[ZoneInfo8]
+LocationName="Patio Rojos"
+
+[ZoneInfo9]
+LocationName="Congelador Rojos"
+

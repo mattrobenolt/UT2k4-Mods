@@ -1,0 +1,5 @@
+[Public]
+Object=(Name=ATHF_Shake_Voice.ATHF_Shake_Voice,Class=Class,MetaClass=XGame.xVoicePack)
+
+[UT2K4_ATHF]
+VoicePackName="ATHF Shake Voice"

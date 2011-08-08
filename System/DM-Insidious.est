@@ -1,0 +1,47 @@
+[LevelInfo0]
+Title="Insidious"
+LevelEnterText="DM-Insidious"
+
+[LevelSummary]
+Title="Insidious"
+LevelEnterText="DM-Insidious"
+
+[ZoneInfo0]
+LocationName="Tanques de muro"
+
+[ZoneInfo1]
+LocationName="Sala del Bio"
+
+[ZoneInfo10]
+LocationName="Sala inferior"
+
+[ZoneInfo11]
+LocationName="Sala del Flak"
+
+[ZoneInfo12]
+LocationName="Salas superiores"
+
+[ZoneInfo13]
+LocationName="Tanques de clonación"
+
+[ZoneInfo15]
+LocationName="Salas superiores"
+
+[ZoneInfo2]
+LocationName="Tanques de clonación"
+
+[ZoneInfo3]
+LocationName="Tanques de clonación"
+
+[ZoneInfo4]
+LocationName="Sala inferior"
+
+[ZoneInfo7]
+LocationName="Tanques de muro"
+
+[ZoneInfo8]
+LocationName="Tanques de muro"
+
+[ZoneInfo9]
+LocationName="Sala del ventilador"
+

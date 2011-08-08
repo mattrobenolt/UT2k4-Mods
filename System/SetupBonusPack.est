@@ -1,0 +1,17 @@
+[Setup]
+LocalProduct="Unreal Tournament 2003 Bonus Pack"
+ReadMe=Help\BonusPackReadme.txt
+SetupWindowTitle=Unreal Tournament 2003 Bonus Pack Setup
+ProductURL=http://www.unrealtournament2003.com/
+VersionURL=http://www.unrealtournament2003.com/
+Developer="Epic Games"
+DeveloperURL=http://www.epicgames.com/
+Logo=Help\Logo.bmp
+License=License.int
+
+[UT2003Requirement]
+LocalProduct=UT2003
+ProductURL=http://www.unrealtournament2003.com/
+VersionURL=http://www.unrealtournament2003.com/
+Developer="Epic Games"
+DeveloperURL=http://www.epicgames.com/

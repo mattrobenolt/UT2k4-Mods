@@ -1,0 +1,28 @@
+[LevelInfo0]
+Title="Colossus"
+
+[LevelSummary]
+Title="Colossus"
+Description="Egal ob Sie zu Land oder in der Luft über Boost-Tunnel angreifen, müssen Sie mit großer Gegenwehr rechnen, da Ihre Gegner das Terrain und Technologien ausnutzen werden, um Ihnen den Weg zu versprerren. Für diejenigen, die Schwierigkeiten mit der Orientierung haben, stehen Karten zur Verfügung."
+
+[Volume0]
+LocationName="Hintere BLAUE Basis"
+
+[Volume1]
+LocationName="Vordere BLAUE Basis"
+
+[Volume2]
+LocationName="Neutrale Zone"
+
+[Volume3]
+LocationName="Vordere ROTE Basis"
+
+[Volume4]
+LocationName="Hintere ROTE Basis"
+
+[ZoneInfo1]
+LocationName="ROTER Bunker"
+
+[ZoneInfo2]
+LocationName="BLAUER Bunker"
+

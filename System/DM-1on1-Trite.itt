@@ -1,0 +1,22 @@
+[LevelInfo0]
+Title="Trita"
+
+[LevelSummary]
+Title="Trita"
+Description="In questa struttura abbandonata devi stare attento e sempre all'erta, se non vuoi diventare un cadavere freddo come l'acciaio che ti circonda..."
+
+[ZoneInfo0]
+LocationName="Zona Flak"
+
+[ZoneInfo1]
+LocationName="Zona degli ZeroDanni"
+
+[ZoneInfo2]
+LocationName="Stanza degli schermi"
+
+[ZoneInfo3]
+LocationName="Zona del fucile di precisione"
+
+[ZoneInfo4]
+LocationName="Zona del fucile shock"
+

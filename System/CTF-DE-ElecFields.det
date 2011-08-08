@@ -1,0 +1,96 @@
+[LevelInfo0]
+Title="ElecFields"
+
+[LevelSummary]
+Title="ElecFields"
+Description="Die statisch aufgeladenen Türme am Marakan-Fluss haben sich seit ihrer Einführung letztes Jahr als einer der beliebtesten Schauplätze des Tournaments erwiesen. Auf diesem blutigen Schlachtfeld zeigt sich, wer ein wahrhaft moderner Gladiator ist. Ob bei CTF oder im Bombing Run, die Spieler müssen sich bei ihrem Kampf in der giftverseuchten Luft dieser Hölle immer über eines klar sein: nach unten ist es ein langer Weg."
+
+[Volume0]
+LocationName="BLAUE Front"
+
+[Volume1]
+LocationName="BLAUES Einstiegs-Gebiet"
+
+[Volume10]
+LocationName="ROTE Basis, Rampe"
+
+[Volume11]
+LocationName="ROTE Basis, Rampe"
+
+[Volume12]
+LocationName="BLAUE Front, Rampe unten"
+
+[Volume13]
+LocationName="ROTE Front, Rampe unten"
+
+[Volume14]
+LocationName="BLAUE Front, Rampe unten"
+
+[Volume15]
+LocationName="BLAUE Front, Rampe unten"
+
+[Volume16]
+LocationName="ROTE Front, Rampe unten"
+
+[Volume17]
+LocationName="ROTE Front, Rampe unten"
+
+[Volume18]
+LocationName="Oberster Mittelbereich"
+
+[Volume19]
+LocationName="Turmbereich"
+
+[Volume2]
+LocationName="Unterer Mittelbereich"
+
+[Volume20]
+LocationName="BLAUE Front, Rampe oben"
+
+[Volume21]
+LocationName="BLAUE Front, Rampe oben"
+
+[Volume22]
+LocationName="BLAUE Front, Rampe oben"
+
+[Volume23]
+LocationName="ROTE Front, Rampe oben"
+
+[Volume24]
+LocationName="ROTE Front, Rampe oben"
+
+[Volume25]
+LocationName="ROTE Front, Rampe oben"
+
+[Volume26]
+LocationName="ROTE Front, Rampe unten"
+
+[Volume27]
+LocationName="BLAUE Front, Rampe unten"
+
+[Volume28]
+LocationName="BLAUE Basis"
+
+[Volume3]
+LocationName="ROTEr Einstiegs-Bereich"
+
+[Volume4]
+LocationName="ROTE Front"
+
+[Volume5]
+LocationName="BLAUE Basis, Rampe"
+
+[Volume6]
+LocationName="BLAUE Basis, Rampe"
+
+[Volume7]
+LocationName="ROTE Basis"
+
+[Volume8]
+LocationName="ROTE Front"
+
+[Volume9]
+LocationName="BLAUE Front"
+
+[ZoneInfo0]
+LocationName="Außenbereich"

@@ -1,0 +1,158 @@
+[ACTION_ASOpenSentinel]
+ActionString="Wächter aufwecken"
+
+[ACTION_ASSetPlayerSpawnArea]
+ActionString="ACTION_ASSetPlayerSpawnArea"
+
+[ACTION_ASTeleportToSpawnArea]
+ActionString="Zum Einstiegsgebiet teleportieren"
+
+[ACTION_PlayExplosionSound]
+ActionString="Explosions Sound"
+
+[ASGameInfo]
+ASPropsDisplayText[0]="Rundenpaare"
+ASPropsDisplayText[1]="Runden-Zeitlimit"
+ASPropsDisplayText[2]="Countdown zurücksetzen"
+ASPropsDisplayText[3]="Verstärkungszeit"
+ASPropsDisplayText[4]="Übungszeit"
+ASPropDescText[0]="Anzahl der Rundenpaare (Angriff und Verteidigung) für dieses Spiel."
+ASPropDescText[1]="Bestimmt, wie lange jede Runde dauert."
+ASPropDescText[2]="Bestimmt, wie viel Zeit zwischen jeder Runde vergeht."
+ASPropDescText[3]="Bestimmt die Zeit zwischen den Verstärkungen."
+ASPropDescText[4]="Legt fest, wie lange die Online-Übungsrunde dauert (in Sekunden)."
+ASHints=("Ein Wegpunkt auf dem HUD gibt den Ort eines Ziels an.","Achten Sie auf HUD-Warnungen und Alarmtöne, wenn ein Ziel in Gefahr ist.","Wenn ein neuer Einstiegsbereich aktiviert wurde, drücken Sie %SWITCHWEAPON 10%, um umgehend einen Teleport dorthin auszuführen.","Drücken Sie %BASEPATH 0% oder %BASEPATH 1%, um das aktuelle Ziel zu markieren, einen Weg dorthin zu zeigen und die Zielliste auszufahren.","Überwachen Sie den Wiedereinstiegs-Countdown, damit Sie wissen, wann Unterstützung zu erwarten ist.","Einige Waffen sind besser zum Zerstören von Spider-Minen geeignet als andere.","Sie können durch Fahrzeuge, die in Ihrer Nähe explodieren, verletzt oder getötet werden.","Mit dem alternativen Feuer der Link Gun, können Sie ein Fahrzeug Ihres Teams reparieren.","Wenn Sie sterben, explodieren alle Spider-Minen und Granaten, die Sie abgefeuert haben.","Das grüne Licht oben auf den Waffenfächern zeigen an, dass weitere Munition im Fach vorhanden ist.","Alle Türme können Sie mit %MOVEFORWARD% heranzoomen und mit %MOVEBACKWARD% wegzoomen.","Link-Türme haben die gleichen Eigenschaften wie die Link Gun.","Die Ion Cannon und der Ionenplasmapanzer kennzeichnen Ihr Ziel beim Aufladen mit einem Laserstrahl.","Man kann zwischen ferngesteuerten Türmen mit %NEXTWEAPON% und %PREVWEAPON% umschalten.","Bei einem Spacefighter kann man zwischen Zielen umschalten, indem man %NEXTWEAPON% und %PREVWEAPON% drückt.","Es können mehrere Trophäen gewonnen werden, indem man ein wichtiges Fahrzeug (oder einen wichtigen Turm) zerstört, ein Ziel erfüllt, oder einen erfolgreichen Angriff durchgeführt hat.","Eine Trophäe erhält der Spieler, der das Ziel erfüllt, aber die Punktebelohnung wird auf alle aufgeteilt, die zum Erfolg beigetragen haben.","Drücken Sie %TOGGLEBEHINDVIEW%, um bei Fahrzeugen zwischen der Ego- und der Außen-Perspektive umzuschalten.")
+GameName="Assault"
+Description="In jeder Runde übernimmt ein Team die Rolle des Angreifers und das andere Team die des Verteidigers. Es werden berühmte (oder berüchtigte) Szenarien nachgespielt. Nach einem Rundenpaar erhält das erfolgreichste Angriffsteam einen Punkt."
+
+[ASGameReplicationInfo]
+ERW_PracticeRoundEndedStr="Die Übungsrunde ist vorbei. Machen Sie sich fertig!"
+ERW_RedAttackedStr="Rotes Team erfolgreich angegriffen!"
+ERW_BlueAttackedStr="Blaues Team erfolgreich angegriffen!"
+ERW_RedDefendedStr="Rotes Team erfolgreich verteidigt!"
+ERW_BlueDefendedStr="Blaues Team erfolgreich verteidigt!"
+ERW_RedMoreObjectivesStr="Rotes Team punktete (mehr Ziele)."
+ERW_BlueMoreObjectivesStr="Blaues Team punktete (mehr Ziele)."
+ERW_RedMoreProgressStr="Rotes Team punktete (nah am Ziel)."
+ERW_BlueMoreProgressStr="Blaues Team punktete (nah am Ziel)."
+ERW_RedGotSameOBJFasterStr="Rotes Team punktete (Schnellster)."
+ERW_BlueGotSameOBJFasterStr="Blaues Team punktete (Schnellster)."
+ERW_DrawStr="Gleichstand."
+
+[ASOBJ_EnergyCore_Delivery]
+ObjectiveName="Liefern des Energiekerns"
+
+[ASOBJ_EnergyCore_Spawn]
+ObjectiveName="Erscheinen des Energiekerns"
+PlayerDroppedMessage=" hat Energiekern fallen gelassen!"
+DroppedMessage="Energiekern fallen gelassen!"
+EnergyCorePickedUp="Energiekern aufgesammelt!"
+PlayerPickedUpEnergyCore=" hat Energiekern aufgesammelt!"
+
+[ASTurret]
+VehiclePositionString="besetzt einen Turm"
+VehicleNameString="Energieturm"
+
+[ASTurret_Minigun]
+VehiclePositionString="Besetzung eines Minigun-Turms"
+VehicleNameString="Minigun-Turm"
+
+[ASVehicle_Sentinel]
+VehicleNameString="Wächter"
+
+[ASVehicle_Sentinel_Ceiling]
+VehicleNameString="Deckenwächter"
+
+[ASVehicle_Sentinel_Floor]
+VehicleNameString="Bodenwächter"
+
+[ASVehicle_SpaceFighter]
+Text_Speed="Geschwindigkeit:"
+
+[Ammo_Dummy]
+ItemName="Dummy"
+
+[DamTypeExploBarrel]
+DeathString="%k hat %o mit einer Barrelexplosion ausgeschaltet."
+FemaleSuicide="%o befand sich etwas zu nahe an dem Barrel, das sie hochgejagt hat."
+MaleSuicide="%o befand sich etwas zu nahe an dem Barrel, das ihn hochgejagt hat."
+
+[DamTypeMinigunTurretBullet]
+DeathString="%o wurde von %ks Minigun-Geschütz weggemäht."
+FemaleSuicide="%o hat sich Minigun-isiert."
+MaleSuicide="%o hat sich Minigun-isiert."
+
+[DamTypeSentinelLaser]
+DeathString="%o bekam eine Extraportion von %ks Laser."
+FemaleSuicide="%o hat sich mit ihrem eigenen Laser gegrillt."
+MaleSuicide="%o hat sich mit seinem eigenen Laser gegrillt."
+
+[DestroyVehicleObjective]
+ObjectiveName="Fahrzeugziel zerstören"
+ObjectiveDescription="Fahrzeugziel zerstören, um es zu deaktivieren."
+Objective_Info_Attacker="Fahrzeugziel zerstören"
+Objective_Info_Defender="Fahrzeugziel schützen"
+
+[GameObject_EnergyCore]
+PlayerDroppedMessage=" hat Energiekern fallen gelassen!"
+DroppedMessage="Energiekern fallen gelassen!"
+EnergyCorePickedUp="Energiekern aufgesammelt!"
+PlayerPickedUpEnergyCore=" hat Energiekern aufgesammelt!"
+
+[HUD_Assault]
+IP_Bracket_Open="["
+IP_Bracket_Close="]"
+Cardinal_North="N"
+Cardinal_East="E"
+Cardinal_South="S"
+Cardinal_West="W"
+NoGameReplicationInfoString="Server-Status wird empfangen ..."
+MetersString="m"
+TargetString="Ziel:"
+NoTargetString="Kein Ziel"
+PracticeRoundString="Übungsrunde"
+
+[InfoPod]
+POD_Message="-= info pod =-"
+
+[Message_ASKillMessages]
+KillString[0]="Top Gun!"
+KillString[1]="Räuber!"
+
+[Message_AssaultTeamRole]
+Message_PostLogin_Attacker="Sie greifen an!!"
+Message_PostLogin_Defender="Sie verteidigen!!"
+
+[Message_Awards]
+Msg[0]="Sie haben das Ziel erreicht!"
+Msg[1]="erreichte das Ziel!"
+
+[ObjectiveProgressDisplay]
+HeaderText="Ziele"
+OptionalObjectivePrefix="*"
+ObjTimesString="x"
+TextCutSuffix="..."
+SpaceSeparator=" "
+PrimaryObjectivePrefix="-"
+
+[ScoreBoard_Assault]
+RemainingRoundTime="Restliche Rundenzeit:"
+CurrentRound="Runde:"
+RoundSeparator="/"
+Defender="( Verteidiger )"
+Attacker="( Angreifer )"
+WaitForReinforcements="   Sie wurden getötet. Verstärkung in"
+WaitingToSpawnReinforcements="Warten auf Verstärkung ..."
+AutoRespawn="Automatischer Wiedereinstieg in ..."
+YouWonRound="Sie haben die Runde gewonnen!"
+YouLostRound="Sie haben die Runde verloren!"
+PracticeRoundOver="Übungsrunde vorüber."
+
+[Trigger_ASMessageTrigger]
+Message="Meine Meldung"
+
+[Weapon_Sentinel]
+ItemName="Wächterwaffe"
+
+[Weapon_Turret_Minigun]
+ItemName="Turmwaffe"

@@ -1,0 +1,64 @@
+[LevelInfo0]
+Title="Grendelkeep"
+
+[LevelInfo6]
+Title="Grendelkeep"
+
+[LevelSummary]
+Title="Grendelkeep"
+Description="Prieth Callas fue un hombre cruel y duro, aficionado a torturar a sus enemigos antes de acabar definitivamente con ellos. Crió seres de gran tamaño y ferocidad, arrojándolos contra sus prisioneros en estadios que él mismo diseñó. El Bastión de Grendel es la última de sus diabólicas creaciones, abandonada desde que Callas fue arrojado desde las almenas por sus propios hombres y fue ofrecido como comida a las criaturas que criaba en las oscuras perreras subterráneas. La lluvia ha borrado la sangre, pero el mal que creció allí tiene raíces mucho más profundas."
+
+[ZoneInfo0]
+LocationName="Gran vestíbulo"
+
+[ZoneInfo1]
+LocationName="Gran sala"
+
+[ZoneInfo10]
+LocationName="Nido del francotirador"
+
+[ZoneInfo11]
+LocationName="Gran vestíbulo"
+
+[ZoneInfo12]
+LocationName="Cámara inferior del antiaéreo"
+
+[ZoneInfo13]
+LocationName="Cámara inferior del antiaéreo"
+
+[ZoneInfo14]
+LocationName="Gran vestíbulo"
+
+[ZoneInfo2]
+LocationName="Gran cámara amplificador"
+
+[ZoneInfo28]
+LocationName="Cámara superior del cohete"
+
+[ZoneInfo3]
+LocationName="Cámara superior del cohete"
+
+[ZoneInfo30]
+LocationName="Gran sala"
+
+[ZoneInfo31]
+LocationName="Gran sala"
+
+[ZoneInfo4]
+LocationName="Gran sala"
+
+[ZoneInfo5]
+LocationName="Cámara superior del cohete"
+
+[ZoneInfo6]
+LocationName="Minicámara"
+
+[ZoneInfo7]
+LocationName="Minicámara"
+
+[ZoneInfo8]
+LocationName="Gran torre"
+
+[ZoneInfo9]
+LocationName="Nido del francotirador"
+

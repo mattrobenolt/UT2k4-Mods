@@ -1,0 +1,19 @@
+[LevelInfo0]
+Title="Idoma"
+
+[LevelSummary]
+Title="Idoma"
+Description="Kleine Karte mit viel Atmosphäre, in einem Gebäude, das aus einer Menge Holz und Metall besteht."
+
+[Volume0]
+LocationName="Raketengebiet"
+
+[Volume1]
+LocationName="Schild-Bereich"
+
+[Volume2]
+LocationName="Mitte"
+
+[Volume3]
+LocationName="Flak-Gebiet"
+

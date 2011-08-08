@@ -1,0 +1,4 @@
+[Public]
+
+Player=(DefaultName="Fry",Mesh=FryAnim.Fry,species=xGame.SPECIES_Merc,BodySkin=fry.fryBody,FaceSkin=fry.fryHead,Portrait=fry.fryPortrait,Voice=fryvoice.fryvoice,Text="Name:  Fry|Age:   25|Race:  Human slacker||Fry's comments:|Leela's in this tournament thingy?  Oh man, sign me up!  I wanna impress her with my manly shootering skills.  Uh, what do you mean by 'crippling, agonizing pain'? "||"Sex=male,Menu="SP",Aggressiveness=+0.5,CombatStyle=+0.4,FavoriteWeapon=xWeapons.FlakCannon,Ragdoll=Male)
+

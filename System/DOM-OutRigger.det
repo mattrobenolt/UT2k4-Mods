@@ -1,0 +1,70 @@
+[LevelInfo0]
+Title="Outrigger"
+LocationName="Unbekannt"
+
+[LevelSummary]
+Title="Outrigger"
+
+[Volume0]
+LocationName="Dom. Punkt A, Unten"
+
+[Volume1]
+LocationName="Dom. Punkt B, Unten"
+
+[Volume10]
+LocationName="Bereich Mitte"
+
+[Volume11]
+LocationName="Lightning Gun Turm"
+
+[Volume12]
+LocationName="Dom. Punkt B, Plattform 3"
+
+[Volume13]
+LocationName="Dom. Punkt A, Plattform 3"
+
+[Volume15]
+LocationName="Dom. Punkt B"
+
+[Volume16]
+LocationName="Dom. Punkt A"
+
+[Volume2]
+LocationName="Dom. Punkt B, Plattform 2"
+
+[Volume3]
+LocationName="Dom. Punkt B, Krähennest"
+
+[Volume4]
+LocationName="Dom. Punkt A, Krähennest"
+
+[Volume5]
+LocationName="Dom. Punkt A, Plattform 2"
+
+[Volume6]
+LocationName="Dom. A, Plattform 1"
+
+[Volume7]
+LocationName="Dom. B, Plattform 1"
+
+[Volume8]
+LocationName="Spawning Bereich"
+
+[ZoneInfo1]
+LocationName="Dom. Punkt B, Unten"
+
+[ZoneInfo12]
+LocationName="Dom. Punkt A, Plattform 1"
+
+[ZoneInfo15]
+LocationName="Dom. Punkt A, Plattform 3"
+
+[ZoneInfo4]
+LocationName="Dom. Punkt B, Plattform 1"
+
+[ZoneInfo7]
+LocationName="Dom. Punkt B, Plattform 3"
+
+[ZoneInfo9]
+LocationName="Dom. Punkt A, Unten"
+

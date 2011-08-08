@@ -1,0 +1,5 @@
+;UTILITY:  This package was built with UT2K4VoicePackager by Paul Catalano (www.xgxlan.com/vp)
+[Public]
+Object=(Name=MartianVoice.MartianVoice,Class=Class,MetaClass=XGame.xVoicePack)
+[MartianVoice]
+VoicePackName="Mars Attacks"

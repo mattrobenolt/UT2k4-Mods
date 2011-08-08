@@ -1,0 +1,31 @@
+[LevelInfo0]
+Title="Crash"
+
+[LevelSummary]
+Title="Crash"
+Description="Hace mucho tiempo, en una galaxia muy lejana, un hombre con el corazón lleno de dolor construyó este complejo para luchar su propio torneo y meditar sobre las batallas de su pasado. La leyenda no dice si encontró su libertad, pero parece que los gritos de tristeza infinita de los viejos muros intentan dar una respuesta..."
+
+[ZoneInfo0]
+LocationName="Corredor de promotor"
+
+[ZoneInfo1]
+LocationName="Sala de biorifle"
+
+[ZoneInfo2]
+LocationName="Corredor de rifle de choque"
+
+[ZoneInfo3]
+LocationName="Sala de armadura pequeña"
+
+[ZoneInfo4]
+LocationName="Sala de cañón automático"
+
+[ZoneInfo5]
+LocationName="Sala de armadura grande"
+
+[ZoneInfo6]
+LocationName="Corredor inferior"
+
+[ZoneInfo7]
+LocationName="Sala de antiaéreo"
+

@@ -1,0 +1,1 @@
+Game=(ClassName=Haloscript.HaloInvasion,GameName=Haloscript.HaloInvasion.GameName,TeamGame=1,GameAcronym=INV,MapPrefix=DM,Screenshot=UT2004Thumbnails.InvasionShots,MapListClassName=Skaarjpack.MapListSkaarjInvasion,Description=Haloscript.HaloInvasion.Description,FallbackName="HaloInvasion",FallbackDesc="Replaces INVASION Monsters with the Flood.")

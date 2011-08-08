@@ -1,0 +1,620 @@
+[Public]
+Object=(Name=XGame.AlienFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.AlienMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.JuggFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.JuggMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.MercFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.MercMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.NightFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.NightMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.RobotVoice,Class=Class,MetaClass=XGame.xVoicePack)
+
+[AlienFemaleVoice]
+TauntString[21]="Blow me"
+TauntString[22]="Camper!"
+TauntString[23]="Douche bag!"
+TauntString[24]="Spammer!"
+TauntString[25]="Sucker"
+TauntString[26]="Talk to the hand"
+TauntString[27]="You dick!"
+VoicePackName="Female Alien"
+
+[AlienMaleVoice]
+TauntString[21]="Blow me"
+TauntString[22]="Camper!"
+TauntString[23]="Douche bag!"
+TauntString[24]="Spammer!"
+TauntString[25]="Sucker"
+TauntString[26]="Talk to the hand"
+TauntString[27]="You dick!"
+VoicePackName="Male Alien"
+
+[BloodRites]
+ChallengeName="Bloodrites"
+ChallengeDescription="Challenge an enemy team for one for their team mates."
+
+[BossDM]
+GameName="Championship Match"
+
+[CLOnslaught]
+EntryLabels=("Hit & Run","Roadkill","Drive-by shooting","Road warrior","Core meltdown","Vehicle slaughter")
+
+[ChallengeGame]
+msgGotChallenged="We got challenged"
+msgWeChallenged="We challenged"
+msgFor="for"
+
+[ChampRosterFinal]
+TeamName="Championship Match"
+
+[ChampRosterSemiFinal]
+TeamName="Championship Match"
+
+[ComboBerserk]
+ExecMessage="Berserk!"
+
+[ComboDefensive]
+ExecMessage="Booster!"
+
+[ComboInvis]
+ExecMessage="Invisible!"
+
+[ComboSpeed]
+ExecMessage="Speed!"
+
+[DMRosterBeatTeam]
+TeamName="Death Match"
+
+[DMRosterGael]
+TeamName="Death Match"
+
+[DMRosterLeviathan]
+TeamName="Death Match"
+
+[DMRosterOceanic]
+TeamName="Death Match"
+
+[DMRosterTrainingDay]
+TeamName="Death Match"
+
+[DamTypeIonVolume]
+DeathString="%o was OBLITERATED by %k!"
+FemaleSuicide="%o was OBLITERATED"
+MaleSuicide="%o was OBLITERATED"
+
+[InstagibCTF]
+ZoomDisplayText="Allow Zoom"
+ZoomDescText="Instagib rifles have sniper scopes."
+GameName="Instagib CTF"
+
+[IonCannonKillWarning]
+CountDownTrailer="..."
+WarningString="You have been targeted by an orbital Ion Satellite!"
+
+[JuggFemaleVoice]
+TauntString[21]="Life Is Pain, Get Over It"
+TauntString[22]="Right Between The Eyes"
+TauntString[23]="Tag 'Em And Bag 'Em"
+TauntString[24]="That Was Nasty"
+TauntString[25]="You Bleed Better Than You Shoot"
+TauntString[26]="You Suck"
+TauntString[27]="Lick me"
+OtherString[32]="I Can't Feel My Legs"
+OtherString[33]="Nice Shot"
+VoicePackName="Female Juggernaut"
+
+[JuggMaleVoice]
+TauntString[21]="Life Is Pain, Get Over It"
+TauntString[22]="Right Between The Eyes"
+TauntString[23]="Tag 'Em And Bag 'Em"
+TauntString[24]="That Was Nasty"
+TauntString[25]="You Bleed Better Than You Shoot"
+TauntString[26]="You Suck"
+OtherString[32]="I Can't Feel My Legs"
+OtherString[33]="Nice Shot"
+VoicePackName="Male Juggernaut"
+
+[LavaVolume]
+LocationName="in lava"
+
+[ManoEMano]
+ChallengeName="Head to Head"
+ChallengeDescription="A 1 vs 1 match against another team leader."
+
+[MercFemaleVoice]
+TauntString[21]="Duck Faster Next Time"
+TauntString[22]="Hold Still Dammit"
+TauntString[23]="Holy Shit"
+TauntString[24]="Just Hold Still And I'll Make It Quick"
+TauntString[25]="Kill Em All"
+TauntString[26]="Nailed Him"
+TauntString[27]="Not Even Close"
+TauntString[28]="Step Aside"
+TauntString[29]="Suck On This"
+TauntString[30]="Try Turning The Safety Off"
+TauntAbbrev[24]="Just Hold Still"
+OtherString[32]="Not Bad"
+VoicePackName="Female Mercenary"
+
+[MercMaleVoice]
+TauntString[21]="Duck Faster Next Time"
+TauntString[22]="Hold Still Dammit"
+TauntString[23]="Holy Shit"
+TauntString[24]="Just Hold Still And I'll Make It Quick"
+TauntString[25]="Kill Em All"
+TauntString[26]="Nailed Him"
+TauntString[27]="Not Even Close"
+TauntString[28]="Step Aside"
+TauntString[29]="Suck On This"
+TauntString[30]="Try Turning The Safety Off"
+TauntString[31]="You Die Too Easily"
+TauntAbbrev[24]="Just Hold Still"
+OtherString[32]="Not Bad"
+VoicePackName="Male Mercenary"
+
+[MultiKillMessage]
+KillString[0]="Double Kill!"
+KillString[1]="Multi Kill!"
+KillString[2]="Mega Kill!!"
+KillString[3]="ULTRA KILL!!"
+KillString[4]="M O N S T E R  K I L L !!!"
+KillString[5]="L U D I C R O U S !!!"
+KillString[6]="H O L Y  S H I T !"
+
+[MutFastWeapSwitch]
+FriendlyName="UT2003 Style"
+Description="UT2003 style fast weapon switching and boost dodging."
+
+[MutInstaGib]
+TranslocDisplayText="Allow Translocator"
+BoostDisplayText="Allow Teammate boosting"
+TranslocDescText="Players get a Translocator in their inventory."
+BoostDescText="Teammates get a big boost when shot by the instagib rifle."
+FriendlyName="InstaGib"
+Description="Instant-kill combat with modified Shock Rifles."
+
+[MutNoAdrenaline]
+FriendlyName="No Adrenaline"
+Description="Adrenaline pickups are removed from the map."
+
+[MutQuadJump]
+FriendlyName="QuadJump"
+Description="When double jump just isn't enough."
+
+[MutRegen]
+FriendlyName="Regeneration"
+Description="All players regenerate health."
+
+[MutSlomoDeath]
+FriendlyName="Slow Motion Corpses"
+Description="Death should not be rushed."
+
+[MutSpeciesStats]
+FriendlyName="Species Statistics"
+Description="Each race has unique combat statistics."
+
+[MutUDamageReward]
+FriendlyName="UDamage Reward"
+Description="Any remaining UDamage powerup is thrown from players when they are fragged."
+
+[MutVampire]
+FriendlyName="Vampire"
+Description="Damaging your opponents will heal you."
+
+[MutZoomInstagib]
+FriendlyName="Zoom InstaGib"
+Description="Instant-kill combat with modified Shock Rifles with sniper zooms."
+
+[NightFemaleVoice]
+TauntString[21]="Fresh Meat"
+TauntString[22]="I Must Break You"
+TauntString[23]="I'll Swallow Your Soul"
+TauntString[24]="Lost Is Your Soul"
+TauntString[25]="Meet Your Executioner"
+TauntString[26]="My Name Is Death"
+TauntString[27]="No Tears Please.."
+TauntString[28]="Pain Will Purify You"
+VoicePackName="Female Night"
+
+[NightMaleVoice]
+TauntString[21]="Fresh Meat"
+TauntString[22]="I Must Break You"
+TauntString[23]="I'll Swallow Your Soul"
+TauntString[24]="Lost Is Your Soul"
+TauntString[25]="Meet Your Executioner"
+TauntString[26]="My Name Is Death"
+TauntString[27]="No Tears Please.."
+TauntString[28]="Pain Will Purify You"
+VoicePackName="Male Night"
+
+[PhantomBloodReavers]
+TeamDescription="An organization of mercenaries and ex-military specialists, the Blood Reavers are interested in fame and fortune. They seek to win the Tournament for the prize that victory offers: nearly limitless wealth and power."
+TeamName="Blood Reavers"
+
+[PhantomDarkPhalanx]
+TeamDescription="The Dark Phalanx are an honorable collection of military specialists. All have proven themselves in the Human/Skaarj war and now seek glory in the ranks of the Tournament."
+TeamName="Dark Phalanx"
+
+[PhantomEpic]
+TeamDescription="Founded in 1991, Epic has long been a pioneer of cool PC games, new business models, and boundary-defining game technologies. Epic was founded by Tim Sweeney (Jill of the Jungle, Unreal), and joined shortly after by Mark Rein (VP of Marketing), James Schmalz (Epic Pinball, Extreme Pinball, Unreal), and Cliff Bleszinski (Jazz Jackrabbit, Unreal)."
+TeamName="Epic Games, Inc."
+
+[PhantomNecrisBlackLegion]
+TeamDescription="This powerful team of Necris Phayder assassins seeks to dominate the Tournament."
+TeamName="Necris Black Legion"
+
+[PhantomRawSteel]
+TeamDescription="Only men are allowed in the fighting force known as 'Raw Steel.' An amalgamation of human muscle and polyfoam metals, 'Raw Steel' upholds strength and power over all other virtues."
+TeamName="Raw Steel"
+
+[RobotVoice]
+TauntString[21]="Die Human"
+TauntString[22]="Faster Stronger Better"
+TauntString[23]="Fear Me"
+TauntString[24]="Flesh Is A Design Flaw"
+TauntString[25]="My Victory Your Death"
+TauntString[26]="Not Unacceptable"
+TauntString[27]="Rogue Process Terminated"
+TauntString[28]="Witness My Perfection"
+TauntString[29]="You Die Too Easily"
+TauntString[30]="You Make Easy Prey"
+TauntString[31]="Your Programming Is Inferior"
+OtherString[32]="Rerouting Critical Systems"
+OtherString[33]="You Adapt Well"
+VoicePackName="Robot"
+
+[SPECIES_Alien]
+SpeciesName="Alien"
+TauntAnimNames[8]="Tail wag"
+TauntAnimNames[9]="Gun check"
+TauntAnimNames[10]="Dismissal"
+TauntAnimNames[11]="360"
+
+[SPECIES_Bot]
+SpeciesName="Robot"
+TauntAnimNames[8]="Want some?"
+
+[SPECIES_Egypt]
+SpeciesName="Egyptian"
+
+[SPECIES_Jugg]
+SpeciesName="Juggernaut"
+TauntAnimNames[7]="Flex"
+TauntAnimNames[8]="Stomp"
+TauntAnimNames[9]="Back scratch"
+TauntAnimNames[10]="Show butt"
+TauntAnimNames[11]="Head scratch"
+
+[SPECIES_Merc]
+SpeciesName="Mercenary"
+
+[SPECIES_Night]
+SpeciesName="Night"
+
+[SpecialKillMessage]
+DecapitationString="Head Shot!!"
+
+[SpeciesSkaarj]
+SpeciesName="Skaarj"
+TauntAnimNames[4]="Hair flip"
+TauntAnimNames[5]="Slash"
+TauntAnimNames[6]="Scan"
+TauntAnimNames[7]="Finger"
+TauntAnimNames[8]="Idle"
+
+[SpeciesType]
+SpeciesName="Human"
+TauntAnimNames[0]="Point"
+TauntAnimNames[1]="Beckon"
+TauntAnimNames[2]="Halt"
+TauntAnimNames[3]="Cheer"
+TauntAnimNames[4]="Pelvic Thrust"
+TauntAnimNames[5]="Ass Smack"
+TauntAnimNames[6]="Throat Cut"
+TauntAnimNames[7]="Unique"
+TauntAnimNames[8]="Team Taunt"
+TauntAnimNames[9]="Team Idle"
+
+[TeamApocalypse]
+TeamName="Apocalypse"
+
+[TeamBlackLegion]
+TeamName="BlackLegion"
+
+[TeamBloodFists]
+TeamName="BloodFists"
+
+[TeamBoneCrushers]
+TeamName="BoneCrushers"
+
+[TeamColdSteel]
+TeamName="ColdSteel"
+
+[TeamCorrupt]
+TeamDescription="Xan Kriegor was long regarded as invincible, until Malcolm defeated him in the fourth officially recognized Tournament finals.  After a long hiatus, he has returned to lead the Liandri team, The Corrupt, back to the championship.  Xan is sitting out the early rounds, which he perceives as beneath his attention."
+TeamName="The Corrupt"
+
+[TeamCrusaders]
+TeamName="Crusaders"
+
+[TeamDragonBreath]
+TeamName="DragonBreath"
+
+[TeamFirestorm]
+TeamName="Firestorm"
+
+[TeamGoliath]
+TeamDescription="With the success of Gorge's Juggernauts in last year's tournament, Axon Research Corporation is now sponsoring Goliath in hopes of producing an all Juggernaut finals."
+TeamName="Goliath"
+
+[TeamHellions]
+TeamDescription="Once feared and reviled throughout human space as pirates and renegades, the Hellions seek to gain respectability as a mercenary outfit.  They've entered the tournament to demonstrate their capabilities to potential customers."
+TeamName="Hellions"
+
+[TeamIronGuard]
+TeamName="IronGuard"
+
+[TeamIronSkull]
+TeamDescription="This year, the Skaarj Empire is represented by the Iron Skull clan, who seek to regain honor after long being held responsible for the loss of the Skaarj Mothership during the Human/Skaarj wars."
+TeamName="Iron Skull Skaarj"
+
+[TeamJuggernauts]
+TeamDescription="Gorge is determined to prove that his one year reign as Tournament Champion is no fluke, and he has re-assembled the Juggernaut team he led to the championship.  Axon Research Corporation has made armor and bio-genetic upgrades to the Juggernauts design for this year's tournament."
+TeamName="Juggernauts"
+
+[TeamNewBlacklegion]
+TeamDescription="The Black Legion is made up of the hideously deformed subjects of weaponized genetic mutation tests.  This year, they have a new leader, Abaddon, the current pinnacle of achievement of this line of experiments."
+TeamName="Black Legion"
+
+[TeamNewBloodfist]
+TeamDescription="The only team in the Tournament acknowledged to be entirely cybernetic, Blood Fist warriors have their programming upgraded each year, and have become more and more lethal."
+TeamName="Blood Fist"
+
+[TeamNewFirestorm]
+TeamDescription="The Mokara are respected and feared as warriors. The Mokara's elite fighting unit, Fire Storm, sends a team of their best soldiers to the Tournament each year."
+TeamName="Firestorm"
+
+[TeamNewIronGuard]
+TeamDescription="Brock and Lauren joined forces with Malcolm during his reign as tournament champion. Infighting and recrimination over their stunning defeat in last year's Tournament led to the dissolution of that team. Now, Brock and Lauren have returned leading their old team, the Iron Guard."
+TeamName="Iron Guard"
+
+[TeamNewSunblade]
+TeamDescription="Sun Blade is comprised of former Temple Guardians and veterans of the Desert Legion. They see victory in the Tournament as their only hope for burial and eternal life in the Valley of Kings on Luxor IV."
+TeamName="Sun Blade"
+
+[TeamNewSuperNova]
+TeamDescription="Super Nova, a team of mercenaries from the Seventh Mercenary Fleet, has entered the Tournament to pay off their debts to the Izanagi Corporation."
+TeamName="Super Nova"
+
+[TeamNightstalkers]
+TeamName="Nightstalkers"
+
+[TeamPainMachine]
+TeamName="PainMachine"
+
+[TeamSunBlades]
+TeamName="SunBlades"
+
+[TeamSupernova]
+TeamName="Supernova"
+
+[TeamThundercrash]
+TeamDescription="Following his well publicized break-up with long-time teammates Brock and Lauren, Malcolm has returned to lead his old team, Thunder Crash.  Malcolm is currently rehabilitating an injury sustained in last year's championship match, but he is expected to be healthy in time for the Tournament Finals."
+TeamName="Thunder Crash"
+
+[TeamVenom]
+TeamName="Venom"
+
+[TeamWarCry]
+TeamName="WarCry"
+
+[UT2003LadderInfo]
+CHAMP1.MenuName="Tournament Semi-Final"
+CHAMP2.MenuName="Tournament Final"
+DM0.MenuName="Deathmatch Tutorial"
+
+[UT2K4DMRoster]
+TeamName="Death Match"
+
+[UT2K4GameProfile]
+msgSpecialAward[0]="Flak Monkey"
+msgSpecialAward[1]="Combo Whore"
+msgSpecialAward[2]="Head Hunter"
+msgSpecialAward[3]="Road Rampage"
+msgSpecialAward[4]="Hat Trick"
+msgSpecialAward[5]="Untouchable"
+msgCheater="CHEATER!!!"
+msgCredits="credits"
+msgCredit="credit"
+msgChallengeGame="Challenge game"
+msgAdditionalLadder="Additional ladder game"
+msgMatch="match"
+msgLadderGame="Ladder game"
+msgChampionship="Championship"
+
+[UT2K4LadderInfo]
+DM0.MenuName="Deathmatch Tutorial"
+
+[xBlueFlagBase]
+ObjectiveName="Blue Flag"
+
+[xBombDelivery]
+ObjectiveStringSuffix=" Goal"
+
+[xBombHUDMessage]
+YouHaveFlagString="You have the ball, deliver it to enemy base!"
+EnemyHasFlagString="The enemy has the ball, recover it!"
+
+[xBombMessage]
+ReturnBlue="returns the ball!"
+ReturnRed="returns the ball!"
+ReturnedBlue="The ball was returned!"
+ReturnedRed="The ball was returned!"
+CaptureBlue="scored the goal!"
+CaptureRed="scored the goal!"
+DroppedBlue="dropped the ball!"
+DroppedRed="dropped the ball!"
+HasBlue="has the ball!"
+HasRed="has the ball!"
+
+[xBombSpawn]
+ObjectiveName="Bomb Spawn"
+
+[xBombingRun]
+BRPropText="Delay ball contact"
+BRPropText2="BallLauncher drains Translocator"
+BRDescText="If checked, a player must wait a few seconds after throwing the ball before picking it up again."
+BRDescText2="If checked, a player must wait a few seconds after throwing the ball before being able to translocate (or until someone else catches or picks up the ball)."
+BRHints=("You can use %BASEPATH 0% to see the path to the Red Team base and %BASEPATH 1% to see the path to the Blue Team base.","Firing the translocator sends out your translocator beacon.  Pressing %FIRE% again returns the beacon, while pressing %A:TFIRE% teleports you instantly to the beacon's location (if you fit).","While carrying the ball, you can target teammates by pressing %ALTFIRE%.  Pressing %FIRE% will pass the ball to the targeted teammate.","Pressing %SWITCHWEAPON 10% after tossing the Translocator allows you to view from its internal camera.","Pressing %FIRE% while your %ALTFIRE% is still held down after teleporting with the translocator will switch you back to your previous weapon.")
+GameName="Bombing Run"
+Description="Each level has a ball that starts in the middle of the playing field.  Your team scores by getting the ball through the enemy team's hoop.  You score 7 points for jumping through the hoop while holding the ball, and 3 points for tossing the ball through the hoop.  The ball can be passed to teammates, and is dropped if the player carrying it is killed."
+
+[xCTFGame]
+GameName="Capture the Flag"
+Description="Your team must score flag captures by taking the enemy flag from the enemy base and returning it to their own flag.  If the flag carrier is killed, the flag drops to the ground for anyone to pick up.  If your team's flag is taken, it must be returned (by touching it after it is dropped) before your team can score a flag capture."
+
+[xDeathMatch]
+GameName="DeathMatch"
+Description="Free-for-all kill or be killed.  The player with the most frags wins."
+
+[xDeathMessage]
+KilledString="was killed by"
+SomeoneString="someone"
+
+[xDomMessage]
+YouControlBothPointsString="Your team controls both points!"
+EnemyControlsBothPointsString="The enemy controls both points!"
+
+[xDomPointA]
+PointName="A"
+ObjectiveName="Point A"
+
+[xDomPointB]
+PointName="B"
+ObjectiveName="Point B"
+
+[xDoubleDom]
+DDomPropsDisplayText[0]="Time To Score"
+DDomPropsDisplayText[1]="Time Disabled"
+DDomPropDescText[0]="Specifies how long domination points must be held to score a point."
+DDomPropDescText[1]="Specifies how long domination points are disabled after a point is scored."
+GameName="Double Domination"
+Description="Your team scores by capturing and holding both Control Points for ten seconds.  Control Points are captured by touching them.  After scoring, the Control Points reset to neutral."
+
+[xFallingVolume]
+LocationName="in air"
+
+[xKillerMessagePlus]
+YouKilled="You killed"
+
+[xRedFlagBase]
+ObjectiveName="Red Flag"
+
+[xTeamGame]
+GameName="Team DeathMatch"
+Description="Two teams duke it out in a quest for battlefield supremacy.  The team with the most total frags wins."
+
+[xUtil]
+NoPreference="No Weapon Preference"
+FavoriteWeapon="Favorite Weapon:"
+AgilityString="Agility:"
+TacticsString="Team Tactics:"
+AccuracyString="Accuracy:"
+AggressivenessString="Aggression:"
+
+[xVehicleCTFGame]
+VCTFHints=("You can't carry the flag in a Manta or a Raptor.")
+GameName="Vehicle CTF"
+Description="Like traditional Capture The Flag, only adding vehicles into the mix! Only ground-based vehicles can carry the flag."
+
+[xVictimMessage]
+YouWereKilledBy="You were killed by"
+KilledByTrailer="!"
+
+[xVoicePack]
+AckString[0]="Affirmative"
+AckString[1]="Got It"
+AckString[2]="I'm On It"
+AckString[3]="Roger"
+FFireString[0]="I'm On Your Team!"
+FFireString[1]="I'm On Your Team, Idiot!"
+FFireString[2]="Same Team!"
+FFireAbbrev[1]="Your Team, Idiot!"
+TauntString[0]="And Stay Down"
+TauntString[1]="Anyone Else Want Some?"
+TauntString[2]="Boom!"
+TauntString[3]="BURN Baby"
+TauntString[4]="Die Bitch"
+TauntString[5]="Eat THAT"
+TauntString[6]="You Fight Like Nali"
+TauntString[7]="Is That Your Best?"
+TauntString[8]="Kiss My Ass"
+TauntString[9]="Loser"
+TauntString[10]="MY House"
+TauntString[11]="Next!"
+TauntString[12]="Oh YEAH!"
+TauntString[13]="Ownage"
+TauntString[14]="Seeya"
+TauntString[15]="That HAD To Hurt"
+TauntString[16]="Useless"
+TauntString[17]="You Play Like A Girl"
+TauntString[18]="You Be Dead"
+TauntString[19]="You Like That?"
+TauntString[20]="You Whore"
+OrderString[0]="Defend the base"
+OrderString[1]="Hold this position"
+OrderString[2]="Assault the base"
+OrderString[3]="Cover me"
+OrderString[4]="Search and destroy"
+OrderString[10]="Take their flag"
+OrderString[11]="Defend the flag"
+OrderString[12]="Attack Alpha"
+OrderString[13]="Attack Bravo"
+OrderString[14]="Get the ball"
+OrderAbbrev[0]="Defend"
+OrderAbbrev[2]="Attack"
+OtherString[0]="Base is undefended!"
+OtherString[1]="Somebody get our flag back!"
+OtherString[2]="I've got the flag"
+OtherString[3]="I've got your back"
+OtherString[4]="I'm hit!"
+OtherString[5]="Man down!"
+OtherString[6]="I'm all alone here %l"
+OtherString[7]="Negative!"
+OtherString[8]="I've got our flag"
+OtherString[9]="I'm in position %l"
+OtherString[10]="I'm going in!"
+OtherString[11]="Area is secure"
+OtherString[12]="Enemy flag carrier is %l"
+OtherString[13]="I need some backup %l"
+OtherString[14]="Incoming!"
+OtherString[15]="Enemy ball carrier is %l"
+OtherString[16]="Alpha secure!"
+OtherString[17]="Bravo secure!"
+OtherString[18]="Attack Alpha"
+OtherString[19]="Attack Bravo"
+OtherString[20]="The base is under attack %l"
+OtherString[21]="We're being overrun %l!"
+OtherString[22]="Under heavy attack %l"
+OtherString[23]="Defend point Alpha"
+OtherString[24]="Defend point Bravo"
+OtherString[25]="Get The Ball"
+OtherString[26]="I'm on defense"
+OtherString[27]="I'm on offense"
+OtherString[28]="Take point Alpha"
+OtherString[29]="Take point Bravo"
+OtherString[30]="Medic"
+OtherString[31]="Nice"
+OtherAbbrev[1]="Get our flag!"
+OtherAbbrev[2]="Got the flag"
+OtherAbbrev[3]="Got your back"
+OtherAbbrev[6]="All alone!"
+OtherAbbrev[8]="Got our flag"
+OtherAbbrev[9]="In position"
+OtherAbbrev[12]="Enemy flag carrier"
+OtherAbbrev[13]="Need backup"
+OtherAbbrev[15]="Enemy ball carrier"
+OtherAbbrev[20]="Base under attack"
+OtherAbbrev[21]="Being overrun"
+OtherAbbrev[22]="Under heavy attack"
+

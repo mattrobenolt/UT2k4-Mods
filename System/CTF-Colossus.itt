@@ -1,0 +1,34 @@
+[LevelInfo0]
+Title="Colosso"
+
+[LevelSummary]
+Title="Colosso"
+Description="Sfruttando il rapido movimento della zona superiore e la copertura offerta da quella inferiore, i giocatori con spirito tattico possono raggiungere la bandiera praticamente senza correre rischi. Però, tornare indietro con la bandiera è tutt'altra cosa."
+
+[Volume0]
+LocationName="Base arretrata blu"
+
+[Volume1]
+LocationName="Base avanzata blu"
+
+[Volume2]
+LocationName="Zona neutrale"
+
+[Volume3]
+LocationName="Base avanzata rossa"
+
+[Volume4]
+LocationName="Base arretrata rossa"
+
+[ZoneInfo1]
+LocationName="Bunker rosso"
+
+[ZoneInfo2]
+LocationName="Bunker blu"
+
+[xBlueFlagBase0]
+ObjectiveName="Base bandiera blu"
+
+[xRedFlagBase0]
+ObjectiveName="Base bandiera rossa"
+

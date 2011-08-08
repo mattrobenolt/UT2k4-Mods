@@ -1,0 +1,49 @@
+[AdminIni]
+Msg_FinishGameEditFirst="You must finish your Game Edit before restarting the map"
+Msg_FinishGameRestart="You must finish your Game Edit before changing or restarting the map"
+Msg_MutNeedGameEdit="You must use 'Game Edit' command before 'Mutators' commands"
+Msg_NoMutatorInUse="No Mutators in use"
+Msg_NoUnusedMuts="Found no unused mutators"
+Msg_AddedMutator="Added '%Mutator%' to used mutator list."
+Msg_ErrAddingMutator="Error Adding '%Mutator%'To Used Mutator List"
+Msg_RemovedMutator="Removed '%Mutator%' From Used Mutator List"
+Msg_ErrRemovingMutator="Error Removing '%Mutator%' from used mutator List"
+Msg_MapListNeedGameEdit="You must use 'Game Edit' command before 'MapList' command"
+Msg_MustEndGameEdit="You must end your Game Edit first"
+Msg_EditingClass="Editing %Class%"
+Msg_EditFailed="Failed Starting To Edit"
+Msg_AlreadyEdited="Game Already being edited by Someone Else"
+Msg_NotEditing="You are not editing Game Settings, use 'Game Edit' first"
+Msg_EditingCompleted="Editing Completed"
+Msg_EditingCancelled="Editing Cancelled"
+Msg_NoBotGameFull="Cannot add a bot, game is full."
+Msg_NoAddNamedBot="Can only add named bots once the match has started"
+Msg_NoBotsPlaying="No bots are currently playing"
+Msg_GameNoSupportBots="The current Game Type does not support Bots"
+Msg_StatsNoBots="Cannot control bots when Worlds Stats are enabled"
+Msg_SetBotNeedVal="This command requires a numeric value between 0 and 32"
+
+[xExtraPrivs]
+LoadMsg="Extra Privileges Loaded"
+MainPrivs="X"
+SubPrivs="Xb|Xc|Xp|Xs|Xi|Xv|Xm"
+Tags=("Miscellaneous","Set Bot Skill","Use Console","Player List","Change Webadmin Skin","Manage Access Policies","Voice Chat Management","Match Setup")
+
+[xGamePrivs]
+LoadMsg="Maps & Game Privileges Loaded"
+MainPrivs="M"
+SubPrivs="Mr|Mt|Mm|Ml|Ms|Mu|Mb|Ma"
+Tags=("Maps/Game Settings","Restart Map","Change Game Type","Change Map","Manages Map Rotation","Game Settings","Select Mutators","Add/Remove Bots","Game Status")
+
+[xKickPrivs]
+LoadMsg="Kick and Ban Privileges Loaded"
+MainPrivs="K"
+SubPrivs="Kp|Kb|Ko"
+Tags=("Kick/Ban","Kick Players","Ban Players","Kick Bots")
+
+[xUserGroupPrivs]
+LoadMsg="Admins & Groups Management Loaded"
+MainPrivs="A|G"
+SubPrivs="Al|Aa|Ae|Ag|Am|Gl|Ga|Ge"
+Tags=("Users","List Admins","Add/Remove Admins","Edit Admins","Assign Groups","Make Managers","Groups","List Groups","Add/Remove Groups","Edit Groups")
+

@@ -1,0 +1,40 @@
+[LevelInfo0]
+Title="Goliath"
+
+[LevelSummary]
+Title="Goliath"
+Description="En las alturas de Calaban VII, las estaciones orbitales de clase Goliath proporcionan energía y protección a las prósperas colonias de la superficie. Al ser virtualmente inmunes a los disparos de las armas convencionales, estas plataformas se han convertido en populares escenarios de los torneos. Las ocasionales fugas de radiación hacen que estos estadios no solo sean entretenidos, sino también autolimpiables."
+
+[Volume0]
+LocationName="Plafaforma secreta del techo"
+
+[Volume1]
+LocationName="Punto de saltoquad de baja gravedad"
+
+[ZoneInfo0]
+LocationName="Sala de rifle de choque"
+
+[ZoneInfo1]
+LocationName="Cámara de generación daño-U"
+
+[ZoneInfo2]
+LocationName="Sala de cañón automático"
+
+[ZoneInfo3]
+LocationName="Cámara de generación frasco de curación"
+
+[ZoneInfo4]
+LocationName="Sala grande arma eléctrica"
+
+[ZoneInfo5]
+LocationName="Sala de generación superescudo"
+
+[ZoneInfo6]
+LocationName="Sala grande arma eléctrica"
+
+[ZoneInfo7]
+LocationName="Cámaras inferiores intermedias"
+
+[ZoneInfo8]
+LocationName="Cámaras superiores intermedias"
+

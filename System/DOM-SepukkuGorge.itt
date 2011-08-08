@@ -1,0 +1,23 @@
+[LevelInfo0]
+Title="Sepukku Gorge"
+
+[LevelSummary]
+Title="Sepukku Gorge"
+
+[Volume0]
+LocationName="Vicino punto B"
+
+[Volume1]
+LocationName="Vicino punto A"
+
+[Volume2]
+LocationName="Sul ponte"
+
+[Volume3]
+LocationName="Cava rossa"
+
+[Volume4]
+LocationName="Cava blu"
+
+[ZoneInfo0]
+LocationName="Esterno"

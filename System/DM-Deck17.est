@@ -1,0 +1,133 @@
+[BlockingVolume3]
+LocationName="Deck17"
+
+[BlockingVolume61]
+LocationName="Deck17"
+
+[LevelInfo0]
+Title="Deck17"
+
+[LevelSummary]
+Title="Deck17"
+Description="Deck17: refinería de magma… la ARDIENTE vecina de la cubierta 16."
+
+[Volume0]
+LocationName="C17 Ascensores: nivel inferior (carga de escudo)"
+
+[Volume10]
+LocationName="C17 Sala principal: oeste (enlazadora)"
+
+[Volume4]
+LocationName="Sala principal: cornisa superior n. (DañoU)"
+
+[Volume5]
+LocationName="C17 Sala principal: cornisa este (carga de escudo)"
+
+[Volume6]
+LocationName="C17 Ascensores: nivel inferior (2 botiquines)"
+
+[Volume7]
+LocationName="C17 Sala principal: medio (cañón automático)"
+
+[Volume8]
+LocationName="Estanque gigante de lava (lanzacohetes)"
+
+[ZoneInfo25]
+LocationName="Cubierta 16 (zona restringida)"
+
+[ZoneInfo30]
+LocationName="Curva de corredor naranja"
+
+[ZoneInfo32]
+LocationName="Sala azul (lanzacohetes)"
+
+[ZoneInfo37]
+LocationName="Corredor superior"
+
+[ZoneInfo40]
+LocationName="Estanque pequeño superior de lava (arma eléctrica)"
+
+[ZoneInfo41]
+LocationName="Ascensores cercanos bajo ventilador"
+
+[ZoneInfo43]
+LocationName="Entrada restringida a Cubierta 16"
+
+[ZoneInfo45]
+LocationName="Entrada a intersección C17/C16"
+
+[ZoneInfo47]
+LocationName="Cubierta 16 (zona restringida)"
+
+[ZoneInfo48]
+LocationName="Cubierta 16 (zona restringida)"
+
+[ZoneInfo49]
+LocationName="Cubierta 16 (zona restringida)"
+
+[ZoneInfo50]
+LocationName="Intersección C17/C16 (biorifle)"
+
+[ZoneInfo51]
+LocationName="Cubierta 16 (zona restringida)"
+
+[ZoneInfo52]
+LocationName="Cubierta 16 (zona restringida)"
+
+[ZoneInfo53]
+LocationName="Ascensores cercanos: nivel superior este"
+
+[ZoneInfo54]
+LocationName="Corredor superior (cañón antiaéreo)"
+
+[ZoneInfo55]
+LocationName="Corredor superior de sección-T"
+
+[ZoneInfo56]
+LocationName="Entrada principal a corredor superior"
+
+[ZoneInfo57]
+LocationName="Ascensores: nivel superior"
+
+[ZoneInfo58]
+LocationName="Ascensores de arriba (Redentor)"
+
+[ZoneInfo59]
+LocationName="Ascensores: nivel inferior (rifle de choque)"
+
+[ZoneInfo60]
+LocationName="Ascensores: nivel inferior (rifle de choque)"
+
+[ZoneInfo61]
+LocationName="Corredor de ascensor rojo: este"
+
+[ZoneInfo62]
+LocationName="Corredor de ascensor rojo: oeste"
+
+[ZoneInfo63]
+LocationName="Estanque gigante de lava"
+
+[ZoneInfo69]
+LocationName="Estanque gigante de lava (carga de superescudo)"
+
+[ZoneInfo70]
+LocationName="Sala principal: cornisa este (biorifle)"
+
+[ZoneInfo71]
+LocationName="Sala principal: medio"
+
+[ZoneInfo73]
+LocationName="Sala principal: cornisa baja N. (rifle de choque)"
+
+[ZoneInfo74]
+LocationName="Sala principal: cornisa francotirador (arma eléctrica)"
+
+[ZoneInfo76]
+LocationName="Corredor norte alto (2 botiquines)"
+
+[ZoneInfo77]
+LocationName="Estanque pequeño inferior de lava (cañón antiaéreo)"
+
+[ZoneInfo78]
+LocationName="Recta de corredor naranja"
+

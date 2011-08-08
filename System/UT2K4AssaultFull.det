@@ -1,0 +1,56 @@
+[ASTurret_IonCannon]
+VehiclePositionString="besetzt eine Ion Cannon"
+VehicleNameString="Ion Cannon"
+
+[ASTurret_LinkTurret]
+VehiclePositionString="besetzt einen Link-Turm "
+VehicleNameString="Link-Turm"
+
+[ASVehicle_SpaceFighter_Human]
+VehiclePositionString="in einem Spacefighter"
+VehicleNameString="Menschlicher Spacefighter"
+
+[ASVehicle_SpaceFighter_Skaarj]
+VehicleNameString="Skaarj Spacefighter"
+
+[DamTypeBallTurretPlasma]
+DeathString="%o bekam eine Extraportion von %ks Plasma."
+FemaleSuicide="%o hat sich mit ihrem eigenen Plasma gegrillt."
+MaleSuicide="%o hat sich mit seinem eigenen Plasma gegrillt."
+
+[DamTypeIonCannonBlast]
+DeathString="%o wurde AUSGEL÷SCHT"
+FemaleSuicide="%o wurde AUSGEL÷SCHT"
+MaleSuicide="%o wurde AUSGEL÷SCHT"
+
+[DamTypeLinkTurretBeam]
+DeathString="%o wurde von %ks gr¸nem Spieﬂ aufgeschlitzt."
+FemaleSuicide="%o spieﬂte sich auf."
+MaleSuicide="%o spieﬂte sich auf."
+
+[DamTypeLinkTurretPlasma]
+DeathString="%o bekam eine Extraportion von %ks Plasma."
+FemaleSuicide="%o hat sich mit ihrem eigenen Plasma gegrillt."
+MaleSuicide="%o hat sich mit seinem eigenen Plasma gegrillt."
+
+[DamTypeSpaceFighterLaser]
+DeathString="%o bekam eine Extraportion von %ks Laser."
+FemaleSuicide="%o hat sich mit ihrem eigenen Laser gegrillt."
+MaleSuicide="%o hat sich mit seinem eigenen Laser gegrillt."
+
+[DamTypeSpaceFighterMissile]
+DeathString="%o konnte %ks Rakete nicht ausweichen."
+FemaleSuicide="%o hat sich selbst weggefegt."
+MaleSuicide="%o hat sich selbst weggefegt."
+
+[Weapon_LinkTurret]
+ItemName="Turmwaffe"
+
+[Weapon_SpaceFighter]
+ItemName="Spacefighter-Waffe"
+
+[Weapon_Turret]
+ItemName="Turmwaffe"
+
+[Weapon_Turret_IonCannon]
+ItemName="Ion Cannon-Turmwaffe"

@@ -1,0 +1,65 @@
+[Setup]
+LocalProduct="Unreal Tournament 2003"
+DefaultFolder="C:\UT2003"
+ReadMe=Help\ReadMe.itt.txt
+SetupWindowTitle=Unreal Tournament 2003 Setup
+AutoplayWindowTitle="Opzioni di Unreal Tournament 2003"
+ProductURL=http://www.unrealtournament2003.com/
+VersionURL=http://unreal.epicgames.com/versions.htm
+Developer="Epic Games"
+DeveloperURL=http://www.epicgames.com/
+Logo=Help\InstallerLogo.bmp
+License=License.itt
+
+[General]
+PlayLevelCommand="&Gioca a questo livello di UT2003"
+OpenLinkCommand="&Apri questo collegamento di UT2003"
+InstallModuleCommand="&Installa questo modulo di UT2003"
+EditLevelCommand="&Modifica questo livello di UT2003"
+SafeDiscAdminRights="Devi lanciare questo programma come amministratore, non come utente limitato."
+SafeDiscNoDisk="Nessun disco inserito. Inserire il disco 'Unreal Tournament 2003 Play Disc' per continuare."
+SafeDiscNoDrive="Nessun CD-ROM o Dvd-ROM trovato."
+SafeDiscTitlebar="Unreal Tournament 2003"
+SafeDiscWrongDisc="È stato inserito un disco errato. Inserire il disco 'Unreal Tournament 2003 Play Disc' per continuare."
+
+[UnrealGameContentGroup]
+Caption="Dati del gioco"
+Description="Installa questo componente per ottenere le migliori prestazioni. Se non lo installi, i dati del gioco verranno caricati dal CD durante la partita, sacrificando le prestazioni. In compenso, risparmierai spazio sul disco."
+
+[GameGroup]
+Caption="Gioco UT2003"
+Description="L'installazione è necessaria."
+
+[DirectXGroup]
+Caption="DirectX 8.1"
+Description="Driver opzionali Microsoft DirectX 8.1 per un miglior supporto video, audio e joystick."
+
+[OpenALGroup]
+Caption="OpenAL"
+Description="Necessario per gli effetti sonori 3D con accelerazione hardware."
+
+[Win2000XPGroup]
+Caption="Direct3D per Windows 2000/XP"
+Description="Necessario per Windows 2000/XP [temporaneo-non distribuito]."
+
+[EditorGroup]
+Caption="Edito di Unreal"
+Description="Editor degli scenari di Unreal, per creare i tuoi ambienti 3D per Unreal. È riservato agli utenti avanzati e l'installazione è opzionale."
+
+[PlayShortcut]
+Caption="Gioca a UT2003"
+
+[SafeModeShortcut]
+Caption="Modalità provvisoria di UT2003"
+
+[EditorShortcut]
+Caption="Editor di UT2003"
+
+[DocumentationShortcut]
+Caption="File LEGGIMI"
+
+[WebShortcut]
+Caption="Pagina Web di UT2003"
+
+[UninstallShortcut]
+Caption="Disinstalla Unreal Tournament 2003"

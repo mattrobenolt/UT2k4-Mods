@@ -1,0 +1,76 @@
+[LevelInfo0]
+Title="Face Classic"
+
+[LevelInfo13]
+Title="Face Classic"
+
+[LevelSummary]
+Title="Face Classic"
+Description="Esta isla asteroide y sus dos torres han demostrado ser un lugar perfecto para combates del Torneo, ¡así que enfréntate a tu enemigo y que comiencen los juegos!"
+
+[Volume0]
+LocationName="Desván inferior de francotirador de base azul"
+
+[Volume1]
+LocationName="Cornisa superior de francotirador de base azul"
+
+[Volume2]
+LocationName="Cornisa superior de francotirador de base roja"
+
+[Volume3]
+LocationName="Desván inferior de francotirador de base roja"
+
+[Volume4]
+LocationName="Campo abierto central"
+
+[ZoneInfo0]
+LocationName="Nivel inferior de base roja"
+
+[ZoneInfo1]
+LocationName="Cornisa superior de francotirador de base roja"
+
+[ZoneInfo10]
+LocationName="Campo abierto de lado azul"
+
+[ZoneInfo18]
+LocationName="Nivel inferior de base azul"
+
+[ZoneInfo19]
+LocationName="Cornisa superior de francotirador de base azul"
+
+[ZoneInfo2]
+LocationName="Desván inferior de francotirador de base roja"
+
+[ZoneInfo20]
+LocationName="Desván inferior de francotirador de base azul"
+
+[ZoneInfo21]
+LocationName="Desván de Redentor de base azul"
+
+[ZoneInfo22]
+LocationName="Entrada de base azul"
+
+[ZoneInfo24]
+LocationName="Nivel inferior de base azul"
+
+[ZoneInfo25]
+LocationName="Nivel inferior de base azul"
+
+[ZoneInfo3]
+LocationName="Desván de Redentor de base roja"
+
+[ZoneInfo4]
+LocationName="Entrada de base roja"
+
+[ZoneInfo6]
+LocationName="Nivel inferior de base roja"
+
+[ZoneInfo7]
+LocationName="Nivel inferior de base roja"
+
+[ZoneInfo8]
+LocationName="Nivel inferior de base roja"
+
+[ZoneInfo9]
+LocationName="Campo abierto de lado rojo"
+

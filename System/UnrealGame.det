@@ -1,0 +1,297 @@
+[Public]
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UnrealGame.MutBigHead,Description="Die Kopfgröße hängt von Ihrer Leistung ab.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UnrealGame.MutLowGrav,Description="Niedrige Schwerkraft.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UnrealGame.MutDelayedSpawn,Description="Verzögertes Erscheinen von Superwaffen und Super-Powerups.")
+
+[ACTION_DisableObjective]
+ActionString="Zielobjekt deaktivieren"
+
+[ACTION_SetObjectiveActiveStatus]
+ActionString="Aktiven Status des Ziels ändern"
+
+[ACTION_SetObjectiveActiveStatus]
+ActionString="Ändern des Aktive-Status des Zieles"
+
+[Action_ChangeObjectiveTeam]
+ActionString="Ändern game objective team"
+
+[BombTargetMessage]
+TargetMessage="Pass unterwegs"
+
+[CTFGame]
+CTFHints=("Mit %BASEPATH 0% können Sie den Weg zur Basis des roten Teams und mit %BASEPATH 1% den Weg zur Basis des blauen Teams anzeigen.","Wenn Sie den Translocator abfeuern, wird eine Translocator-Scheibe ausgesendet. Wenn Sie nochmals %FIRE% drücken, wird die Scheibe wieder eingeholt, während das Drücken auf %A:TFIRE% Sie umgehend zum Standort der Scheibe teleportiert (wenn Sie dorthin passen).","Verwendet man den Translocator, wenn man gerade Flaggenträger ist, dann wird die Flagge fallen gelassen.","Wenn Sie nach dem Abfeuern der Translocatorscheibe %SWITCHWEAPON 10% drücken, können Sie durch die Augen der eingebauten Kamera blicken.","Wenn Sie %FIRE% drücken, während %ALTFIRE% immer noch gedrückt gehalten wird, nachdem Sie mit dem Translocator einen Teleport durchgeführt haben, wechseln Sie zur vorherigen Waffe zurück.")
+Description="Ihr Team muss Punkte sammeln, indem es sich die Flagge des Gegners von dessen Basis holt und zu seiner eigenen Basis bringt. Wenn der Flaggenträger getötet wird, fällt die Flagge zu Boden und ist für jedermann zugänglich. Wenn Ihre Teamflagge geholt worden ist, muss sie erst wieder zurückgeholt werden (indem Sie sie berühren, nachdem sie zu Boden gefallen ist), bevor Ihr Team wieder Punkte machen kann."
+
+[CTFHUDMessage]
+YouHaveFlagString="Sie haben die Flagge, zur Basis!"
+EnemyHasFlagString="Feind hat die Flagge, zurückholen!"
+
+[CTFMessage]
+ReturnBlue="brachte blaue Flagge!"
+ReturnRed="brachte rote Flagge!"
+ReturnedBlue="Blaue Flagge zurückgebracht!"
+ReturnedRed="Rote Flagge zurückgebracht!"
+CaptureBlue="holte sich blaue Flagge!"
+CaptureRed="holte sich die rote Flagge!"
+DroppedBlue="ließ blaue Flagge fallen!"
+DroppedRed="ließ rote Flagge fallen!"
+HasBlue="holt blaue Flagge!"
+HasRed="holt rote Flagge!"
+
+[CinematicHud]
+FontArrayNames[0]="UT2003Fonts.jFontLarge1024x768"
+FontArrayNames[1]="UT2003Fonts.jFontLarge800x600"
+FontArrayNames[2]="UT2003Fonts.jFontLarge"
+FontArrayNames[3]="UT2003Fonts.jFontMedium1024x768"
+FontArrayNames[4]="UT2003Fonts.jFontMedium800x600"
+FontArrayNames[5]="UT2003Fonts.jFontMedium"
+FontArrayNames[6]="UT2003Fonts.jFontSmall"
+FontArrayNames[7]="UT2003Fonts.jFontSmallText800x600"
+FontArrayNames[8]="UT2003Fonts.FontSmallText"
+
+[ClassicAnnouncer]
+AnnouncerName="UT2003"
+
+[ConvoyGibbed]
+DeathString="%k hat %o über die Kante geschubst."
+
+[CustomBotConfig]
+FavoriteWeapon="Lieblingswaffe:"
+NoPreference="Keine Waffenpräferenz"
+
+[DMMutator]
+DMMutPropsDisplayText[0]="Mega-Tempo"
+DMMutPropsDisplayText[1]="Flugkontrolle"
+DMMutDescText[0]="Erhöht das Spieltempo stark."
+DMMutDescText[1]="Bestimmt, wie viel Kontrolle die Spieler in der Luft haben."
+
+[DMStatsScreen]
+StatsString="PERSÖNLICHE STATISTIKEN FÜR"
+AwardsString="PREISE"
+FirstBloodString="Erster Treffer!"
+FlakMonkey="Flak-Affe!"
+Combowhore="Kombo-Flittchen!"
+Headhunter="Kopfjäger!"
+RoadRampage="Straßengemetzel!"
+DaredevilString="Draufgänger:"
+FlagTouches="Flagge berührt"
+FlagReturns="Flagge kehrt zurück"
+GoalsScored="Erzielte Tore:"
+HatTrick="Hattrick!"
+KillString[0]="Doppel-Kill!"
+KillString[1]="MultiKill!"
+KillString[2]="Mega-Kill!"
+KillString[3]="Ultra-Kill!"
+KillString[4]="MONSTER-KILL!"
+KillString[5]="HAARSTRÄUBENDER KILL!"
+KillString[6]="HEILIGE SCHEISSE!"
+AdrenalineCombos="ADRENALIN-KOMBOS"
+ComboNames[0]="Geschwindigkeit"
+ComboNames[1]="Berserker"
+ComboNames[2]="Defensiv"
+ComboNames[3]="Unsichtbar"
+ComboNames[4]="Sonstiges"
+KillsByWeapon="WAFFEN-STATISTIK"
+CombatResults="KAMPFERGEBNISSE"
+Kills="Kills"
+Deaths="Tode"
+Suicides="Selbstmorde"
+NextStatsString="Drücken Sie F8 für den nächsten Spieler."
+WeaponString="Waffe"
+DeathsBy="Getötet von"
+deathsholding="Tode bei"
+EfficiencyString="Effizienz"
+WaitingForStats="Wartet auf Statistiken von Server. Drücken Sie F3, um zu normalem HUD zurückzukehren."
+KillsByVehicle="FAHRZEUG-STATISTIKEN"
+VehicleString="Fahrzeug"
+
+[DeathMatch]
+DMPropsDisplayText[0]="Startverzögerung"
+DMPropsDisplayText[1]="Min. Spieleranzahl"
+DMPropsDisplayText[2]="Neustart-Verzögerung"
+DMPropsDisplayText[3]="Tournament-Spiel"
+DMPropsDisplayText[4]="Spieler müssen bereit sein"
+DMPropsDisplayText[5]="Neueinstieg erzwingen"
+DMPropsDisplayText[6]="Bot-Können autom. anpassen"
+DMPropsDisplayText[7]="Spott erlauben"
+DMPropsDisplayText[8]="Einstiegs-Schutzzeit"
+DMPropsDisplayText[9]="Translocator erlauben"
+DMPropsDisplayText[10]="Team-Skins verwenden"
+DMPropsDisplayText[11]="Map-Standardeinstellungen verwenden"
+DMPropsDisplayText[12]="Nachzügler-Spanne"
+DMPropsDisplayText[13]="Spielermarkierung aktivieren"
+DMPropDescText[0]="Zeit, die vergehen muss, bis andere Spieler einem Spiel beitreten können."
+DMPropDescText[1]="Wie viele Spieler beitreten müssen, bevor das Spiel beginnt."
+DMPropDescText[2]="Wie lange der Server nach dem Ende eines Spiels wartet, bevor die nächste Map geladen wird."
+DMPropDescText[3]="Tournament-Spiel"
+DMPropDescText[4]="Bei Aktivierung müssen die Spieler auf BEREIT klicken, bevor das Spiel startet."
+DMPropDescText[5]="Die Spieler müssen sofort wieder einsteigen, nachdem sie gestorben sind."
+DMPropDescText[6]="Das Können der Bots passt sich automatisch Ihrem Geschick im Kampf an."
+DMPropDescText[7]="Aktiviert die Verwendung aufgezeichneten Spotts der Spieler."
+DMPropDescText[8]="Bestimmt, wie lange Spieler nach dem Einstieg ins Spiel unverwundbar sind (es sei denn, sie feuern)."
+DMPropDescText[9]="Bei Aktivierung starten die Spieler mit einem Translocator."
+DMPropDescText[10]="Bei Auswahl verfügen die Spieler über hellere rote oder blaue Skins."
+DMPropDescText[11]="Verwenden Sie die Standardanzahl an Bots für die Map."
+DMPropDescText[12]="Bestimmt die Höchstzahl an Leben, die ein Spieler verlieren kann, bevor neue Spieler nicht mehr am Spiel teilnehmen können."
+DMPropDescText[13]="Ab einem gewissen Abstand weisen Spieler ein Glühen in der Farbe ihres Teams auf."
+YouDestroyed="Sie zerstörten ein/eine"
+DMHints=("Jede Waffe verfügt über zwei Feuermodi - einem regulären Feuermodus, wenn Sie %FIRE% drücken, und einen alternativen Feuermodus, wenn Sie %ALTFIRE% drücken.","Drücken Sie wieder auf die Sprungtaste an der höchsten Stelle des Sprungs, um einen zusätzlichen Schub zu erhalten.","Wenn Sie zweimal schnell hintereinander eine Bewegungstaste drücken, weicht Ihre Spielfigur in diese Richtung aus.","Sie können auch von Wänden wegspringen, während Sie in der Luft sind.","Sie können Waffen wechseln, indem Sie entweder die entsprechende Waffennummer drücken, oder indem Sie mit %NEXTWEAPON% und %PREVWEAPON% die Waffen nacheinander durchlaufen lassen.","Die Shock-Kombo ist eine mächtige Explosion, die erzeugt wird, indem man in eine Shock-Kugel (alternatives Feuer Ihrer Shock Rifle) mit einem Shock-Strahl schießt (reguläres Feuer der Shock Rifle).","Wenn Sie Raketen mit dem alternativen Feuer des Rocket Launcher nachladen, drücken Sie die Taste für das reguläre Feuer, bevor Sie die Raketen losschießen, damit sie in einer engen Spirale fliegen.","Sie können jederzeit die Anzeige der Punktetafel ein- bzw. ausschalten, indem Sie %SHOWSCORES% drücken.","Zusätzlich zu aufsammelbarem Adrenalin können Sie auch Adrenalin bekommen, indem Sie Feinde töten und andere Leistungen vollbringen. Sobald Ihr Adrenalinlevel den Wert 100 erreicht, können Sie eine Adrenalin-Kombo ausführen, indem Sie die entsprechende Bewegungstastenkombination verwenden.","Mit %SHOWSTATS% wird eine persönliche Statistik aufgerufen.","Mit einem gut platzierten Schuss können Sie feindliche Redeemer-Raketen beseitigen.","Drücken Sie %TALK% und geben Sie Ihre Nachricht ein, um anderen Spielern Textmeldungen zu schicken.","Sie können Gegner verspotten und andere Sprachmitteilungen über das Sprachmenü senden, indem Sie %SPEECHMENUTOGGLE% drücken.","Während Sie 'Ducken' (%DUCK% gedrückt halten), können Sie nicht von einem Vorsprung herunterfallen.")
+Description="Jeder-gegen-jeden! Töten oder getötet werden. Der Spieler mit den meisten Frags gewinnt."
+
+[DestroyableObjective]
+ObjectiveName="Zerstörbares Zielobjekt"
+ObjectiveDescription="Zielobjekt zerstören, um es zu deaktivieren."
+Objective_Info_Attacker="Zielobjekt zerstören "
+Objective_Info_Defender="Zielobjekt beschützen"
+
+[FemaleAnnouncer]
+AnnouncerName="Ansagerin"
+
+[FirstBloodMessage]
+FirstBloodString="hat ersten Treffer gelandet!"
+
+[GameObjective]
+DestructionMessage="Zielobjekt vernichtet!"
+LocationPrefix="Nahe"
+ObjectiveStringSuffix=" Team-Basis"
+ObjectiveDescription="Zielobjekt deaktivieren."
+Objective_Info_Attacker="Zielobjekt deaktivieren"
+Objective_Info_Defender="Zielobjekt verteidigen"
+UseDescription="BENUTZEN"
+
+[HoldObjective]
+ObjectiveName="Ziel halten"
+ObjectiveDescription="Zielobjekt berühren und halten, um es zu deaktivieren."
+Objective_Info_Attacker="Ziel halten"
+
+[KeyPickup]
+PickupMessage="Schlüssel gesammelt!"
+
+[KillingSpreeMessage]
+EndSpreeNote="s Mordorgie beendet durch"
+EndSelfSpree="sah gut aus, bis er sich selbst getötet hat!"
+EndFemaleSpree="sah gut aus, bis sie sich selbst getötet hat!"
+SpreeNote[0]="ist im Blutrausch!"
+SpreeNote[1]="metzelt alles nieder!"
+SpreeNote[2]="dominiert!"
+SpreeNote[3]="ist nicht aufzuhalten!"
+SpreeNote[4]="ist göttergleich!"
+SpreeNote[5]="ist absolut KRANK!"
+SelfSpreeNote[0]="Blutrausch!"
+SelfSpreeNote[1]="Gemetzel!"
+SelfSpreeNote[2]="dominiert!"
+SelfSpreeNote[3]="Nicht aufzuhalten!"
+SelfSpreeNote[4]="GÖTTERGLEICH!"
+SelfSpreeNote[5]="ABSOLUT KRANK!"
+
+[LastSecondMessage]
+LastSecondRed="Rettung in letzter Sekunde durch ROT!"
+LastSecondBlue="Rettung in letzter Sekunde durch BLAU!"
+
+[MaleAnnouncer]
+AnnouncerName="Ansager"
+
+[MessageTrigger]
+Message="Meine Meldung"
+
+[MutBerserk]
+FriendlyName="Super-Berserker"
+Description="Diese Waffen sind wahnsinnig schnell und leistungsfähig."
+
+[MutBigHead]
+FriendlyName="Big Head"
+Description="Ihr Abschneiden bestimmt die Kopfgröße."
+
+[MutGameSpeed]
+FriendlyName="Spielgeschwindigkeit"
+Description="Spielgeschwindigkeit verändern."
+
+[MutLowGrav]
+FriendlyName="LowGrav"
+Description="Geringe Schwerkraft."
+
+[MutMovementModifier]
+FriendlyName="Flugkontrolle"
+Description="Ändern Sie, wie sich Spieler in der Luft bewegen."
+
+[ProximityObjective]
+ObjectiveName="Zielnähe"
+ObjectiveDescription="Zielobjekt berühren, um es zu deaktivieren."
+Objective_Info_Attacker="Zielobjekt berühren "
+
+[SexyFemaleAnnouncer]
+AnnouncerName="Sexy Ansagerin"
+
+[SquadAI]
+SupportString="unterstützt"
+DefendString="verteidigt"
+AttackString="greift an"
+HoldString="hält"
+FreelanceString="Feger"
+
+[StartupMessage]
+Stage[0]="Warten auf andere Spieler."
+Stage[1]="Warten auf Bereitschaftssignale. BEREIT."
+Stage[2]="Das Match beginnt jeden Moment ... 3"
+Stage[3]="Das Match beginnt jeden Moment ... 2"
+Stage[4]="Das Match beginnt jeden Moment ... 1"
+Stage[5]="Das Match hat begonnen!"
+Stage[6]="Das Match hat begonnen!"
+Stage[7]="ÜBER DER ZEIT!"
+NotReady="Sie sind NICHT BEREIT! Drücken Sie auf Feuer!"
+SinglePlayer="Drücken Sie auf FEUER, um zu beginnen!"
+
+[TeamGame]
+NearString="In der Nähe von"
+BareHanded="Mit bloßen Händen"
+TGPropsDisplayText[0]="Bots gleichen Teams aus"
+TGPropsDisplayText[1]="Spieler gleichen Teams aus"
+TGPropsDisplayText[2]="Eigenbeschuss-Skala"
+TGPropsDisplayText[3]="Privat-Chat zwischen Teams"
+TGPropsDisplayText[4]="Max. Teamgröße"
+TGPropDescText[0]="Bots treten Teams bei oder wechseln sie, um für ein ausgeglichenes Verhältnis zu sorgen."
+TGPropDescText[1]="Spieler sind gezwungen, dem kleineren Team beizutreten, wenn sie mitmachen."
+TGPropDescText[2]="Bestimmt, wie viel Schaden Spieler desselben Teams einander zufügen können."
+TGPropDescText[3]="Bestimmt, ob Mitglieder verfeindeter Teams dem gleichen Chat-Raum beitreten dürfen."
+TGPropDescText[4]="Höchstzahl an Spielern bei jedem Team."
+TGHints=("Wenn Sie die Chat-Nachricht eines Spielers verpassen, können Sie mit %INGAMECHAT% ein Fenster mit allen Chat-Nachrichten aufrufen, die Sie empfangen haben.","Sie können eine Verbindung zu Mitspielern herstellen, die ebenfalls eine Link Gun besitzen, indem Sie den alternativen Feuerstrahl der Waffe verwenden. Während der Verbindung erhält der Mitspieler einen beträchtlichen Energieschub bei seiner Link Gun.","Sie können Ihre aktuelle Waffe einem Mitspieler zuwerfen, indem Sie %THROWWEAPON% drücken.","Mitspieler, die eine geladene Link Gun haben, weisen einen grünen Teamstrahl über ihrem Kopf auf anstelle des standardmäßigen gelben.","Drücken Sie %VOICETALK%, um mit Ihrem Team über Sprach-Chat zu kommunizieren.")
+Description="Zwei Teams kämpfen gegeneinander um die Vorherrschaft auf dem Schlachtfeld. Das Team mit den meisten Frags gewinnt."
+
+[TeamVoiceReplicationInfo]
+PublicChannelNames=("Öffentlicher","Lokaler","Team")
+
+[TimerMessage]
+CountDownTrailer="..."
+
+[TriggeredObjective]
+ObjectiveName="Zielobjekt ausgelöst"
+ObjectiveDescription="Zielobjekt auslösen, um es zu deaktivieren."
+Objective_Info_Attacker="Zielobjekt auslösen"
+Objective_Info_Defender="Zielobjekt verteidigen"
+
+[UTClassicAnnouncer]
+AnnouncerName="Klassischer Ansager"
+
+[UnrealMPGameInfo]
+MPGIPropsDisplayText[0]="Min. Spieleranzahl"
+MPGIPropsDisplayText[1]="Verzögerung am Ende des Spiels"
+MPGIPropsDisplayText[2]="Bot-Modus"
+MPGIPropsDisplayText[3]="Privat-Chat erlauben"
+MPGIPropDescText[0]="Bots füllen erforderlichenfalls den Server auf, um sicherzustellen, dass eine bestimmte Teilnehmerzahl im Spiel mitwirkt."
+MPGIPropDescText[1]="Wartedauer nach Ende eines Spiels, bis zur nächsten Map umgeschaltet wird."
+MPGIPropDescText[2]="Legen Sie fest, wie die Anzahl der Bots bestimmt wird."
+MPGIPropDescText[3]="Bestimmt, ob Clients individuelle private Chat-Räume auf diesem Server erstellen und ihnen beitreten dürfen."
+BotModeText="0;Zahl festlegen;1;Map-Standardeinstell.;2;Bot-Spielplan"
+SPBotText="Anzahl der Bots"
+MPBotText="Min. Spieleranzahl"
+SPBotDesc="Geben Sie die Anzahl der Bots an, die bei Ihrem Spiel teilnehmen sollen."
+MPBotDesc="Bots füllen erforderlichenfalls den Server auf, um sicherzustellen, dass eine bestimmte Teilnehmerzahl im Spiel mitwirkt."
+BotOptions[0]="Anzahl angeben"
+BotOptions[1]="Map-Standardeinstell."
+BotOptions[2]="Bot-Spielplan"
+BotOptions[3]="Spieler gegen Bots"
+
+[UseObjective]
+ObjectiveDescription="Zielobjekt nehmen und benutzen, um es zu deaktivieren."
+Objective_Info_Attacker="Zielobjekt benutzen"
+

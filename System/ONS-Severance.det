@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title="Severance"
+
+[LevelSummary]
+Title="Severance"
+Description="Vor einer halben Ewigkeit haben die Bewohner dieser verlassenen Ruinen ein Wesen des elementaren Bösen beschworen, das sie gefangen genommen und mit dem Blut zahlloser Opfer zum Schlafen gebracht haben. In der Stille zwischen den Schlachten kann man manchmal die Stimme dieses Titans hören, der aufgewacht ist und auf Ihr Blut wartet."
+
+[Volume0]
+LocationName="BLAUE Basis"
+
+[Volume1]
+LocationName="ROTE Basis"
+
+[Volume2]
+LocationName="BLAUE Basis"
+
+[Volume3]
+LocationName="Nordost Knoten"
+
+[Volume4]
+LocationName="Nordwest Knoten"
+
+[Volume5]
+LocationName="Mittlerer Knoten"
+
+[Volume6]
+LocationName="Südost Knoten"
+
+[Volume7]
+LocationName="Südwest Knoten"
+
+[Volume8]
+LocationName="ROTE Basis"
+
+[ZoneInfo0]
+LocationName="Außen"
+

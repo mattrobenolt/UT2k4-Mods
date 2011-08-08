@@ -1,0 +1,120 @@
+[Public]
+;Object=(Class=Class,MetaClass=Engine.GameInfo,Name=SkaarjPack.Invasion,Description="DM|Invasion|SkaarjPack.Tab_IAInvasion|SkaarjPack.MapListSkaarjInvasion|false")
+
+[DamTypeBelch]
+DeathString="%o wurde von einem Gasbag gebrutzelt."
+FemaleSuicide="Ein Gasbag ist in die Luft geflogen."
+MaleSuicide="Ein Gasbag ist in die Luft geflogen."
+
+[DamTypeBruteRocket]
+DeathString="%o wurde von einer Brute Rocket weggefegt."
+FemaleSuicide="Ein Brute hat seine Rakete verfrüht abgefeuert."
+MaleSuicide="Ein Brute hat seine Rakete verfrüht abgefeuert."
+
+[DamTypeKrallBolt]
+DeathString="%o wurde von einem Krall pulverisiert."
+
+[DamTypeSkaarjProj]
+DeathString="%o wurde von einem Skaarj abgefackelt."
+
+[DamTypeWarlordRocket]
+DeathString="%o wurde von einem Warlord aufs Übelste massakriert."
+FemaleSuicide="Ein Warlord hat seine Rakete verfrüht abgefeuert."
+MaleSuicide="Ein Warlord hat seine Rakete verfrüht abgefeuert."
+
+[HUDInvasion]
+YouveLostTheMatch="Die Invasion geht weiter"
+
+[Invasion]
+InvasionPropText[0]="Startwelle"
+InvasionPropText[1]="Letzte Welle"
+InvasionPropText[2]="Wellenkonfiguration"
+InvasionPropText[3]="Eindringlinge"
+InvasionPropText[4]="Wellenanzahl"
+InvasionPropText[5]="Max Eindringlinge"
+InvasionPropText[6]="Dauer"
+InvasionPropText[7]="Schwierigkeit"
+InvasionDescText[0]="Geben Sie die erste Welle kommender Monster für eine Map an."
+InvasionDescText[1]="Geben Sie die letzte zu vernichtende Welle an, um eine Map abzuschließen."
+InvasionDescText[2]="Konfigurieren der Eigenschaften jeder Welle."
+InvasionDescText[3]="Wählen Sie die zu konfigurierende Welle aus."
+InvasionDescText[4]="Setzen Sie neben jedem Monster, das zu dieser Welle gehören soll, ein Häkchen."
+InvasionDescText[5]="Höchstzahl an Monstern, die gleichzeitig in der Karte sein können."
+InvasionDescText[6]="Dauer (in Sekunden) der Welle."
+InvasionDescText[7]="Anpassen der relativen Intelligenz der Eindringlinge."
+SPBotDesc="Geben Sie die Anzahl der Bots (maximal 2 für Invasion) ein, die teilnehmen sollen."
+GameName="Invasion"
+Description="Sie müssen sich zusammen mit den anderen Spielern so lange wie möglich gegen angreifende Monster bewähren."
+GIPropsDisplayText[0]="Monstergeschicklichkeit"
+GIPropDescText[0]="Einstellen der Geschicklichkeit eindringender Monster."
+
+[InvasionDeathMessage]
+SomeoneString="ein Monster"
+
+[InvasionMessage]
+OutMessage="ist DRAUSSEN!"
+
+[InvasionWaveConfig]
+WCFGClose.Caption="Schließ."
+WCFGCreat01.Caption="Pupae"
+WCFGCreat01.Hint="Der Skaarj Pupae."
+WCFGCreat02.Caption="Razor Fly"
+WCFGCreat02.Hint="Die Razor Fly."
+WCFGCreat03.Caption="Manta"
+WCFGCreat03.Hint="Der Manta."
+WCFGCreat04.Caption="Krall"
+WCFGCreat04.Hint="Der Krall."
+WCFGCreat05.Caption="Elite Krall."
+WCFGCreat05.Hint="Der Elite Krall."
+WCFGCreat06.Caption="Gasbag"
+WCFGCreat06.Hint="Der Gasbag."
+WCFGCreat07.Caption="Brute"
+WCFGCreat07.Hint="Der Brute."
+WCFGCreat08.Caption="Skaarj"
+WCFGCreat08.Hint="Der Skaarj."
+WCFGCreat09.Caption="Behemoth"
+WCFGCreat09.Hint="Der Behemoth."
+WCFGCreat10.Caption="Ice Skaarj"
+WCFGCreat10.Hint="Ice Skaarj."
+WCFGCreat11.Caption="Fire Skaarj"
+WCFGCreat11.Hint="Der Fire Skaarj."
+WCFGCreat12.Caption="Warlord"
+WCFGCreat12.Hint="Der Warlord."
+WCFGCreat13.Caption="Pupae"
+WCFGCreat13.Hint="Der Skaarj Pupae."
+WCFGCreat14.Caption="Pupae"
+WCFGCreat14.Hint="Der Skaarj Pupae."
+WCFGCreat15.Caption="Razor Fly"
+WCFGCreat15.Hint="Die Razor Fly."
+WCFGCreat16.Caption="Razor Fly"
+WCFGCreat16.Hint="Die Razor Fly."
+WCFGDifficulty.Hint="How hard should the monsters on this wave be."
+WCFGDuration.Caption="Dauer"
+WCFGDuration.Hint="Wie lange jede Welle andauert."
+WCFGLabel1.Caption="Konfigurieren jeder Welle ..."
+WCFGLabel2.Caption="Schwierigkeit"
+WCFGReset.Caption="Zurücksetzen"
+WCFGWaveNo.Caption="Welle nein"
+WCFGWaveNo.Hint="Wählen Sie aus, welche Welle angepasst werden soll."
+
+[MeleeDamage]
+DeathString="%o wurde ausgeweidet."
+FemaleSuicide="%o wurde zerhackt."
+MaleSuicide="%o wurde zerhackt."
+
+[ScoreboardInvasion]
+TeamScoreString="Team-Punktestand"
+WaveString="Welle"
+
+[TAB_IAInvasion]
+IAInvasionInitialWave.Caption="Erste Welle"
+IAInvasionInitialWave.Hint="Wählen Sie die Anfangswelle aus."
+IAInvasionWaveConfig.Caption="Wellen konfigurieren"
+
+
+
+
+
+
+
+

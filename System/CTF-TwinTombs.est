@@ -1,0 +1,118 @@
+[LevelInfo0]
+Title="Twin Tombs"
+
+[LevelSummary]
+Title="Twin Tombs"
+Description="El invierno ha llegado a las tumbas y los muertos están inquietos. Esta elegante recreación de las tumbas gemelas de los hermanos Ramses III y Rudamon tiene reputación de ser veloz, brutal y traicionera, igual que los faraones aquí sepultados."
+
+[ZoneInfo0]
+LocationName="Corredor superior azul"
+
+[ZoneInfo1]
+LocationName="Base azul"
+
+[ZoneInfo11]
+LocationName="Base roja"
+
+[ZoneInfo12]
+LocationName="Corredor inferior rojo"
+
+[ZoneInfo13]
+LocationName="Plataformas de salto rojas"
+
+[ZoneInfo15]
+LocationName="Plataformas de salto azules"
+
+[ZoneInfo16]
+LocationName="Corredor superior rojo"
+
+[ZoneInfo17]
+LocationName="Cima de tejado rojo"
+
+[ZoneInfo18]
+LocationName="Corredor inferior azul"
+
+[ZoneInfo19]
+LocationName="Corredor superior azul"
+
+[ZoneInfo2]
+LocationName="Área exterior"
+
+[ZoneInfo21]
+LocationName="Corredor inferior rojo"
+
+[ZoneInfo23]
+LocationName="Corredor inferior rojo"
+
+[ZoneInfo24]
+LocationName="Tejado azul"
+
+[ZoneInfo26]
+LocationName="Base roja"
+
+[ZoneInfo27]
+LocationName="Corredor inferior azul"
+
+[ZoneInfo28]
+LocationName="Vestíbulo azul"
+
+[ZoneInfo29]
+LocationName="Vestíbulo azul"
+
+[ZoneInfo3]
+LocationName="Vestíbulo rojo"
+
+[ZoneInfo30]
+LocationName="Corredor superior azul"
+
+[ZoneInfo31]
+LocationName="Corredor superior azul"
+
+[ZoneInfo32]
+LocationName="Corredor superior azul"
+
+[ZoneInfo33]
+LocationName="Sala de bandera azul"
+
+[ZoneInfo34]
+LocationName="Corredor superior azul"
+
+[ZoneInfo35]
+LocationName="Corredor inferior azul"
+
+[ZoneInfo36]
+LocationName="Base azul"
+
+[ZoneInfo37]
+LocationName="Corredor inferior azul"
+
+[ZoneInfo38]
+LocationName="Corredor superior azul"
+
+[ZoneInfo39]
+LocationName="Corredor superior rojo"
+
+[ZoneInfo4]
+LocationName="Vestíbulo rojo"
+
+[ZoneInfo40]
+LocationName="Tejado azul"
+
+[ZoneInfo42]
+LocationName="Corredor inferior rojo"
+
+[ZoneInfo43]
+LocationName="Tejado rojo"
+
+[ZoneInfo5]
+LocationName="Corredor superior rojo"
+
+[ZoneInfo6]
+LocationName="Corredor superior rojo"
+
+[ZoneInfo8]
+LocationName="Sala de bandera roja"
+
+[ZoneInfo9]
+LocationName="Corredor superior rojo"
+

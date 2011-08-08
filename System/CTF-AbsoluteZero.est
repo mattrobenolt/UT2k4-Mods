@@ -1,0 +1,91 @@
+[LevelInfo0]
+Title="Absolute Zero"
+
+[LevelSummary]
+Title="Absolute Zero"
+Description="Cero absoluto se construyó para ser un puesto científico de estudio de la deriva glacial. Con los años, el calentamiento global y los masivos temblores de tierra casi arrancaron la base de sus cimientos. Los investigadores y los científicos fueron evacuados con rapidez y Liandri no perdió tiempo en comprar la base para el torneo. La cálida recepción que te dará tu equipo puede ayudar a resistir las temperaturas bajo cero, pero no te pongas demasiado cómodo, el enemigo te tiene preparado algo mucho más caliente..."
+
+[Volume0]
+LocationName="Sala inferior roja del generador"
+
+[Volume1]
+LocationName="Sala inferior azul del generador"
+
+[Volume10]
+LocationName="Cámara inferior azul"
+
+[Volume11]
+LocationName="Cámara inferior roja"
+
+[Volume12]
+LocationName="Sala de bandera roja"
+
+[Volume13]
+LocationName="Sala de bandera azul"
+
+[Volume14]
+LocationName="Lado A de cámara superior azul"
+
+[Volume15]
+LocationName="Lado B de cámara superior azul"
+
+[Volume16]
+LocationName="Escaleras de bandera azul"
+
+[Volume17]
+LocationName="Lado A de cámara superior roja"
+
+[Volume18]
+LocationName="Lado B de cámara superior roja"
+
+[Volume19]
+LocationName="Escaleras de bandera roja"
+
+[Volume2]
+LocationName="Sala superior azul del generador"
+
+[Volume20]
+LocationName="Cámara superior roja"
+
+[Volume21]
+LocationName="Cámara superior azul"
+
+[Volume23]
+LocationName="Puente de emisor de iones"
+
+[Volume24]
+LocationName="Puente de Redentor"
+
+[Volume25]
+LocationName="Torre azul de francotirador: lado Redentor"
+
+[Volume26]
+LocationName="Torre azul de francotirador: lado emisor de iones"
+
+[Volume27]
+LocationName="Torre roja de francotirador: lado Redentor"
+
+[Volume28]
+LocationName="Torre roja de francotirador: lado emisor de iones"
+
+[Volume29]
+LocationName="Exterior azul"
+
+[Volume3]
+LocationName="Sala superior roja del generador"
+
+[Volume30]
+LocationName="Exterior rojo"
+
+[Volume6]
+LocationName="Lado A de cámara inferior rojo"
+
+[Volume7]
+LocationName="Lado B de cámara inferior rojo"
+
+[Volume8]
+LocationName="Lado A de cámara inferior azul"
+
+[Volume9]
+LocationName="Lado B de cámara inferior azul"
+

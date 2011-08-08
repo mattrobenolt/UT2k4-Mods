@@ -1,0 +1,148 @@
+[DestroyableObjective_SM0]
+DestructionMessage="Äußere Verteidigungslinie durchbrochen!"
+ObjectiveDescription="Tor zerstören"
+Objective_Info_Attacker="Tor zerstören"
+Objective_Info_Defender="Haupttor verteidigen"
+
+[DestroyableObjective_SM1]
+ObjectiveName="Datenkabel"
+DestructionMessage="Datenkabel durchtrennt!"
+ObjectiveDescription="Datenkabel durchtrennen"
+Objective_Info_Attacker="Datenkabel durchtrennen"
+Objective_Info_Defender="Datenkabel verteidigen"
+
+[DestroyableObjective_SM2]
+ObjectiveName="Schildkomponente 1"
+DestructionMessage="Schildgenerator zerstört!"
+ObjectiveDescription="Schildnexus vernichten"
+Objective_Info_Attacker="Schildkomponente zerstören"
+Objective_Info_Defender="Schildnexus verteidigen"
+
+[DestroyableObjective_SM3]
+ObjectiveName="Schildkomponente 3"
+DestructionMessage="Schildgenerator zerstört!"
+ObjectiveDescription="Schildnexus vernichten"
+Objective_Info_Attacker="Schildkomponente zerstören"
+Objective_Info_Defender="Schildnexus verteidigen"
+
+[DestroyableObjective_SM4]
+ObjectiveName="Schildkomponente 2"
+DestructionMessage="Schildgenerator zerstört!"
+ObjectiveDescription="Schildnexus vernichten"
+Objective_Info_Attacker="Schildkomponente zerstören"
+Objective_Info_Defender="Schildnexus verteidigen"
+
+[DestroyableObjective_SM5]
+ObjectiveName="KI-Generator"
+DestructionMessage="KI-Generator zerstört!"
+ObjectiveDescription="KI-Generator zerstören"
+Objective_Info_Attacker="KI-Generator zerstören"
+Objective_Info_Defender="KI-Generator verteidigen"
+
+[HoldObjective2]
+ObjectiveName="Teleporter_Aktivierung"
+DestructionMessage="Neuer Erscheinungsort für Angreifer bereit"
+ObjectiveDescription="Satellitenschüssel ausrichten"
+Objective_Info_Attacker="Satellitenschüssel ausrichten"
+Objective_Info_Defender="Satelliten-Schalttafel verteidigen"
+
+[LevelInfo0]
+Title="Robot Factory"
+
+[LevelSummary]
+Title="Robot Factory"
+Description="Bei diesem Szenario werden der Liandri-Roboteraufstand auf dem mechanischen Asteroiden LBX-7683 und dessen spätere Niederschlagung durch die Truppen der Menschen nachgestellt. LBX-7683 war ein Forschungs-Außenposten, auf dem die nächste Generation von Liandri-Robotern entwickelt wurde. Liandris beste Wissenschaftler konnten immer ausgefeiltere künstliche Intelligenz in ihre Maschinen integrieren. Doch irgendwann rebellierten diese gegen die Menschen und übernahmen den Asteroiden, indem sie ihre Erbauer auf grausame Weise beseitigten und die wertvollen Mineralien für ihre eigenen Zwecke abbauten. Die Kommandeure von Liandri planten einen direkten Angriff auf die Produktionseinrichtung zur Herstellung der Roboter. Bei einem massiven Angriff auf diese Welt wurde ein kleines Team abgesetzt, das als einziges Ziel hatte, die KI-Generatoren zu zerstören und zu verhindern, dass die Maschinen sich selbst reproduzieren können und somit den Aufstand niederzuschlagen."
+
+[SceneSubtitles0]
+SubTitles=("Bei diesem Szenario werden der Liandri-Roboteraufstand auf dem mechanischen Asteroiden LBX-7683","und dessen spätere Niederschlagung durch die Truppen der Menschen nachgestellt.","LBX-7683 war ein Forschungs-Außenposten, auf dem die nächste Generation von Liandri-Robotern entwickelt wurde.","Liandris beste Wissenschaftler konnten immer ausgefeiltere künstliche Intelligenz in ihre Maschinen integrieren.","Doch irgendwann rebellierten diese gegen die Menschen und übernahmen den Asteroiden,","indem sie ihre Erbauer auf grausame Weise beseitigten und die wertvollen Mineralien für ihre eigenen Zwecke abbauten.","Die Kommandeure von Liandri planten einen direkten Angriff auf die Produktionseinrichtung zur Herstellung der Roboter.","Bei einem massiven Angriff auf diese Welt wurde ein kleines Team abgesetzt, das als einziges Ziel hatte, die KI-Generatoren zu zerstören","und zu verhindern, dass die Maschinen sich selbst reproduzieren können und somit den Aufstand niederzuschlagen.","Zu Beginn des Szenarios sind Sie gerade beim Verladedeck der Roboterfabrik gelandet.","Ihr Ziel besteht darin, die Verteidigungsanlagen der Fabrik zu durchbrechen und den KI-Generator zu zerstören.","Zunächst müssen Sie die Satellitenschüssel so ausrichten, dass Sie Kontakt zu Ihrem Hauptquartier aufnehmen können.","Zerstören Sie dann das Tor, das den Eingang zur Fabrik versperrt.",,"Sobald Sie in der Fabrik sind, müssen Sie die Datenkabel durchtrennen.",,"Vernichten Sie die drei Komponenten des Schildnexus, um an den KI-Generator heranzukommen.",,"Zerstören Sie dann den KI-Generator, um die Roboterproduktion aufzuhalten.")
+
+[Volume0]
+LocationName="Außerhalb der Zugangstür"
+
+[Volume1]
+LocationName="Nördliches Deck"
+
+[Volume3]
+LocationName="Einsatzbereich der Angreifer"
+
+[Volume4]
+LocationName="Schaltzentrale des Decks"
+
+[Volume6]
+LocationName="Südliches Deck"
+
+[ZoneInfo0]
+LocationName="KI-Generator"
+
+[ZoneInfo1]
+LocationName="Außerhalb des Ladedecks"
+
+[ZoneInfo11]
+LocationName="Verpackungskammer"
+
+[ZoneInfo12]
+LocationName="Datentransferhalle"
+
+[ZoneInfo13]
+LocationName="Lagerhalle"
+
+[ZoneInfo14]
+LocationName="Generatorschaltzentrale"
+
+[ZoneInfo15]
+LocationName="Press-Anlage"
+
+[ZoneInfo16]
+LocationName="Fabrikeingang"
+
+[ZoneInfo18]
+LocationName="Generatorschaltzentrale"
+
+[ZoneInfo2]
+LocationName="KI-Förderbänder"
+
+[ZoneInfo20]
+LocationName="Lagerhalle"
+
+[ZoneInfo21]
+LocationName="Gang zur Datentransferhalle"
+
+[ZoneInfo22]
+LocationName="Verpackungskammer"
+
+[ZoneInfo23]
+LocationName="Verpackungskammer"
+
+[ZoneInfo24]
+LocationName="Schildgenerator-Anbau"
+
+[ZoneInfo25]
+LocationName="Datentransferhalle"
+
+[ZoneInfo26]
+LocationName="KI-Generator"
+
+[ZoneInfo27]
+LocationName="Press-Anlage"
+
+[ZoneInfo28]
+LocationName="KI-Förderbänder"
+
+[ZoneInfo3]
+LocationName="Gang zur Datentransferhalle"
+
+[ZoneInfo4]
+LocationName="Datenzentrum"
+
+[ZoneInfo5]
+LocationName="Schildgeneratoren"
+
+[ZoneInfo6]
+LocationName="Schaltzentrale des Decks"
+
+[ZoneInfo7]
+LocationName="cine_forces"
+
+[ZoneInfo9]
+LocationName="Schildgenerator-Anbau"
+

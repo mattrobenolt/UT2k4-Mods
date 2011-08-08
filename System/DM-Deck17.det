@@ -1,0 +1,132 @@
+[BlockingVolume3]
+LocationName="In der Luft"
+
+[BlockingVolume61]
+LocationName="In der Luft"
+
+[LevelInfo0]
+Title="Deck 17"
+
+[LevelSummary]
+Title="Deck 17"
+Description="Gehen Sie auf Deck 17 - Magmaraffinerie ... Der HEISSE Nachbar von Deck 16."
+
+[Volume0]
+LocationName="D17 Aufzüge - Untere Ebene (Satz Schilde)"
+
+[Volume10]
+LocationName="D17 Hauptraum - Westen (Link Gun)"
+
+[Volume4]
+LocationName="Hauptraum - unterer Vorsprung (U-Schaden)"
+
+[Volume5]
+LocationName="D17 Hauptraum - Ostvorsprung (Satz Schilde)"
+
+[Volume6]
+LocationName="D17 Aufzüge - Untere Ebene (2 Sätze Gesundheit)"
+
+[Volume7]
+LocationName="D17 Hauptraum - Mitte (Minigun)"
+
+[Volume8]
+LocationName="Gigantisches Lavabecken (Rocket Launcher)"
+
+[ZoneInfo25]
+LocationName="Deck 16 (gesperrter Bereich)"
+
+[ZoneInfo30]
+LocationName="Orangene Korridorkurve"
+
+[ZoneInfo32]
+LocationName="Blauer Raum (Rocket Launcher)"
+
+[ZoneInfo37]
+LocationName="Oberer Gang"
+
+[ZoneInfo40]
+LocationName="Oberes kleines Lavabecken (Lightning Gun)"
+
+[ZoneInfo41]
+LocationName="Unteres Abluftgebläse nahe der Aufzüge"
+
+[ZoneInfo43]
+LocationName="Gesperrter Eingang zu Deck 16"
+
+[ZoneInfo45]
+LocationName="Eingang zur D17/D16-Verbindungsstelle"
+
+[ZoneInfo47]
+LocationName="Deck 16 (Sperrzone)"
+
+[ZoneInfo48]
+LocationName="Deck 16 (Sperrzone)"
+
+[ZoneInfo49]
+LocationName="Deck 16 (Sperrzone)"
+
+[ZoneInfo50]
+LocationName="D17/D16 Verbindungsstelle (Bio Rifle)"
+
+[ZoneInfo51]
+LocationName="Deck 16 (Sperrzone)"
+
+[ZoneInfo52]
+LocationName="Deck 16 (Sperrzone)"
+
+[ZoneInfo53]
+LocationName="Nahe Aufzüge - östliche obere Ebene"
+
+[ZoneInfo54]
+LocationName="Oberer Gang (Flak Cannon)"
+
+[ZoneInfo55]
+LocationName="T-Bereich des oberen Ganges"
+
+[ZoneInfo56]
+LocationName="Haupteingang zum oberen Gang"
+
+[ZoneInfo57]
+LocationName="Aufzüge - obere Ebene"
+
+[ZoneInfo58]
+LocationName="Über Aufzügen (Redeemer)"
+
+[ZoneInfo59]
+LocationName="Aufzüge - untere Ebene (Shock Rifle)"
+
+[ZoneInfo60]
+LocationName="Aufzüge - untere Ebene (Shock Rifle)"
+
+[ZoneInfo61]
+LocationName="Roter Aufzugskorridor - Osten"
+
+[ZoneInfo62]
+LocationName="Roter Aufzugskorridor - Westen"
+
+[ZoneInfo63]
+LocationName="Gigantisches Lavabecken"
+
+[ZoneInfo69]
+LocationName="Gigantische Lavagrube (Satz Superschilde)"
+
+[ZoneInfo70]
+LocationName="Hauptraum - östlicher Vorsprung (Bio Rifle)"
+
+[ZoneInfo71]
+LocationName="Hauptraum - Mitte"
+
+[ZoneInfo73]
+LocationName="Hauptraum - unterer Vorsprung (Shock Rifle)"
+
+[ZoneInfo74]
+LocationName="Hauptraum - Scharfschützenvorsprung (Lightning Gun)"
+
+[ZoneInfo76]
+LocationName="Großer Nordkorridor (2 Sätze Gesundheit)"
+
+[ZoneInfo77]
+LocationName="Unteres kleines Lavabecken (Flak Cannon)"
+
+[ZoneInfo78]
+LocationName="Orangener gerader Korridor"

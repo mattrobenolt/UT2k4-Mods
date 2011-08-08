@@ -1,0 +1,65 @@
+[LevelInfo0]
+Title="Sun Temple"
+
+[LevelSummary]
+Title="Sun Temple"
+
+[ZoneInfo0]
+LocationName="Terreno aperto"
+
+[ZoneInfo10]
+LocationName="Corridoio Dom B"
+
+[ZoneInfo11]
+LocationName="Stanza superiore Dom B"
+
+[ZoneInfo12]
+LocationName="Punto Dom B"
+
+[ZoneInfo13]
+LocationName="Corridoio Dom A"
+
+[ZoneInfo14]
+LocationName="Corridoio Dom A"
+
+[ZoneInfo15]
+LocationName="Ingresso Dom A"
+
+[ZoneInfo16]
+LocationName="Stanza superiore Dom A"
+
+[ZoneInfo17]
+LocationName="Stanza superiore Dom A"
+
+[ZoneInfo18]
+LocationName="Corte Dom A"
+
+[ZoneInfo2]
+LocationName="Ingressp Dom B"
+
+[ZoneInfo23]
+LocationName="Punto Dom A"
+
+[ZoneInfo24]
+LocationName="Stanza superiore Dom B"
+
+[ZoneInfo3]
+LocationName="Stanza del salto centrale"
+
+[ZoneInfo4]
+LocationName="Corte Dom B"
+
+[ZoneInfo5]
+LocationName="Corridoio Dom B"
+
+[ZoneInfo6]
+LocationName="Corridoio Dom B"
+
+[ZoneInfo7]
+LocationName="Corridoio Dom A"
+
+[ZoneInfo8]
+LocationName="Corridoio Dom A"
+
+[ZoneInfo9]
+LocationName="Corridoio Dom B"

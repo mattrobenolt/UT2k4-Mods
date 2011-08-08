@@ -1,0 +1,49 @@
+[LevelInfo0]
+Title="Tricky"
+
+[LevelSummary]
+Title="Tricky"
+Description="THIS SATURDAY, ONE DAY ONLY, AT THE M-M-MONSTER VALLEY ARENA, WITNESS THE AAAAWESOME SPECTACLE OF ONSLAUGHT TOURNAMENT COMBAT!!!  TWO TEAMS AND 65 TONS OF BALLS TO THE WALL GUN SLINGING VEHICULAR MAYHEM!  BE THERE FOR THE FLAMING HOOPS, THE MONSTER JUMPS, THE HALFPIPE OF BLOOD, AND THE INSANITY OF THE 150 METER TALL TOWER OF DOOM!  BE THERE!!!"
+
+[MessageTrigger1]
+Message="cleared the Holy Shit Gap!"
+
+[MessageTrigger10]
+Message="cleared the Ludicrous Gap!"
+
+[MessageTrigger11]
+Message="All Gaps cleared!"
+
+[MessageTrigger12]
+Message="clears all Gaps!"
+
+[MessageTrigger2]
+Message="Holy Shit Gap!"
+
+[MessageTrigger3]
+Message="Ben's sweet Gap"
+
+[MessageTrigger4]
+Message="Cleared Ben's sweet Gap!"
+
+[MessageTrigger5]
+Message="Unreal Gap!"
+
+[MessageTrigger6]
+Message="cleared the Unreal Gap!"
+
+[MessageTrigger7]
+Message="M-M-M-Monster Gap!"
+
+[MessageTrigger8]
+Message="cleared the M-M-M-Monster Gap!"
+
+[MessageTrigger9]
+Message="Ludicrous Gap!"
+
+[Volume12]
+LocationName="Tower"
+
+[ZoneInfo1]
+LocationName="Outside"
+

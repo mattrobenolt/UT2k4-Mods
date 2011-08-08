@@ -1,0 +1,330 @@
+[Counter0]
+CompleteMessage="Core Vents opened!"
+
+[Counter2]
+CompleteMessage="Energy Shield deactivated!!!"
+
+[Counter3]
+CompleteMessage="Doors and lower force field deactivated"
+
+[Counter4]
+CompleteMessage="Core conductors destroyed!!!"
+
+[Counter5]
+CompleteMessage="Loading bay force field deactivated!"
+
+[Counter6]
+CompleteMessage="Top force fields deactivated!"
+
+[DestroyVehicleObjective0]
+ObjectiveName="Sentinels turrets"
+DestructionMessage="Sentinel destroyed!"
+ObjectiveDescription="Destroy sentinel turrets"
+Objective_Info_Attacker="Destroy sentinel"
+Objective_Info_Defender="Defend sentinel"
+
+[DestroyVehicleObjective1]
+ObjectiveName="Sentinels turrets"
+DestructionMessage="Sentinel destroyed!"
+LocationPrefix="lowerhull"
+ObjectiveDescription="Destroy sentinel turrets"
+Objective_Info_Attacker="Destroy sentinel"
+Objective_Info_Defender="Defend sentinel"
+
+[DestroyVehicleObjective2]
+ObjectiveName="Sentinels turrets"
+DestructionMessage="Sentinel destroyed!"
+ObjectiveDescription="Destroy sentinel turrets"
+Objective_Info_Attacker="Destroy sentinel"
+Objective_Info_Defender="Defend sentinel"
+
+[DestroyableObjective_SM0]
+ObjectiveName="Energy bypass"
+DestructionMessage="Destroyed energy bypass..."
+ObjectiveDescription="Destroy laser field bypass"
+Objective_Info_Attacker="Destroy energy bypass"
+Objective_Info_Defender="Defend energy bypass"
+
+[DestroyableObjective_SM1]
+ObjectiveName="Upper shield generator"
+DestructionMessage="Shield Generator Destroyed"
+ObjectiveDescription="Destroy shield generators"
+Objective_Info_Attacker="Destroy upper shield generator "
+Objective_Info_Defender="Defend upper shield generator "
+
+[DestroyableObjective_SM2]
+ObjectiveName="Upper shield generator"
+DestructionMessage="Shield Generator Destroyed"
+ObjectiveDescription="Destroy shield generators"
+Objective_Info_Attacker="Destroy upper shield generator "
+Objective_Info_Defender="Defend upper shield generator "
+
+[DestroyableObjective_SM3]
+ObjectiveName="Lower shield generator"
+DestructionMessage="Shield Generator Destroyed"
+ObjectiveDescription="Destroy lower shield generator"
+Objective_Info_Attacker="Destroy lower shield generator"
+Objective_Info_Defender="Defend lower shield generator "
+
+[DestroyableObjective_SM4]
+ObjectiveName="Core conductors..."
+DestructionMessage="Conductor destroyed!!!"
+ObjectiveDescription="Destroy core conductor"
+Objective_Info_Attacker="Destroy the conductor"
+Objective_Info_Defender="Defend the conductor"
+
+[DestroyableObjective_SM5]
+ObjectiveName="Energy bypass"
+DestructionMessage="Destroyed energy bypass..."
+ObjectiveDescription="Destroy laser field bypass"
+Objective_Info_Attacker="Destroy energy bypass"
+Objective_Info_Defender="Defend energy bypass"
+
+[DestroyableObjective_SM6]
+ObjectiveName="Core conductors..."
+DestructionMessage="Conductor destroyed!!!"
+ObjectiveDescription="Destroy core conductor"
+Objective_Info_Attacker="Destroy the conductor"
+Objective_Info_Defender="Defend the conductor"
+
+[HoldObjective0]
+ObjectiveName="Core panels."
+DestructionMessage="Hatch lock #1 released!"
+ObjectiveDescription="Core panels"
+Objective_Info_Attacker="Use panel to unlock core hatch"
+Objective_Info_Defender="Stop any usage of the core panels"
+
+[HoldObjective1]
+ObjectiveName="Core panels."
+DestructionMessage="Hatch lock #2 released!"
+ObjectiveDescription="Core panels"
+Objective_Info_Attacker="Use panel to unlock core hatch"
+Objective_Info_Defender="Stop any usage of the core panels"
+
+[InfoPod2]
+POD_Message="Lower Inner Turrets"
+
+[InfoPod3]
+POD_Message="Link Cannon"
+
+[InfoPod4]
+POD_Message="Landing Bay Turrets"
+
+[InfoPod5]
+POD_Message="Top Inner Turrets"
+
+[InfoPod6]
+POD_Message="Top Outer Turrets"
+
+[InfoPod7]
+POD_Message="Lower Outer Turrets"
+
+[InfoPod8]
+POD_Message="Link Cannon"
+
+[LevelInfo0]
+Title="Mothership Assault"
+
+[LevelSummary]
+Title="Mothership Assault"
+Description="First contact with the Skaarj came during the recovery of the prison transporter Vortex Rikers on Na Pali. Within a year the Skaarj had pushed humanity back to the brink of destruction. This scenario replicates the final battle for Earth, and the stunning victory by humans in the face of almost certain defeat. A Skaarj Mothership orbited the Earth, and rained death upon the planet in preparation for the final landing. In a daring suicide mission, the humans attacked the Skaarj Mothership in small one man fighters, hoping to exploit a flaw in the Mothership defenses their analysis had revealed."
+
+[MessageTrigger15]
+Message="Prepare to attack!!!"
+
+[MessageTrigger17]
+Message="Prepare the defense!!!"
+
+[ProximityObjective0]
+ObjectiveName="Landing bay"
+DestructionMessage="Attackers have entered the MotherShip!"
+ObjectiveDescription="Enter Skaarj ship via landing bay"
+Objective_Info_Attacker="Proceed to landing bay"
+Objective_Info_Defender="Stop the humans from landing "
+
+[SceneSubtitles0]
+SubTitles=("First contact with the Skaarj came during the recovery of the prison transporter Vortex Rikers on Na Pali.        ","Within a year the Skaarj had pushed humanity back to the brink of destruction.","This scenario replicates the final battle for Earth, and the stunning victory by humans in the face of almost certain defeat.","A Skaarj mother ship orbited the Earth, and rained death upon the planet in preparation for the final landing.","In a daring suicide mission, the humans attacked the Skaarj Mothership in small one man fighters, hoping to exploit a flaw in the mother ship defenses their analysis had revealed.","Take down the generator within the lower section of the Skaarj mother ship to deactivate the top force fields.","Once completed head upwards into the main body of the Skaarj mother ship. ","Destroy the top generators to deactivate the shield for the landing bay.","Proceed and land in the mother ship landing bay.","Once on foot, proceed to the next section","Two energy bypass mechanisms will need to be destroyed to proceed to the cargo hull.","Past the bridge, the core awaits.","Once in the cargo hull three sentinels await.","The destruction of the sentinels is the only way to proceed forward.","The force fields deactivate once the three sentinels have been destroyed.","Passed the bridge and the core awaits.","Trigger the panels to open the hatch locks.","Once the panels have been triggered shoot the two energy core conductors in order to destabilize the core.")
+
+[Trigger_ASMessageTrigger14]
+Message="Force field down..."
+
+[Trigger_ASMessageTrigger15]
+Message="Unlock the Core!"
+
+[Trigger_ASMessageTrigger3]
+Message="Core hatches have been released..."
+
+[Trigger_ASMessageTrigger4]
+Message="Top force fields down..."
+
+[Trigger_ASMessageTrigger5]
+Message="Attackers have landed!!!"
+
+[Trigger_ASMessageTrigger7]
+Message="Attackers have entered the core!!!"
+
+[Trigger_ASMessageTrigger8]
+Message="Core has been destabilized!"
+
+[Trigger_ASMessageTrigger9]
+Message="Landing bay force field down"
+
+[ZoneInfo1]
+LocationName="Gravity engine hallway right"
+
+[ZoneInfo10]
+LocationName="Energy generator #2"
+
+[ZoneInfo12]
+LocationName="The core"
+
+[ZoneInfo13]
+LocationName="Right shaft"
+
+[ZoneInfo14]
+LocationName="Main middle shaft"
+
+[ZoneInfo16]
+LocationName="Core exterior"
+
+[ZoneInfo17]
+LocationName="Core exterior"
+
+[ZoneInfo18]
+LocationName="Inner top shaft"
+
+[ZoneInfo19]
+LocationName="Core exterior"
+
+[ZoneInfo2]
+LocationName="In space"
+
+[ZoneInfo20]
+LocationName="Lower cross path"
+
+[ZoneInfo21]
+LocationName="Defender's bypass spawn"
+
+[ZoneInfo22]
+LocationName="Defender's bypass spawn"
+
+[ZoneInfo23]
+LocationName="Cargo hull"
+
+[ZoneInfo24]
+LocationName="Cargo hull"
+
+[ZoneInfo25]
+LocationName="Cargo hull"
+
+[ZoneInfo26]
+LocationName="Cargo hull"
+
+[ZoneInfo27]
+LocationName="Defender's bypass spawn"
+
+[ZoneInfo28]
+LocationName="Space craft bay."
+
+[ZoneInfo29]
+LocationName="Cargo hull hallway"
+
+[ZoneInfo3]
+LocationName="Lower section generator shaft"
+
+[ZoneInfo30]
+LocationName="Elevator shaft"
+
+[ZoneInfo31]
+LocationName="Elevator passage "
+
+[ZoneInfo32]
+LocationName="Cargo upper bridge left"
+
+[ZoneInfo33]
+LocationName="Cargo upper bridge right"
+
+[ZoneInfo34]
+LocationName="Elevator passage "
+
+[ZoneInfo35]
+LocationName="Energy bypass room"
+
+[ZoneInfo36]
+LocationName="Left hallway"
+
+[ZoneInfo37]
+LocationName="Attackers landing bay"
+
+[ZoneInfo38]
+LocationName="Right hallway"
+
+[ZoneInfo39]
+LocationName="Top energy bypass entrance"
+
+[ZoneInfo4]
+LocationName="Defender's Landing bay"
+
+[ZoneInfo40]
+LocationName="Core entrance"
+
+[ZoneInfo41]
+LocationName="Core exterior"
+
+[ZoneInfo42]
+LocationName="Core bridge passage left"
+
+[ZoneInfo43]
+LocationName="Gravity engine room #1"
+
+[ZoneInfo44]
+LocationName="Gravity engine hallway left"
+
+[ZoneInfo45]
+LocationName="Gravity engine hallway right"
+
+[ZoneInfo46]
+LocationName="Gravity engine room #2"
+
+[ZoneInfo47]
+LocationName="Core bridge passage right"
+
+[ZoneInfo48]
+LocationName="Core bridge passage right"
+
+[ZoneInfo49]
+LocationName="Cargo hull"
+
+[ZoneInfo5]
+LocationName="Energy generator #1"
+
+[ZoneInfo50]
+LocationName="Cargo hull hallway"
+
+[ZoneInfo51]
+LocationName="Gravity engine hallway right"
+
+[ZoneInfo52]
+LocationName="Core bridge passage left"
+
+[ZoneInfo53]
+LocationName="Gravity engine hallway right"
+
+[ZoneInfo54]
+LocationName="Gravity engine hallway right"
+
+[ZoneInfo55]
+LocationName="Cargo hull hallway"
+
+[ZoneInfo6]
+LocationName="Landing bay"
+
+[ZoneInfo7]
+LocationName="landing bay"
+
+[ZoneInfo8]
+LocationName="Defender's Landing bay"
+
+[ZoneInfo9]
+LocationName="Left shaft"
+

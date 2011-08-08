@@ -1,0 +1,3 @@
+[PUBLIC]
+// Custom Voicepack Menu options
+Object=(Name=U2MarineVoice.U2MarineVoice,Class=Class,MetaClass=XGame.xVoicePack)

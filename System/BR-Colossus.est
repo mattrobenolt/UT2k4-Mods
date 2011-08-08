@@ -1,0 +1,28 @@
+[LevelInfo0]
+Title="Coloso"
+
+[LevelSummary]
+Title="Coloso"
+Description="Cuando ataques por el suelo o por el aire mediante los túneles de impulso, espera encontrarte con una fuerte resistencia por parte de tus oponentes, que aprovecharán el terreno y la tecnología para bloquearte el paso. Habrá mapas disponibles para los que se pierdan con facilidad."
+
+[Volume0]
+LocationName="Base retaguardia AZUL"
+
+[Volume1]
+LocationName="Base vanguardia AZUL"
+
+[Volume2]
+LocationName="Zona NEUTRAL"
+
+[Volume3]
+LocationName="Base vanguardia ROJA"
+
+[Volume4]
+LocationName="Base retaguardia ROJA"
+
+[ZoneInfo1]
+LocationName="Búnker ROJO"
+
+[ZoneInfo2]
+LocationName="Búnker AZUL"
+

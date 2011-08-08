@@ -1,0 +1,245 @@
+[DefaultMapListLoader]
+UseMapListPropsDisplayText="Use MapLists"
+UserMapListPropDescription="If enabled, the map lists are used instead of showing all map names."
+
+[KickInfoPage]
+PingText="Ping"
+ScoreText="Score"
+IDText="Player ID"
+IPText="IP Address"
+KillsText="Kills"
+DeathsText="Deaths"
+SuicidesText="Suicides"
+MultiKillsText="MultiKills"
+SpreesText="Sprees"
+ExitButton.Caption="Close"
+PlayerNameLabel.Caption="PlayerName"
+
+[KickVoteMultiColumnList]
+ColumnHeadings=("Player Name","Team","ID","Votes")
+ColumnHeadingHints=("Player Name","Player's Team","Player's ID number","Number of kick votes registered against this player.")
+
+[KickVoteMultiColumnListBox]
+RCMenu.ContextItems=("Vote to Kick this Player","View Player Details","[Admin] Kick from Server","[Admin] Ban from Server")
+
+[KickVotingPage]
+lmsgKickVotingDisabled="Sorry, Kick Voting has been disabled by the server administrator."
+WindowName="Kick Voting"
+InfoButton.Caption="Info"
+KickButton.Caption="Kick"
+
+[MapInfoPage]
+MessageNoInfo="No information available!"
+AuthorText="Author"
+PlayerText="players"
+lmsgLevelPreviewUnavailable="Level Preview Unavailable"
+MapAuthorLabel.Caption="MapAuthor"
+MapPlayersLabel.Caption="Players"
+NoPreview.Caption="No Preview Available"
+
+[MapVoteCountMultiColumnList]
+ColumnHeadings=("GameType","MapName","Votes")
+ColumnHeadingHints=("Game Type","Map Name","Number of votes registered for this map.")
+
+[MapVoteCountMultiColumnListBox]
+RCMenu.ContextItems=("Vote for this Map","View Screenshot and Description")
+
+[MapVoteFooter]
+AcceptButton.Caption="Accept"
+AcceptButton.Hint="Click once you are satisfied with all settings and wish to offer no further modifications"
+ChatEditbox.Caption="Say"
+CloseButton.Caption="Close"
+MapvoteFooterBackground.Caption="Chat"
+SubmitButton.Caption="Submit"
+
+[MapVoteGameConfigPage]
+lmsgNew="New"
+lmsgAdd="Add"
+WindowName="Map Voting Game Configuration"
+AcronymEditBox.Caption="Abbreviation"
+AcronymEditBox.Hint="A short abbreviation, description, or acronym that identifies the game configuration. This will be appended to the map name in vote messages."
+DefaultCheckBox.Caption="Default"
+DefaultCheckBox.Hint="The selected game configuration will be the default if all the players leave the server"
+DeleteButton.Caption="Delete"
+DeleteButton.Hint="Delete the selected game configuration."
+GameClassComboBox.Caption="Game Class"
+GameClassComboBox.Hint="Select a game type for the select game configuration."
+GameConfigListBox.Hint="Select a game configuration to edit or delete."
+GameTitleEditBox.Caption="Game Title"
+GameTitleEditBox.Hint="Enter a custom game configuration title."
+MutatorListBox.Hint="Select each mutator that should be loaded with this game configuration."
+NewButton.Caption="New"
+NewButton.Hint="Create a new game configuration."
+ParameterEditBox.Caption="Parameters"
+ParameterEditBox.Hint="(Advanced) List of game parameters with values. Separated each with a comma. (ex. GoalScore=4,MinPlayers=4)"
+PrefixEditBox.Caption="Map Prefixes"
+PrefixEditBox.Hint="List of map name prefixes. Separate each with commas."
+SBList.Caption="GameTypes"
+SBList2.Caption="Mutators"
+
+[MapVoteMapListConfigPage]
+sbCaption="Map Cycle List"
+WindowName="Map Voting List Configuration"
+MapListCheckBox.Caption="Use Map Cycle List"
+MapListCheckBox.Hint="Load map names from the specified maps lists or using the prefix."
+MapListListBox.Hint="Select each maplist type to load map names from."
+MapListLoaderPrefixEditBox.Caption="Map Prefixes"
+MapListLoaderPrefixEditBox.Hint="List of map name prefixes. If more than one separate each with commas."
+
+[MapVoteMultiColumnList]
+ColumnHeadings=("Map Name","Played","Seq")
+ColumnHeadingHints=("Map Name","Number of times the map has been played.","Sequence, The number of games that have been played since this map was last played.")
+
+[MapVoteMultiColumnListBox]
+RCMenu.ContextItems=("Vote for this Map","View Screenshot and Description")
+
+[MapVotingPage]
+lmsgMapVotingDisabled="Sorry, Map Voting has been disabled by the server administrator."
+lmsgReplicationNotFinished="Map data download in progress. Please try again later."
+lmsgMapDisabled="The selected Map is disabled."
+lmsgTotalMaps="%mapcount% Total Maps"
+lmsgMode[0]="Majority Mode"
+lmsgMode[1]="Majority & Elimination Mode"
+lmsgMode[2]="Score Mode"
+lmsgMode[3]="Score & Elimination Mode"
+lmsgMode[4]="Majority & Accumulation Mode"
+lmsgMode[5]="Majority & Accumulation & Elimination Mode"
+lmsgMode[6]="Score & Accumulation Mode"
+lmsgMode[7]="Score & Accumulation & Elimination Mode"
+WindowName="Map Voting"
+GameTypeCombo.Caption="Filter Game Type:"
+
+[MatchConfig]
+lmsgLoadingMatchProfile="Match settings are being loaded now."
+lmsgRestoringDefaultProfile="Restoring default server profile."
+lmsgDefaultNotAvailable="Default Profile Not available."
+
+[MatchSetupLoginPage]
+CancelButton.Caption="Cancel"
+LoginButton.Caption="Login"
+PasswordEditBox.Caption="Password"
+TitleLabel.Caption="Match Setup Login"
+UserIDEditBox.Caption="UserID"
+
+[MatchSetupLoginPanel]
+NoUsernameSpecified="In order to login to match setup, you must supply a username."
+NoPasswordSpecified="In order to login to match setup, you must supply a password."
+InvalidLoginText="Login attempt failed - invalid username or password."
+WaitingForLoginText="Please wait while your login credentials are verified..."
+LoggedText="Successfully logged into match setup!"
+ButtonLoginText="Login"
+ButtonLogoutText="Logout"
+PleaseWaitText="Complete data transfer will take a few seconds..."
+PanelCaption="Login"
+CancelButton.Caption="Cancel"
+LoginButton.Caption="Login"
+PasswordEditBox.Caption="Password"
+UserIDEditBox.Caption="UserID"
+
+[MatchSetupMain]
+PanelCaption="General"
+CommandLineParamsBox.Caption="Additional Command Line Parameters"
+CommandLineParamsBox.Hint="Specify any additional command line parameters (optional)"
+DemoRecBox.Caption="Filename"
+DemoRecBox.Hint="Enter the name of the demo you'd like to record for this match"
+DemoRecCheckbox.Caption="Record Demo"
+DemoRecCheckbox.Hint="Record a server-side demo of this match"
+GameTypeCombo.Caption="Game Type"
+GameTypeCombo.Hint="Select the gametype to use in the current match"
+TournamentCheckbox.Caption="Tournament Mode"
+TournamentCheckbox.Hint="All players must be connected to the server before the match can start"
+
+[MatchSetupMaps]
+PanelCaption="Maplist"
+ActiveBackground.Caption="Active Maps"
+AddAllButton.Caption="Add All"
+AddAllButton.Hint="Add all maps to your map list"
+AddButton.Caption="Add"
+AddButton.Hint="Add the selected maps to your map list"
+InactiveBackground.Caption="Inactive Maps"
+MoveDownButton.Caption="Down"
+MoveDownButton.Hint="Move this map lower down in the list"
+MoveUpButton.Caption="Up"
+MoveUpButton.Hint="Move this map higher up in the list"
+RemoveAllButton.Caption="Remove All"
+RemoveAllButton.Hint="Remove all maps from your map list"
+RemoveButton.Caption="Remove"
+RemoveButton.Hint="Remove the selected maps from your map list"
+
+[MatchSetupMutator]
+PanelCaption="Mutators"
+ActiveBackground.Caption="Active Mutators"
+InactiveBackground.Caption="Inactive Mutators"
+MutAddAllButton.Caption="Add All"
+MutAddAllButton.Hint="Add all mutators to the list"
+MutAddButton.Caption="Add"
+MutAddButton.Hint="Add the selected mutators to the list"
+MutRemoveAllButton.Caption="Remove All"
+MutRemoveAllButton.Hint="Remove all mutators from the list"
+MutRemoveButton.Caption="Remove"
+MutRemoveButton.Hint="Remove the selected mutators from the list"
+
+[MatchSetupRules]
+PanelCaption="Rules"
+
+[PlayerInfoMultiColumnList]
+ColumnHeadings=("-","-")
+ColumnHeadingHints=(,)
+
+[VotingReplicationInfo]
+lmsgSavedAsDefaultSuccess="Profile was saved as default successfully"
+lmsgNotAllAccepted="You have Accepted the current settings, Waiting for other users to accept."
+
+[xVotingHandler]
+lmsgInvalidPassword="The password entered is invalid !"
+lmsgMatchSetupPermission="Sorry, you do not have permission to use Match Setup !"
+lmsgKickVote="%playername1% placed a kick vote against %playername2%"
+lmsgAnonymousKickVote="A kick vote has been placed against %playername%"
+lmsgKickVoteAdmin="%playername% attempted to submit a kick vote against the server administrator !"
+lmsgMapWon="%mapname% has won !"
+lmsgMidGameVote="Mid-Game Map Voting has been initiated !!!!"
+lmsgSpectatorsCantVote="Sorry, Spectators can not vote."
+lmsgMapVotedFor="%playername% has voted for %mapname%"
+lmsgMapVotedForWithCount="%playername% has placed %votecount% votes for %mapname%"
+PropsDisplayText[0]="Enable Map Voting"
+PropsDisplayText[1]="Auto Open GUI"
+PropsDisplayText[2]="ScoreBoard Delay"
+PropsDisplayText[3]="Score Mode"
+PropsDisplayText[4]="Accumulation Mode"
+PropsDisplayText[5]="Elimination Mode"
+PropsDisplayText[6]="Minimum Maps"
+PropsDisplayText[7]="Repeat Limit"
+PropsDisplayText[8]="Voting Time Limit"
+PropsDisplayText[9]="Mid-Game Vote Percent"
+PropsDisplayText[10]="Default Current GameType"
+PropsDisplayText[11]="Enable Kick Voting"
+PropsDisplayText[12]="Kick Vote Percent"
+PropsDisplayText[13]="Anonymous Kick Voting"
+PropsDisplayText[14]="Allow Match Setup"
+PropsDisplayText[15]="Game Configuration"
+PropsDisplayText[16]="Map List Configuration"
+PropDescription[0]="If enabled players can vote for maps."
+PropDescription[1]="If enabled the Map voting interface will automatically open at the end of each game."
+PropDescription[2]="Sets the number of seconds to delay after the end of each game before opening the voting interface."
+PropDescription[3]="If enabled, each player gets his or her score worth of votes."
+PropDescription[4]="If enabled, each player will accumulate votes each game until they win."
+PropDescription[5]="If enabled, available maps are disabled as they are played until there are X maps left."
+PropDescription[6]="The number of enabled maps that remain in the map list (in Elimination mode) before the map list is reset."
+PropDescription[7]="Number of previously played maps that should not be votable."
+PropDescription[8]="Limits how much time (in seconds) to allow for voting."
+PropDescription[9]="Percentage of players that must vote to trigger a Mid-Game vote."
+PropDescription[10]="If enabled, and there are no players on the server then the server will stay on the current game type."
+PropDescription[11]="If enable players can vote to kick other players."
+PropDescription[12]="The percentage of players that must vote against an individual player to have them kicked from the server."
+PropDescription[13]="If enabled players can place Kick votes without anyone knowing who placed the vote."
+PropDescription[14]="Enables match setup on the server - valid admin username & password is required in order to use this feature"
+PropDescription[15]="Opens the map voting game configuration screen"
+PropDescription[16]="Opens the map voting list configuration screen"
+lmsgAdminMapChange="Admin has forced map switch to %mapname%"
+lmsgGameConfigColumnTitle[0]="GameType"
+lmsgGameConfigColumnTitle[1]="MapPrefixes"
+lmsgGameConfigColumnTitle[2]="Abbreviation"
+lmsgGameConfigColumnTitle[3]="Name"
+lmsgGameConfigColumnTitle[4]="Mutators"
+lmsgGameConfigColumnTitle[5]="Options"
+

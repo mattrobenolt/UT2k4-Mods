@@ -1,0 +1,16 @@
+[LevelInfo0]
+Title="Roughinery"
+
+[LevelSummary]
+Title="Roughinery"
+Description="Los restos de una antigua refinería sirven ahora como escenario para tus duelos. Utiliza su intrincado diseño para superar y no perder la pista del enemigo."
+
+[ZoneInfo1]
+LocationName="Zona de lanzacohetes"
+
+[ZoneInfo2]
+LocationName="Zona de salud doble"
+
+[ZoneInfo3]
+LocationName="Zona de enlazadora"
+

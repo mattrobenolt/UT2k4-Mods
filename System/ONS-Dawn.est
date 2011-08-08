@@ -1,0 +1,33 @@
+[LevelInfo0]
+Title="Dawn"
+
+[LevelSummary]
+Title="Dawn"
+Description="Cuando los exploradores del gobierno dieron con este planeta, Liandri supo que habían encontrado su siguiente estadio de Acometida. Es un mundo primordial en las primeras etapas de la vida, cuya frondosa vegetación y suaves colinas proporcionan un entorno sereno y adecuado para la destrucción al por mayor."
+
+[Volume0]
+LocationName="Base Azul"
+
+[Volume1]
+LocationName="Base Roja"
+
+[Volume10]
+LocationName="Nodo Centro Oeste"
+
+[Volume5]
+LocationName="Nodo NorOeste"
+
+[Volume6]
+LocationName="Nodo NorOeste"
+
+[Volume7]
+LocationName="Nodo Suroeste"
+
+[Volume8]
+LocationName="Nodo SurOeste"
+
+[Volume9]
+LocationName="Nodo Centro Este"
+
+[ZoneInfo0]
+LocationName="Exterior"

@@ -1,0 +1,69 @@
+[LevelInfo0]
+Title="Outrigger"
+LocationName="Desconocido"
+
+[LevelSummary]
+Title="Outrigger"
+
+[Volume0]
+LocationName="Dom A, Sótano"
+
+[Volume1]
+LocationName="Dom B, Sótano"
+
+[Volume10]
+LocationName="Área central"
+
+[Volume11]
+LocationName="Torre francotiradores"
+
+[Volume12]
+LocationName="Dom B, Plataforma 3"
+
+[Volume13]
+LocationName="Dom A, Plataforma 3"
+
+[Volume15]
+LocationName="Dom B"
+
+[Volume16]
+LocationName="Dom A"
+
+[Volume2]
+LocationName="Dom B, Plataforma 2"
+
+[Volume3]
+LocationName="Dom B, Nido del Cuervo"
+
+[Volume4]
+LocationName="Dom A, Nido del Cuervo"
+
+[Volume5]
+LocationName="Dom A, Plataforma 2"
+
+[Volume6]
+LocationName="Dom A, Plataforma 1"
+
+[Volume7]
+LocationName="Dom B, Plataforma 1"
+
+[Volume8]
+LocationName="Zonas de lanzamiento"
+
+[ZoneInfo1]
+LocationName="Dom B, Sótano"
+
+[ZoneInfo12]
+LocationName="Dom A, Plataforma 1"
+
+[ZoneInfo15]
+LocationName="Dom A, Plataforma 3"
+
+[ZoneInfo4]
+LocationName="Dom B, Plataforma 1"
+
+[ZoneInfo7]
+LocationName="Dom B, Plataforma 3"
+
+[ZoneInfo9]
+LocationName="Dom A, Sótano"

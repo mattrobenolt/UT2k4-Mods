@@ -1,0 +1,98 @@
+[ASOBJ_EnergyCore_Delivery0]
+DestructionMessage="Fahrzeug wurde repariert!"
+ObjectiveDescription="Liefern Sie den Antriebskern ab, um das Fahrzeug zu reparieren."
+Objective_Info_Attacker="Bringen Sie den Kern zum Fahrzeug zurück."
+Objective_Info_Defender="Verhindern Sie, dass die Angreifer den Kern zurückbringen."
+
+[ASOBJ_EnergyCore_Spawn0]
+ObjectiveDescription="Sie müssen den Energiekern mitnehmen und zu Ihrem Fahrzeug bringen, um es zu reparieren."
+Objective_Info_Attacker="Energiekern suchen"
+Objective_Info_Defender="Energiekern schützen"
+
+[HoldObjective0]
+DestructionMessage="Kontrollpunkt-Tor geöffnet!"
+ObjectiveDescription="Stellen Sie sich vor den Schalter, um das Tor zu öffnen."
+Objective_Info_Attacker="Kontrollpunkt-Tor öffnen"
+Objective_Info_Defender="Kontrollpunkt-Schalter schützen."
+
+[HoldObjective1]
+DestructionMessage="Zugbrücke ist unten!"
+ObjectiveDescription="Gehen Sie zum Schalter, um die Brücke herunterzulassen."
+Objective_Info_Attacker="Brücke herunterlassen"
+Objective_Info_Defender="Brückenschalter verteidigen"
+
+[LevelInfo0]
+Title="Junkyard Escape"
+
+[LevelSummary]
+Title="Junkyard Escape"
+Description="Dieses Szenario basiert auf einer berüchtigten Episode eines bekannten Holo-Programms. Darin waren zwei Mechanikerteams gegeneinander angetreten, um herauszufinden, wer seine Fahrzeuge schneller einsatzbereit machen und vom Schrottplatz entkommen kann. Es kam zu einer unerwarteten Wendung, als das Team, das am Verlieren war, behelfsmäßige Waffen hervorholte und das gegnerische Team ins Nirwana schoss, bevor ihnen die Flucht gelingen konnte. Da bei diesem Wettbewerb keine Regel existierte, die ausdrücklich den Gebrauch von Waffen verbietet, wurde das Team zum Gewinner erklärt. Ein neuer Tournament-Klassiker war geboren."
+
+[ProximityObjective0]
+DestructionMessage="Angreifer sind vom Schrottplatz entkommen!"
+ObjectiveDescription="Vom Schrottplatz flüchten"
+Objective_Info_Attacker="Zu den Haupttoren weitergehen"
+Objective_Info_Defender="Haupttore verteidigen"
+
+[ProximityObjective2]
+DestructionMessage="Brücke wurde überquert!"
+ObjectiveDescription="Überqueren Sie die Brücke, um weiterzukommen."
+Objective_Info_Attacker="Brücke überqueren"
+Objective_Info_Defender="Brücke verteidigen"
+
+[ProximityObjective3]
+DestructionMessage="Kontrollpunkt gesichert!"
+ObjectiveDescription="Sichern Sie den Kontrollpunkt, um vorzurücken."
+Objective_Info_Attacker="Kontrollpunkt sichern"
+Objective_Info_Defender="Kontrollpunkt schützen"
+
+[SceneSubtitles0]
+SubTitles=("Dieses Szenario basiert auf einer berüchtigten Episode eines bekannten Holo-Programms.","Darin waren zwei Mechanikerteams gegeneinander angetreten, um herauszufinden, wer seine Fahrzeuge schneller einsatzbereit machen und vom Schrottplatz entkommen kann.","Es kam zu einer unerwarteten Wendung, als das Team, das am Verlieren war, behelfsmäßige Waffen hervorholte und das gegnerische Team ins Nirwana schoss, bevor ihm die Flucht gelingen konnte.","Da bei diesem Wettbewerb keine Regel existierte, die ausdrücklich den Gebrauch von Waffen verbietet, wurde das Team zum Gewinner erklärt. Ein neuer Tournament-Klassiker war geboren.","Sie müssen den Energiekern, der irgendwo auf dem Schrottplatz liegt, finden und zu Ihrem Fahrzeug bringen.","Sobald Ihr Fahrzeug einsatzbereit ist, müssen Sie es über den Schrottplatz und durch das Haupttor fahren.","Bevor Sie die Zugbrücke überqueren können, müssen Sie sie mit diesem Schalter herunterlassen.","Nach Überquerung der Brücke müssen Sie diesen Kontrollpunkt erreichen.","Dazu können Sie diesem Weg folgen und das Tor des Kontrollpunkts öffnen.","Alternativ können Sie diesen Magnet benutzen. Dieser Weg ist wesentlich kürzer, aber auch ungeschützter und riskanter.","Wenn Sie am Kontrollpunkt sind, begeben Sie sich durch das Haupttor, um zu entkommen.")
+
+[Volume10]
+LocationName="Magnethügel"
+
+[Volume11]
+LocationName="Magnetabkürzung"
+
+[Volume12]
+LocationName="Rohrstapel"
+
+[Volume13]
+LocationName="Schrotttunnel"
+
+[Volume14]
+LocationName="Autopresse"
+
+[Volume15]
+LocationName="Drive-In"
+
+[Volume16]
+LocationName="Kontrollpunkt"
+
+[Volume17]
+LocationName="Baden"
+
+[Volume18]
+LocationName="Kommunikationsturm"
+
+[Volume19]
+LocationName="Haupttor"
+
+[Volume4]
+LocationName="Kernturm"
+
+[Volume5]
+LocationName="Verteidigungshügel"
+
+[Volume7]
+LocationName="Brücke"
+
+[Volume8]
+LocationName="Garage"
+
+[Volume9]
+LocationName="Feuerplatz"
+
+[ZoneInfo1]
+LocationName="Schrottplatz"

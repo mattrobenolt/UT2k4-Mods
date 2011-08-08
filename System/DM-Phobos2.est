@@ -1,0 +1,93 @@
+[LevelInfo0]
+Title="Phobos Moon 2"
+
+[LevelSummary]
+Title="Phobos Moon 2"
+
+[Volume1]
+LocationName="Sala Enlazadora"
+
+[Volume2]
+LocationName="Torre"
+
+[ZoneInfo0]
+LocationName="Espacio"
+
+[ZoneInfo1]
+LocationName="Pasillo minigun"
+
+[ZoneInfo10]
+LocationName="Sala de minigun"
+
+[ZoneInfo11]
+LocationName="Pasillo minigun"
+
+[ZoneInfo12]
+LocationName="Sala lanzacohetes"
+
+[ZoneInfo13]
+LocationName="Sala minigun"
+
+[ZoneInfo14]
+LocationName="Sala rifle de choque"
+
+[ZoneInfo15]
+LocationName="Central"
+
+[ZoneInfo16]
+LocationName="Sala arma eléct."
+
+[ZoneInfo17]
+LocationName="Sala kit médico grande"
+
+[ZoneInfo18]
+LocationName="Pasillo arma eléct."
+
+[ZoneInfo19]
+LocationName="Central"
+
+[ZoneInfo2]
+LocationName="Sala kit médico grande"
+
+[ZoneInfo20]
+LocationName="Pasillo Flak"
+
+[ZoneInfo21]
+LocationName="Pasillo Flak"
+
+[ZoneInfo22]
+LocationName="Pasillo Flak"
+
+[ZoneInfo23]
+LocationName="Pasillo rifle de choque"
+
+[ZoneInfo24]
+LocationName="Central"
+
+[ZoneInfo25]
+LocationName="Pasillo Súper-escudo"
+
+[ZoneInfo26]
+LocationName="Pasillo Lanzacohetes"
+
+[ZoneInfo3]
+LocationName="Sala kit médico grande"
+
+[ZoneInfo4]
+LocationName="Sala kit médico grande"
+
+[ZoneInfo5]
+LocationName="Pasillo Lanzacohetes"
+
+[ZoneInfo6]
+LocationName="Sala Enlazadora"
+
+[ZoneInfo7]
+LocationName="Central"
+
+[ZoneInfo8]
+LocationName="Pasillo rifle de choque"
+
+[ZoneInfo9]
+LocationName="Pasillo Flak Corridor"
+

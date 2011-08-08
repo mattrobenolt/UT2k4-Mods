@@ -1,0 +1,99 @@
+[ASOBJ_EnergyCore_Delivery0]
+DestructionMessage="Vehicle has been repaired!"
+ObjectiveDescription="Deliver the Power Core to repair the vehicle."
+Objective_Info_Attacker="Return the Core to the vehicle"
+Objective_Info_Defender="Prevent the Attackers from returning the Core"
+
+[ASOBJ_EnergyCore_Spawn0]
+ObjectiveDescription="You need to pick up the Energy Core and return it to your vehicle in order to repair it."
+Objective_Info_Attacker="Find the Energy Core"
+Objective_Info_Defender="Protect the Energy Core"
+
+[HoldObjective0]
+DestructionMessage="Checkpoint gate opened!"
+ObjectiveDescription="Stand at the switch to open the gate."
+Objective_Info_Attacker="Open the checkpoint gate"
+Objective_Info_Defender="Protect the checkpoint switch."
+
+[HoldObjective1]
+DestructionMessage="Drawbridge is down!"
+ObjectiveDescription="Stand at the switch to lower the bridge."
+Objective_Info_Attacker="Lower the bridge"
+Objective_Info_Defender="Defend the bridge switch"
+
+[LevelInfo0]
+Title="Junkyard Escape"
+
+[LevelSummary]
+Title="Junkyard Escape"
+Description="This scenario is based on an infamous episode of a popular Holovision program. In the original episode, two teams of mechanics were competing to make their vehicle operational and escape the junkyard. The unexpected twist occurred when the losing team pulled out some makeshift weapons and pounded the other team into oblivion before they could make their escape. Since there was no explicit rule forbidding violence in the competition, they were declared the winners, and a new Tournament classic was born."
+
+[ProximityObjective0]
+DestructionMessage="Attackers escaped from the Junkyard!"
+ObjectiveDescription="Escape from the Junkyard."
+Objective_Info_Attacker="Proceed to the main gates"
+Objective_Info_Defender="Protect the main gates"
+
+[ProximityObjective2]
+DestructionMessage="Bridge has been crossed!"
+ObjectiveDescription="Cross the bridge to progress."
+Objective_Info_Attacker="Cross the bridge"
+Objective_Info_Defender="Defend the bridge"
+
+[ProximityObjective3]
+DestructionMessage="Checkpoint secured!"
+ObjectiveDescription="Secure the checkpoint to progress."
+Objective_Info_Attacker="Secure the checkpoint"
+Objective_Info_Defender="Protect the checkpoint"
+
+[SceneSubtitles0]
+SubTitles=("This scenario is based on an infamous episode of a popular Holovision program.","In the original episode, two teams of mechanics were competing to make their vehicle operational and escape the junkyard.","The unexpected twist occurred when the losing team pulled out some makeshift weapons and pounded the other team into oblivion before they could make their escape.","Since there was no explicit rule forbidding violence in the competition, they were declared the winners, and a new Tournament classic was born.","You must find and return the vehicle energy core which is in the interior of the junkyard, and return it to your vehicle.","Once your vehicle is operational, you must drive it through the junkyard and out through the main gate.","To cross the drawbridge, you must lower it by pressing this lever.","Once the bridge is crossed, you must now reach the check point.","You can do so, by following this path and opening the gates to the checkpoint.","It is also possible to use this magnet. While being a much shorter path, it is more risky and exposed.","Once the checkpoint is reached, make your way to the main gate in order to escape.")
+
+[Volume10]
+LocationName="Magnet hill"
+
+[Volume11]
+LocationName="Magnet shortcut"
+
+[Volume12]
+LocationName="Pipe stack"
+
+[Volume13]
+LocationName="Junk tunnel"
+
+[Volume14]
+LocationName="Car crusher"
+
+[Volume15]
+LocationName="Drive-In"
+
+[Volume16]
+LocationName="Checkpoint"
+
+[Volume17]
+LocationName="Bathing"
+
+[Volume18]
+LocationName="Communication tower"
+
+[Volume19]
+LocationName="Main gate"
+
+[Volume4]
+LocationName="Core tower"
+
+[Volume5]
+LocationName="Defense hill"
+
+[Volume7]
+LocationName="Bridge"
+
+[Volume8]
+LocationName="Garage"
+
+[Volume9]
+LocationName="Fire pit"
+
+[ZoneInfo1]
+LocationName="Junkyard"
+

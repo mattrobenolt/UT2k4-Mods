@@ -1,0 +1,93 @@
+[LevelInfo0]
+Title="Phobos Moon 2"
+
+[LevelSummary]
+Title="Phobos Moon 2"
+
+[Volume1]
+LocationName="Stanza fucile Link"
+
+[Volume2]
+LocationName="Torre"
+
+[ZoneInfo0]
+LocationName="Spazio"
+
+[ZoneInfo1]
+LocationName="Corridoio Minigun"
+
+[ZoneInfo10]
+LocationName="Stanza Minigun"
+
+[ZoneInfo11]
+LocationName="Corridoio Minigun"
+
+[ZoneInfo12]
+LocationName="Corridoio razzo"
+
+[ZoneInfo13]
+LocationName="Corridoio Minigun"
+
+[ZoneInfo14]
+LocationName="Corridoio fucile Shock"
+
+[ZoneInfo15]
+LocationName="Centrale"
+
+[ZoneInfo16]
+LocationName="Stanza fulminatore"
+
+[ZoneInfo17]
+LocationName="Stanza super-salute"
+
+[ZoneInfo18]
+LocationName="Corridoio fulminatore"
+
+[ZoneInfo19]
+LocationName="Centrale"
+
+[ZoneInfo2]
+LocationName="Stanza super-salute"
+
+[ZoneInfo20]
+LocationName="Corridoio Flak"
+
+[ZoneInfo21]
+LocationName="Corridoio Flak"
+
+[ZoneInfo22]
+LocationName="Corridoio Flak"
+
+[ZoneInfo23]
+LocationName="Corridoio fucile Shock"
+
+[ZoneInfo24]
+LocationName="Centrale"
+
+[ZoneInfo25]
+LocationName="Corridoio supersalute"
+
+[ZoneInfo26]
+LocationName="Corridoio razzo"
+
+[ZoneInfo3]
+LocationName="Corridoio supersalute"
+
+[ZoneInfo4]
+LocationName="Corridoio supersalute"
+
+[ZoneInfo5]
+LocationName="Corridoio razzo"
+
+[ZoneInfo6]
+LocationName="Stanza fucile Link"
+
+[ZoneInfo7]
+LocationName="Centrale"
+
+[ZoneInfo8]
+LocationName="Corridoio fucile Shock"
+
+[ZoneInfo9]
+LocationName="Corridoio Flak"
+

@@ -1,0 +1,57 @@
+[ASTurret_IonCannon]
+VehiclePositionString="manning an Ion Cannon"
+VehicleNameString="Ion Cannon"
+
+[ASTurret_LinkTurret]
+VehiclePositionString="manning a Link Turret"
+VehicleNameString="Link Turret"
+
+[ASVehicle_SpaceFighter_Human]
+VehiclePositionString="in a spacefighter"
+VehicleNameString="Human Spacefighter"
+
+[ASVehicle_SpaceFighter_Skaarj]
+VehicleNameString="Skaarj Spacefighter"
+
+[DamTypeBallTurretPlasma]
+DeathString="%o was served an extra helping of %k's plasma."
+FemaleSuicide="%o fried herself with her own plasma blast."
+MaleSuicide="%o fried himself with his own plasma blast."
+
+[DamTypeIonCannonBlast]
+DeathString="%o was OBLITERATED by %k"
+FemaleSuicide="%o was OBLITERATED"
+MaleSuicide="%o was OBLITERATED"
+
+[DamTypeLinkTurretBeam]
+DeathString="%o was carved up by %k's green shaft."
+FemaleSuicide="%o shafted herself."
+MaleSuicide="%o shafted himself."
+
+[DamTypeLinkTurretPlasma]
+DeathString="%o was served an extra helping of %k's plasma."
+FemaleSuicide="%o fried herself with her own plasma blast."
+MaleSuicide="%o fried himself with his own plasma blast."
+
+[DamTypeSpaceFighterLaser]
+DeathString="%o was served an extra helping of %k's lasers."
+FemaleSuicide="%o fried herself with her own laser blast."
+MaleSuicide="%o fried himself with his own laser blast."
+
+[DamTypeSpaceFighterMissile]
+DeathString="%o couldn't avoid %k's missile."
+FemaleSuicide="%o blasted herself out of space."
+MaleSuicide="%o blasted himself out of space."
+
+[Weapon_LinkTurret]
+ItemName="Turret weapon"
+
+[Weapon_SpaceFighter]
+ItemName="SpaceFighter weapon"
+
+[Weapon_Turret]
+ItemName="Turret weapon"
+
+[Weapon_Turret_IonCannon]
+ItemName="Ion Cannon Turret weapon"
+

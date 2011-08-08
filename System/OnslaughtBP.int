@@ -1,0 +1,47 @@
+[DamTypeArtilleryShell]
+DeathString="%k rained on %o's parade."
+FemaleSuicide="%o managed to kill herself with her own Artillery."
+MaleSuicide="%o managed to kill himself with his own Artillery."
+
+[DamTypeONSCicadaLaser]
+DeathString="%k's blaster stung %o."
+FemaleSuicide="%o used her blaster on herself."
+MaleSuicide="%o used his blaster on himself."
+
+[DamTypeONSCicadaRocket]
+DeathString="%k's blew %o to bits."
+FemaleSuicide="%o blew herself up good."
+MaleSuicide="%o blew himself up good."
+
+[DamTypeShockTankProximityExplosion]
+DeathString="%o got too close to %k's Paladin."
+
+[DamTypeShockTankShockBall]
+DeathString="%o couldn't avoid the blast from %k's Paladin."
+
+[MutVehiclePickups]
+FriendlyName="Vehicle Pickups"
+Description="Vehicles will pickup items and give them to the driver"
+
+[ONSArtillery]
+VehiclePositionString="in a SPMA"
+VehicleNameString="SPMA"
+
+[ONSArtillerySideGunPawn]
+VehiclePositionString="in a SPMA side turret"
+VehicleNameString="SPMA Side Turret"
+
+[ONSDualACGatlingGunPawn]
+LockedMsg=" INCOMING "
+VehiclePositionString="in a Cicada turret"
+VehicleNameString="Cicada Laser Turret"
+
+[ONSDualAttackCraft]
+LockedMsg=" Locked "
+VehiclePositionString="in a Cicada"
+VehicleNameString="Cicada"
+
+[ONSShockTank]
+VehiclePositionString="in a Paladin"
+VehicleNameString="Paladin"
+

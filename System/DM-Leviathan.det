@@ -1,0 +1,39 @@
+[LevelInfo0]
+Title="Leviathan"
+
+[LevelSummary]
+Title="Leviathan"
+
+[ZoneInfo0]
+LocationName="Nordöstlicher Korridor Oben"
+
+[ZoneInfo1]
+LocationName="Hauptgebäude"
+
+[ZoneInfo10]
+LocationName="Nordöstlicher Korridor"
+
+[ZoneInfo2]
+LocationName="Nordwestlicher Korridor Oben"
+
+[ZoneInfo3]
+LocationName="Nordwestlicher Korridor"
+
+[ZoneInfo4]
+LocationName="West-Gebäude"
+
+[ZoneInfo5]
+LocationName="Südwestlicher Korridor"
+
+[ZoneInfo6]
+LocationName="Südwestlicher Korridor Oben"
+
+[ZoneInfo7]
+LocationName="Südöstlicher Korridor Oben"
+
+[ZoneInfo8]
+LocationName="Südöstlicher Korridor"
+
+[ZoneInfo9]
+LocationName="Ost-Gebäude"
+

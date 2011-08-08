@@ -1,0 +1,76 @@
+[LevelInfo0]
+Title="Metallurgy"
+
+[LevelSummary]
+Title="Metallurgy"
+Description="Metalurgia pone a prueba a los combatientes, y separa a los rápidos de los lentos, a los fuertes de los débiles y a los habilidosos de los incompetentes."
+
+[Volume0]
+LocationName="Cerca del tanque de combustible"
+
+[Volume1]
+LocationName="Fuera de la cascada de metal fundido"
+
+[Volume10]
+LocationName="Bajo los conductos de metal fundido"
+
+[Volume11]
+LocationName="Entre los pilares"
+
+[Volume12]
+LocationName="Entre los pilares"
+
+[Volume13]
+LocationName="Cubierta, segunda planta"
+
+[Volume14]
+LocationName="Cubierta, segunda planta"
+
+[Volume15]
+LocationName="Cubierta, segunda planta"
+
+[Volume16]
+LocationName="Cubierta, primera planta"
+
+[Volume17]
+LocationName="Cubierta, primera planta"
+
+[Volume18]
+LocationName="Cubierta, primera planta"
+
+[Volume19]
+LocationName="En el tejado"
+
+[Volume2]
+LocationName="Exterior sur"
+
+[Volume3]
+LocationName="Exterior oeste"
+
+[Volume4]
+LocationName="Exterior norte"
+
+[Volume5]
+LocationName="Exterior norte"
+
+[Volume6]
+LocationName="Exterior norte"
+
+[Volume7]
+LocationName="Exterior norte"
+
+[Volume8]
+LocationName="Torre de comunicaciones"
+
+[Volume9]
+LocationName="Sobre los conductos de metal fundido"
+
+[ZoneInfo2]
+LocationName="Cascada de metal fundido"
+
+[ZoneInfo3]
+LocationName="Atrio interior"
+
+[ZoneInfo4]
+LocationName="Planta baja interior"
+

@@ -1,0 +1,59 @@
+<GRAMMAR LANGID="409">
+
+<RULE NAME="DOM" TOPLEVEL="ACTIVE">
+	<P MIN="1" MAX="3">
+		<RULEREF NAME="PLAYER"/>
+	</P>
+	<L>
+		<P>
+			<P PROPNAME="DEFEND">defend</P>
+		</P>
+		<P>
+			<P PROPNAME="take alpha">take alpha</P>
+		</P>
+		<P>
+			<P PROPNAME="take bravo">take bravo</P>
+		</P>
+		<P PROPNAME="ATTACK">attack</P>
+		<P PROPNAME="COVER">cover me</P>
+		<P PROPNAME="FREELANCE">freelance</P>
+		<P PROPNAME="TAUNT">taunt</P>
+		<P PROPNAME="TAUNT">dance</P>
+		<P PROPNAME="STATUS">status</P>
+		<P PROPNAME="GIMME">gimme</P>
+		<P PROPNAME="SUICIDE">suicide</P>
+		<P PROPNAME="JUMP">jump</P>
+		<P>
+			<P PROPNAME="HOLD">hold</P>
+			<O>this</O>
+			<P>position</P>
+		</P>
+	</L>
+</RULE>
+
+<RULE NAME="PLAYER" >
+	<L>
+		<P PROPNAME="ALPHA">alpha</P>
+		<P PROPNAME="BRAVO">bravo</P>
+		<P PROPNAME="CHARLIE">charlie</P>
+		<P PROPNAME="DELTA">delta</P>
+		<P PROPNAME="ECHO">echo</P>
+		<P PROPNAME="FOXTROT">foxtrot</P>
+		<P PROPNAME="GOLF">golf</P>
+		<P PROPNAME="HOTEL">hotel</P>
+		<P PROPNAME="INDIA">india</P>
+		<P PROPNAME="JULIET">juliet</P>
+		<P PROPNAME="KILO">kilo</P>
+		<P PROPNAME="LIMA">lima</P>
+		<P PROPNAME="MIKE">mike</P>
+		<P PROPNAME="NOVEMBER">november</P>
+		<P PROPNAME="OSCAR">oscar</P>
+		<P PROPNAME="TEAM">team</P>
+		<P PROPNAME="TEAM">everyone</P>
+		<P PROPNAME="TEAM">everybody</P>
+
+	</L>
+	<O>and</O>
+</RULE>
+
+</GRAMMAR>

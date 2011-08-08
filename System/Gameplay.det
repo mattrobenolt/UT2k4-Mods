@@ -1,0 +1,483 @@
+[ACTION_DamageActor]
+ActionString="Figur beschädigen"
+
+[ACTION_DestroyActor]
+ActionString="Figur zerstören"
+
+[ACTION_FinishRotation]
+ActionString="Rotation beenden"
+
+[ACTION_FireWeapon]
+ActionString="Waffe feuern"
+
+[ACTION_FireWeaponAt]
+ActionString="Waffe feuern"
+
+[ACTION_Freeze]
+ActionString="Erstarren"
+
+[ACTION_HealActor]
+ActionString="Figur heilen"
+
+[ACTION_Jump]
+ActionString="Springen"
+
+[ACTION_LocalizedMessage]
+ActionString="Lokalisierte Meldung"
+
+[ACTION_SetPhysics]
+ActionString="Physik ändern in"
+
+[ACTION_ShootTarget]
+ActionString="Ziel beschießen"
+
+[ACTION_SpawnActor]
+ActionString="Figur platzieren"
+
+[ACTION_SubTitles]
+ActionString="Untertitel"
+
+[ACTION_ThrowWeapon]
+ActionString="Waffe werfen"
+
+[ActionMessage_BR]
+Messages[0]="Bombing Run"
+Messages[1]="Der Ball ist in der Mitte."
+Messages[2]="Berühren Sie den Ball, um ihn aufzusammeln."
+Messages[3]="Der Ballträger kann nicht angreifen."
+Messages[4]="Primärer Feuermodus schießt Ball weg"
+Messages[5]="Alternativ-Feuermodus zielt auf Teamkameraden"
+Messages[6]="Ball an Teamkameraden passen"
+Messages[7]="Jedes Team hat ein rundes Tor."
+Messages[8]="Werfen des Balls durch Tor = 3 Punkte"
+Messages[9]="Tragen des Balls durch Tor = 7 Punkte"
+Messages[10]="Viel Glück!"
+
+[ActionMessage_CTF]
+Messages[0]="Capture the Flag"
+Messages[1]="Zwei Basen: ROT und BLAU"
+Messages[2]="Berühren Sie die feindliche Flagge, um sie zu nehmen."
+Messages[3]="Kehren Sie zu Ihrer Basis zurück."
+Messages[4]="Berühren Sie Ihre Flagge, um zu punkten."
+Messages[5]="Bei Verwendung des Translocators wird die Flagge fallengelassen."
+Messages[6]="Standard-Einnahmegrenze ist 3."
+Messages[7]="Viel Glück!"
+
+[ActionMessage_DM]
+Messages[0]="Death Match"
+Messages[1]="Drücken Sie auf die Feuertaste, um ins Spiel zu kommen."
+Messages[2]="Waffen verfügen über zwei Feuermodi."
+Messages[3]="Reguläres und alternatives Feuer"
+Messages[4]="Assault Rifle"
+Messages[5]="Feuert Kugeln und Granaten"
+Messages[6]="Shield Gun"
+Messages[7]="Für Nahkampf"
+Messages[8]="Schutzschild"
+Messages[9]="Weitere Waffen stehen bereit."
+Messages[10]="Flak Cannon"
+Messages[11]="Bio Rifle"
+Messages[12]="Minigun"
+Messages[13]="Bewegung"
+Messages[14]="WASD = standardmäßige Bewegungstasten"
+Messages[15]="Zum Ausweichen, Taste zweimal antippen"
+Messages[16]="Springen"
+Messages[17]="Doppelter Sprung"
+Messages[18]="Zusatz-Power"
+Messages[19]="Gesundheitsflakon"
+Messages[20]="Satz Gesundheit"
+Messages[21]="Großes Fass Gesundheit"
+Messages[22]="Panzerung"
+Messages[23]="Satz Schilde"
+Messages[24]="Satz Superschilde"
+Messages[25]="Adrenalin"
+Messages[26]="Adrenalin kann für Kombos verwendet werden."
+Messages[27]="Schadensverstärker"
+Messages[28]="Erreichen Sie zuerst das Frag-Limit!"
+Messages[29]="Selbstmorde zählen gegen Sie."
+Messages[30]="Viel Glück!"
+
+[ActionMessage_DOM]
+Messages[0]="Double Domination"
+Messages[1]="Kontrollpunkte: A & B"
+Messages[2]="Die Punkte müssen 10 Sekunden lang gehalten werden."
+Messages[3]="Durch Berührung des Punktes wird Kontrolle übernommen."
+Messages[4]="Viel Glück!"
+
+[ActionMessage_SubTitle]
+Delays[0]=4.000000
+Delays[1]=4.000000
+Delays[2]=8.000000
+Delays[3]=8.000000
+Delays[4]=8.000000
+Delays[5]=8.000000
+Delays[6]=8.000000
+Delays[7]=8.000000
+Delays[8]=8.000000
+Delays[9]=8.000000
+Delays[10]=8.000000
+Delays[11]=8.000000
+Delays[12]=8.000000
+Delays[13]=8.000000
+Delays[14]=8.000000
+Delays[15]=8.000000
+Delays[16]=8.000000
+Delays[17]=8.000000
+Delays[18]=8.000000
+Delays[19]=8.000000
+Delays[20]=8.000000
+Delays[21]=8.000000
+Delays[22]=0.000000
+Delays[23]=0.000000
+Delays[24]=0.000000
+Delays[25]=0.000000
+Delays[26]=0.000000
+Delays[27]=0.000000
+Delays[28]=0.000000
+Delays[29]=0.000000
+Delays[30]=0.000000
+Delays[31]=0.000000
+Messages[0]="Wie sehe ich aus?"
+Messages[1]="Nicht so gut wie ich, Baby ..."
+Messages[2]="Hallo Fans. Hier sind wir wieder bei einer weiteren Ausgabe des blutigsten Sportes dieser Galaxie. Ein Turnier, bei dem die Gewinner zu Göttern werden und die Verlierer einen unwiderruflichen Preis zahlen!"
+Messages[3]="HIER SIND SIE! Früher waren sie Feinde, aber jetzt bilden sie eines der mächtigsten Teams überhaupt."
+Messages[4]="Das stimmt. Nichts ist stärker als Erfahrung, und jeder von diesen Drei hat mehr als genug davon."
+Messages[5]="Das hier ist Malcolm! Das ist ein Bursche, der in einem Feuergefecht eiskalt agieren kann."
+Messages[6]="Das ist Brock. Er ist für die Frauen außerhalb des Ringes genauso gefährlich wie für seine Feinde innerhalb!"
+Messages[7]="Mir gefällt es, Lauren zuzusehen. Sie ist ein kleines ... Energiebündel."
+Messages[8]="Na klar ... Du siehst Lauren gerne wegen ihrer Energie zu. "
+Messages[9]="Dieses Mal gehört er MIR!!"
+Messages[10]="AAGGGHHHHRRRR"
+Messages[11]="Du bist die Nummer 1, Gorge! Du bist der Beste! Komm schon, Junge, du zeigst es ihnen!"
+Messages[12]="MAAAALLLCOOOOOMMM!"
+Messages[13]="Oh Mann, hast du das gesehen?"
+Messages[14]="Ich muss schon sagen, Jim, dieser Gorge hat keinen Respekt für seine Fans."
+Messages[15]="Nun, ich glaube, er ist immer noch ziemlich mies drauf wegen der neuen Narbe in seinem Gesicht, die er Malcolm vom letzten Kampf zu verdanken hat."
+Messages[16]="Ja, ich denke, er wird sich dafür revanchieren wollen. "
+Messages[17]="Ah, das wir heute abend absolut genial."
+Messages[18]="Da Malcoms Team der amtierende Meister ist, darf es auch die heutige Arena auswählen."
+Messages[19]="Sieht aus wie ... die Eisfelder von Kalendra."
+Messages[20]="Jaaaaaa! Ich liebe einfach diese Arena. Malcolm hat hier wirklich eine gute Wahl getroffen."
+Messages[21]="Dieses Match heute abend wird ein wahres Blutbad sein."
+
+[Action_CHANGELEVEL]
+ActionString="Level ändern"
+
+[Action_CHANGESCRIPT]
+ActionString="Skript ändern"
+
+[Action_CHANGETEAM]
+ActionString="Team wechseln"
+
+[Action_CROUCH]
+ActionString="Ducken"
+
+[Action_ConsoleCommand]
+ActionString="Konsolenbefehl"
+
+[Action_DAMAGEINSTIGATOR]
+ActionString="Schadensinitiator"
+
+[Action_DESTROYPAWN]
+ActionString="Bauer zerstören"
+
+[Action_DISPLAYMESSAGE]
+ActionString="Mitteil. anzeig."
+
+[Action_DrawHUDMaterial]
+ActionString="HUD-Textur zeichnen"
+
+[Action_ENDSECTION]
+ActionString="Endsektion"
+
+[Action_FADEVIEW]
+ActionString="Sicht ausbl."
+
+[Action_GOTOACTION]
+ActionString="aktiv werden"
+
+[Action_IFCONDITION]
+ActionString="Wenn-Beding."
+
+[Action_KILLINSTIGATOR]
+ActionString="Schadensinitiator"
+
+[Action_LEAVESEQUENCE]
+ActionString="Sequ. verlass."
+
+[Action_MOVETOPLAYER]
+ActionString="Zu Spieler"
+
+[Action_MOVETOPOINT]
+ActionString="Zu Punkt"
+
+[Action_PLAYAMBIENTSOUND]
+ActionString="Hintergrundklang"
+
+[Action_PLAYANIM]
+ActionString="Animation"
+
+[Action_PLAYANNOUNCEMENT]
+ActionString="Ankündigung"
+
+[Action_PLAYLOCALSOUND]
+ActionString="Klang"
+
+[Action_PLAYMUSIC]
+ActionString="Musik"
+
+[Action_PLAYSOUND]
+ActionString="Klang"
+
+[Action_RUN]
+ActionString="Laufen"
+
+[Action_SETALERTNESS]
+ActionString="Alarmber. einst."
+
+[Action_SETVIEWTARGET]
+ActionString="Zielansicht einst."
+
+[Action_STOPANIMATION]
+ActionString="Animat. stopp."
+
+[Action_TRIGGEREVENT]
+ActionString="Ereignisstart"
+
+[Action_TURNTOWARDPLAYER]
+ActionString="Zu Spieler drehen"
+
+[Action_WAITFORANIMEND]
+ActionString="Animat. abwart."
+
+[Action_WAITFOREVENT]
+ActionString="Ext. Ereignis abwarten"
+
+[Action_WAITFORPLAYER]
+ActionString="Spieler abwart."
+
+[Action_WAITFORTIMER]
+ActionString="Timer abwarten"
+
+[Action_WALK]
+ActionString="Gehen"
+
+[Burned]
+DeathString="%o wurde abgefackelt."
+
+[Corroded]
+DeathString="%o wurde von %k aufgelöst."
+FemaleSuicide="%o wurde zu Brei."
+MaleSuicide="%o wurde zu Brei."
+
+[Counter]
+CountMessage="Nur noch %i mehr ..."
+CompleteMessage="Fertig!"
+
+[Depressurized]
+DeathString="%o wurde v. %k dekomprimiert."
+FemaleSuicide="%o wurde dekomprimiert."
+MaleSuicide="%o wurde dekomprimiert."
+
+[Drowned]
+DeathString="%o hat keine Luft geholt."
+FemaleSuicide="%o hat keine Luft geholt."
+MaleSuicide="%o hat keine Luft geholt."
+
+[MessageTextureClient]
+HisMessage="sein"
+HerMessage="ihre"
+
+[ScriptedAction]
+ActionString="k. festgel. Aktion"
+
+[WaterVolume]
+LocationName="unter Wasser"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

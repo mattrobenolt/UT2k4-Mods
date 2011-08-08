@@ -1,0 +1,94 @@
+[LevelInfo0]
+Title="Curse 4"
+
+[LevelSummary]
+Title="Curse 4"
+Description="¿Tienes claustrofobia? Cuando la metralla empieza a rebotar y los combos de choque llenan el aire, a medida que te ves acorralado en una esquina por un perseguidor incansable empiezas a comprender el significado de la palabra maldito."
+
+[ZoneInfo0]
+LocationName="Sala daño U"
+
+[ZoneInfo1]
+LocationName="Corredor del sótano"
+
+[ZoneInfo10]
+LocationName="Atrio superior"
+
+[ZoneInfo11]
+LocationName="Sala de cañón antiaéreo"
+
+[ZoneInfo13]
+LocationName="Atrio superior"
+
+[ZoneInfo14]
+LocationName="Atrio superior"
+
+[ZoneInfo15]
+LocationName="Atrio superior"
+
+[ZoneInfo16]
+LocationName="Sala de cañón automático"
+
+[ZoneInfo17]
+LocationName="Sala de cañón automático"
+
+[ZoneInfo18]
+LocationName="Atrio superior"
+
+[ZoneInfo19]
+LocationName="Desván de lanzacohetes"
+
+[ZoneInfo2]
+LocationName="Corredor del sótano"
+
+[ZoneInfo20]
+LocationName="Atrio superior"
+
+[ZoneInfo21]
+LocationName="Sala de cañón antiaéreo"
+
+[ZoneInfo22]
+LocationName="Sala de cañón antiaéreo"
+
+[ZoneInfo23]
+LocationName="Sala daño U"
+
+[ZoneInfo24]
+LocationName="Sala daño U"
+
+[ZoneInfo25]
+LocationName="Corredor de arma eléctrica"
+
+[ZoneInfo26]
+LocationName="Corredor de arma eléctrica"
+
+[ZoneInfo27]
+LocationName="Corredor de arma eléctrica"
+
+[ZoneInfo28]
+LocationName="Corredor de arma eléctrica"
+
+[ZoneInfo29]
+LocationName="Sala daño U"
+
+[ZoneInfo3]
+LocationName="Zona cabezas de dragón"
+
+[ZoneInfo4]
+LocationName="Corredor de arma eléctrica"
+
+[ZoneInfo5]
+LocationName="Corredor lateral"
+
+[ZoneInfo6]
+LocationName="Corredor de arma eléctrica"
+
+[ZoneInfo7]
+LocationName="Sala de cañón antiaéreo"
+
+[ZoneInfo8]
+LocationName="Corredor de arma eléctrica"
+
+[ZoneInfo9]
+LocationName="Sala media"
+

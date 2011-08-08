@@ -1,0 +1,3 @@
+[Public]
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=Blaster.MP40,Description="Imperial Blaster Rifle")
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=Blaster.MP40_Arena,Description="Blaster Arena")

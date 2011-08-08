@@ -1,0 +1,22 @@
+[LevelInfo0]
+Title="Trite"
+
+[LevelSummary]
+Title="Trite"
+Description="Vorsicht und Wachsamkeit sind in dieser verlassenen Anlage nötig, um nicht so kalt wie der Stahl zu enden, der Sie hier umgibt."
+
+[ZoneInfo0]
+LocationName="Flak-Gebiet"
+
+[ZoneInfo1]
+LocationName="USchaden-Gebiet"
+
+[ZoneInfo2]
+LocationName="Schildraum"
+
+[ZoneInfo3]
+LocationName="Sniper Rifle-Gebiet"
+
+[ZoneInfo4]
+LocationName="Shock Rifle-Halle"
+

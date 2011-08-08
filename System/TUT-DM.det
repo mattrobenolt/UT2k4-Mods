@@ -1,0 +1,12 @@
+[LevelInfo0]
+Title="Asbestos"
+
+[LevelSummary]
+Title="Asbestos"
+
+[Trigger0]
+Message="0wnage"
+
+[Trigger1]
+Message="0wnage"
+

@@ -1,0 +1,2 @@
+[Public]
+Player=(DefaultName="Bugs Bunny Man",Mesh=BugsBunny.BugsMesh,species=xGame.SPECIES_Merc,BodySkin=Bugstextures.head,FaceSkin=Bugstextures.head,Portrait=bugstextures.BUGSICON,Text=XPlayers.BB,Sex=male,Menu="SP",Ragdoll=Male)

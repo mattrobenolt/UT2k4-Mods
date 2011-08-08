@@ -1,0 +1,51 @@
+[Public]
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUTClassic,Description="Armas estilo UT clásico y habilidades de movimiento configurables (como la esquiva en pared).")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseSniper,Description="Sustituir las armas eléctricas con el clásico rifle de precisión.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseLightning,Description="Sustituir los rifles de precisión con armas eléctricas.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=UTClassic.ClassicSniperRifle,Description="Este rifle de precisión de gran velocidad de salida de proyectil, tiene una mira x10 y es letal a cualquier distancia, especialmente si consigues dar en la cabeza.")
+
+[ClassicSniperAmmo]
+ItemName="Balas de precisión"
+
+[ClassicSniperAmmoPickup]
+PickupMessage="Ha recogido munición de precisión."
+
+[ClassicSniperRifle]
+Description="Este rifle de precisión de gran velocidad de salida de proyectil, tiene una mira x10 y es letal a cualquier distancia, especialmente si consigues dar en la cabeza."
+ItemName="Rifle precisión"
+
+[ClassicSniperRiflePickup]
+PickupMessage="Tienes el rifle de precisión"
+
+[DamTypeClassicHeadshot]
+DeathString="%k le ha puesto una bala en el cráneo a %o."
+FemaleSuicide="%o se ha disparado solita en la cabeza."
+MaleSuicide="%o se ha disparado solito en la cabeza."
+
+[DamTypeClassicSniper]
+DeathString="%k ha hecho un agujero en %o."
+FemaleSuicide="%o se disparado en el pie."
+MaleSuicide="%o se disparado en el pie."
+
+[MutUTClassic]
+DJString="Permitir salto doble"
+WDString="Permitir esquiva en pared"
+DDJString="Permitir salto doble con esquiva"
+DJHelp="Si está activado, los jugadores pueden realizar un salto doble en el cenit de sus saltos."
+WDHelp="Si está activado los jugadores pueden esquivar desde una pared."
+DDJHelp="Si está activado los jugadores pueden realizar un salto doble en lo más alto de sus saltos de esquiva."
+WeapString="Modificar daño de armas"
+WeapHelp="Si se activa, las armas hacen más daño."
+TranslocString="Modificar transportador"
+TranslocHelp="Si se activa, el transportador se recarga más rápido."
+FriendlyName="UT Clásico"
+Description="Armas estilo UT clásico y opciones de movimiento."
+
+[MutUseLightning]
+FriendlyName=" Armas eléctricas"
+Description="Reemplazar todos los rifles de precisión por armas eléctricas."
+
+[MutUseSniper]
+FriendlyName="Rifles precisión"
+Description="Reemplazar todas las armas eléctricas por rifles de precisión."
+

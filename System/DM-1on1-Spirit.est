@@ -1,0 +1,19 @@
+[LevelInfo0]
+Title="Spirit"
+
+[LevelSummary]
+Title="Spirit"
+Description="Esta antigua estructura tuvo en tiempos un significado religioso para sus habitantes. Sin embargo, desde su desaparición, el espíritu de este viejo lugar de culto se ha fatigado. Ahora solo pueden oírse los espíritus de los combatientes caídos... ¿te unirás a ellos?"
+
+[ZoneInfo0]
+LocationName="Cámara de enlazadora"
+
+[ZoneInfo2]
+LocationName="Zona de lanzacohetes"
+
+[ZoneInfo3]
+LocationName="Zona de puente doble"
+
+[ZoneInfo4]
+LocationName="Zona de cañón antiaéreo"
+

@@ -1,0 +1,67 @@
+[LevelInfo0]
+Title="Corrugation"
+
+[LevelSummary]
+Title="Corrugation"
+Description="Tras muchos años de batalla de torneo, este estadio está empezando a consumirse por los sucesivos impactos de los cohetes y los rifles de choque. Añade tu contribución para terminar de destruirlo."
+
+[ZoneInfo1]
+LocationName="Zona de incinerador"
+
+[ZoneInfo10]
+LocationName="Zona oeste"
+
+[ZoneInfo11]
+LocationName="Entrada a la alcantarilla"
+
+[ZoneInfo12]
+LocationName="Zona alcantarilla este"
+
+[ZoneInfo13]
+LocationName="Zona sur"
+
+[ZoneInfo14]
+LocationName="Zona alcantarilla este"
+
+[ZoneInfo15]
+LocationName="Atrio"
+
+[ZoneInfo16]
+LocationName="Zona de incinerador"
+
+[ZoneInfo17]
+LocationName="Escalera norte"
+
+[ZoneInfo18]
+LocationName="Corredor este"
+
+[ZoneInfo19]
+LocationName="Zona este"
+
+[ZoneInfo2]
+LocationName="Alcantarilla central"
+
+[ZoneInfo20]
+LocationName="Zona alcantarilla sur"
+
+[ZoneInfo3]
+LocationName="Hueco del ascensor oeste"
+
+[ZoneInfo4]
+LocationName="Alcantarilla sudeste"
+
+[ZoneInfo5]
+LocationName="Corredor curvado este"
+
+[ZoneInfo6]
+LocationName="Zona este"
+
+[ZoneInfo7]
+LocationName="Zona central"
+
+[ZoneInfo8]
+LocationName="Corredor curvado este"
+
+[ZoneInfo9]
+LocationName="Zona de bombeo"
+

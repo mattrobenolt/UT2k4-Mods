@@ -1,0 +1,25 @@
+[LevelInfo0]
+Title="Desolation"
+
+[LevelSummary]
+Title="Desolation"
+Description="Auf der Suche nach Abgeschiedenheit erbaute ein Künstler sein neues Domizil auf einem riesigen Wolkenkratzer, um der Zivilisation zu entfliehen. Auf der Spitze baute er ein Museum, dass bis zu seinem Tod nie der Öffentlichkeit zugänglich war. In seinem Testament verfügte der Künstler, das Museum als Duell-Arena zu verwenden, seiner einzigen Leidenschaft neben der Kunst."
+
+[ZoneInfo0]
+LocationName="Fensterfontänen"
+
+[ZoneInfo1]
+LocationName="Weibliche Statue"
+
+[ZoneInfo2]
+LocationName="Shock Rifle-Halle"
+
+[ZoneInfo3]
+LocationName="Großes Fenster"
+
+[ZoneInfo4]
+LocationName="Flak-Halle"
+
+[ZoneInfo5]
+LocationName="Oberes Gemälde"
+

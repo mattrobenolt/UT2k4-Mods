@@ -1,0 +1,7 @@
+[Public]
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTV2004SA.utvMutator,Description="Erforderlich, um UTV2004 in SeeAll mode zu unterstützen.")
+
+[utvMutator]
+FriendlyName="UTV2004S"
+Description="Erforderlich, um UTV2004 SeeAll mode zu unterstützen."
+

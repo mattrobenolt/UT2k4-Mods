@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title="Squader"
+
+[LevelSummary]
+Title="Squader"
+Description="Einst ein geheimes militärisches Forschungslabor, finden in dieser kalten Struktur nun einige der besten 1 gegen 1-Duelle des Tournaments statt. Können Sie unter Druck im Scheinwerferlicht bestehen?"
+
+[ZoneInfo0]
+LocationName="Superschild-Gebiet"
+
+[ZoneInfo10]
+LocationName="USchaden-Hallen"
+
+[ZoneInfo11]
+LocationName="USchaden-Hallen"
+
+[ZoneInfo12]
+LocationName="Superschild-Gebiet"
+
+[ZoneInfo2]
+LocationName="Minigun-Aufzug"
+
+[ZoneInfo3]
+LocationName="Flak-Halle"
+
+[ZoneInfo4]
+LocationName="Flak-Halle"
+
+[ZoneInfo5]
+LocationName="Double Health"
+
+[ZoneInfo6]
+LocationName="Bio Rifle-Ecke"
+
+[ZoneInfo7]
+LocationName="Fenster-Gebiet"
+
+[ZoneInfo8]
+LocationName="Fenster-Gebiet"
+
+[ZoneInfo9]
+LocationName="USchaden-Hallen"
+

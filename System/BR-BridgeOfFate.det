@@ -1,0 +1,75 @@
+[LevelInfo0]
+Title="Bridge of Fate"
+
+[LevelSummary]
+Title="Bridge of Fate"
+Description="Eine Höhle mit zwei Steilwänden, verbunden durch eine Brücke. Hier treffen 2 Teams aufeinander, hier begegnen sich Hoffnung und Verzweiflung."
+
+[ZoneInfo0]
+LocationName="Höhle"
+
+[ZoneInfo1]
+LocationName="BLAU Panzerungs-Eingang"
+
+[ZoneInfo10]
+LocationName="BLAU Haupteingang"
+
+[ZoneInfo11]
+LocationName="BLAU Bomben-Raum"
+
+[ZoneInfo12]
+LocationName="BLAU Bomben-Raum"
+
+[ZoneInfo13]
+LocationName="BLAU BioRifle-Eingang"
+
+[ZoneInfo14]
+LocationName="ROT Bomben-Raum"
+
+[ZoneInfo15]
+LocationName="ROT BioRifle-Eingang"
+
+[ZoneInfo16]
+LocationName="ROT Panzerungs-Eingang"
+
+[ZoneInfo17]
+LocationName="ROT Panzerungs-Eingang"
+
+[ZoneInfo18]
+LocationName="ROT BioRifle-Eingang"
+
+[ZoneInfo19]
+LocationName="ROT Haupteingang"
+
+[ZoneInfo20]
+LocationName="ROT BioRifle-Eingang"
+
+[ZoneInfo21]
+LocationName="ROT Bomben-Raum"
+
+[ZoneInfo22]
+LocationName="ROT Bomben-Raum"
+
+[ZoneInfo23]
+LocationName="ROT Panzerungs-Eingang"
+
+[ZoneInfo3]
+LocationName="BLAU Bomben-Raum"
+
+[ZoneInfo4]
+LocationName="BLAU Säulen-Raum"
+
+[ZoneInfo5]
+LocationName="BLAU BioRifle-Eingang"
+
+[ZoneInfo6]
+LocationName="BLAU Panzerungs-Eingang"
+
+[ZoneInfo7]
+LocationName="ROT Säulen-Raum"
+
+[ZoneInfo8]
+LocationName="BLAU Panzerungs-Eingang"
+
+[ZoneInfo9]
+LocationName="BLAU BioRifle-Eingang"

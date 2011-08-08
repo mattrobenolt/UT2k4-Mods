@@ -1,0 +1,139 @@
+[DestroyableObjective_SM0]
+DestructionMessage="¡Defensas exteriores superadas!"
+ObjectiveDescription="Destruye la puerta"
+Objective_Info_Attacker="Destruye la puerta"
+Objective_Info_Defender="Defiende la puerta principal"
+
+[DestroyableObjective_SM1]
+ObjectiveName="Cables de datos"
+DestructionMessage="¡Cables de datos cortados!"
+ObjectiveDescription="Corta los cables de datos"
+Objective_Info_Attacker="Corta los cables de datos"
+Objective_Info_Defender="Defiende los cables de datos"
+
+[DestroyableObjective_SM2]
+ObjectiveName="Componente 1 de escudo"
+DestructionMessage="¡Generador de escudo destruido!"
+ObjectiveDescription="Destroza el nexo del escudo"
+Objective_Info_Attacker="Destruye el componente del escudo"
+Objective_Info_Defender="Defiende el nexo del escudo"
+
+[DestroyableObjective_SM3]
+ObjectiveName="Componente 3 de escudo"
+DestructionMessage="¡Generador de escudo destruido!"
+ObjectiveDescription="Destroza el nexo del escudo"
+Objective_Info_Attacker="Destruye el componente del escudo"
+Objective_Info_Defender="Defiende el nexo del escudo"
+
+[DestroyableObjective_SM4]
+ObjectiveName="Componente 2 de escudo"
+DestructionMessage="¡Generador de escudo destruido!"
+ObjectiveDescription="Destroza el nexo del escudo"
+Objective_Info_Attacker="Destruye el componente del escudo"
+Objective_Info_Defender="Defiende el nexo del escudo"
+
+[DestroyableObjective_SM5]
+ObjectiveName="Generador de IA"
+DestructionMessage="¡Generador de IA destruido!"
+ObjectiveDescription="Destruye el generador de IA"
+Objective_Info_Attacker="Destruye el generador de IA"
+Objective_Info_Defender="Defiende el generador de IA"
+
+[HoldObjective2]
+ObjectiveName="Activación Teletransporte"
+DestructionMessage="Lista nueva localización de generación de atacantes"
+ObjectiveDescription="Alinea la parabólica del satélite"
+Objective_Info_Attacker="Alinea la parabólica del satélite"
+Objective_Info_Defender="Defiende los controles del satélite"
+
+[LevelInfo0]
+Title="Robot Factory"
+
+[LevelSummary]
+Title="Robot Factory"
+Description="Este escenario es una recreación del levantamiento robot de Liandri en el asteroide mecánico de LBX-7683 y su aplastamiento por fuerzas humanas. LBX-7683 fue un puesto de investigación y desarrollo de la siguiente generación de robots de Liandri. Los mejores científicos de Liandri introdujeron en las máquinas que diseñaron inteligencias artificiales cada vez más sofisticadas. Con el tiempo, se rebelaron contra los humanos y tomaron el control del asteroide, encargándose de forma brutal de sus creadores y explotando las ricas vetas de materiales que estaban en la roca. Los comandantes de Liandri diseñaron un plan para golpear directamente en la planta de producción de robots. Durante un asalto total al mundo, un pequeño equipo se infiltró con el único objetivo de destruir los generadores de IA, destruyendo así la capacidad de las máquinas para reproducirse y acabando con el levantamiento."
+
+[SceneSubtitles0]
+SubTitles=("Este escenario recrea el levantamiento robot de Liandri en el asteroide mecánico de LBX-7683","y su aplastamiento por fuerzas humanas.","LBX-7683 fue un puesto de investigación y desarrollo de la siguiente generación de robots Liandri.","Los mejores científicos de Liandri introdujeron en las máquinas que diseñaron inteligencias artificiales cada vez más sofisticadas."," Al final, se rebelaron contra los humanos y tomaron el control del asteroide y las lunas circundantes","encargándose de forma brutal de sus creadores y explotando las ricas vetas de materiales que estaban en la roca.","Los comandantes de Liandri diseñaron un plan para golpear directamente en la planta de producción de robots.","Durante un asalto total al mundo, un pequeño equipo se infiltró con el único objetivo de destruir los generadores de IA,","destruyendo así la capacidad de las máquinas para reproducirse y acabando con el levantamiento.","Has aterrizado cerca de las instalaciones de atraque y carga de la fábrica de robots.","El objetivo es infiltrarse en la fábrica y destruir el generador de Inteligencia Artificial.","Primero, debes alinear la antena parabólica para conseguir una regeneración más cercana.","Despues, destruye la puerta que bloquea la entrada a la fábrica.",,"Una vez que la fábrica ha sido infiltrada debes cortar los cables de datos.",,"Destruye los tres componentes del nexo del escudo para descubrir el generador de Inteligencia Artificial.",,"Finalmente, destruye el generador de Inteligencia Artificial para detener la producción de robots.")
+
+[Volume0]
+LocationName="Fuera de la puerta de acceso"
+
+[Volume1]
+LocationName="Plataforma norte"
+
+[Volume3]
+LocationName="Zona de inicio de atacantes"
+
+[Volume4]
+LocationName="Sala de control de la plataforma"
+
+[Volume6]
+LocationName="Plataforma sur"
+
+[ZoneInfo0]
+LocationName="Generador de IA"
+
+[ZoneInfo1]
+LocationName="Plataforma exterior de carga"
+
+[ZoneInfo11]
+LocationName="Sala de empaquetado"
+
+[ZoneInfo12]
+LocationName="Salón de transmisión de datos"
+
+[ZoneInfo13]
+LocationName="Almacén"
+
+[ZoneInfo14]
+LocationName="Sala de control del generador"
+
+[ZoneInfo15]
+LocationName="Planta aplastadora"
+
+[ZoneInfo16]
+LocationName="Entrada a la fábrica"
+
+[ZoneInfo18]
+LocationName="Sala de control del generador"
+
+[ZoneInfo2]
+LocationName="Cadena de producción de IA"
+
+[ZoneInfo20]
+LocationName="Almacén"
+
+[ZoneInfo21]
+LocationName="Conducto al salón de transmisión de datos"
+
+[ZoneInfo22]
+LocationName="Sala de empaquetado"
+
+[ZoneInfo23]
+LocationName="Sala de empaquetado"
+
+[ZoneInfo24]
+LocationName="Anexo al generador de escudo"
+
+[ZoneInfo25]
+LocationName="Salón de transmisión de datos"
+
+[ZoneInfo3]
+LocationName="Conducto al salón de transmisión de datos"
+
+[ZoneInfo4]
+LocationName="Cámara de concentración de datos"
+
+[ZoneInfo5]
+LocationName="Generadores de escudo"
+
+[ZoneInfo6]
+LocationName="Sala de control de la plataforma"
+
+[ZoneInfo7]
+LocationName="Fuerzas del cine"
+
+[ZoneInfo9]
+LocationName="Anexo al generador de escudo"
+

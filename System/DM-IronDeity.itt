@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title="Divinità di ferro"
+
+[LevelSummary]
+Title="Divinità di ferro"
+Description="Questa grande e imponente arena è indicata per due squadre di dimensioni medie. Cerca di non farti sorprendere quando attraversi la piccola stanza della ventola e non dimenticare di tenere sotto controllo i Danni doppi. Infine, fai attenzione al Redentore nascosto!"
+
+[ZoneInfo0]
+LocationName="Fulminatore"
+
+[ZoneInfo1]
+LocationName="Rampa inferiore"
+
+[ZoneInfo10]
+LocationName="Stanza lenta"
+
+[ZoneInfo11]
+LocationName="Vicino ai Danni doppi"
+
+[ZoneInfo12]
+LocationName="Ripostiglio"
+
+[ZoneInfo2]
+LocationName="Fucile Link"
+
+[ZoneInfo3]
+LocationName="Minigun"
+
+[ZoneInfo4]
+LocationName="Danni doppi"
+
+[ZoneInfo5]
+LocationName="Stanza del cannone Flak"
+
+[ZoneInfo7]
+LocationName="Bagno"
+
+[ZoneInfo8]
+LocationName="Ripostiglio"
+
+[ZoneInfo9]
+LocationName="Fucile shock"
+

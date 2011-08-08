@@ -1,0 +1,51 @@
+[ClassicSniperAmmoPickup2]
+PickupMessage="Lightning-Munition aufgesammelt."
+
+[LevelInfo0]
+Title="Dria"
+
+[LevelSummary]
+Title="Dria"
+Description="In diesen Eisfeldern in den Ruinen der letzten Nali-Festung fand der Endkampf der Nali gegen die Skaarj statt. Die Skaarj trieben ihre Steinriesen vor sich her und belagerten die Stadt drei Wochen lang, bevor sie schließlich den äußeren Wall durchbrachen und wegen dieses Affronts alle Bewohner umbrachten. Jetzt sind die Weiten dieser Gegend eine Onslaught-Arena, die das Teamwork und die Zielstrebigkeit selbst der Besten auf die Probe stellt."
+
+[Volume1]
+LocationName="BLAUE Basis"
+
+[Volume10]
+LocationName="Nördlicher Brückenturm"
+
+[Volume11]
+LocationName="Südlicher Brückenturm"
+
+[Volume14]
+LocationName="Nord Knoten"
+
+[Volume15]
+LocationName="Nordwest Knoten"
+
+[Volume2]
+LocationName="Mittlerer West Knoten"
+
+[Volume3]
+LocationName="Südost Knoten"
+
+[Volume4]
+LocationName="Nordost Knoten"
+
+[Volume5]
+LocationName="Süd Knoten"
+
+[Volume6]
+LocationName="Südwest Knoten"
+
+[Volume7]
+LocationName="Mittlerer Ost knoten"
+
+[Volume8]
+LocationName="Nord Brücke"
+
+[Volume9]
+LocationName="Süd Brücke"
+
+[ZoneInfo0]
+LocationName="Außen"

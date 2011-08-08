@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title="Poggio erboso"
+
+[LevelSummary]
+Title="Poggio erboso"
+Description="Una tiepida brezza che spira dagli alberi trasporta la puzza di zolfo e metallo rovente e l'odore rameico del sangue. Da una direzione imprecisabile, una folle risata commenta il colpo di un fucile al plasma, per sbeffeggiare un nemico invisibile. L'unica risposta è lo sfrigolio della carne bruciata. Qui non ci sono proiettili magici e nemmeno cospirazioni: c'è solo uno sbarramento di nemici da superare per portare finalmente la bandiera alla base."
+
+[LimitationVolume1]
+LocationName="Campo minato"
+
+[PhysicsVolume12]
+LocationName="Esterno rosso"
+
+[PhysicsVolume13]
+LocationName="Esterno blu"
+
+[Volume0]
+LocationName="Adrenalina blu"
+
+[Volume1]
+LocationName="Foresta del tiratore"
+
+[Volume2]
+LocationName="Super schermo"
+
+[Volume3]
+LocationName="Adrenalina rossa"
+
+[Volume4]
+LocationName="Danni doppi"
+
+[Volume5]
+LocationName="Base blu"
+
+[Volume6]
+LocationName="Base rossa"
+

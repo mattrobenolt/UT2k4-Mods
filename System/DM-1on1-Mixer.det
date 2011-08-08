@@ -1,0 +1,44 @@
+[LevelInfo0]
+Title="Mixer"
+
+[LevelSummary]
+Title="Mixer"
+Description="Tod und Waffenrauch sind nicht die einzigen Dinge, die man hier riechen kann."
+
+[ZoneInfo0]
+LocationName="Rohr"
+
+[ZoneInfo1]
+LocationName="Schildkammer"
+
+[ZoneInfo10]
+LocationName="Minigun"
+
+[ZoneInfo11]
+LocationName="Rocket Launcher"
+
+[ZoneInfo12]
+LocationName="Double Damage"
+
+[ZoneInfo13]
+LocationName="Aufzug"
+
+[ZoneInfo14]
+LocationName="Aufzug"
+
+[ZoneInfo3]
+LocationName="Rohre"
+
+[ZoneInfo5]
+LocationName="Lightning Gun"
+
+[ZoneInfo6]
+LocationName="Link Gun"
+
+[ZoneInfo7]
+LocationName="Keller"
+
+[ZoneInfo9]
+LocationName="Shock Rifle"
+
+

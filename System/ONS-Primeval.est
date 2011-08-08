@@ -1,0 +1,25 @@
+[LevelInfo0]
+Title="Primeval"
+
+[LevelSummary]
+Title="Primeval"
+Description="Anidada en la oscuridad de los bosques primevos, este estadio de Acometida es el favorito de los leñadores y amantes de los árboles por igual."
+
+[Volume0]
+LocationName="Base roja"
+
+[Volume2]
+LocationName="Base lateral roja"
+
+[Volume3]
+LocationName="Nodo central"
+
+[Volume4]
+LocationName="Base lateral azul"
+
+[Volume5]
+LocationName="Base azul"
+
+[ZoneInfo0]
+LocationName="Deambulando por los bosques"
+

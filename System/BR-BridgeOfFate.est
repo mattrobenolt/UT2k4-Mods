@@ -1,0 +1,75 @@
+[LevelInfo0]
+Title="Bridge of Fate"
+
+[LevelSummary]
+Title="Bridge of Fate"
+Description="Dos bandos, una gran caverna que los separa, un puente que une cada lado, cruzando el vacío que los separa, el vacío que une la esperanza y la desesperación."
+
+[ZoneInfo0]
+LocationName="Cueva"
+
+[ZoneInfo1]
+LocationName="Entrada Armadura AZUL"
+
+[ZoneInfo10]
+LocationName="Entrada Principal AZUL"
+
+[ZoneInfo11]
+LocationName="Sala Bomba AZUL"
+
+[ZoneInfo12]
+LocationName="Sala Bomba AZUL"
+
+[ZoneInfo13]
+LocationName="Entrada Biorifle AZUL"
+
+[ZoneInfo14]
+LocationName="Sala Bomba ROJA"
+
+[ZoneInfo15]
+LocationName="Entrada Biorifle ROJA"
+
+[ZoneInfo16]
+LocationName="Entrada Armadura ROJA"
+
+[ZoneInfo17]
+LocationName="Entrada Armadura ROJA"
+
+[ZoneInfo18]
+LocationName="Entrada Biorifle ROJA"
+
+[ZoneInfo19]
+ocationName="Entrada Principal ROJA"
+
+[ZoneInfo20]
+LocationName="Entrada Biorifle ROJA"
+
+[ZoneInfo21]
+LocationName="Sala Bomba ROJA"
+
+[ZoneInfo22]
+LocationName="Sala Bomba ROJA"
+
+[ZoneInfo23]
+LocationName="Entrada Armadura ROJA"
+
+[ZoneInfo3]
+LocationName="Sala Bomba AZUL"
+
+[ZoneInfo4]
+LocationName="Sala Pilar AZUL"
+
+[ZoneInfo5]
+LocationName="Entrada Biorifle AZUL"
+
+[ZoneInfo6]
+LocationName="Entrada Armadura AZUL"
+
+[ZoneInfo7]
+LocationName="Sala Pilar ROJA"
+
+[ZoneInfo8]
+LocationName="Entrada Armadura AZUL"
+
+[ZoneInfo9]
+LocationName="Entrada Biorifle AZUL"

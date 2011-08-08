@@ -1,0 +1,164 @@
+[LevelInfo0]
+Title="Disclosure"
+
+[LevelSummary]
+Title="Disclosure"
+
+[ZoneInfo0]
+LocationName="Respawn-Halle ROT"
+
+[ZoneInfo1]
+LocationName="Respawn-Halle ROT"
+
+[ZoneInfo2]
+LocationName="Respawn-Halle ROT"
+
+[ZoneInfo3]
+LocationName="Hinter Ventilator"
+
+[ZoneInfo33]
+LocationName="Respawn-Halle ROT"
+
+[ZoneInfo34]
+LocationName="Respawn-Halle ROT"
+
+[ZoneInfo35]
+LocationName="Respawn-Halle ROT"
+
+[ZoneInfo36]
+LocationName="Hinter Ventilator"
+
+[ZoneInfo37]
+LocationName="Lightning Korridor ROT"
+
+[ZoneInfo38]
+LocationName="Lightning Korridor ROT"
+
+[ZoneInfo39]
+LocationName="Lightning Korridor ROT"
+
+[ZoneInfo4]
+LocationName="Respawn-Halle ROT"
+
+[ZoneInfo40]
+LocationName="Lightning Schießstand ROT"
+
+[ZoneInfo41]
+LocationName="Torraum"
+
+[ZoneInfo42]
+LocationName="Mitte über Torraum"
+
+[ZoneInfo43]
+LocationName="Hinterer Korridor"
+
+[ZoneInfo44]
+LocationName="Hinterer Korridor BLAU"
+
+[ZoneInfo45]
+LocationName="Hinterer Korridor ROT"
+
+[ZoneInfo46]
+LocationName="Minigun-Raum ROT"
+
+[ZoneInfo47]
+LocationName="Korridor Torraum ROT"
+
+[ZoneInfo48]
+LocationName="Korridor Torraum ROT"
+
+[ZoneInfo49]
+LocationName="Torraum ROT"
+
+[ZoneInfo5]
+LocationName="Respawn-Halle ROT"
+
+[ZoneInfo50]
+LocationName="Korridor Torraum ROT"
+
+[ZoneInfo51]
+LocationName="Korridor Torraum ROT"
+
+[ZoneInfo52]
+LocationName="Korridor Torraum ROT"
+
+[ZoneInfo53]
+LocationName="Korridor Torraum BLAU"
+
+[ZoneInfo54]
+LocationName="Korridor Torraum BLAU"
+
+[ZoneInfo55]
+LocationName="Korridor Torraum BLAU"
+
+[ZoneInfo56]
+LocationName="Korridor Torraum BLAU"
+
+[ZoneInfo57]
+LocationName="Korridor Torraum BLAU"
+
+[ZoneInfo58]
+LocationName="Torraum BLAU"
+
+[ZoneInfo59]
+LocationName="Minigun-Raum BLAU"
+
+[ZoneInfo6]
+LocationName="Respawn-Halle ROT"
+
+[ZoneInfo60]
+LocationName="Respawn-Halle BLAU"
+
+[ZoneInfo61]
+LocationName="Korridor Respawn-Halle BLAU"
+
+[ZoneInfo62]
+LocationName="Korridor Respawn-Halle BLAU"
+
+[ZoneInfo63]
+LocationName="Korridor Respawn-Halle BLAU"
+
+[ZoneInfo64]
+LocationName="Korridor Respawn-Halle BLAU"
+
+[ZoneInfo65]
+LocationName="Lightning-Korridor ROT"
+
+[ZoneInfo66]
+LocationName="Lightning-Korridor BLAU"
+
+[ZoneInfo67]
+LocationName="Lightning-Korridor BLAU"
+
+[ZoneInfo68]
+LocationName="Lightning-Schießstand BLAU"
+
+[ZoneInfo69]
+LocationName="Korridor Respawn-Halle BLAU"
+
+[ZoneInfo70]
+LocationName="Raketenwerfer-Korridor BLAU"
+
+[ZoneInfo71]
+LocationName="Raketenwerfer-Korridor BLAU"
+
+[ZoneInfo72]
+LocationName="Raketenwerfer-Korridor BLAU"
+
+[ZoneInfo73]
+LocationName="Raketenwerfer-Korridor ROT"
+
+[ZoneInfo74]
+LocationName="Raketenwerfer-Korridor ROT"
+
+[ZoneInfo75]
+LocationName="Raketenwerfer-Korridor ROT"
+
+[ZoneInfo76]
+LocationName="Respawn-Halle ROT"
+
+[xBombDelivery0]
+ObjectiveName="BLAUE Bombenlieferung"
+
+[xBombDelivery2]
+ObjectiveName="BLAUE Bombenlieferung"

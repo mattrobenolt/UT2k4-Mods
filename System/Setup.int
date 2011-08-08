@@ -1,0 +1,148 @@
+[Errors]
+MissingProductTitle="%s can't be %s in this folder"
+MissingProductInstalled="installed"
+MissingProductPatched="updated"
+MissingProductThis="This update"
+MissingProduct="%s requires %s to be installed in the folder first. Please locate the existing folder for %s, or exit and install it now.\n\nYou can click on the web link below for product information."
+OldVersion="%s requires %s version %i or later, but the version on your machine is older (you have version %i). Please install %s version %i or later and try again. You can click on the web link below for more information.\n\nSetup will now exit."
+FolderTitle="Folder '%s'"
+FolderFormat="The folder you entered, '%s', is not valid.  Please try again."
+CDKeyTitle="Invalid CD Key"
+CDKeyFormat="The CD key you entered was not correct.  Please re-check your CD key against the number printed on the back of your manual and try again."
+AlreadyRunningTitle="Can't Install While In Use"
+AlreadyRunning="To continue the installation process, please shut down all other running copies and press OK.  To exit, press Cancel."
+WrongCdTitle="Files Not Found On CD-ROM"
+WrongCd="The expected version of %s file %s was not found on the CD-ROM drive.\n\nPlease verify that the proper CD is in the drive."
+MissingInstallerFile="Installer file not found"
+MissingReferenceFile="Reference file not found"
+MissingSourceFile="Source file not found"
+FailedOpenSource="Failed opening source file"
+FailedOpenDest="Failed opening destination file"
+FailedReadingSource="Failed reading source file"
+FailedWritingDest="Failed writing destination file"
+FailedLoadingUpdate="Failed loading update file"
+FailedReadingReference="Failed reading reference file"
+FailedClosingSource="Failed closing source file"
+FailedClosingDest="Failed closing destination file"
+FailedMakeDir="Failed making directory for destination file"
+AdviseBadMedia="The source media may be bad.  If installing from a CD, try cleaning the CD to remove any dirt, check your CD drive, and try again."
+AdviseBadDownload="The update files you downloaded may be corrupted."
+AdviseBadDest="The destination drive might be full, or it might have bad sectors."
+PatchCorrupt="The patch file %s is corrupt.\n\n%s"
+CdFileMismatch="The file %s from the CD-ROM is not the expected version. Therefore, %s can't be patched."
+
+[General]
+Space="%i Megabytes"
+Ready="Setup is ready to install %s.\nThe destination folder is: %s\n\nClick 'Install' to begin installation.\nClick 'Cancel' to exit without installing %s."
+InstallCancel="Cancel Installation"
+CancelPrompt="Warning!  Canceling the installation now will prevent %s from functioning properly.  Are you sure you want to cancel it?"
+DidCancel="You cancelled installation.  The product has not been successfully installed and will not function correctly."
+CdDescription="To install the %s update, some files must be copied off the original %s CD-ROM.\n\nPlease place the %s CD-ROM in your drive, and click 'Next'.  If your CD drive letter is shown incorrectly, please enter it below."
+CdDrive="CD-ROM Drive"
+NotEnoughSpaceTitle="Can't Install There"
+NotEnoughSpace="There is not enough space available on drive %s to install %s.  Please select a drive with more free space, or exit, free up more space, and try again."
+Finish="&Finish"
+RebootButton="&Reboot"
+ExitButton="&Exit"
+Abbreviation="UT2004 Setup"
+CDPromptTitle="Waiting for CD"
+CDPromptMessage="Please insert Unreal Tournament 2004 CD number %d"
+LastCDPromptMessage="Please insert Unreal Tournament 2004 CD number 6"
+InstallQFE="Unreal Tournament 2004 Setup needs to install an update to DirectX 8.1.  Please follow the instructions in the following dialog box."
+ECEPromptTitle="Waiting for CD"
+ECEPromptMessage="Please insert the Mod Installer Disc 1"
+
+[IDDIALOG_FilerPageAutoPlay]
+IDC_Play="&Play"
+IDC_Reinstall="&Install"
+IDC_Uninstall="&Uninstall"
+IDC_ReleaseNotes="Release &Notes"
+IDC_Web="Unreal Tournament 2004 &Web Site"
+IDC_Complete="Installation Completed Successfully!"
+IDC_CompleteReboot="Installation Completed Successfully!\nBefore playing, you must reboot your computer."
+
+[IDDIALOG_FilerPageWelcome]
+IDC_WelcomePrompt="You are about to install %s on your computer.\n\nClick 'Next' to begin Setup, or click 'Cancel' at any time to exit.\n\nThe information in the box below contains Web links you can click on to obtain more information."
+IDC_WelcomePromptUpdate="This program will update your copy of %s to version %s.\n\nClick 'Next' to begin Setup, or click 'Cancel' at any time to exit.\n\nThe information in the box below contains Web links you can click on to obtain more information."
+IDC_LanguagePrompt="&Language"
+
+[IDDIALOG_FilerPageLicense]
+IDC_LicenseText="Please read the following license agreement, which replaces the one that shipped with the game.  Installation of this program requires you to agree to the licensing terms."
+IDC_LicenseQuestion="Do you agree to the above licensing terms?  Click 'I Agree' or 'Cancel'."
+
+[IDDIALOG_FilerPageComponents]
+IDC_ComponentsText="Select the components you wish to install."
+IDC_ComponentsPrompt="&Components:"
+IDC_DiskSpaceFrame="Disk Space"
+IDC_DescriptionFrame="Description"
+IDC_SpaceRequiredMessage="Required:"
+IDC_SpaceAvailableMessage="Available:"
+
+[IDDIALOG_FilerPageUninstallComponents]
+IDC_ComponentsText="Select the components you wish to uninstall."
+IDC_ComponentsPrompt="&Components:"
+IDC_DependenciesFrame="Dependencies"
+IDC_DependenciesText="Proceeding will uninstall the following components: %s"
+
+[IDDIALOG_FilerPageFolder]
+IDC_FolderDescription="Setup will install %s in the following folder.\n\nTo install in this folder, click Next.\n\nTo install in a different folder, type the complete name of the new folder including the drive letter, for example: C:\\NewFolder"
+IDC_FolderDescriptionPatch="Setup will update the existing installation of %s in the following folder.\n\nTo proceed, click Next.\n\nIf you have more than one copy installed, type the complete name of the existing folder including the drive letter, for example: C:\\SomeFolder"
+IDC_FolderDescriptionMissing="Setup will update an existing installation of %s.\n\nType the complete name of the existing folder including the drive letter, for example: C:\\SomeFolder"
+IDC_FolderHolder="Destination Folder"
+IDC_Browse="&Browse"
+IDC_Default="&Reset"
+IDC_SpaceAvailableMessage="Space Available On Drive:"
+IDC_FullSpaceRequiredMessage="Space Required For Default Install:"
+
+[IDDIALOG_FilerPageCDKey]
+IDC_CDKeyDescription="Please enter the 20-digit CD key found printed on the back of your manual.  Type the CD key exactly as it appears, including any dashes.\n\nThe CD key should be entered in the format XXXXX-XXXXX-XXXXX-XXXXX\n\nOnce you have entered your CD key, click Next to proceed."
+IDC_CDKeyHolder="CD Key"
+
+[IDDIALOG_FilerPageInstallProgress]
+IDC_InstallText="Installing Files..."
+IDC_InstallingText="Installing:"
+IDC_ProgressText="File Progress:"
+IDC_TotalText="Total Progress:"
+
+[IDDIALOG_FilerPageUninstallProgress]
+IDC_InstallText="Uninstalling Files..."
+IDC_InstallingText="Processing:"
+IDC_ProgressText="File Progress:"
+IDC_TotalText="Total Progress:"
+
+[IDDIALOG_Restart]
+IDC_Restart="Installation Complete"
+IDC_RestartMessage="You need to restart Windows to complete the installation."
+IDC_RestartText="Before you restart, close any open applications, including MS-DOS sessions, and save all current documents. Remove any floppy disks still inserted in a disk drive. Then, click the Restart Windows button."
+IDC_Complete="After restarting Windows, Setup will be complete."
+IDC_Restart="&Restart Windows"
+IDC_Exit="E&xit Setup"
+
+[IDDIALOG_WizardDialog]
+IDC_WizardDialog="Unreal Setup"
+
+[IDDIALOG_FailedRequirement]
+IDC_FailedRequirement="This product can't be installed here"
+IDC_FailedMessage="This product requires the following product to be installed in the folder first. Please locate the existing folder, or exit and install it now.\n\nYou can click on the web link below for more information."
+IDC_ProductHolder="Product Required"
+
+[IDDIALOG_ProductInfo]
+IDC_ProductHolder="Product"
+IDC_ProductText="Product:"
+IDC_VersionText="Version:"
+IDC_DeveloperText="Developer:"
+
+[IDDIALOG_FilerPageUninstall]
+IDC_UninstallPrompt="This will uninstall the following components:"
+IDC_UninstallQuestion="Are you sure you want to remove these components?"
+
+[IDDIALOG_AutopatchPageGo]
+IDC_AutoUpdateText="Auto-Updating Files..."
+IDC_UpdatingText="Attempting to download..."
+IDC_ProgressText="Download Progress"
+IDC_Manual="Click here to go to manual download page on the web"
+ManualDownloadPage="http://unreal.epicgames.com/ut2004versions.htm"
+CancelText="Until you complete auto-update, you will only be able to play single-player and LAN.  Are you sure you want to cancel this auto-update?"
+ContactingText="Contacting site: "
+DownloadingText="Downloading file: "
+SuccessText="Successfully downloaded files. Click 'Finish' to install the update."

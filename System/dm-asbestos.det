@@ -1,0 +1,60 @@
+[LevelInfo0]
+Title="Asbestos"
+
+[LevelSummary]
+Title="Asbestos"
+
+[Trigger0]
+Message="0wnage"
+
+[Trigger1]
+Message="0wnage"
+
+[ZoneInfo0]
+LocationName="Lightning Gun"
+
+[ZoneInfo10]
+LocationName="Kleiner Teich"
+
+[ZoneInfo13]
+LocationName="Link Gun"
+
+[ZoneInfo14]
+LocationName="Flak"
+
+[ZoneInfo15]
+LocationName="Shock Rifle"
+
+[ZoneInfo16]
+LocationName="Flak-Aufzug"
+
+[ZoneInfo17]
+LocationName="Lightning Gun"
+
+[ZoneInfo18]
+LocationName="Bio Rifle"
+
+[ZoneInfo19]
+LocationName="Double Damage"
+
+[ZoneInfo2]
+LocationName="Double Damage"
+
+[ZoneInfo3]
+LocationName="Lightning Gun"
+
+[ZoneInfo4]
+LocationName="Shock Rifle"
+
+[ZoneInfo5]
+LocationName="Double Damage"
+
+[ZoneInfo6]
+LocationName="Flak"
+
+[ZoneInfo7]
+LocationName="Double Damage-Aufzug"
+
+[ZoneInfo8]
+LocationName="Shock Rifle"
+

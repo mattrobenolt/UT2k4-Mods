@@ -1,0 +1,77 @@
+[LevelInfo0]
+Title="Grassyknoll"
+
+[LevelSummary]
+Title="Grassyknoll"
+Description="Die warme milde Brise trägt den Gestank von heißem Metall, Schwefel und Blut herbei. Von irgendwo hört man das Echo einer Plasma-Rifle, abgefeuert auf einen unbekannten Feind. Aber die einzige Antwort ist ein irres Lachen und der Geruch von verbranntem Fleisch. Hier gibt es keine magischen Kugeln oder Verschwörungen, sondern nur eine Handvoll Feinde, die es zu vernichten gilt, um die Flagge zu erobern. "
+
+[LimitationVolume1]
+LocationName="Minenfeld"
+
+[PhysicsVolume12]
+LocationName="Im Freien, ROT"
+
+[PhysicsVolume13]
+LocationName="Im Freien, BLAU"
+
+[Volume0]
+LocationName="Adrenalin BLAU"
+
+[Volume1]
+LocationName="Sniper-Wald"
+
+[Volume2]
+LocationName="Superschild"
+
+[Volume3]
+LocationName="Adrenalin ROT"
+
+[Volume4]
+LocationName="Double Damage"
+
+[Volume5]
+LocationName="BLAUE Basis"
+
+[Volume6]
+LocationName="ROTE Basis"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

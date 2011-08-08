@@ -1,0 +1,170 @@
+[ACTION_ASOpenSentinel]
+ActionString="Sentinella sveglia"
+
+[ACTION_ASSetPlayerSpawnArea]
+ActionString="Azione_zona rientro giocatore"
+
+[ACTION_ASTeleportToSpawnArea]
+ActionString="teletrasporto alla zona di rientro"
+
+[ACTION_PlayExplosionSound]
+ActionString="Riproduci suono dell'esplosione"
+
+[ACTION_PlayerViewShake]
+ActionString="Vibrazione schermo giocatore"
+
+[ASGameInfo]
+ASPropsDisplayText[0]="Coppia di turni"
+ASPropsDisplayText[1]="Durata limite turni"
+ASPropsDisplayText[2]="Azzera conto alla rovescia"
+ASPropsDisplayText[3]="Tempi di rinforzo"
+ASPropsDisplayText[4]="Tempo di allenamento"
+ASPropDescText[0]="Numero di coppie di turni (attacco e difesa) in questo incontro."
+ASPropDescText[1]="Specifica la durata di ogni turno."
+ASPropDescText[2]="Specifica quanto tempo trascorre fra un turno e l'altro."
+ASPropDescText[3]="Specifica l'intervallo di tempo per l'arrivo dei rinforzi."
+ASPropDescText[4]="Specifica la durata in secondi del turno di allenamento online."
+ASHints=("Una tappa indica la posizione di un obiettivo.","Presta attenzione agli avvisi acustici e visivi quando un obiettivo è in pericolo.","Quando è stata attivata una nuova zona di rientro, premi %SWITCHWEAPON 10% per teletrasportarti immediatamente laggiù.","Premi %BASEPATH 0% o %BASEPATH 1% per evidenziare l’obiettivo attuale e il percorso necessario, facendo scorrere l’elenco degli obiettivi.","Osserva il conto alla rovescia del rientro per scoprire quando arriveranno i rinforzi.","Alcune armi sono più efficaci di altre a distruggere le mine ragno nemiche.","Puoi essere ferito o ucciso dai veicoli che esplodono vicino a te.","Puoi riparare un veicolo amico con il fuoco secondario del fucile Link.","Se muori, le mine ragno e le granate che hai lanciato esplodono.","La luce verde alla sommità degli armadietti delle armi indica che contengono munizioni aggiuntive.","Tutte le torrette possono zoomare in avanti premendo %MOVEFORWARD% e zoomare all'indietro premendo %MOVEBACKWARD%.","Le torrette Link hanno le stesse proprietà del fucile Link.","Il cannone a ioni e il carro a ioni, quando caricano il loro colpo, illuminano il loro bersaglio con un fascio laser.","Puoi selezionare le torrette comandate a distanza premendo %NEXTWEAPON% e %PREVWEAPON%.","Usando un caccia spaziale, puoi selezionare i bersagli premendo %NEXTWEAPON% e %PREVWEAPON%.","Puoi procurarti diversi trofei distruggendo un veicolo o torretta chiave, raggiungendo un obiettivo o attaccando con successo.","Il giocatore che raggiunge un obiettivo vince un trofeo, ma i punti di ricompensa vengono suddivisi fra tutti coloro che hanno contribuito.","Premi %TOGGLEBEHINDVIEW% per selezionare la modalità in prima o in terza persona sui veicoli.")
+GameName="Assalto"
+Description="In ogni turno, una squadra gioca come attaccante, mentre l'altra è in difesa, nell'intervallarsi di scenari famosi (o nefasti). Dopo una coppia di turno, la squadra più efficace in attacco vince un punto."
+
+[ASGameReplicationInfo]
+ERW_PracticeRoundEndedStr="Turno di allenamento finito. Pronto!"
+ERW_RedAttackedStr="Squadra blu ha attaccato con successo!"
+ERW_BlueAttackedStr="Squadra rossa ha attaccato con successo!"
+ERW_RedDefendedStr="Difesa squadra rossa riuscita!"
+ERW_BlueDefendedStr="Difesa squadra blu riuscita!"
+ERW_RedMoreObjectivesStr="La squadra rossa ha avuto successo (altri obiettivi)."
+ERW_BlueMoreObjectivesStr="La squadra blu ha avuto successo (altri obiettivi)."
+ERW_RedMoreProgressStr="La squadra rossa ha avuto successo (vicina al completamento)."
+ERW_BlueMoreProgressStr="La squadra blu ha avuto successo (vicina al completamento)."
+ERW_RedGotSameOBJFasterStr="La squadra rossa ha avuto successo (per prima)."
+ERW_BlueGotSameOBJFasterStr="La squadra blu ha avuto successo (per prima)."
+ERW_DrawStr="Partita pareggiata"
+
+[ASOBJ_EnergyCore_Delivery]
+ObjectiveName="Consegna del nucleo energetico"
+
+[ASOBJ_EnergyCore_Spawn]
+ObjectiveName="Apparizione di nucleo energetico"
+PlayerDroppedMessage=" ha lasciato a terra il nucleo energetico!"
+DroppedMessage="Nucleo energetico lasciato a terra!"
+EnergyCorePickedUp="Nucleo energetico raccolto!"
+PlayerPickedUpEnergyCore=" ha raccolto il nucleo energetico!"
+PlayerCoreReset="Ripritino nucleo energetico!"
+
+[ASTurret]
+VehiclePositionString="presidia una torretta"
+VehicleNameString="Torretta a energia"
+
+[ASTurret_Minigun]
+VehiclePositionString="Presidia una torretta minigun"
+VehicleNameString="Torretta minigun"
+
+[ASVehicle_Sentinel]
+VehicleNameString="Sentinella"
+
+[ASVehicle_Sentinel_Ceiling]
+VehicleNameString="Sentinella sul tetto"
+
+[ASVehicle_Sentinel_Floor]
+VehicleNameString="Sentinella sul pavimento"
+
+[ASVehicle_SpaceFighter]
+Text_Speed="Velocità:"
+
+[Ammo_Dummy]
+ItemName="Finto"
+
+[DamTypeExploBarrel]
+DeathString="%k elimina %o grazie all'esplosione di un barile."
+FemaleSuicide="%o era troppo vicina al barile che ha fatto saltare."
+MaleSuicide="%o era troppo vicino al barile che ha fatto saltare."
+
+[DamTypeMinigunTurretBullet]
+DeathString="%o finisce a pezzettini sotto i colpi della torretta minigun di %k."
+FemaleSuicide="%o si falcia con il suo stesso minigun."
+MaleSuicide="%o si falcia con il suo stesso minigun."
+
+[DamTypeSentinelLaser]
+DeathString="%o ha ricevuto una dose extra di laser da %k."
+FemaleSuicide="%o si frigge con il suo stesso laser."
+MaleSuicide="%o si frigge con il suo stesso laser."
+
+[DestroyVehicleObjective]
+ObjectiveName="Obiettivo distruggi il veicolo"
+ObjectiveDescription="Distruggi l'obiettivo per neutralizzarlo."
+Objective_Info_Attacker="Obiettivo distruggi il veicolo "
+Objective_Info_Defender="Difendi il veicolo obiettivo"
+
+[GameObject_EnergyCore]
+PlayerDroppedMessage=" ha lasciato a terra il nucleo energetico!"
+DroppedMessage="Nucleo energetico lasciato a terra!"
+EnergyCorePickedUp="Nucleo energetico raccolto!"
+PlayerPickedUpEnergyCore=" ha raccolto il nucleo energetico!"
+PlayerCoreReset="Ripritino nucleo energetico!"
+
+[HUD_Assault]
+IP_Bracket_Open="["
+IP_Bracket_Close="]"
+Cardinal_North="N"
+Cardinal_East="E"
+Cardinal_South="S"
+Cardinal_West="O"
+NoGameReplicationInfoString="Ricezione stato del server..."
+MetersString="m"
+TargetString="Obiettivo:"
+NoTargetString="Nessun bersaglio"
+PracticeRoundString="Turno di allenamento"
+
+[InfoPod]
+POD_Message="-=modulo informazioni=-"
+
+[Message_ASKillMessages]
+KillString[0]="Mira superiore!"
+KillString[1]="Demolizione!"
+KillString[2]="Bloccando rientro veicolo! Avviso 5 sec."
+KillString[3]="Bloccando rientro veicolo! Avviso 4 sec."
+KillString[4]="Bloccando rientro veicolo! Avviso 3 sec."
+KillString[5]="Bloccando rientro veicolo! Avviso 2 sec."
+KillString[6]="Bloccando rientro veicolo! Avviso 1 sec."
+KillString[7]="Lasciando campo di battaglia!"
+
+[Message_AssaultTeamRole]
+Message_PostLogin_Attacker="Stai attaccando!"
+Message_PostLogin_Defender="Stai difendendo!"
+
+[Message_Awards]
+Msg[0]="Hai raggiunto l'obiettivo!"
+Msg[1]="Obiettivo completato!"
+
+[ObjectiveProgressDisplay]
+HeaderText="Obiettivi"
+OptionalObjectivePrefix="*"
+ObjTimesString="x"
+TextCutSuffix="..."
+SpaceSeparator=" "
+PrimaryObjectivePrefix="-"
+
+[ScoreBoard_Assault]
+RemainingRoundTime="Tempo residuo turno:"
+CurrentRound="Turno:"
+RoundSeparator="-"
+Defender="(Difensore)"
+Attacker="(Attaccante)"
+WaitForReinforcements=" Sei stato ucciso. Rinforzi in"
+WaitingToSpawnReinforcements="In attesa di rinforzi..."
+AutoRespawn="Rientro automatico fra..."
+YouWonRound="Hai vinto il turno!"
+YouLostRound="Hai vinto il turno!"
+PracticeRoundOver="Turno di allenamento finito."
+
+[Trigger_ASMessageTrigger]
+Message="Il mio messaggio"
+
+[Weapon_Sentinel]
+ItemName="Arma sentinella"
+
+[Weapon_Turret_Minigun]
+ItemName="arma per torretta"
+

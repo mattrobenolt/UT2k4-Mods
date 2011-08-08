@@ -1,0 +1,245 @@
+[DefaultMapListLoader]
+UseMapListPropsDisplayText="Usar listas de mapas"
+UserMapListPropDescription="Si está activado, se usan las listas de mapas en lugar de mostrar todos los nombres de mapas."
+
+[KickInfoPage]
+PingText="Ping"
+ScoreText="Punts."
+IDText="ID de jugador"
+IPText="Dirección IP"
+KillsText="Muertos"
+DeathsText="Muertes"
+SuicidesText="Suicidios"
+MultiKillsText="Varias muertes:"
+SpreesText="Fiestas"
+ExitButton.Caption="Cerrar"
+PlayerNameLabel.Caption="Nombre jugador"
+
+[KickVoteMultiColumnList]
+ColumnHeadings=("Nombre de jugador","Equipo","ID","Votos")
+ColumnHeadingHints=("Nombre de jugador","Equipo de jugador","Número ID del jugador","Número de votos de expulsión registrados contra este jugador.")
+
+[KickVoteMultiColumnListBox]
+RCMenu.ContextItems=("Votar expulsar a este jugador","Ver detalles del jugador","[Admin] Expulsar del servidor","[Admin] Rechazar del servidor")
+
+[KickVotingPage]
+lmsgKickVotingDisabled="Lo sentimos, ¡el administrador del servidor ha desactivado la votación de expulsión!"
+WindowName="Votación de expulsión"
+InfoButton.Caption="Información"
+KickButton.Caption="Expulsar"
+
+[MapInfoPage]
+MessageNoInfo="¡No hay información disponible!"
+AuthorText="Autor"
+PlayerText="Jugadores"
+lmsgLevelPreviewUnavailable="Imposible visualización previa del nivel"
+MapAuthorLabel.Caption="Autor Mapa"
+MapPlayersLabel.Caption="Jugador"
+NoPreview.Caption="Visualización previa no disponible"
+
+[MapVoteCountMultiColumnList]
+ColumnHeadings=("Tipo de juego","Nombre de mapa","Votos")
+ColumnHeadingHints=("Tipo de juego","Nombre de mapa","Número de votos registrados por este mapa.")
+
+[MapVoteCountMultiColumnListBox]
+RCMenu.ContextItems=("Votar por este mapa","Ver pantalla y descripción")
+
+[MapVoteFooter]
+AcceptButton.Caption="Aceptar"
+AcceptButton.Hint="Haz clic una vez si la configuración te convence y no quieres cambiar nada más"
+ChatEditbox.Caption="Hablar"
+CloseButton.Caption="Cerrar"
+MapvoteFooterBackground.Caption="Chat"
+SubmitButton.Caption="Enviar"
+
+[MapVoteGameConfigPage]
+lmsgNew="Nuevo"
+lmsgAdd="Añadir"
+WindowName="Configuración de votación de mapas de juego"
+AcronymEditBox.Caption="Abreviatura"
+AcronymEditBox.Hint="Una abreviatura corta, descripción o acrónimo que identifica la configuración del juego. Se añadirá al nombre del mapa en los mensajes de votación."
+DefaultCheckBox.Caption="No se pudo cargar"
+DefaultCheckBox.Hint="La configuración seleccionada del juego será la predeterminada si todos los jugadores dejan el servidor"
+DeleteButton.Caption="Borrar"
+DeleteButton.Hint="Borra la configuración del juego seleccionado."
+GameClassComboBox.Caption="Clase de juego"
+GameClassComboBox.Hint="Selecciona un tipo de juego para la selección de configuración del juego."
+GameConfigListBox.Hint="Selecciona una configuración del juego para editar o borrar."
+GameTitleEditBox.Caption="Título del juego"
+GameTitleEditBox.Hint="Introduce un título de configuración de juego personalizado."
+MutatorListBox.Hint="Selecciona los mutágenos que deben cargarse con esta configuración del juego."
+NewButton.Caption="Nvo"
+NewButton.Hint="Crea una nueva configuración de juego."
+ParameterEditBox.Caption="Parámetros"
+ParameterEditBox.Hint="(Avanzado) Lista de parámetros de juego con sus valores. Separados con una coma. (ej. GoalScore=4,MinPlayers=4)"
+PrefixEditBox.Caption="Prefijos de mapa"
+PrefixEditBox.Hint="Lista de prefijos de nombres de mapas. Sepáralos con comas."
+SBList.Caption="Tipos de juego"
+SBList2.Caption="Mutágenos"
+
+[MapVoteMapListConfigPage]
+sbCaption="Lista cíclica de mapas"
+WindowName="Configuración de votación de lista de mapas"
+MapListCheckBox.Caption="Usar lista cíclica de mapas"
+MapListCheckBox.Hint="Cargar nombres de mapa de las listas de mapas especificadas o usando el prefijo."
+MapListListBox.Hint="Selecciona cada tipo de lista de mapa desde la que cargar nombres de mapas."
+MapListLoaderPrefixEditBox.Caption="Prefijos de mapa"
+MapListLoaderPrefixEditBox.Hint="Lista de prefijos de nombres de mapas. Si hay más de uno, sepáralos con comas."
+
+[MapVoteMultiColumnList]
+ColumnHeadings=("Nombre de mapa","Jugado","Sec")
+ColumnHeadingHints=("Nombre de mapa","Número de veces que se ha jugado el mapa.","Secuencia, el numero de partidas que se han jugado desde que se jugó por última vez este mapa.")
+
+[MapVoteMultiColumnListBox]
+RCMenu.ContextItems=("Votar por este mapa","Ver pantalla y descripción")
+
+[MapVotingPage]
+lmsgMapVotingDisabled="Lo sentimos, ¡el administrador del servidor ha desactivado la votación de mapas!"
+lmsgReplicationNotFinished="Descarga de datos de mapas en progreso. Inténtalo más tarde."
+lmsgMapDisabled="El mapa seleccionado está deshabilitado."
+lmsgTotalMaps="%mapcount% Mapas totales"
+lmsgMode[0]="Modos mayoritario"
+lmsgMode[1]="Modo mayoritario y eliminación"
+lmsgMode[2]="Modo de tanteo"
+lmsgMode[3]="Modo tanteo y eliminación"
+lmsgMode[4]="Modo mayoritario y acumulación"
+lmsgMode[5]="Modo mayoritario y acumulación y eliminación"
+lmsgMode[6]="Modo tanteo y acumulación"
+lmsgMode[7]="Modo eliminación y tanteo y acumulación"
+WindowName="Votación de mapas"
+GameTypeCombo.Caption="Filtrar tipo de juego:"
+
+[MatchConfig]
+lmsgLoadingMatchProfile="Se está cargando la configuración del encuentro."
+lmsgRestoringDefaultProfile="Restaurando perfil predeterminado de servidor."
+lmsgDefaultNotAvailable="Perfil predeterminado no disponible"
+
+[MatchSetupLoginPage]
+CancelButton.Caption="Canc."
+LoginButton.Caption="Identificación"
+PasswordEditBox.Caption="Contraseña"
+TitleLabel.Caption="Identificación de configuración de encuentro"
+UserIDEditBox.Caption="ID Usuario"
+
+[MatchSetupLoginPanel]
+NoUsernameSpecified="Para conectarte tienes que proporcionar un nombre de usuario."
+NoPasswordSpecified="Para conectarte tienes que proporcionar una contraseña."
+InvalidLoginText="Intento de conexión erróneo: nombre de usuario o contraseña erróneos."
+WaitingForLoginText="Espera mientras se verifican tus credenciales de identificación..."
+LoggedText="¡Te has conectado con éxito!"
+ButtonLoginText="Identificación"
+ButtonLogoutText="Salir"
+PleaseWaitText="La transferencia de datos completa llevará algunos segundos..."
+PanelCaption="Identificación"
+CancelButton.Caption="Cancelar"
+LoginButton.Caption="Identificación"
+PasswordEditBox.Caption="Contraseña"
+UserIDEditBox.Caption="ID Usuario"
+
+[MatchSetupMain]
+PanelCaption="General"
+CommandLineParamsBox.Caption="Parámetros de línea de instrucciones adicionales"
+CommandLineParamsBox.Hint="Especifica cualquier parámetro de línea de instrucciones adicional (opcional)"
+DemoRecBox.Caption="Nombre de archivo"
+DemoRecBox.Hint="Introduce el nombre de la demo que deseas grabar para este encuentro"
+DemoRecCheckbox.Caption="Grabar Demo"
+DemoRecCheckbox.Hint="Grabar una demo en el lado del servidor de este encuentro"
+GameTypeCombo.Caption="Tipo de juego"
+GameTypeCombo.Hint="Selecciona el tipo de juego a usar en el encuentro actual"
+TournamentCheckbox.Caption="Modo Torneo"
+TournamentCheckbox.Hint="Todos los jugadores deben estar conectados al servidor para que el encuentro pueda empezar"
+
+[MatchSetupMaps]
+PanelCaption="Lista de mapas"
+ActiveBackground.Caption="Mapas activos"
+AddAllButton.Caption="Añad. todos"
+AddAllButton.Hint="Añadir todos los mapas a la lista de mapas."
+AddButton.Caption="Añadir"
+AddButton.Hint="Añadir los mapas seleccionados a la lista de mapas."
+InactiveBackground.Caption="Mapas inactivos"
+MoveDownButton.Caption="Abajo"
+MoveDownButton.Hint="Mover mapa abajo en la lista de mapas"
+MoveUpButton.Caption="Arriba"
+MoveUpButton.Hint="Subir mapa en la lista de mapas"
+RemoveAllButton.Caption="Elim. todos"
+RemoveAllButton.Hint="Quitar todos los mapas de lista de mapas"
+RemoveButton.Caption="Elim. todos"
+RemoveButton.Hint="Eliminar los mapas seleccionados de la lista de mapas."
+
+[MatchSetupMutator]
+PanelCaption="Mutágeno"
+ActiveBackground.Caption="Mutágenos activos"
+InactiveBackground.Caption="Mutágenos inactivos"
+MutAddAllButton.Caption="Añad. todos"
+MutAddAllButton.Hint="Añadir todos los mutágenos a la lista"
+MutAddButton.Caption="Añadir"
+MutAddButton.Hint="Añadir los mutágenos seleccionados a la lista"
+MutRemoveAllButton.Caption="Elim. todos"
+MutRemoveAllButton.Hint="Eliminar todos los mutágenos de la lista"
+MutRemoveButton.Caption="Elim. todos"
+MutRemoveButton.Hint="Eliminar los mutágenos seleccionados de la lista"
+
+[MatchSetupRules]
+PanelCaption="Reglas"
+
+[PlayerInfoMultiColumnList]
+ColumnHeadings=("-","-")
+ColumnHeadingHints=(,)
+
+[VotingReplicationInfo]
+lmsgSavedAsDefaultSuccess="El perfil se ha guardado como predeterminado con éxito."
+lmsgNotAllAccepted="Has aceptado la configuración actual. Esperando a que los demás usuarios la acepten."
+
+[xVotingHandler]
+lmsgInvalidPassword="¡La contraseña introducida no es válida!"
+lmsgMatchSetupPermission="Lo sentimos, ¡no tienes permiso para usar Configurar encuentro!"
+lmsgKickVote="%playername1% a votado por la expulsión de %playername2%"
+lmsgAnonymousKickVote="Se ha realizado un voto por la expulsión de %playername%"
+lmsgKickVoteAdmin="¡%playername% ha intentado votar por la expulsión del administrador del servidor!"
+lmsgMapWon="¡%mapname% ha ganado!"
+lmsgMidGameVote="¡¡¡Se ha iniciado la votación de mapa en mitad del juego!!!"
+lmsgSpectatorsCantVote="Lo sentimos, los espectadores no pueden votar."
+lmsgMapVotedFor="%playername% ha votado por %mapname%"
+lmsgMapVotedForWithCount="%playername% ha realizado %votecount% votos por %mapname%"
+PropsDisplayText[0]="Activar votación de mapa"
+PropsDisplayText[1]="Abrir IGU automáticamente"
+PropsDisplayText[2]="Retraso de marcador"
+PropsDisplayText[3]="Modo de tanteo"
+PropsDisplayText[4]="Modo acumulación"
+PropsDisplayText[5]="Modo eliminación"
+PropsDisplayText[6]="Mapas mínimos"
+PropsDisplayText[7]="Repetir límite"
+PropsDisplayText[8]="Límite de tiempo de voto"
+PropsDisplayText[9]="Porcentaje de votos en mitad del juego"
+PropsDisplayText[10]="Tipo de juego actual por defecto"
+PropsDisplayText[11]="Activar votación de expulsión"
+PropsDisplayText[12]="Porcentaje de votos de expulsión"
+PropsDisplayText[13]="Votación anónima de expulsión"
+PropsDisplayText[14]="Permitir configuración de encuentro"
+PropsDisplayText[15]="Configuración de juego"
+PropsDisplayText[16]="Configuración de lista de mapas"
+PropDescription[0]="Si esta activado, los jugadores pueden votar los mapas."
+PropDescription[1]="Si esta activado, la interfaz de votación de mapas se abre automáticamente al final de cada juego."
+PropDescription[2]="Establece el número de segundos de retraso entre el final de cada juego y la apertura de la interfaz de votos."
+PropDescription[3]="Si está activado, cada jugador tiene votos proporcionales a su puntuación."
+PropDescription[4]="Si está activado, cada jugador acumulará votos en cada juego hasta que gane."
+PropDescription[5]="Si está activado, los mapas disponibles se desactivan al jugar hasta que queden X mapas."
+PropDescription[6]="El número de mapas activos que permanecen en la lista de mapas (en el modo de eliminación) antes de que se reinicie la lista de mapas."
+PropDescription[7]="Número de mapas jugados ya que no pueden votarse."
+PropDescription[8]="Limita cuánto tiempo (en segundos) se da para votar."
+PropDescription[9]="Porcentaje de los jugadores que tienen que votar para activar el voto en mitad del juego."
+PropDescription[10]="Si está activado y no hay jugadores en el servidor, entonces el servidor se quedará en el modo de juego actual."
+PropDescription[11]="Si está activado, los jugadores pueden votar para expulsar a otros jugadores."
+PropDescription[12]="El porcentaje de jugadores que tiene que votar contra uno en concreto para que sea expulsado del servidor."
+PropDescription[13]="Si está activado, se pueden asignar votos de expulsión sin que nadie sepa quién ha realizado el voto."
+PropDescription[14]="Activa la configuración de encuentro en el servidor. Para usar esta función, hace falta un nombre y contraseña de admin válidos."
+PropDescription[15]="Abre la pantalla de configuración de votación de mapa del juego"
+PropDescription[16]="Abre la pantalla de configuración de votación de mapa de lista de mapa"
+lmsgAdminMapChange="El administrador ha forzado el cambio de mapa a %mapname%"
+lmsgGameConfigColumnTitle[0]="TipoJuego"
+lmsgGameConfigColumnTitle[1]="Prefijos de mapa"
+lmsgGameConfigColumnTitle[2]="Abreviatura"
+lmsgGameConfigColumnTitle[3]="Nombre"
+lmsgGameConfigColumnTitle[4]="Mutágeno"
+lmsgGameConfigColumnTitle[5]="Opciones"
+

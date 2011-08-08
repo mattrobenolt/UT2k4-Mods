@@ -1,0 +1,97 @@
+[LevelInfo0]
+Title="Campi elettrici"
+
+[LevelSummary]
+Title="Campi elettrici"
+Description="Le torri statiche del flusso di Maraka si sono dimostrate uno degli scenari più apprezzati per i Tornei fin dalla scorsa stagione, quando sono state introdotte. Quando i partecipanti si massacrano per inseguire la vittoria, emerge la vera natura del gladiatore moderno. Nelle competizioni Cattura la bandiera o Attacco con la bomba, i giocatori devono sempre ricordare una cosa mentre si affrontano nei velenosi cieli di Purgatorio: la caduta sarà molto lunga."
+
+[Volume0]
+LocationName="Fronte blu"
+
+[Volume1]
+LocationName="Zona di rientro blu"
+
+[Volume10]
+LocationName="Rampa della base rossa"
+
+[Volume11]
+LocationName="Rampa della base rossa"
+
+[Volume12]
+LocationName="Rampa frontale inferiore blu"
+
+[Volume13]
+LocationName="Rampa frontale inferiore rossa"
+
+[Volume14]
+LocationName="Rampa frontale inferiore blu"
+
+[Volume15]
+LocationName="Rampa frontale inferiore blu"
+
+[Volume16]
+LocationName="Rampa frontale inferiore rossa"
+
+[Volume17]
+LocationName="Rampa frontale inferiore rossa"
+
+[Volume18]
+LocationName="Zona superiore centrale"
+
+[Volume19]
+LocationName="Zona della torre"
+
+[Volume2]
+LocationName="Zona inferiore centrale"
+
+[Volume20]
+LocationName="Rampa frontale superiore blu"
+
+[Volume21]
+LocationName="Rampa frontale superiore blu"
+
+[Volume22]
+LocationName="Rampa frontale superiore blu"
+
+[Volume23]
+LocationName="Rampa frontale superiore rossa"
+
+[Volume24]
+LocationName="Rampa frontale superiore rossa"
+
+[Volume25]
+LocationName="Rampa frontale superiore rossa"
+
+[Volume26]
+LocationName="Rampa frontale inferiore rossa"
+
+[Volume27]
+LocationName="Rampa frontale inferiore blu"
+
+[Volume28]
+LocationName="Base blu"
+
+[Volume3]
+LocationName="Zona di rientro rossa"
+
+[Volume4]
+LocationName="Fronte rosso"
+
+[Volume5]
+LocationName="Rampa della base blu"
+
+[Volume6]
+LocationName="Rampa della base blu"
+
+[Volume7]
+LocationName="Base rossa"
+
+[Volume8]
+LocationName="Fronte rosso"
+
+[Volume9]
+LocationName="Fronte blu"
+
+[ZoneInfo0]
+LocationName="Esterno"
+

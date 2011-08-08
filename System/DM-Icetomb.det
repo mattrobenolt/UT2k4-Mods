@@ -1,0 +1,58 @@
+[LevelInfo0]
+Title="Ice Tomb"
+
+[LevelSummary]
+Title="Ice Tomb"
+Description="Nehmen Sie Ihre Handschuhe mit, und ziehen Sie sich warm an. Denn in dieser engen Arena wird es sehr kalt und blutig werden."
+
+[ZoneInfo0]
+LocationName="Bio Rifle-Höhle"
+
+[ZoneInfo1]
+LocationName="Rampe"
+
+[ZoneInfo10]
+LocationName="Vier Wasserfälle"
+
+[ZoneInfo11]
+LocationName="Vier Wasserfälle"
+
+[ZoneInfo12]
+LocationName="Bio Rifle-Höhle"
+
+[ZoneInfo14]
+LocationName="Ice Tomb"
+
+[ZoneInfo15]
+LocationName="Ice Tomb"
+
+[ZoneInfo16]
+LocationName="Lightning Gun"
+
+[ZoneInfo17]
+LocationName="Lightning Gun"
+
+[ZoneInfo2]
+LocationName="Ice Tomb"
+
+[ZoneInfo3]
+LocationName="Zwei Wasserfälle"
+
+[ZoneInfo4]
+LocationName="Lightning Gun"
+
+[ZoneInfo5]
+LocationName="Ice Tomb"
+
+[ZoneInfo6]
+LocationName="Ice Tomb"
+
+[ZoneInfo7]
+LocationName="Atrium"
+
+[ZoneInfo8]
+LocationName="Rampe"
+
+[ZoneInfo9]
+LocationName="Vier Wasserfälle"
+

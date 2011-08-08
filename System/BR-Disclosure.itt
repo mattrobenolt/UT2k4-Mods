@@ -1,0 +1,164 @@
+[LevelInfo0]
+Title="Disclosure"
+
+[LevelSummary]
+Title="Disclosure"
+
+[ZoneInfo0]
+LocationName="Stanza rigenerazione rossa"
+
+[ZoneInfo1]
+LocationName="Stanza rigenerazione rossa"
+
+[ZoneInfo2]
+LocationName="Stanza rigenerazione rossa"
+
+[ZoneInfo3]
+LocationName="Dietro alla ventola"
+
+[ZoneInfo33]
+LocationName="Stanza rigenerazione rossa"
+
+[ZoneInfo34]
+LocationName="Stanza rigenerazione rossa"
+
+[ZoneInfo35]
+LocationName="Stanza rigenerazione rossa"
+
+[ZoneInfo36]
+LocationName="Dietro alla ventola"
+
+[ZoneInfo37]
+LocationName="Sala fulminatore rossa"
+
+[ZoneInfo38]
+LocationName="Sala fulminatore rossa"
+
+[ZoneInfo39]
+LocationName="Sala fulminatore rossa"
+
+[ZoneInfo4]
+LocationName="Sala fulminatore rossa"
+
+[ZoneInfo40]
+LocationName="Tana fulminatore rossa"
+
+[ZoneInfo41]
+LocationName="Stanza della bomba"
+
+[ZoneInfo42]
+LocationName="Sopra la stanza della bomba"
+
+[ZoneInfo43]
+LocationName="Corridoio posteriore"
+
+[ZoneInfo44]
+LocationName="Corridoio posteriore lato blu"
+
+[ZoneInfo45]
+LocationName="Corridoio posteriore lato rosso"
+
+[ZoneInfo46]
+LocationName="Stanza Minigun rossa"
+
+[ZoneInfo47]
+LocationName="Corridoio verso porta rossa"
+
+[ZoneInfo48]
+LocationName="Corridoio verso porta rossa"
+
+[ZoneInfo49]
+LocationName="Corridoio verso porta rossa"
+
+[ZoneInfo5]
+LocationName="Stanza rigenerazione rossa"
+
+[ZoneInfo50]
+LocationName="Corridoio verso porta rossa"
+
+[ZoneInfo51]
+LocationName="Corridoio verso porta rossa"
+
+[ZoneInfo52]
+LocationName="Corridoio verso porta rossa"
+
+[ZoneInfo53]
+LocationName="Corridoio verso porta blu"
+
+[ZoneInfo54]
+LocationName="Corridoio verso porta blu"
+
+[ZoneInfo55]
+LocationName="Corridoio verso porta blu"
+
+[ZoneInfo56]
+LocationName="Corridoio verso porta blu"
+
+[ZoneInfo57]
+LocationName="Corridoio verso rete blu"
+
+[ZoneInfo58]
+LocationName="Stanza porta blu"
+
+[ZoneInfo59]
+LocationName="Stanza minigun blu"
+
+[ZoneInfo6]
+LocationName="Stanza rigenerazione rossa"
+
+[ZoneInfo60]
+LocationName="Stanza rigenerazione blu"
+
+[ZoneInfo61]
+LocationName="Corridoio rigenerazione blu"
+
+[ZoneInfo62]
+LocationName="Corridoio rigenerazione blu"
+
+[ZoneInfo63]
+LocationName="Corridoio rigenerazione blu"
+
+[ZoneInfo64]
+LocationName="Corridoio rigenerazione blu"
+
+[ZoneInfo65]
+LocationName="Corridoio fulminatore blu"
+
+[ZoneInfo66]
+LocationName="Corridoio fulminatore blu"
+
+[ZoneInfo67]
+LocationName="Corridoio fulminatore blu"
+
+[ZoneInfo68]
+LocationName="Tana fulminatore blu"
+
+[ZoneInfo69]
+LocationName="Corridoio rigenerazione blu"
+
+[ZoneInfo70]
+LocationName="Corridoio lanciarazzi blu"
+
+[ZoneInfo71]
+LocationName="Corridoio lanciarazzi blu"
+
+[ZoneInfo72]
+LocationName="Corridoio lanciarazzi blu"
+
+[ZoneInfo73]
+LocationName="Corridoio lanciarazzi rosso"
+
+[ZoneInfo74]
+LocationName="Corridoio lanciarazzi rosso"
+
+[ZoneInfo75]
+LocationName="Corridoio lanciarazzi rosso"
+
+[ZoneInfo76]
+LocationName="Stanza rigenerazione rossa"
+
+[xBombDelivery0]
+ObjectiveName="Consegna bomba blu"
+
+[xBombDelivery2]
+ObjectiveName="Consegna bomba blu"

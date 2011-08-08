@@ -1,0 +1,21 @@
+[AdrenalinePickup]
+PickupMessage="Adrenalin"
+
+[MiniHealthPack]
+PickupMessage="Gesundheitsflakon aufgesammelt +"
+
+[ShieldPickup]
+PickupMessage="Satz Schilde aufgesammelt +"
+
+[SuperHealthPack]
+PickupMessage="Groﬂes Fass Gesundheit aufgesammelt +"
+
+[SuperShieldPack]
+PickupMessage="Satz Superschilde aufgesammelt +"
+
+[TournamentHealth]
+PickupMessage="Satz Gesundheit aufgesammelt +"
+
+[UDamagePack]
+PickupMessage="DOUBLE DAMAGE!"
+

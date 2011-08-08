@@ -1,0 +1,10 @@
+;INT file for luigivoice.u
+;TITLE:    luigivoice
+;DATE:     09-17-2005 (01:55:07)
+;BUILD:    1
+;GAME:     Unreal Tournament 2004
+;UTILITY:  This package was built with UT2K4VoicePackager by Paul Catalano (www.xgxlan.com/vp)
+[Public]
+Object=(Name=luigivoice.luigivoice,Class=Class,MetaClass=XGame.xVoicePack)
+[luigivoice]
+VoicePackName="luigivoice"

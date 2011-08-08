@@ -1,0 +1,44 @@
+[LevelInfo0]
+Title="Bases Bifrost"
+
+[LevelSummary]
+Title="Bases Bifrost"
+
+[ZoneInfo1]
+LocationName="Sala frontal Azules"
+
+[ZoneInfo12]
+LocationName="Sala frontal Rojos"
+
+[ZoneInfo13]
+LocationName="Fuera"
+
+[ZoneInfo14]
+LocationName="Pasadizo Rojos"
+
+[ZoneInfo15]
+LocationName="Sala de bomba Rojos"
+
+[ZoneInfo16]
+LocationName="Pasadizo Azules"
+
+[ZoneInfo17]
+LocationName="Sala de bomba Azules"
+
+[ZoneInfo2]
+LocationName="Sala de bomba Rojos"
+
+[ZoneInfo4]
+LocationName="Pasadizo Azules"
+
+[ZoneInfo5]
+LocationName="Pasadizo Rojos"
+
+[ZoneInfo6]
+LocationName="Sala de bomba Azules"
+
+[ZoneInfo7]
+LocationName="Entrada Rojos"
+
+[ZoneInfo9]
+LocationName="Entrada Azules"

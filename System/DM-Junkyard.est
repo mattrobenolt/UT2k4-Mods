@@ -1,0 +1,15 @@
+[LevelInfo0]
+Title="Junkyard"
+LevelEnterText="Bienvenidos al planeta de la chatarra"
+
+[LevelSummary]
+Title="Junkyard"
+Description="Durante eones, aquí han venido a parar los deshechos de la sociedad. Tus amigos y tú solo haréis más grande la pila."
+LevelEnterText="Bienvenidos al planeta de la chatarra"
+
+[ZoneInfo0]
+LocationName="Perdidos en la chatarra"
+
+[ZoneInfo1]
+LocationName="Perdidos en la chatarra"
+

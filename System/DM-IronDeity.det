@@ -1,0 +1,46 @@
+[LevelInfo0]
+Title="Iron Deity"
+
+[LevelSummary]
+Title="Iron Deity"
+Description="Diese groﬂe und imposante Arena spielt man am besten mit zwei mittelgroﬂen K‰mpferteams. Achten Sie darauf, nicht im engen Ventilatorraum in eine Falle zu geraten, und versuchen Sie, den Double Damage zu kontrollieren. Zu guter Letzt sollten Sie Ihre Augen nach dem versteckten Redeemer offen halten!"
+
+[ZoneInfo0]
+LocationName="Lightning Gun"
+
+[ZoneInfo1]
+LocationName="Untere Rampe"
+
+[ZoneInfo10]
+LocationName="Niedriger FPS-Raum"
+
+[ZoneInfo11]
+LocationName="Nah Double Damage"
+
+[ZoneInfo12]
+LocationName="Schrank"
+
+[ZoneInfo2]
+LocationName="Link Gun"
+
+[ZoneInfo3]
+LocationName="Minigun"
+
+[ZoneInfo4]
+LocationName="Double Damage"
+
+[ZoneInfo5]
+LocationName="Flak-Raum"
+
+[ZoneInfo7]
+LocationName="Badezimmer"
+
+[ZoneInfo8]
+LocationName="Schrank"
+
+[ZoneInfo9]
+LocationName="Shock Rifle"
+
+
+
+

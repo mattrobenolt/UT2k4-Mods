@@ -1,0 +1,39 @@
+[LevelInfo0]
+Title="Leviathan"
+
+[LevelSummary]
+Title="Leviathan"
+
+[ZoneInfo0]
+LocationName="Corridoio nord-est superiore"
+
+[ZoneInfo1]
+LocationName="Stanza principale"
+
+[ZoneInfo10]
+LocationName="Corridoio nord-est"
+
+[ZoneInfo2]
+LocationName="Corridoio nord-ovest superiore"
+
+[ZoneInfo3]
+LocationName="Corridoio nord-ovest"
+
+[ZoneInfo4]
+LocationName="Camera ovest"
+
+[ZoneInfo5]
+LocationName="Corridoio sud-ovest"
+
+[ZoneInfo6]
+LocationName="Corridoio sud-ovest superiore"
+
+[ZoneInfo7]
+LocationName="Corridoio sud-est superiore"
+
+[ZoneInfo8]
+LocationName="Corridoio sud-est"
+
+[ZoneInfo9]
+LocationName="Camera est"
+

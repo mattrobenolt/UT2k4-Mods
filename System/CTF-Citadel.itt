@@ -1,0 +1,71 @@
+[LevelInfo0]
+Title="Cittadella"
+
+[LevelSummary]
+Title="Cittadella"
+
+[Volume0]
+LocationName="Ponte centrale"
+
+[Volume1]
+LocationName="Ponte superiore rosso"
+
+[Volume10]
+LocationName="Ingresso in pendenza rosso"
+
+[Volume11]
+LocationName="Ingresso rosso"
+
+[Volume12]
+LocationName="Ingresso blu"
+
+[Volume2]
+LocationName="Ponte inferiore rosso"
+
+[Volume3]
+LocationName="Ponte inferiore blu"
+
+[Volume4]
+LocationName="Ponte superiore blu"
+
+[Volume5]
+LocationName="Altopiano blu"
+
+[Volume6]
+LocationName="Altopiano rosso"
+
+[Volume7]
+LocationName="Ingresso in pendenza blu"
+
+[Volume8]
+LocationName="Base bandiera blu"
+
+[Volume9]
+LocationName="Base bandiera rossa"
+
+[ZoneInfo0]
+LocationName="Ingresso in pendenza blu"
+
+[ZoneInfo1]
+LocationName="Esterno"
+
+[ZoneInfo3]
+LocationName="Ingresso in pendenza rosso"
+
+[ZoneInfo4]
+LocationName="Base bandiera rossa"
+
+[ZoneInfo5]
+LocationName="Ingresso rosso"
+
+[ZoneInfo6]
+LocationName="Ingresso rosso"
+
+[ZoneInfo7]
+LocationName="Ingresso blu"
+
+[ZoneInfo8]
+LocationName="Ingresso blu"
+
+[ZoneInfo9]
+LocationName="Stanza bandiera blu"

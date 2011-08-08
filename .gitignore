@@ -1,0 +1,22 @@
+.svn/
+.txt
+
+.DS_Store
+Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Other UT2k4 Directories
+Benchmark
+Contents
+ForceFeedback
+README-ut2004-mac-3369-2.html
+Manual
+Help
+Web
+Speech

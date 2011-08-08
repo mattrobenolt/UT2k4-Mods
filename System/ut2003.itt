@@ -1,0 +1,6 @@
+[General]
+Start="Unreal Tournament 2003 (avvio)"
+Exit="Unreal Tournament 2003 (uscita)"
+Run="Unreal Tournament 2003 (esecuzione)"
+Product="Unreal Tournament 2003 "
+Abbreviation="UT2003"

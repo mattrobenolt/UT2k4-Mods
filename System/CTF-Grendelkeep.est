@@ -1,0 +1,193 @@
+[LevelInfo0]
+Title="Grendel Keep"
+
+[LevelInfo12]
+Title="Grendel Keep"
+
+[LevelInfo6]
+Title="Bastión de Grendel"
+
+[LevelSummary]
+Title="Bastión de Grendel"
+Description="Prieth Callas fue un hombre cruel y duro, aficionado a torturar a sus enemigos antes de acabar definitivamente con ellos. Crió seres de gran tamaño y ferocidad, arrojándolos contra sus prisioneros en estadios que él mismo diseñó. El Bastión de Grendel es la última de sus diabólicas creaciones, abandonada desde que Callas fue arrojado desde las almenas por sus propios hombres y fue ofrecido como comida a las criaturas que criaba en las oscuras perreras subterráneas. La lluvia ha borrado la sangre, pero el mal que creció allí tiene raíces mucho más profundas."
+
+[ZoneInfo0]
+LocationName="Sala principal AZUL"
+
+[ZoneInfo1]
+LocationName="Gran sala"
+
+[ZoneInfo10]
+LocationName="Centrar"
+
+[ZoneInfo11]
+LocationName="Cámara principal AZUL"
+
+[ZoneInfo12]
+LocationName="Gran sala"
+
+[ZoneInfo13]
+LocationName="Cámara inferior AZUL del antiaéreo"
+
+[ZoneInfo14]
+LocationName="Cámara inferior AZUL"
+
+[ZoneInfo2]
+LocationName="Base AZUL"
+
+[ZoneInfo28]
+LocationName="Generación AZUL"
+
+[ZoneInfo3]
+LocationName="Generación AZUL"
+
+[ZoneInfo30]
+LocationName="Sala principal AZUL"
+
+[ZoneInfo31]
+LocationName="Gran sala"
+
+[ZoneInfo32]
+LocationName="Gran vestíbulo"
+
+[ZoneInfo33]
+LocationName="Gran cámara amplificador"
+
+[ZoneInfo34]
+LocationName="Cámara superior del cohete"
+
+[ZoneInfo35]
+LocationName="Cámara superior del cohete"
+
+[ZoneInfo36]
+LocationName="Cámara superior del cohete"
+
+[ZoneInfo37]
+LocationName="Minicámara"
+
+[ZoneInfo38]
+LocationName="Minicámara"
+
+[ZoneInfo39]
+LocationName="Gran torre"
+
+[ZoneInfo4]
+LocationName="Sala principal AZUL"
+
+[ZoneInfo40]
+LocationName="Nido del francotirador"
+
+[ZoneInfo41]
+LocationName="Gran vestíbulo"
+
+[ZoneInfo42]
+LocationName="Cámara inferior del antiaéreo"
+
+[ZoneInfo43]
+LocationName="Gran vestíbulo"
+
+[ZoneInfo44]
+LocationName="Gran sala"
+
+[ZoneInfo45]
+LocationName="Cámara inferior ROJA del antiaéreo"
+
+[ZoneInfo47]
+LocationName="Gran sala"
+
+[ZoneInfo48]
+LocationName="Gran vestíbulo"
+
+[ZoneInfo49]
+LocationName="Gran cámara amplificador"
+
+[ZoneInfo5]
+LocationName="Generación AZUL"
+
+[ZoneInfo50]
+LocationName="Sala principal ROJA"
+
+[ZoneInfo51]
+LocationName="Sala principal ROJA"
+
+[ZoneInfo52]
+LocationName="BASE ROJA"
+
+[ZoneInfo53]
+LocationName="Generación ROJA"
+
+[ZoneInfo54]
+LocationName="Generación ROJA"
+
+[ZoneInfo55]
+LocationName="Generación ROJA"
+
+[ZoneInfo56]
+LocationName="Cámara del francotirador ROJA"
+
+[ZoneInfo57]
+LocationName="Cámara del francotirador ROJA"
+
+[ZoneInfo58]
+LocationName="Escaleras de caracol ROJAS"
+
+[ZoneInfo59]
+LocationName="Centrar"
+
+[ZoneInfo6]
+LocationName="Cámara del francotirador AZUL"
+
+[ZoneInfo60]
+LocationName="Cámara superior del cohete"
+
+[ZoneInfo61]
+LocationName="Sala principal ROJA"
+
+[ZoneInfo62]
+LocationName="Cámara superior del cohete"
+
+[ZoneInfo64]
+LocationName="Cámara inferior ROJA"
+
+[ZoneInfo65]
+LocationName="Sala principal ROJA"
+
+[ZoneInfo66]
+LocationName="Gran sala"
+
+[ZoneInfo67]
+LocationName="Gran sala"
+
+[ZoneInfo68]
+LocationName="Cámara superior del cohete"
+
+[ZoneInfo69]
+LocationName="Minicámara"
+
+[ZoneInfo7]
+LocationName="Cámara del francotirador AZUL"
+
+[ZoneInfo70]
+LocationName="Minicámara"
+
+[ZoneInfo72]
+LocationName="Nido del francotirador"
+
+[ZoneInfo73]
+LocationName="Nido del francotirador"
+
+[ZoneInfo74]
+LocationName="Gran vestíbulo"
+
+[ZoneInfo76]
+LocationName="Gran vestíbulo"
+
+[ZoneInfo77]
+LocationName="Gran sala"
+
+[ZoneInfo8]
+LocationName="Escaleras de caracol AZULES"
+
+[ZoneInfo9]
+LocationName="Centrar"
+

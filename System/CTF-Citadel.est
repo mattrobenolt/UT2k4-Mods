@@ -1,0 +1,71 @@
+[LevelInfo0]
+Title="Citadel"
+
+[LevelSummary]
+Title="Citadel"
+
+[Volume0]
+LocationName="Puente central"
+
+[Volume1]
+LocationName="Puente superior Rojos"
+
+[Volume10]
+LocationName="Rampa de entrada Rojos"
+
+[Volume11]
+LocationName="Entrada Rojos"
+
+[Volume12]
+LocationName="Entrada Azules"
+
+[Volume2]
+LocationName="Puente inferior Rojos"
+
+[Volume3]
+LocationName="Puente inferior Azules"
+
+[Volume4]
+LocationName="Puente superior Azules"
+
+[Volume5]
+LocationName="Sobre base Azules"
+
+[Volume6]
+LocationName="Sobre base Rojos"
+
+[Volume7]
+LocationName="Rampa de entrada Azules"
+
+[Volume8]
+LocationName="Base de bandera azul"
+
+[Volume9]
+LocationName="Base de bandera roja"
+
+[ZoneInfo0]
+LocationName="Rampa de entrada Azules"
+
+[ZoneInfo1]
+LocationName="Exterior"
+
+[ZoneInfo3]
+LocationName="Rampa entrada Rojos"
+
+[ZoneInfo4]
+LocationName="Base de bandera roja"
+
+[ZoneInfo5]
+LocationName="Entrada Rojos"
+
+[ZoneInfo6]
+LocationName="Entrada Rojos"
+
+[ZoneInfo7]
+LocationName="Entrada Azules"
+
+[ZoneInfo8]
+LocationName="Entrada Azules"
+
+[ZoneInfo9]
+LocationName="Sala de bandera azul"

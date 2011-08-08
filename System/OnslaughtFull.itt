@@ -1,0 +1,47 @@
+[DamTypeIonTankBlast]
+DeathString="%o SVANISCE NEL NULLA"
+FemaleSuicide="%o SVANISCE NEL NULLA"
+MaleSuicide="%o SVANISCE NEL NULLA"
+
+[DamTypeMASCannon]
+DeathString="%o DIVENTA VAPORE grazie a %k!"
+FemaleSuicide="%o DIVENTA VAPORE!"
+MaleSuicide="%o DIVENTA VAPORE!"
+
+[MutVehicleArena]
+ArenaDisplayText="Veicolo per l'arena"
+ArenaDescText="Stabilisce quale tipo di veicolo verrà usato nell'incontro."
+FriendlyName="Veicolo unico"
+Description="Sostituisce tutti i veicoli di una mappa con un dato modello."
+
+[ONSBomber]
+VehiclePositionString="in un DragonFly"
+VehicleNameString="DragonFly"
+
+[ONSGenericSD]
+VehiclePositionString="indisposto"
+VehicleNameString="TC-1200"
+
+[ONSHoverTank_IonPlasma]
+VehiclePositionString="in un carro a ioni"
+VehicleNameString="Carro a ioni"
+
+[ONSMASSideGunPawn]
+VehiclePositionString="nella torretta di un Leviathan"
+VehicleNameString="Torretta del Leviathan"
+
+[ONSMobileAssaultStation]
+VehiclePositionString="in un Leviathan"
+VehicleNameString="Leviathan"
+
+[ONSPainter]
+Description="Il puntatore laser, similmente allo ionizzatore, proietta un innocuo raggio laser a bassa potenza che serve a richiamare un bombardiere. Quest'ultimo lancia un carico di bombe nella direzione in cui è rivolto l'utente, mirando al punto illuminato dal laser. Le bombe distruggeranno il bersaglio e chiunque abbia la sfortuna di trovarsi nei paraggi."
+ItemName="Puntatore laser"
+
+[ONSPainterPickup]
+PickupMessage="Hai preso il puntatore laser."
+
+[ONSTankSecondaryTurretPawn_IonPlasma]
+VehiclePositionString="in una torrette del carro a ioni"
+VehicleNameString="Torretta minigun del carro a ioni"
+

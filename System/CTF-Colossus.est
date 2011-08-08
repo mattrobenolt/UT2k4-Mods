@@ -1,0 +1,34 @@
+[LevelInfo0]
+Title="Colossus"
+
+[LevelSummary]
+Title="Colossus"
+Description="Sacando provecho del desplazamiento rápido del terreno alto y de la cobertura relativa del bajo, los jugadores expertos pueden llegar hasta la bandera prácticamente intactos. Por otro lado, volver con ella es otra cuestión..."
+
+[Volume0]
+LocationName="Base retaguardia azul"
+
+[Volume1]
+LocationName="Base vanguardia azul"
+
+[Volume2]
+LocationName="Zona neutral"
+
+[Volume3]
+LocationName="Base vanguardia roja"
+
+[Volume4]
+LocationName="Base retaguardia roja"
+
+[ZoneInfo1]
+LocationName="Búnker rojo"
+
+[ZoneInfo2]
+LocationName="Búnker azul"
+
+[xBlueFlagBase0]
+ObjectiveName="Basebanderaazul"
+
+[xRedFlagBase0]
+ObjectiveName="Basebanderaroja"
+

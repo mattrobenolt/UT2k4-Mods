@@ -1,0 +1,74 @@
+[Setup]
+LocalProduct="Unreal Tournament 2004"
+DefaultFolder="C:\UT2004"
+ReadMe=Help\ReadMe.int.txt
+SetupWindowTitle=Avvio di Unreal Tournament 2004
+AutoplayWindowTitle="Opzioni di Unreal Tournament 2004"
+ProductURL=http://www.unrealtournament2004.com/
+VersionURL=http://unreal.epicgames.com/versions.htm
+Developer="Epic Games"
+DeveloperURL=http://www.epicgames.com/
+Logo=Help\InstallerLogo.bmp
+License=License.int
+
+[General]
+PlayLevelCommand="&Gioca a questo livello UT2004"
+OpenLinkCommand="&Apri questo collegamento di UT2004"
+InstallModuleCommand="&Installa questo modulo UT2004"
+EditLevelCommand="&Modifica questo livello di UT2004 "
+SafeDiscAdminRights="Hai bisogno di lanciare il programma come amministratore, non come ospite o con account limitato."
+SafeDiscNoDisk="Nessun disco nell'unità. Inserisci il disco di gioco di Unreal Tournament 2004 per continuare."
+SafeDiscNoDrive="Nessuna unità CD/DVD-ROM rilevata."
+SafeDiscTitlebar="Unreal Tournament 2004"
+SafeDiscWrongDisc="Disco errato nell'unità. Inserisci il disco di gioco di Unreal Tournament 2004 per continuare."
+
+[UnrealGameContentGroup]
+Caption="Contenuto del gioco"
+Description="Installa questi elementi per ottenere prestazioni migliori. Se non selezioni quest'opzione, il contenuto del gioco sarà caricato a ogni partita, rendendo l'esecuzione più lenta, anche se con minor utilizzo di spazio su disco. "
+
+[GameGroup]
+Caption="Gioco UT2004"
+Description="È richiesta l'installazione."
+
+[DirectXGroup]
+Caption="DirectX 9.0b"
+Description="Driver opzionali Microsoft Direct X9.0b per supporto grafico, audio e del joystick"
+
+[OpenALGroup]
+Caption="OpenAL"
+Description="Necessario per effetti accelerati audio 3D hardware"
+
+[Win2000XPGroup]
+Caption="Windows 2000/XP Direct3D"
+Description="Necessario per Windows 2000/XP"
+
+[EditorGroup]
+Caption="Editor di Unreal"
+Description="Editor di mondi di Unreal, per creare i tuoi ambienti in Unreal 3D. Per utenti avanzati, installazione opzionale."
+
+[DesktopGroup]
+Caption="Collegamento sul desktop "
+Description="Crea un collegamento sul desktop per giocare a UT2004"
+
+[PlayShortcut]
+Caption="Gioca a UT2004"
+
+[SafeModeShortcut]
+Caption="UT2004 - Modalità sicura"
+
+[EditorShortcut]
+Caption="UT2004 - Editor"
+
+[DocumentationShortcut]
+Caption="Note di pubblicazione"
+
+
+[ManualShortcut]
+Caption="Manuale UT2004"
+
+
+[WebShortcut]
+Caption="Pagina web di UT2004"
+
+[UninstallShortcut]
+Caption="Rimuovi Unreal Tournament 2004"

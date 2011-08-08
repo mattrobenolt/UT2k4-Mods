@@ -1,0 +1,2 @@
+[Public]
+Player=(Skeleton=Pikachu_Char_Anims.Pikachu_Char_Mesh,Ragdoll=PikachuRagdoll,DefaultName="Pikachu",Race="Pokemon",Mesh=Pikachu_Char_Anims.Pikachu_Char_Mesh,species=Pikachu_Char_Anims.SPECIES_Pikachu,BodySkin=Pikachu_Char_Anims.Pikachu_Skin.Pikachu_Skin01,FaceSkin=Pikachu_Char_Anims.Pikachu_Skin.Pikachu_Skin01,Portrait=Pikachu_Char_Anims.Pikachu_Skin.Pikachu_Char_PP,Text=Pikachu_Char_int.Pikachu,Sex=Male,Menu="",CombatStyle=+0.5,Tactics=+0.5,StrafingAbility=+0.7,Accuracy=+0.8,Aggressiveness=0.4,Jumpiness=+0.7,TeamFace=1,BotUse=5,FavoriteWeapon=xWeapons.SniperRifle)

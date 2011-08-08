@@ -1,0 +1,6 @@
+[Public]
+Preferences=(Caption="Webserver",Parent="Netzwerke",Class=UWeb.WebServer)
+
+[WebResponse]
+CharSet="iso-8859-1"
+

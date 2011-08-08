@@ -1,0 +1,22 @@
+[LevelInfo0]
+Title="Trite"
+
+[LevelSummary]
+Title="Trite"
+Description="No te descuides, estate alerta en esta instalación abandonada o acabarás tan frío como el acero que te rodea..."
+
+[ZoneInfo0]
+LocationName="Zona de antiaéreo"
+
+[ZoneInfo1]
+LocationName="Zona de DañoU"
+
+[ZoneInfo2]
+LocationName="Sala de escudo"
+
+[ZoneInfo3]
+LocationName="Sala de fusil de francotirador"
+
+[ZoneInfo4]
+LocationName="Sala de rifle de choque"
+

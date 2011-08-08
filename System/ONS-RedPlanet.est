@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title="Red Planet"
+
+[LevelSummary]
+Title="Red Planet"
+Description="La exploración del espacio profundo ha revelado un fenómeno nunca antes observado en un sistema planetario SIN sol. La luz infrarroja que reacciona con el dióxido de carbono en las altas atmósferas baña al planeta en un abrasador resplandor rojo-sangre. Los experimentos han demostrado que pasar más de 18 horas en este planeta causa locura irreversible. No vas a vivir tanto tiempo..."
+
+
+[Volume0]
+LocationName="Base Roja"
+
+[Volume1]
+LocationName="Base Roja"
+
+[Volume2]
+LocationName="Base Azul"
+
+[Volume3]
+LocationName="Base Azul"
+
+[Volume4]
+LocationName="Nodo SurOeste"
+
+[Volume5]
+LocationName="Nodo NorOeste"
+
+[Volume6]
+LocationName="Nodo Central"
+
+[Volume7]
+LocationName="Nodo SudOeste"
+
+[Volume8]
+LocationName="Nodo NorOeste"
+
+[ZoneInfo0]
+LocationName="Exterior"

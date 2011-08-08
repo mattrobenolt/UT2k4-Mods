@@ -1,0 +1,89 @@
+[LevelInfo0]
+Title="Orbital2"
+
+[LevelSummary]
+Title="Orbital2"
+
+[ZoneInfo0]
+LocationName="Sala de bandera azul"
+
+[ZoneInfo1]
+LocationName="Sala de bandera azul"
+
+[ZoneInfo10]
+LocationName="Sala central"
+
+[ZoneInfo11]
+LocationName="salas de minigun Azules"
+
+[ZoneInfo12]
+LocationName="Salas inferiores Azules"
+
+[ZoneInfo13]
+LocationName="Salas superiores Azules"
+
+[ZoneInfo14]
+LocationName="Salas inferiores Azules"
+
+[ZoneInfo15]
+LocationName="Sala Enlazadora Rojos"
+
+[ZoneInfo16]
+LocationName="Salas superiores Rojos"
+
+[ZoneInfo17]
+LocationName="Sala de bandera roja"
+
+[ZoneInfo18]
+LocationName="Salas superiores Rojos"
+
+[ZoneInfo19]
+LocationName="Sala del Flak Rojos"
+
+[ZoneInfo2]
+LocationName="Sala de bandera azul"
+
+[ZoneInfo20]
+LocationName="Salas inferiores Rojos"
+
+[ZoneInfo21]
+LocationName="Salas de minigun Rojos"
+
+[ZoneInfo22]
+LocationName="Sala de bandera roja"
+
+[ZoneInfo23]
+LocationName="Sala de bandera roja"
+
+[ZoneInfo24]
+LocationName="Sala de bandera roja"
+
+[ZoneInfo25]
+LocationName="Salas inferiores Rojos"
+
+[ZoneInfo26]
+LocationName="Salas superiores Rojos"
+
+[ZoneInfo27]
+LocationName="Salas de minigun Rojos"
+
+[ZoneInfo3]
+LocationName="Sala de bandera azul"
+
+[ZoneInfo4]
+LocationName="Sala central"
+
+[ZoneInfo5]
+LocationName="Salas superiores Azules"
+
+[ZoneInfo6]
+LocationName="Sala del Flak Azules"
+
+[ZoneInfo7]
+LocationName="Salas de minigun Azules"
+
+[ZoneInfo8]
+LocationName="Salas superiores Azules"
+
+[ZoneInfo9]
+LocationName="Salas superiores Azules"

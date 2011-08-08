@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title="Serenity"
+
+[LevelSummary]
+Title="Serenity"
+Description="An diesem Ort mit sanftem Windhauch, einnehmenden Waldgeräuschen und schwirrenden Libellen auf der Lichtung fühlt man wahre Gelassenheit. Und dann nimmt man am Besten die Flak-Cannon und schießt alles in Grund und Boden."
+
+[Volume1]
+LocationName="BLAUE Seite des Mittelfeldes"
+
+[Volume2]
+LocationName="Mittelfeld"
+
+[Volume3]
+LocationName="ROTE Basis"
+
+[Volume4]
+LocationName="ROTE Seite des Mittelfeldes"
+
+[Volume5]
+LocationName="Blaue Basis"
+
+[WaterVolume0]
+LocationName="Im Wassergrab"
+
+[WaterVolume1]
+LocationName="Im Wassergrab"
+
+[WaterVolume2]
+LocationName="Versteck im Mittelfeld-Wasserfall"
+
+[xFallingVolume0]
+LocationName="Sturz ins Wassergrab"
+
+[xFallingVolume1]
+LocationName="Sturz ins Wassergrab"
+

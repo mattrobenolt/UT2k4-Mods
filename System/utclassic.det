@@ -1,0 +1,50 @@
+[Public]
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUTClassic,Description="Klassische UT-Waffen und konfigurierbare Bewegungen (z.B. Mauersprung).")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseSniper,Description="Lightning Guns mit klassischem Sniper Rifle ersetzen.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseLightning,Description="Sniper Rifle mit Lightning Guns ersetzen.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=UTClassic.ClassicSniperRifle,Description="Dieses schnelle Sniper Rifle mit hoher Mündung und einem 10fach-Zielfernrohr ist auf jede Entfernung eine tödliche Waffe, insbesondere bei einem Kopfschuss.")
+
+[ClassicSniperAmmo]
+ItemName="Sniper-Munition"
+
+[ClassicSniperAmmoPickup]
+PickupMessage="Sniper-Munition aufgesammelt."
+
+[ClassicSniperRifle]
+Description="Dieses schnelle Sniper Rifle mit hoher Mündung und einem 10fach-Zielfernrohr ist auf jede Entfernung eine tödliche Waffe, insbesondere bei einem Kopfschuss."
+ItemName="Sniper Rifle"
+
+[ClassicSniperRiflePickup]
+PickupMessage="Sie haben das Sniper Rifle."
+
+[DamTypeClassicHeadshot]
+DeathString="%k hat %o eine Kugel in den Schädel gejagt."
+FemaleSuicide="%o hat sich selbst in den Kopf geschossen."
+MaleSuicide="%o hat sich selbst in den Kopf geschossen."
+
+[DamTypeClassicSniper]
+DeathString="%k hat %o ein Loch verpasst."
+FemaleSuicide="%o hat sich selbst in den Fuß geschossen."
+MaleSuicide="%o hat sich selbst in den Fuß geschossen."
+
+[MutUTClassic]
+DJString="Doppelsprung erlauben"
+WDString="Mauersprung erlauben"
+DDJString="Doppelten Ausweichsprung erlauben"
+DJHelp="Bei Aktivierung können die Spieler auf dem Höhepunkt eines Sprungs einen Doppelsprung machen."
+WDHelp="Bei Aktivierung können die Spieler von Mauern herabspringen."
+DDJHelp="Bei Aktivierung können die Spieler auf dem Höhepunkt eines Ausweichsprungs einen Doppelsprung machen."
+WeapString="Waffenschaden modifizieren"
+WeapHelp="Bei Aktivierung verursachen Waffen einen größeren Schaden."
+TranslocString="Translocator modifizieren"
+TranslocHelp="Bei Aktivierung wird der Translocator schneller aufgeladen."
+FriendlyName="UT Classic"
+Description="Klassische UT-Waffen und Bewegungsoptionen"
+
+[MutUseLightning]
+FriendlyName="Lightning Guns"
+Description="Alle Sniper Rifles durch Lightning Guns ersetzen."
+
+[MutUseSniper]
+FriendlyName="Sniper Rifles"
+Description="Alle Lightning Guns durch Sniper Rifles ersetzen."

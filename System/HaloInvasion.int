@@ -1,0 +1,91 @@
+[Public]
+Object=(Name=Haloscript.HaloInvasion,Class=Class,MetaClass=Engine.GameInfo,Description="DM|HaloInvasion|HaloInvasion.Tab_IAInvasion|SkaarjPack.MapListSkaarjInvasion|false")
+[HUDInvasion]
+YouveLostTheMatch="The Invasion Continues"
+
+[Invasion]
+InvasionPropText[0]="Starting Wave"
+InvasionPropText[1]="Final Wave"
+InvasionPropText[2]="Wave Configuration"
+InvasionPropText[3]="Invaders"
+InvasionPropText[4]="Wave Number"
+InvasionPropText[5]="Max Invaders"
+InvasionPropText[6]="Duration"
+InvasionPropText[7]="Difficulty"
+InvasionDescText[0]="Specify the first wave of incoming monsters for a map."
+InvasionDescText[1]="Specify the final wave which must be defeated to complete a map."
+InvasionDescText[2]="Configure the properties for each wave."
+InvasionDescText[3]="Select the wave to configure"
+InvasionDescText[4]="Place a check next to each monster which should be part of this wave."
+InvasionDescText[5]="Maximum amount of monsters that may be in the map at one time."
+InvasionDescText[6]="Length of time (in seconds) the wave should last."
+InvasionDescText[7]="Adjusts the relative intelligence of the invaders"
+SPBotDesc="Specify the number of bots (max 2 for invasion) that should join."
+GameName="HaloInvasion"
+Description="Replaces INVASION monsters with the FLOOD!"
+GIPropsDisplayText[0]="Monster Skill"
+GIPropDescText[0]="Set the skill of the invading monsters."
+
+[InvasionDeathMessage]
+SomeoneString="a monster"
+
+[InvasionMessage]
+OutMessage="is OUT!"
+
+[InvasionWaveConfig]
+WCFGClose.Caption="Close"
+WCFGCreat01.Caption="?"
+WCFGCreat01.Hint="?"
+WCFGCreat02.Caption="?"
+WCFGCreat02.Hint="?"
+WCFGCreat03.Caption="?"
+WCFGCreat03.Hint="?"
+WCFGCreat04.Caption="?"
+WCFGCreat04.Hint="?"
+WCFGCreat05.Caption="?"
+WCFGCreat05.Hint="?"
+WCFGCreat06.Caption="?"
+WCFGCreat06.Hint="?"
+WCFGCreat07.Caption="?"
+WCFGCreat07.Hint="?"
+WCFGCreat08.Caption="?"
+WCFGCreat08.Hint="?"
+WCFGCreat09.Caption="?"
+WCFGCreat09.Hint="?"
+WCFGCreat10.Caption="?"
+WCFGCreat10.Hint="?"
+WCFGCreat11.Caption="?"
+WCFGCreat11.Hint="?"
+WCFGCreat12.Caption="?"
+WCFGCreat12.Hint="?"
+WCFGCreat13.Caption="?"
+WCFGCreat13.Hint="?"
+WCFGCreat14.Caption="?"
+WCFGCreat14.Hint="?"
+WCFGCreat15.Caption="?"
+WCFGCreat15.Hint="?"
+WCFGCreat16.Caption="?"
+WCFGCreat16.Hint="?"
+WCFGDifficulty.Hint="How hard should the monsters on this wave be."
+WCFGDuration.Caption="Duration"
+WCFGDuration.Hint="How long should each wave last."
+WCFGLabel1.Caption="Configure each wave..."
+WCFGLabel2.Caption="Difficulty"
+WCFGReset.Caption="Reset"
+WCFGWaveNo.Caption="Wave No"
+WCFGWaveNo.Hint="Select which wave to adjust."
+
+[MeleeDamage]
+DeathString="%o was eviscerated."
+FemaleSuicide="%o was hacked."
+MaleSuicide="%o was hacked."
+
+[ScoreboardInvasion]
+TeamScoreString="Team Score"
+WaveString="Wave"
+
+[TAB_IAInvasion]
+IAInvasionInitialWave.Caption="Initial Wave"
+IAInvasionInitialWave.Hint="Choose the initial wave."
+IAInvasionWaveConfig.Caption="Configure Waves"
+

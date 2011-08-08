@@ -1,0 +1,25 @@
+[LevelInfo0]
+Title="Rinascita"
+
+[LevelSummary]
+Title="Rinascita"
+Description="Nel cuore della foresta dei Gen Mo'Kai si trova il segreto della rinascita. Purtroppo, per i partecipanti al Torneo che riescono a trovare questa arena, tale segreto è la morte."
+
+[Volume0]
+LocationName="Cresta - punto B"
+
+[Volume1]
+LocationName="Cresta - punto A"
+
+[Volume2]
+LocationName="Valle centrale"
+
+[Volume3]
+LocationName="Ponte a energia"
+
+[Volume4]
+LocationName="Ponte a energia"
+
+[ZoneInfo0]
+LocationName="Zone di rientro"
+

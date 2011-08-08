@@ -1,0 +1,34 @@
+[LevelInfo0]
+Title="Adara Canyon"
+
+[LevelSummary]
+Title="Adara Canyon"
+Description="Seismic tremors and eons of erosion forged this battlefield. Adara Canyon is nature at its most awe-inspiring. But don't let the beauty fool you. Long drops claim lives and the corridor-like nature of the canyon makes AVRiL avoidance somewhat difficult."
+
+[Volume0]
+LocationName="Eastern Falls"
+
+[Volume1]
+LocationName="Western Falls"
+
+[Volume2]
+LocationName="Eastern Base"
+
+[Volume3]
+LocationName="Western Base"
+
+[Volume4]
+LocationName="Northern Bridge Passage"
+
+[Volume5]
+LocationName="Southern Bridge Passage"
+
+[Volume6]
+LocationName="Bridge"
+
+[Volume7]
+LocationName="Central Island"
+
+[ZoneInfo0]
+LocationName="Canyon"
+

@@ -1,0 +1,52 @@
+[LevelInfo0]
+Title="Dragón lunar"
+
+[LevelSummary]
+Title="Dragón lunar"
+Description="En las profundidades de la antigua Corea, escondida en lo alto de la montaña del Dragón lunar, arrecia la batalla entre valientes guerreros."
+
+[Volume10]
+LocationName="Sala de bandera roja"
+
+[Volume11]
+LocationName="Entradas de base roja"
+
+[Volume12]
+LocationName="Cueva central"
+
+[Volume14]
+LocationName="Lado de escudo azul"
+
+[Volume17]
+LocationName="Entradas de base azul"
+
+[Volume18]
+LocationName="Centro azul"
+
+[Volume19]
+LocationName="Zona fortificada azul"
+
+[Volume20]
+LocationName="Zona fortificada roja"
+
+[Volume21]
+LocationName="Cueva central"
+
+[Volume3]
+LocationName="Centro rojo"
+
+[Volume6]
+LocationName="Lado de escudo rojo"
+
+[Volume7]
+LocationName="Ruta de lado rojo"
+
+[Volume8]
+LocationName="Ruta de lado azul"
+
+[Volume9]
+LocationName="Sala de bandera azul"
+
+[xBlueFlagBase1]
+ObjectiveName="Bandera azul"
+

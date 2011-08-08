@@ -1,0 +1,172 @@
+[LevelInfo0]
+Title="Avaris"
+
+[LevelSummary]
+Title="Avaris"
+Description="En tiempos capital de un poderoso imperio, ahora Avaris está vacía, abandonada a los inexorables elementos del desierto. Aquéllos que mueren aquí, durante el Torneo, comparten el mismo destino."
+
+[ZoneInfo0]
+LocationName="Antesala izquierda azul"
+
+[ZoneInfo1]
+LocationName="Patio azul"
+
+[ZoneInfo10]
+LocationName="Cámara principal azul"
+
+[ZoneInfo11]
+LocationName="Antesala derecha roja"
+
+[ZoneInfo12]
+LocationName="Antesala izquierda roja (destruida)"
+
+[ZoneInfo13]
+LocationName="Base de bandera roja"
+
+[ZoneInfo15]
+LocationName="Edificio del patio"
+
+[ZoneInfo16]
+LocationName="Entrada derecha roja"
+
+[ZoneInfo17]
+LocationName="Edificio del patio"
+
+[ZoneInfo18]
+LocationName="Entrada izquierda roja"
+
+[ZoneInfo19]
+LocationName="Cámara principal roja"
+
+[ZoneInfo2]
+LocationName="Base de bandera azul"
+
+[ZoneInfo20]
+LocationName="Entrada izquierda azul"
+
+[ZoneInfo21]
+LocationName="Pasillos derechos rojos"
+
+[ZoneInfo22]
+LocationName="Patio izquierdo rojo"
+
+[ZoneInfo23]
+LocationName="Base de bandera azul"
+
+[ZoneInfo24]
+LocationName="Base de bandera azul"
+
+[ZoneInfo27]
+LocationName="Lado izquierdo azul"
+
+[ZoneInfo28]
+LocationName="Edificio del patio"
+
+[ZoneInfo29]
+LocationName="Patio central"
+
+[ZoneInfo3]
+LocationName="Zona central"
+
+[ZoneInfo30]
+LocationName="Entrada derecha azul"
+
+[ZoneInfo31]
+LocationName="Zona central"
+
+[ZoneInfo32]
+LocationName="Escalera izquierda azul"
+
+[ZoneInfo33]
+LocationName="Antesala derecha azul"
+
+[ZoneInfo34]
+LocationName="Escalera izquierda roja"
+
+[ZoneInfo35]
+LocationName="Zona central"
+
+[ZoneInfo36]
+LocationName="Escalera derecha roja"
+
+[ZoneInfo37]
+LocationName="Base de bandera azul"
+
+[ZoneInfo38]
+LocationName="Base de bandera roja"
+
+[ZoneInfo39]
+LocationName="Base de bandera roja"
+
+[ZoneInfo42]
+LocationName="Patio rojo"
+
+[ZoneInfo43]
+LocationName="Edificio del patio"
+
+[ZoneInfo44]
+LocationName="Lado izquierdo azul"
+
+[ZoneInfo45]
+LocationName="Antesala derecha azul"
+
+[ZoneInfo46]
+LocationName="Antesala derecha azul"
+
+[ZoneInfo47]
+LocationName="Base de bandera azul"
+
+[ZoneInfo48]
+LocationName="Antesala derecha azul"
+
+[ZoneInfo49]
+LocationName="Lado derecho rojo"
+
+[ZoneInfo5]
+LocationName="Patio izquierdo rojo"
+
+[ZoneInfo50]
+LocationName="Lado derecho azul"
+
+[ZoneInfo51]
+LocationName="Base de bandera azul"
+
+[ZoneInfo52]
+LocationName="Base de bandera azul"
+
+[ZoneInfo53]
+LocationName="Base de bandera roja"
+
+[ZoneInfo54]
+LocationName="Base de bandera roja"
+
+[ZoneInfo55]
+LocationName="Lado derecho azul"
+
+[ZoneInfo56]
+LocationName="Zona central"
+
+[ZoneInfo57]
+LocationName="Zona central"
+
+[ZoneInfo59]
+LocationName="Lado derecho rojo"
+
+[ZoneInfo6]
+LocationName="Escalera derecha azul"
+
+[ZoneInfo61]
+LocationName="Lado izquierdo rojo"
+
+[ZoneInfo62]
+LocationName="Lado izquierdo rojo"
+
+[ZoneInfo7]
+LocationName="Antesala izquierda azul"
+
+[ZoneInfo8]
+LocationName="Antesala izquierda azul"
+
+[ZoneInfo9]
+LocationName="Patio central"
+

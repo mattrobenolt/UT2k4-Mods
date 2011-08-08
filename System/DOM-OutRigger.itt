@@ -1,0 +1,69 @@
+[LevelInfo0]
+Title="Outrigger"
+LocationName="Unknown"
+
+[LevelSummary]
+Title="Outrigger"
+
+[Volume0]
+LocationName="Seminterrato, Dom A"
+
+[Volume1]
+LocationName="Seminterrato, Dom B"
+
+[Volume10]
+LocationName="Area centrale"
+
+[Volume11]
+LocationName="Torre dei cecchini"
+
+[Volume12]
+LocationName="Piattaforma 3, Dom B"
+
+[Volume13]
+LocationName="Piattaforma 3, Dom A"
+
+[Volume15]
+LocationName="Dom B"
+
+[Volume16]
+LocationName="Dom A"
+
+[Volume2]
+LocationName="Piattaforma 2, Dom B"
+
+[Volume3]
+LocationName="Nido del corvo, Dom B"
+
+[Volume4]
+LocationName="Nido del corvo, Dom A"
+
+[Volume5]
+LocationName="Piattaforma 2, Dom A"
+
+[Volume6]
+LocationName="Piattaforma 1, Dom A"
+
+[Volume7]
+LocationName="Piattaforma 1, Dom B"
+
+[Volume8]
+LocationName="Terreno di rigenerazione"
+
+[ZoneInfo1]
+LocationName="Seminterrato, Dom B"
+
+[ZoneInfo12]
+LocationName="Piattaforma 1, Dom A"
+
+[ZoneInfo15]
+LocationName="Piattaforma 3, Dom A"
+
+[ZoneInfo4]
+LocationName="Piattaforma 1, Dom B"
+
+[ZoneInfo7]
+LocationName="Piattaforma 3, Dom B"
+
+[ZoneInfo9]
+LocationName="Seminterrato, Dom A"

@@ -1,0 +1,60 @@
+[ASTurret_IonCannon]
+VehiclePositionString="manejando un cañon de Iones"
+VehicleNameString="Cañon de Iones"
+
+[ASTurret_LinkTurret]
+VehiclePositionString="manejando una torreta de conexiones"
+VehicleNameString="Torreta de conexiones"
+
+[ASVehicle_SpaceFighter_Human]
+VehiclePositionString="en un Guerrero Espacial"
+VehicleNameString="Guerrero Espacial Humano"
+
+[ASVehicle_SpaceFighter_Skaarj]
+VehicleNameString="Guerrero Espacial Skaarj"
+
+[DamTypeBallTurretPlasma]
+DeathString="%o ha sido concedido un extra de plasma cortesía de %k."
+FemaleSuicide="%o se ha frito ella solita con su propia carga de plasma."
+MaleSuicide="%o se ha frito el solito con su propia carga de plasma."
+
+[DamTypeIonCannonBlast]
+DeathString="%o ha sido DESINTEGRADO"
+FemaleSuicide="%o ha sido DESINTEGRADA"
+MaleSuicide="%o ha sido DESINTEGRADO"
+
+[DamTypeIonCannonBlast]
+DeathString="%o ha sido ANIQUILADO por %k"
+
+[DamTypeLinkTurretBeam]
+DeathString="%o ha sido empalado por %k."
+FemaleSuicide="%o se ha empalado solita."
+MaleSuicide="%o se ha empalado solito."
+
+[DamTypeLinkTurretPlasma]
+DeathString="%o ha recebido una pequeña ayudita de plasma de %k."
+FemaleSuicide="%o se ha frito ella solita con su propio plasma."
+MaleSuicide="%o se ha frito el solito con su propio plasma."
+
+[DamTypeSpaceFighterLaser]
+DeathString="A %o le han servido una ración extra de lasers de %k."
+FemaleSuicide="%o se ha frito ella solita con su propia descarga."
+MaleSuicide="%o se ha frito el solito con su propia descarga."
+
+[DamTypeSpaceFighterMissile]
+DeathString="%o se ha comido un misil de %k."
+FemaleSuicide="%o se ha lanzado solita al espacio."
+MaleSuicide="%o se ha lanzado solito al espacio."
+
+[Weapon_LinkTurret]
+ItemName="Torreta"
+
+[Weapon_SpaceFighter]
+ItemName="Arma de Guerrero Espacial"
+
+[Weapon_Turret]
+ItemName="Arma Torreta"
+
+[Weapon_Turret_IonCannon]
+ItemName="Arma Torreta Cañón de Iones"
+

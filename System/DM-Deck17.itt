@@ -1,0 +1,133 @@
+[BlockingVolume3]
+LocationName="Nel cielo"
+
+[BlockingVolume61]
+LocationName="Nel cielo"
+
+[LevelInfo0]
+Title="Piano 17"
+
+[LevelSummary]
+Title="Piano 17"
+Description="Arrivo al piano 17 - raffineria di magma, CALDA e vicina al piano 16."
+
+[Volume0]
+LocationName="Ascensori P 17 - livello inferiore (ricarica schermi)"
+
+[Volume10]
+LocationName="Stanza principale P 17 - est (fucile Link)"
+
+[Volume4]
+LocationName="Stanza principale - piattaf. inf. N (ZeroDanni)"
+
+[Volume5]
+LocationName="Stanza principale P 17 - piattaf. est (ricarica schermi)"
+
+[Volume6]
+LocationName="Ascensori P 17 - livello inferiore (2 kit medici)"
+
+[Volume7]
+LocationName="Stanza principale P 17 - centro (minigun)"
+
+[Volume8]
+LocationName="Curva del corridoio arancione (lanciarazzi)"
+
+[ZoneInfo25]
+LocationName="Piano 16 (zona proibita)"
+
+[ZoneInfo30]
+LocationName="Curva del corridoio arancione"
+
+[ZoneInfo32]
+LocationName="Stanza blu (lanciarazzi)"
+
+[ZoneInfo37]
+LocationName="Corridoio superiore"
+
+[ZoneInfo40]
+LocationName="Pozza di lava superiore piccola (fulminatore)"
+
+[ZoneInfo41]
+LocationName="Sotto la ventola di scarico presso gli ascensori"
+
+[ZoneInfo43]
+LocationName="Entrata proibita al piano 16"
+
+[ZoneInfo45]
+LocationName="Entrata della giunzione P 17/P 16"
+
+[ZoneInfo47]
+LocationName="Piano 16 (zona proibita)"
+
+[ZoneInfo48]
+LocationName="Piano 16 (zona proibita)"
+
+[ZoneInfo49]
+LocationName="Piano 16 (zona proibita)"
+
+[ZoneInfo50]
+LocationName="Giunzione P 17/P 16 (biofucile)"
+
+[ZoneInfo51]
+LocationName="Piano 16 (zona proibita)"
+
+[ZoneInfo52]
+LocationName="Piano 16 (zona proibita)"
+
+[ZoneInfo53]
+LocationName="Presso gli ascensori - livello superiore est"
+
+[ZoneInfo54]
+LocationName="Corridoio superiore (cannone Flak)"
+
+[ZoneInfo55]
+LocationName="Porzione a T del corridoio superiore"
+
+[ZoneInfo56]
+LocationName="Entrata principale del corridoio superiore"
+
+[ZoneInfo57]
+LocationName="Ascensori - livello superiore"
+
+[ZoneInfo58]
+LocationName="Sopra gli ascensori (Redentore)"
+
+[ZoneInfo59]
+LocationName="Ascensori - livello inferiore (fucile shock)"
+
+[ZoneInfo60]
+LocationName="Ascensori - livello inferiore (fucile shock)"
+
+[ZoneInfo61]
+LocationName="Corridoio dell'ascensore rosso - est"
+
+[ZoneInfo62]
+LocationName="Corridoio dell'ascensore rosso - ovest"
+
+[ZoneInfo63]
+LocationName="Pozza di lava gigante"
+
+[ZoneInfo69]
+LocationName="Fossa di lava gigante (super ricarica schermi)"
+
+[ZoneInfo70]
+LocationName="Stanza principale - piattaf. est (biofucile)"
+
+[ZoneInfo71]
+LocationName="Stanza principale - centro"
+
+[ZoneInfo73]
+LocationName="Stanza principale - piattaf. inf. N (fucile shock)"
+
+[ZoneInfo74]
+LocationName="Stanza principale - piattaf. tiratore (fulminatore)"
+
+[ZoneInfo76]
+LocationName="Corridoio nord alto (2 kit medici)"
+
+[ZoneInfo77]
+LocationName="Pozza di lava inferiore piccola (cannone Flak)"
+
+[ZoneInfo78]
+LocationName="Parte diritta del corridoio arancione "
+

@@ -1,0 +1,49 @@
+[LevelInfo0]
+Title="Iniettore di ferro fuso"
+
+[LevelSummary]
+Title="Iniettore di ferro fuso"
+Description="L'iniettore è una nuova, sofisticata aggiunta al Torneo: un complesso labirinto di edifici imponenti, tubature e generatori. Stai in guardia nei corridori più stretti e tieni gli occhi bene aperti quando vuoi raggiungere il super schermo!"
+
+[ZoneInfo0]
+LocationName="Super schermo"
+
+[ZoneInfo10]
+LocationName="Danni doppi"
+
+[ZoneInfo11]
+LocationName="Sala della morte"
+
+[ZoneInfo12]
+LocationName="Ginocchio"
+
+[ZoneInfo13]
+LocationName="Sezione del ginocchio"
+
+[ZoneInfo14]
+LocationName="Munizioni per Link"
+
+[ZoneInfo15]
+LocationName="Gabinetto"
+
+[ZoneInfo2]
+LocationName="Fulminatore"
+
+[ZoneInfo3]
+LocationName="Sala elettrica"
+
+[ZoneInfo4]
+LocationName="Fucile shock e biofucile"
+
+[ZoneInfo5]
+LocationName="Lanciarazzi e Link"
+
+[ZoneInfo6]
+LocationName="Ripostiglio"
+
+[ZoneInfo8]
+LocationName="Hangar"
+
+[ZoneInfo9]
+LocationName="Danni doppi"
+

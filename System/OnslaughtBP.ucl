@@ -1,0 +1,7 @@
+Mutator=(ClassName=OnslaughtBP.MutBonusVehicles,IconMaterialName=MutatorArt.nosym,FriendlyName=OnslaughtBP.MutBonusVehicles.FriendlyName,Description=OnslaughtBP.MutBonusVehicles.Description,FallbackName="MutBonusVehicles",FallbackDesc="MutBonusVehicles")
+Mutator=(ClassName=OnslaughtBP.MutVehiclePickups,GroupName=VehiclePickups,IconMaterialName=MutatorArt.nosym,FriendlyName=OnslaughtBP.MutVehiclePickups.FriendlyName,Description=OnslaughtBP.MutVehiclePickups.Description,FriendlyName=OnslaughtBP.MutVehiclePickups.FriendlyName,FallbackName="Vehicle Pickups",FallbackDesc="Vehicles will pickup items and give them to the driver")
+Vehicle=(ClassName=OnslaughtBP.ONSArtillery,FriendlyName=OnslaughtBP.ONSArtillery.VehicleNameString,FallbackName="SPMA",FallbackDesc="SPMA")
+Vehicle=(ClassName=OnslaughtBP.ONSArtillerySideGunPawn,FriendlyName=OnslaughtBP.ONSArtillerySideGunPawn.VehicleNameString,FallbackName="SPMA Side Turret",FallbackDesc="SPMA Side Turret")
+Vehicle=(ClassName=OnslaughtBP.ONSDualACGatlingGunPawn,FriendlyName=OnslaughtBP.ONSDualACGatlingGunPawn.VehicleNameString,FallbackName="Cicada Laser Turret",FallbackDesc="Cicada Laser Turret")
+Vehicle=(ClassName=OnslaughtBP.ONSDualAttackCraft,FriendlyName=OnslaughtBP.ONSDualAttackCraft.VehicleNameString,FallbackName="Cicada",FallbackDesc="Cicada")
+Vehicle=(ClassName=OnslaughtBP.ONSShockTank,FriendlyName=OnslaughtBP.ONSShockTank.VehicleNameString,FallbackName="Paladin",FallbackDesc="Paladin")

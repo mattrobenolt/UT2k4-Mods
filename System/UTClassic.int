@@ -1,0 +1,51 @@
+[Public]
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUTClassic,Description="Classic UT style weapons and configurable movement abilities (such as wall dodging).")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseSniper,Description="Replace Lightning Guns with classic Sniper Rifle.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseLightning,Description="Replace Sniper Rifles with Lightning Guns.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=UTClassic.ClassicSniperRifle,Description="This high muzzle velocity sniper rifle with a 10X scope is a lethal weapon at any range, especially if you can land a head shot.")
+
+[ClassicSniperAmmo]
+ItemName="Sniper Bullets"
+
+[ClassicSniperAmmoPickup]
+PickupMessage="You picked up sniper ammo."
+
+[ClassicSniperRifle]
+Description="This high muzzle velocity sniper rifle with a 10X scope is a lethal weapon at any range, especially if you can land a head shot."
+ItemName="Sniper Rifle"
+
+[ClassicSniperRiflePickup]
+PickupMessage="You got the Sniper Rifle."
+
+[DamTypeClassicHeadshot]
+DeathString="%k put a bullet in %o's skull."
+FemaleSuicide="%o shot herself in the head."
+MaleSuicide="%o shot himself in the head."
+
+[DamTypeClassicSniper]
+DeathString="%k put a hole in %o"
+FemaleSuicide="%o shot herself in the foot."
+MaleSuicide="%o shot himself in the foot."
+
+[MutUTClassic]
+DJString="Allow Double Jumping"
+WDString="Allow Wall Dodging"
+DDJString="Allow Dodge Double Jumping"
+DJHelp="If enabled, players can double jump at the peak of jumps."
+WDHelp="If enabled, players can dodge off walls."
+DDJHelp="If enabled, players can double jump at the peak of dodge jumps."
+WeapString="Modify Weapon Damage"
+WeapHelp="If enabled, weapons do more damage."
+TranslocString="Modify Translocator"
+TranslocHelp="If enabled, translocator recharges faster."
+FriendlyName="UT Classic"
+Description="Classic UT style weapons and movement options."
+
+[MutUseLightning]
+FriendlyName="Lightning Guns"
+Description="Replace all sniper rifles with lightning guns."
+
+[MutUseSniper]
+FriendlyName="Sniper Rifles"
+Description="Replace all lightning guns with sniper rifles."
+

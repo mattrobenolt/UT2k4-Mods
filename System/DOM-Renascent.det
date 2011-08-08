@@ -1,0 +1,25 @@
+[LevelInfo0]
+Title="Renascent"
+
+[LevelSummary]
+Title="Renascent"
+Description="Tief in den Gen'Mokai-Wäldern verborgen liegt der Schlüssel zur Wiedergeburt. Für die unglücklichen Tournament-Teilnehmer, die ihn finden, bedeutet dieser Schlüssel den Tod."
+
+[Volume0]
+LocationName="Punkt-B-Grat"
+
+[Volume1]
+LocationName="Punkt-A-Grat"
+
+[Volume2]
+LocationName="Mittleres Tal"
+
+[Volume3]
+LocationName="Power-Up-Brücke"
+
+[Volume4]
+LocationName="Power-Up-Brücke"
+
+[ZoneInfo0]
+LocationName="Einstiegs-Gebiete"
+

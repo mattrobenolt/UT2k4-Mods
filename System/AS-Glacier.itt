@@ -1,0 +1,223 @@
+[DestroyableObjective1]
+ObjectiveName="Comandi della diga secondaria"
+DestructionMessage="Chiusura della diga secondaria"
+ObjectiveDescription="Distruggi i comandi della diga"
+Objective_Info_Attacker="Chiudi la diga secondaria"
+Objective_Info_Defender="Difendi la diga secondaria"
+
+[DestroyableObjective5]
+ObjectiveName="Comandi della diga primaria"
+DestructionMessage="Chiusura della diga primaria"
+ObjectiveDescription="Distruggi i comandi della diga"
+Objective_Info_Attacker="Chiudi la diga primaria"
+Objective_Info_Defender="Difendi la diga primaria"
+
+[DestroyableObjective_SM1]
+ObjectiveName="Porta del deposito"
+DestructionMessage="Porta del deposito distrutta"
+ObjectiveDescription="Distruggi le porte del deposito che ti bloccano la strada"
+Objective_Info_Attacker="Distruggi la porta del deposito"
+Objective_Info_Defender="Difendi la porta del deposito"
+
+[DestroyableObjective_SM2]
+ObjectiveName="Portello corazzato"
+DestructionMessage="Portello corazzato perforato!"
+ObjectiveDescription="Distruggi il portello corazzato che blocca l'uscita della base"
+Objective_Info_Attacker="Distruggi il portello corazzato"
+Objective_Info_Defender="Difendi il portello corazzato"
+
+[DestroyableObjective_SM3]
+ObjectiveName="Porte della galleria di entrata"
+DestructionMessage="Porte della galleria di entrata distrutte"
+ObjectiveDescription="Usa il carro a ioni per distruggere le porte di accesso alla stazione energetica"
+Objective_Info_Attacker="Distruggi le porte di accesso"
+Objective_Info_Defender="Proteggi le porte di accesso"
+
+[HoldObjective0]
+ObjectiveName="Comando del nucleo a plasma"
+DestructionMessage="Nucleo a plasma attivato"
+ObjectiveDescription="Tira le leve del nucleo ionico per attivarlo"
+Objective_Info_Attacker="Attiva il nucleo ionico"
+Objective_Info_Defender="Difendi il nucleo ionico"
+
+[HoldObjective2]
+ObjectiveName="Comandi del cancello di sicurezza"
+DestructionMessage="Cancello di sicurezza aperto"
+ObjectiveDescription="Tira la leva dell'energia per aprire il cancello di sicurezza"
+Objective_Info_Attacker="Apri il cancello di sicurezza"
+Objective_Info_Defender="Difendi la stazione energetica"
+
+[HoldObjective4]
+ObjectiveName="Comandi del ponte"
+DestructionMessage="Ponte sollevato"
+ObjectiveDescription="Usa il quadro comandi per sollevare il ponte"
+Objective_Info_Attacker="Attiva il nucleo ionico"
+Objective_Info_Defender="Difendi il nucleo ionico"
+
+[HoldObjective5]
+ObjectiveName="Comando del nucleo a plasma"
+DestructionMessage="Nucleo a plasma attivato"
+ObjectiveDescription="Tira le leve del nucleo ionico per attivarlo"
+Objective_Info_Attacker="Attiva il nucleo ionico"
+Objective_Info_Defender="Difendi il nucleo ionico"
+
+[LevelInfo0]
+Title="Ghiacciaio"
+
+[LevelSummary]
+Title="Ghiacciaio"
+Description="In una temeraria azione della guerra segreta fra le Corporazioni, una forza d'assalto della Axon ha attaccato e distrutto il centro di ricerca della Izanagi su Lamdon 3, nonostante la protezione offerta dalla forza d'élite Rombo di tuono dell'NGT. Lo scenario ricrea proprio questa missione. La Axon è riuscita a distruggere il centro di ricerca e a rubare il carro a ioni che la Izanagi stava sviluppando. Devi entrare nel centro di ricerca, rubare il carro a ioni e distruggere l'intero edificio."
+
+[ProximityObjective0]
+ObjectiveName="Entra nella base"
+DestructionMessage="Base violata"
+ObjectiveDescription="Attraversa le porte della base per entrarci"
+Objective_Info_Attacker="Entra nella base"
+Objective_Info_Defender="Difendi la base"
+
+[ProximityObjective1]
+ObjectiveName="Entra nella base"
+DestructionMessage="Base violata"
+ObjectiveDescription="Attraversa le porte della base per entrarci"
+Objective_Info_Attacker="Entra nella base"
+Objective_Info_Defender="Difendi la base"
+
+[ProximityObjective9]
+ObjectiveName="Uscita della base"
+DestructionMessage="Il carro armato è fuggito"
+ObjectiveDescription="Conduci il carro armato all'uscita della base"
+Objective_Info_Attacker="Abbandona la base"
+Objective_Info_Defender="Impedisci al carro di fuggire"
+
+[SceneSubtitles0]
+SubTitles=("In una temeraria azione della guerra segreta fra le Corporazioni, una forza d'assalto della Axon ha attaccato e distrutto il centro di ricerca della Izanagi su Lamdon 3"," nonostante la protezione offerta dalla forza d'élite Rombo di tuono dell'NGT.","Lo scenario ricrea proprio questa missione. La Axon è riuscita a distruggere il centro di ricerca e a rubare il carro a ioni che la Izanagi stava sviluppando.","Devi entrare nel centro di ricerca, rubare il carro a ioni e distruggere l'intero edificio.","Per infiltrare la base devi prima attraversare il lago ghiacciato. Nota che i comandi del ponte di accesso della base sono situati nelle vicinanze dell'entrata.","Sollevare il ponte accorcierà notevolmente la distanza per entrare alla base per i tuoi compagni di squadra.","Una volta entrato nella base sovraccarica il nucleo ionico azionando questi due interruttori.","Così facendo, azionerai il primo protocollo d'emergenza della base aprendo tutte le uscite e permettendoti di rubare il carro a ioni.","Una volta impadronito del carro, prosegui su nel tunnel di accesso verso la stazione energetica. La stazione energetica alimenta direttamente il nucleo ionico sfruttando lo sbarramento idroelettrico.","Per accedere allo sbarramento, il cancello di sicurezza deve essere aperto. I controlli del cancello di sicurezza sono situati all'interno della stazione energetica.","Le valvole d'innondazione dei due sbarramenti idroelettrici devono essere aperte.","Così facendo si genererà uno sbalzo di energia grande abbastanza da attivare una reazione a catena all'interno del nucleo energetico.","Quando le valvole d'innondazione saranno aperte, il secondo protocollo d'emergenza si attiverà aprendo tutte le uscite della base.","Con le valvole d'innondazione aperte, rimane un solo obiettivo. La sola via di fuga dalla base è attraverso il muro esterno.","Il muro esterno ha porte che sono rinforzate per respingere qualunque attacco. Nonostante ciò, non sono completamente invulnerabili.","A causa della potenza acquisita dal carro ionico, alcuni spari diretti dovrebbero essere abbastanza per distruggerle. Quando le porte sono aperte libera il carro conducendolo all'esterno.")
+
+[TriggeredObjective2]
+ObjectiveName="Carro a ioni"
+DestructionMessage="Carro armato catturato"
+Objective_Info_Attacker="Cattura il carro armato"
+Objective_Info_Defender="Difendi il carro armato"
+
+[Volume0]
+LocationName="uscita hangar per carri"
+
+[Volume1]
+LocationName="zona sinistra della base"
+
+[Volume10]
+LocationName="zona destra della base"
+
+[Volume11]
+LocationName="nucleo ionico"
+
+[Volume12]
+LocationName="interno della stazione energetica"
+
+[Volume13]
+LocationName="interno della diga secondaria"
+
+[Volume14]
+LocationName="interno della diga secondaria"
+
+[Volume15]
+LocationName="interno della diga primaria"
+
+[Volume16]
+LocationName="interno della diga primaria"
+
+[Volume2]
+LocationName="muro della diga secondaria"
+
+[Volume3]
+LocationName="zona sinistra della base"
+
+[Volume4]
+LocationName="zona destra della base"
+
+[Volume6]
+LocationName="muro della diga primaria"
+
+[Volume7]
+LocationName="uscita della base"
+
+[Volume8]
+LocationName="entrata della base"
+
+[Volume9]
+LocationName="ponte"
+
+[ZoneInfo0]
+LocationName="esterno"
+
+[ZoneInfo1]
+LocationName="zona di deposito"
+
+[ZoneInfo10]
+LocationName="entrata della torre sinistra"
+
+[ZoneInfo11]
+LocationName="corridoio della torre sinistra"
+
+[ZoneInfo12]
+LocationName="Hangar per carri"
+
+[ZoneInfo13]
+LocationName="galleria di entrata della base"
+
+[ZoneInfo14]
+LocationName="Hangar per carri"
+
+[ZoneInfo15]
+LocationName="nucleo ionico"
+
+[ZoneInfo16]
+LocationName="galleria di entrata"
+
+[ZoneInfo17]
+LocationName="stanza comandi della stazione energetica"
+
+[ZoneInfo18]
+LocationName="stanza comandi dell'uscita della base"
+
+[ZoneInfo19]
+LocationName="corridoio della stazione energetica"
+
+[ZoneInfo2]
+LocationName="entrata della torre destra"
+
+[ZoneInfo20]
+LocationName="stazione energetica inferiore"
+
+[ZoneInfo21]
+LocationName="deposito"
+
+[ZoneInfo22]
+LocationName="stanza comandi della diga secondaria"
+
+[ZoneInfo23]
+LocationName="stanza comandi della diga primaria"
+
+[ZoneInfo24]
+LocationName="stanza osservazione della diga primaria"
+
+[ZoneInfo25]
+LocationName="nucleo ionico"
+
+[ZoneInfo26]
+LocationName="stanza osservazione della diga secondaria"
+
+[ZoneInfo27]
+LocationName="stanza comandi dell'uscita della base"
+
+[ZoneInfo3]
+LocationName="nucleo ionico"
+
+[ZoneInfo4]
+LocationName="corridoio della torre sinistra"
+
+[ZoneInfo5]
+LocationName="stazione energetica superiore"
+
+[ZoneInfo8]
+LocationName="corridoio della torre destra"
+

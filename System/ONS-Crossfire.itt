@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title="Fuoco incrociato"
+
+[LevelSummary]
+Title="Fuoco incrociato"
+Description="Nel 2352, un'eruzione vulcanica anomala alla periferia di Gerusalemme ha parzialmente dissotterrato un centro abitato che si trovava in profondità, sotto la città perduta di Ekron. Dopo quattro anni di scavi, si è scoperta una civiltà molto più antica della storia umana. Il sito è stato poi acquistato dalla Corporazione Liandri, così le anime dei combattenti morti nell'arena potranno tenere compagnia agli antichissimi cadaveri qui sepolti."
+
+[Volume0]
+LocationName="Base blu"
+
+[Volume1]
+LocationName="Base blu"
+
+[Volume10]
+LocationName="Nodo centrale"
+
+[Volume2]
+LocationName="Base rossa"
+
+[Volume3]
+LocationName="Base rossa"
+
+[Volume4]
+LocationName="Nodo ovest"
+
+[Volume5]
+LocationName="Nodo nord"
+
+[Volume6]
+LocationName="Nodo nord"
+
+[Volume7]
+LocationName="Nodo est"
+
+[Volume8]
+LocationName="Nodo sud"
+
+[Volume9]
+LocationName="Nodo sud"
+
+[ZoneInfo0]
+LocationName="Esterno"
+

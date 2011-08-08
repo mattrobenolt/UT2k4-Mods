@@ -1,0 +1,11 @@
+;INT file for Predator3.u
+;TITLE:    Predator3
+;AUTHOR:   Qx9
+;DATE:     11-29-2004 (10:34:54)
+;BUILD:    7
+;GAME:     Unreal Tournament 2004
+;UTILITY:  This package was built with UT2K4VoicePackager by Paul Catalano (www.xgxlan.com/vp)
+[Public]
+Object=(Name=Predator3.Predator3,Class=Class,MetaClass=XGame.xVoicePack)
+[Predator3]
+VoicePackName="Predator3"

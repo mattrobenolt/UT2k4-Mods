@@ -1,0 +1,34 @@
+[LevelInfo0]
+Title="Morpheus 3"
+
+[LevelSummary]
+Title="Morpheus 3"
+Description="La LMC sabía que había encontrado un excelente estadio en lo alto de la recientemente construida superestructura Galaxyscraper. Gracias al moderno milagro de los sólidos supertensos, estos tres edificios alcanzan la asombrosa altura de 12 millas de alto en su cima. La falta de aire y la gravedad reducida proporcionan una prueba interesante para las habilidades de los atletas del torneo, que tienen que adaptarse para vencer en condiciones extremas."
+
+[MessageTextureClient4]
+ScrollingMessage="%lp encabeza la clasificación con %lf abatidos"
+
+[PhysicsVolume1]
+LocationName="12 millas de alto"
+
+[ZoneInfo0]
+LocationName="AMARILLO Interior de la torre"
+
+[ZoneInfo1]
+LocationName="AZUL Interior de la torre"
+
+[ZoneInfo2]
+LocationName="12 millas de alto"
+
+[ZoneInfo3]
+LocationName="AZUL Interior de la torre"
+
+[ZoneInfo4]
+LocationName="AMARILLO Interior de la torre"
+
+[ZoneInfo5]
+LocationName="ROJO Interior de la torre"
+
+[ZoneInfo6]
+LocationName="ROJO Interior de la torre"
+

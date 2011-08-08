@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="Terminator(T101)",Mesh=Termmesh.Termmesh,species=xGame.SPECIES_Bot,Sex=Male,BodySkin=Termtex.tbody,FaceSkin=Termtex.eyelight,Portrait=Termtex.pic,Aggressiveness=+0.7,CombatStyle=+0.8,Tactics=+0.9,Ragdoll=Termka1)
+Player=(DefaultName="Terminator(new)",Mesh=Termmesh.Termmesh,species=xGame.SPECIES_Bot,Sex=Male,BodySkin=Termtex.tbody2,FaceSkin=Termtex.eyelight,Portrait=Termtex.pic3,Aggressiveness=+0.7,CombatStyle=+0.8,Tactics=+0.9,Ragdoll=Termka1)
+Player=(DefaultName="Terminator(cyborg)",Mesh=Termmesh.Termmesh2,species=xGame.SPECIES_Bot,Sex=Male,BodySkin=Termtex.Shader,FaceSkin=Termtex.eyelight,Portrait=Termtex.pic2,Aggressiveness=+0.7,CombatStyle=+0.8,Tactics=+0.9,Ragdoll=Termka1)

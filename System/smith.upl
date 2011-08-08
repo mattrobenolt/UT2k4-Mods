@@ -1,0 +1,2 @@
+[Public]
+Player=(DefaultName="Smith",Mesh=smith.smith,species=xGame.SPECIES_Merc,BodySkin=smithskins.smithbody,FaceSkin=smithskins.smithhead,Portrait=smithskins.smithportrait,Text=Xplayers.smith,Sex=Male,Menu="SP",FavoriteWeapon=xWeapons.FlakCannon,Aggressiveness=+1.5,bJumpy=1,CombatStyle=+0.6,Accuracy=+1.0,Ragdoll=Male)

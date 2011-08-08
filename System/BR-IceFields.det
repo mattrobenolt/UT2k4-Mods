@@ -1,0 +1,29 @@
+[LevelInfo0]
+Title="Ice Fields"
+
+[LevelSummary]
+Title="Ice Fields"
+
+[Volume0]
+LocationName="Basis BLAU"
+
+[Volume1]
+LocationName="Basis ROT"
+
+[Volume2]
+LocationName="Eingang Basis ROT"
+
+[Volume5]
+LocationName="Eingang Basis BLAU"
+
+[Volume6]
+LocationName="Bereich Mitte"
+
+[Volume9]
+LocationName="Bereich Superschild"
+
+[xBombDelivery0]
+ObjectiveName="Lieferung ROT"
+
+[xBombDelivery1]
+ObjectiveName="Lieferung BLAU"

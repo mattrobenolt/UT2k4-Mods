@@ -1,0 +1,124 @@
+[LevelInfo0]
+Title="Bridge of Fate"
+
+[LevelSummary]
+Title="Bridge of Fate"
+Description="Two sides, a huge cave in between, three bridges going from side to side, bridging the gap between two teams, bridging the gap between hope and despair."
+
+[ZoneInfo0]
+LocationName="Central Cavern"
+
+[ZoneInfo1]
+LocationName="Blue Shield Entrance"
+
+[ZoneInfo10]
+LocationName="Blue Pillar Room"
+
+[ZoneInfo11]
+LocationName="Blue Flag Room"
+
+[ZoneInfo12]
+LocationName="Blue Rear Rocket Side"
+
+[ZoneInfo13]
+LocationName="Blue BioRifle Entrance"
+
+[ZoneInfo14]
+LocationName="Red Flag Room"
+
+[ZoneInfo15]
+LocationName="Red BioRifle Entrance"
+
+[ZoneInfo16]
+LocationName="Red Shield Entrance"
+
+[ZoneInfo17]
+LocationName="Red Shield Entrance"
+
+[ZoneInfo18]
+LocationName="Red BioRifle Entrance"
+
+[ZoneInfo19]
+LocationName="Red Pillar Room"
+
+[ZoneInfo2]
+LocationName="Blue BioRifle Entrance"
+
+[ZoneInfo20]
+LocationName="Red BioRifle Entrance"
+
+[ZoneInfo21]
+LocationName="Red Flag Room"
+
+[ZoneInfo22]
+LocationName="Red Forward Flak Side"
+
+[ZoneInfo23]
+LocationName="Red Shield Entrance"
+
+[ZoneInfo24]
+LocationName="Blue Shield Entrance"
+
+[ZoneInfo25]
+LocationName="Blue Shield Entrance"
+
+[ZoneInfo26]
+LocationName="Blue BioRifle Entrance"
+
+[ZoneInfo27]
+LocationName="Blue Flag Room"
+
+[ZoneInfo28]
+LocationName="Blue Flag Room"
+
+[ZoneInfo29]
+LocationName="Red Flag Room"
+
+[ZoneInfo3]
+LocationName="Blue Rear Flak Side"
+
+[ZoneInfo30]
+LocationName="Red Rear Flak Side"
+
+[ZoneInfo31]
+LocationName="Red Rear Rocket Side"
+
+[ZoneInfo32]
+LocationName="Red Forward Flak Side"
+
+[ZoneInfo33]
+LocationName="Red Forward Rocket Side"
+
+[ZoneInfo34]
+LocationName="Red Forward Flak Side"
+
+[ZoneInfo35]
+LocationName="Blue Forward Rocket Side"
+
+[ZoneInfo36]
+LocationName="Blue Forward Flak Side"
+
+[ZoneInfo38]
+LocationName="Red BioRifle Entrance"
+
+[ZoneInfo39]
+LocationName="Red Shield Entrance"
+
+[ZoneInfo4]
+LocationName="Blue Pillar Room"
+
+[ZoneInfo5]
+LocationName="Blue Forward Flak Side"
+
+[ZoneInfo6]
+LocationName="Blue Forward Rocket Side"
+
+[ZoneInfo7]
+LocationName="Red Pillar Room"
+
+[ZoneInfo8]
+LocationName="Blue Shield Entrance"
+
+[ZoneInfo9]
+LocationName="Blue BioRifle Entrance"
+

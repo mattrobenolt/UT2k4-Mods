@@ -1,0 +1,118 @@
+[LevelInfo0]
+Title="Twin Tombs"
+
+[LevelSummary]
+Title="Twin Tombs"
+Description="Der Winter ist über die Gräber hereingebrochen, und die Toten sind rastlos. Diese elegante Nachstellung der Twin Tombs der Brüder Ramses III und Rudamon ist bekannt für ihre Schnelligkeit, Brutalität und Heimtücke - genauso wie die dort begrabenen Pharaonen."
+
+[ZoneInfo0]
+LocationName="BLAUER oberer Gang"
+
+[ZoneInfo1]
+LocationName="BLAUE Basis"
+
+[ZoneInfo11]
+LocationName="ROTE Basis"
+
+[ZoneInfo12]
+LocationName="ROTER unterer Gang"
+
+[ZoneInfo13]
+LocationName="ROTE Sprungrampen"
+
+[ZoneInfo15]
+LocationName="BLAUE Sprungrampen"
+
+[ZoneInfo16]
+LocationName="ROTER oberer Gang"
+
+[ZoneInfo17]
+LocationName="ROTES Dach"
+
+[ZoneInfo18]
+LocationName="BLAUER unterer Gang"
+
+[ZoneInfo19]
+LocationName="BLAUER oberer Gang"
+
+[ZoneInfo2]
+LocationName="Außenbereich"
+
+[ZoneInfo21]
+LocationName="ROTER unterer Gang"
+
+[ZoneInfo23]
+LocationName="ROTER unterer Gang"
+
+[ZoneInfo24]
+LocationName="BLAUES Dach"
+
+[ZoneInfo26]
+LocationName="ROTE Basis"
+
+[ZoneInfo27]
+LocationName="BLAUER unterer Gang"
+
+[ZoneInfo28]
+LocationName="BLAUES Foyer"
+
+[ZoneInfo29]
+LocationName="BLAUES Foyer"
+
+[ZoneInfo3]
+LocationName="ROTES Foyer"
+
+[ZoneInfo30]
+LocationName="BLAUER oberer Gang"
+
+[ZoneInfo31]
+LocationName="BLAUER oberer Gang"
+
+[ZoneInfo32]
+LocationName="BLAUER oberer Gang"
+
+[ZoneInfo33]
+LocationName="BLAUER Flaggenraum"
+
+[ZoneInfo34]
+LocationName="BLAUER oberer Gang"
+
+[ZoneInfo35]
+LocationName="BLAUER unterer Gang"
+
+[ZoneInfo36]
+LocationName="BLAUE Basis"
+
+[ZoneInfo37]
+LocationName="BLAUER unterer Gang"
+
+[ZoneInfo38]
+LocationName="BLAUER oberer Gang"
+
+[ZoneInfo39]
+LocationName="ROTER oberer Gang"
+
+[ZoneInfo4]
+LocationName="ROTES Foyer"
+
+[ZoneInfo40]
+LocationName="BLAUES Dach"
+
+[ZoneInfo42]
+LocationName="ROTER unterer Gang"
+
+[ZoneInfo43]
+LocationName="ROTES Dach"
+
+[ZoneInfo5]
+LocationName="ROTER oberer Gang"
+
+[ZoneInfo6]
+LocationName="ROTER oberer Gang"
+
+[ZoneInfo8]
+LocationName="ROTER Flaggenraum"
+
+[ZoneInfo9]
+LocationName="ROTER oberer Gang"
+

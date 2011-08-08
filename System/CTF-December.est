@@ -1,0 +1,131 @@
+[LevelInfo0]
+Title="December"
+
+[LevelSummary]
+Title="December"
+
+[ZoneInfo0]
+LocationName="Acceso inferior Azules"
+
+[ZoneInfo1]
+LocationName="Plataforma Azules"
+
+[ZoneInfo10]
+LocationName="Salida de tubería Rojos"
+
+[ZoneInfo11]
+LocationName="Acceso a bandera roja"
+
+[ZoneInfo12]
+LocationName="Puertas Rojos (Derecha)"
+
+[ZoneInfo13]
+LocationName="Ascensor 2 Rojos"
+
+[ZoneInfo14]
+LocationName="Cámara de contención Azules"
+
+[ZoneInfo16]
+LocationName="Base de bandera roja"
+
+[ZoneInfo17]
+LocationName="Base de bandera roja"
+
+[ZoneInfo18]
+LocationName="Sala de entrada Azules"
+
+[ZoneInfo19]
+LocationName="Escaleras de entrada Azules"
+
+[ZoneInfo20]
+LocationName="Vestíbulo Azules"
+
+[ZoneInfo21]
+LocationName="Acceso inferior Rojos"
+
+[ZoneInfo22]
+LocationName="Cruce Azules"
+
+[ZoneInfo23]
+LocationName="Sala de acceso Azules"
+
+[ZoneInfo24]
+LocationName="Puertas Azules (Izquierda)"
+
+[ZoneInfo25]
+LocationName="Salida de tubería Azules"
+
+[ZoneInfo26]
+LocationName="Acceso bandera azul"
+
+[ZoneInfo27]
+LocationName="Sala de entrada Rojos"
+
+[ZoneInfo28]
+LocationName="Puertas Azules (Derecha)"
+
+[ZoneInfo29]
+LocationName="Ascensor 2 Azules"
+
+[ZoneInfo3]
+LocationName="Escaleras de entrada Rojos"
+
+[ZoneInfo31]
+LocationName="Base de bandera azul"
+
+[ZoneInfo32]
+LocationName="Base de bandera azul"
+
+[ZoneInfo34]
+LocationName="Entrada al Búnker Rojos"
+
+[ZoneInfo35]
+LocationName="Búnker Azules"
+
+[ZoneInfo36]
+LocationName="Pasadizo inferior Rojos"
+
+[ZoneInfo38]
+LocationName="Muelles"
+
+[ZoneInfo39]
+LocationName="Sala de ascensor Rojos"
+
+[ZoneInfo4]
+LocationName="Vestíbulo Rojos"
+
+[ZoneInfo40]
+LocationName="Pasadizo inferior Azules"
+
+[ZoneInfo41]
+LocationName="Sala aux. Rojos"
+
+[ZoneInfo42]
+LocationName="Sala de ascensor Azules"
+
+[ZoneInfo43]
+LocationName="Sala aux. Azules"
+
+[ZoneInfo44]
+LocationName="Ascensor 1 Rojos"
+
+[ZoneInfo45]
+LocationName="Ascensor 1 Azules"
+
+[ZoneInfo46]
+LocationName="Búnker Rojos"
+
+[ZoneInfo47]
+LocationName="Cámara de contención Rojos"
+
+[ZoneInfo5]
+LocationName="Plataforma Rojos"
+
+[ZoneInfo6]
+LocationName="Cruce Rojos"
+
+[ZoneInfo7]
+LocationName="Puertas Rojos (Izquierda)"
+
+[ZoneInfo8]
+LocationName="Sala de acceso Rojos"

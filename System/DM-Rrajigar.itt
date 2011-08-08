@@ -1,0 +1,22 @@
+[LevelInfo0]
+Title="Rrajigar"
+
+[LevelSummary]
+Title="Rrajigar"
+Description="Combatti nelle miniere di Rrajigar."
+
+[Volume0]
+LocationName="Zona macchine"
+
+[Volume1]
+LocationName="Cascata"
+
+[Volume2]
+LocationName="Zona dello schermo"
+
+[Volume3]
+LocationName="Zona shock"
+
+[WaterVolume0]
+LocationName="Fiume"
+

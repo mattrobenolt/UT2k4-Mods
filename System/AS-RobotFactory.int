@@ -1,0 +1,148 @@
+[DestroyableObjective_SM0]
+DestructionMessage="Outer defenses breached!"
+ObjectiveDescription="Destroy the gate"
+Objective_Info_Attacker="Destroy the gate"
+Objective_Info_Defender="Defend the main gate"
+
+[DestroyableObjective_SM1]
+ObjectiveName="Data Cables"
+DestructionMessage="Data Cables Cut!"
+ObjectiveDescription="Cut the Data Cables"
+Objective_Info_Attacker="Cut the Data Cables"
+Objective_Info_Defender="Defend the data cables"
+
+[DestroyableObjective_SM2]
+ObjectiveName="Shield Component 1"
+DestructionMessage="Shield generator destroyed!"
+ObjectiveDescription="Shatter the shield nexus"
+Objective_Info_Attacker="Destroy shield component"
+Objective_Info_Defender="Defend the shield nexus"
+
+[DestroyableObjective_SM3]
+ObjectiveName="Shield Component 3"
+DestructionMessage="Shield generator destroyed!"
+ObjectiveDescription="Shatter the shield nexus"
+Objective_Info_Attacker="Destroy shield component"
+Objective_Info_Defender="Defend the shield nexus"
+
+[DestroyableObjective_SM4]
+ObjectiveName="Shield Component 2"
+DestructionMessage="Shield generator destroyed!"
+ObjectiveDescription="Shatter the shield nexus"
+Objective_Info_Attacker="Destroy shield component"
+Objective_Info_Defender="Defend the shield nexus"
+
+[DestroyableObjective_SM5]
+ObjectiveName="AI Generator"
+DestructionMessage="AI generator destroyed!"
+ObjectiveDescription="Destroy the AI generator"
+Objective_Info_Attacker="Destroy the AI generator"
+Objective_Info_Defender="Defend the AI generator"
+
+[HoldObjective2]
+ObjectiveName="teleporter_activation"
+DestructionMessage="Attackers' new spawn location ready"
+ObjectiveDescription="Align the satellite dish"
+Objective_Info_Attacker="Align the satellite dish"
+Objective_Info_Defender="Defend the satellite controls"
+
+[LevelInfo0]
+Title="Robot Factory"
+
+[LevelSummary]
+Title="Robot Factory"
+Description="This scenario is a recreation of the Liandri robot uprising on the mechanical asteroid of LBX-7683 and the subsequent quelling of this rebellion by human forces. LBX-7683 was an outpost for research and development of the next generation of Liandri robots. Liandri's best scientists were able to introduce increasingly sophisticated artificial intelligence into the machines that they designed. Eventually, they rebelled against the humans and took the asteroid as their own, brutally disposing of their creators and mining the rich materials embedded within the rock for their own gain. Liandri's commanders devised a plan to strike directly at the production facility manufacturing the robots. During an all-out assault on the world, a small team was inserted with the sole goal of destroying the AI generators, thereby destroying the ability of the machines to reproduce themselves and ending this uprising."
+
+[SceneSubtitles0]
+SubTitles=("This scenario is a recreation of the Liandri robot uprising on the mechanical planet of LBX-7683","and the subsequent quelling of this rebellion by human forces.","LBX-7683 was an outpost for research and development of the next generation of Liandri robots.","Liandri's best scientists were able to introduce increasingly sophisticated artificial intelligence into the machines that they designed.","Eventually, they rebelled against the humans and took the planet, and surrounding moons, as their own,","brutally disposing of their creators and mining the rich materials embedded within the rock for their own gain.","Liandri's commanders devised a plan to strike directly at the production facility manufacturing the robots.","During an all-out assault on the world, a small team was inserted with the sole goal of destroying the AI generators,","thereby destroying the ability of the machines to reproduce themselves and ending this uprising.","You have landed near the robot factory's docking and loading facilities.","Your goal is to breach the factory's defenses and destroy the AI generator.","First, you must align the Satellite Dish to contact your HeadQuarters.","Then, destroy the gate that blocks entrance to the factory.",,"Once the Factory has been infiltrated, you must cut the data cables.",,"Shatter the three components of the shield nexus to uncover the AI generator.",,"Destroy the AI generator to stop the Robot production.")
+
+[Volume0]
+LocationName="Outside the access door"
+
+[Volume1]
+LocationName="Northern deck"
+
+[Volume3]
+LocationName="Attackers' staging area"
+
+[Volume4]
+LocationName="Deck control room"
+
+[Volume6]
+LocationName="Southern deck"
+
+[ZoneInfo0]
+LocationName="AI Generator"
+
+[ZoneInfo1]
+LocationName="Outside Loading Deck"
+
+[ZoneInfo11]
+LocationName="Packaging chamber"
+
+[ZoneInfo12]
+LocationName="Data transfer hall"
+
+[ZoneInfo13]
+LocationName="Warehouse"
+
+[ZoneInfo14]
+LocationName="Generator Control room"
+
+[ZoneInfo15]
+LocationName="Crusher plant"
+
+[ZoneInfo16]
+LocationName="Factory entrance"
+
+[ZoneInfo18]
+LocationName="Generator Control room"
+
+[ZoneInfo2]
+LocationName="AI Conveyor Belts"
+
+[ZoneInfo20]
+LocationName="Warehouse"
+
+[ZoneInfo21]
+LocationName="Duct to data transfer hall"
+
+[ZoneInfo22]
+LocationName="Packaging chamber"
+
+[ZoneInfo23]
+LocationName="Packaging chamber"
+
+[ZoneInfo24]
+LocationName="Shield Generator Annex"
+
+[ZoneInfo25]
+LocationName="Data transfer hall"
+
+[ZoneInfo26]
+LocationName="AI Generator"
+
+[ZoneInfo27]
+LocationName="Crusher plant"
+
+[ZoneInfo28]
+LocationName="AI Conveyor Belts"
+
+[ZoneInfo3]
+LocationName="Duct to data transfer hall"
+
+[ZoneInfo4]
+LocationName="Data hub chamber"
+
+[ZoneInfo5]
+LocationName="Shield generators"
+
+[ZoneInfo6]
+LocationName="Deck Control room"
+
+[ZoneInfo7]
+LocationName="Cine Forces"
+
+[ZoneInfo9]
+LocationName="Shield Generator Annex"
+

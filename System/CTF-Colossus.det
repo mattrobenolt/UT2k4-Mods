@@ -1,0 +1,33 @@
+[LevelInfo0]
+Title="Colossus"
+
+[LevelSummary]
+Title="Colossus"
+Description="Taktisch erfahrene Spieler können praktisch unversehrt zur Flagge gelangen, indem sie sich die Tatsache zunutze machen, dass man sich auf der hohen Ebene schnell fortbewegen kann und die untere Ebene viel Deckung bietet. Mit der Flagge zurückzukehren ist aber eine ganz andere Geschichte ..."
+
+[Volume0]
+LocationName="Hintere BLAUE Basis"
+
+[Volume1]
+LocationName="Vordere BLAUE Basis"
+
+[Volume2]
+LocationName="Neutrale Zone"
+
+[Volume3]
+LocationName="Vordere ROTE Basis"
+
+[Volume4]
+LocationName="Hintere ROTE Basis"
+
+[ZoneInfo1]
+LocationName="ROTER Bunker"
+
+[ZoneInfo2]
+LocationName="BLAUER Bunker"
+
+[xBlueFlagBase0]
+ObjectiveName="BLAUE Flaggenbasis"
+
+[xRedFlagBase0]
+ObjectiveName="ROTE Flaggenbasis"

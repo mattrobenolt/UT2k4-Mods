@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title="Serenità"
+
+[LevelSummary]
+Title="Serenità"
+Description="Senti la brezza sulla pelle, ascolta i richiami della foresta, osserva la danza delle lucciole nella radura, lasciati pervadere da un senso di serenità sempre più profondo. E ora... raccogli il tuo cannone Flak e semina morte e distruzione!"
+
+[Volume1]
+LocationName="lato blu del campo centrale"
+
+[Volume2]
+LocationName="campo centrale"
+
+[Volume3]
+LocationName="base rossa"
+
+[Volume4]
+LocationName="lato rosso del campo centrale"
+
+[Volume5]
+LocationName="base blu"
+
+[WaterVolume0]
+LocationName="in una tomba d'acqua"
+
+[WaterVolume1]
+LocationName="in una tomba d'acqua"
+
+[WaterVolume2]
+LocationName="si nasconde nella cascata del campo centrale"
+
+[xFallingVolume0]
+LocationName="finisce in una tomba d'acqua"
+
+[xFallingVolume1]
+LocationName="finisce in una tomba d'acqua"
+

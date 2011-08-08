@@ -1,0 +1,4 @@
+[Public]
+
+Player=(DefaultName="Leela",Mesh=Leelaanim.Leela,species=xGame.SPECIES_Merc,BodySkin=Leela.LeelaBody,FaceSkin=Leela.LeelaHead,Portrait=Leela.LeelaPortrait,Voice=Leelavoice.Leelavoice,Text="Name:  Leela|Age:   25ish|Race:  Human Mutant|Data:|With too much time on her hands since the cancellation of Futurama, Leela has turned to the tournament as a means of working out her aggression.  Motivates herself by imagining all her opponents are either Zapp Brannigan or Rupert Murdoch.||"Sex=female,Menu="SP",Aggressiveness=+0.5,CombatStyle=+0.6,FavoriteWeapon=xWeapons.RocketLauncher,Ragdoll=Female,Voice=Leelavoice.Leela)
+

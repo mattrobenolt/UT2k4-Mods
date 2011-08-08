@@ -1,0 +1,27 @@
+[Public]
+Object=(Name=UTV2004.UTVCommandlet,Class=Class,MetaClass=Core.Commandlet)
+
+[UTVCommandlet]
+HelpCmd=utv
+HelpOneLiner=Starts an UTV2004 Server
+HelpUsage=utv [serveraddress=<addr>] [serverport=<port>] [listenport=<port>] [primarypassword=<pass>] [vippassword=<pass>] [normalpassword=<pass>] [joinpassword=<pass>] [delay=<seconds>] [maxclients=<num>] [seeall=<1/0>]
+HelpParm[0]=서버 주소
+HelpDesc[0]=프록시가 연결되어야 하는 IP 주소
+HelpParm[1]=서버포트
+HelpDesc[1]=프록시가 연결되어야 하는 서버의 포트
+HelpParm[2]=전송포트
+HelpDesc[2]=클라이이언트를 전송하는 프록시의 포트 
+HelpParm[3]=우선패스워드
+HelpDesc[3]=1차적 클라이언트가 되기 위한 패스워드
+HelpParm[4]=vip 패스워드
+HelpDesc[4]=최대 클라이언트를 초과할 수 있는 패스워드
+HelpParm[5]=일반 패스워드
+HelpDesc[5]=클라이언트가 프록시에 접속하는 패스워드
+HelpParm[6]=참가 패스워드
+HelpDesc[6]=프록스가 게임에 접속할 때 쓰이는 패스워드
+HelpParm[7]=딜레이
+HelpDesc[7]=서버에서 정보를 가지고 오는 동안 걸리는 시간
+HelpParm[8]=최대 클라이언트
+HelpDesc[8]=이 프록시에 접속할 수 있는 최대 클라이언트 수
+HelpParm[9]=모두보기/SEE ALL
+HelpDesc[9]=프록시가 모두보기 모드를 사용하는가를 결정한다

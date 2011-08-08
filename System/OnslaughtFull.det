@@ -1,0 +1,46 @@
+[DamTypeIonTankBlast]
+DeathString="%o wurde AUSGELÖSCHT"
+FemaleSuicide="%o wurde AUSGELÖSCHT"
+MaleSuicide="%o wurde AUSGELÖSCHT"
+
+[DamTypeMASCannon]
+DeathString="%o wurde von %k PULVERISIERT!"
+FemaleSuicide="%o wurde PULVERISIERT!"
+MaleSuicide="%o wurde PULVERISIERT!"
+
+[MutVehicleArena]
+ArenaDisplayText="Arenafahrzeug"
+ArenaDescText="Bestimmt, welcher Fahrzeugtyp im Spiel verwendet wird."
+FriendlyName="Fahrzeugarena"
+Description="Alle Fahrzeuge auf der Map durch einen bestimmten Typ ersetzen."
+
+[ONSBomber]
+VehiclePositionString="in einer DragonFly"
+VehicleNameString="DragonFly"
+
+[ONSGenericSD]
+VehiclePositionString="außer Gefecht"
+VehicleNameString="TC-1200"
+
+[ONSHoverTank_IonPlasma]
+VehiclePositionString="in einem Ionenplasma-Panzer"
+VehicleNameString="Ionenplasma-Panzer"
+
+[ONSMASSideGunPawn]
+VehiclePositionString="in einem Leviathan-Turm"
+VehicleNameString="Leviathan-Turm"
+
+[ONSMobileAssaultStation]
+VehiclePositionString="in einem Leviathan"
+VehicleNameString="Leviathan"
+
+[ONSPainter]
+Description="Der Target Painter funktioniert ähnlich wie der Ion Painter. Er feuert einen harmlosen Niedrigenergie-Laser mit dem Primärfeuer ab. Im Gegensatz zum Ion Painter ruft diese Waffe jedoch einen Bomber herbei, der einen Bombenteppich in die Richtung abwirft, in die der Benutzer blickt, d.h. auf das markierte Ziel. Die Bomben äschern das Ziel und alle Unglückseligen ein, die sich gerade in dessen Nähe befinden."
+ItemName="Target Painter"
+
+[ONSPainterPickup]
+PickupMessage="Sie haben den Target Painter."
+
+[ONSTankSecondaryTurretPawn_IonPlasma]
+VehiclePositionString="in einem Ion Tank-Turm"
+VehicleNameString="Ion Tank Minigun-Turm"

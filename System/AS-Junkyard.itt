@@ -1,0 +1,99 @@
+[ASOBJ_EnergyCore_Delivery0]
+DestructionMessage="Il veicolo è stato riparato!"
+ObjectiveDescription="Consegna il nucleo energetico per riparare il veicolo."
+Objective_Info_Attacker="Riporta il nucleo al veicolo"
+Objective_Info_Defender="Impedisci agli attaccanti di riportare il nucleo"
+
+[ASOBJ_EnergyCore_Spawn0]
+ObjectiveDescription="Devi raccogliere il nucleo energetico e riportarlo al veicolo per riparare quest'ultimo."
+Objective_Info_Attacker="Trova il nucleo energetico"
+Objective_Info_Defender="Proteggi il nucleo energetico"
+
+[HoldObjective0]
+DestructionMessage="Cancello del punto di controllo aperto!"
+ObjectiveDescription="Recati presso il comando per aprire il cancello."
+Objective_Info_Attacker="Apri il cancello del punto di controllo"
+Objective_Info_Defender="Difendi il comando del punto di controllo"
+
+[HoldObjective1]
+DestructionMessage="Il ponte levatoio è abbassato!"
+ObjectiveDescription="Rimani presso il comando per abbassare il ponte."
+Objective_Info_Attacker="Abbassa il ponte"
+Objective_Info_Defender="Difendi il comando del ponte"
+
+[LevelInfo0]
+Title="Fuga dal deposito rottami"
+
+[LevelSummary]
+Title="Fuga dal deposito rottami"
+Description="Questo scenario è ispirato a un famoso episodio trasmesso in olovisione. Nell'episodio originale, due squadre di meccanici gareggiavano per rendere operativo il loro veicolo e fuggire dal deposito prima dell'altra. Sorprendendo tutti, la squadra che stava perdendo si servì di un'arma realizzata al momento per eliminare i rivali prima che riuscissero a fuggire. Siccome nessuna regola proibiva esplicitamente il ricorso alla violenza, questa squadra fu dichiarata vincitrice. Così nacque un nuovo classico del Torneo."
+
+[ProximityObjective0]
+DestructionMessage="Gli attaccanti sono fuggiti dal deposito rottami!"
+ObjectiveDescription="Fuggi dal deposito rottami."
+Objective_Info_Attacker="Raggiungi il cancello principale"
+Objective_Info_Defender="Proteggi il cancello principale"
+
+[ProximityObjective2]
+DestructionMessage="Il ponte è stato attraversato!"
+ObjectiveDescription="Attraversa il ponte per proseguire."
+Objective_Info_Attacker="Attraversa il ponte"
+Objective_Info_Defender="Difendi il ponte"
+
+[ProximityObjective3]
+DestructionMessage="Punto di controllo catturato!"
+ObjectiveDescription="Cattura il punto di controllo per procedere."
+Objective_Info_Attacker="Cattura il punto di controllo"
+Objective_Info_Defender="Difendi il punto di controllo"
+
+[SceneSubtitles0]
+SubTitles=("Questo scenario è ispirato a un famoso episodio trasmesso in olovisione.","Nell'episodio originale, due squadre di meccanici gareggiavano per rendere operativo il loro veicolo e fuggire dal deposito prima dell'altra.","Sorprendendo tutti, la squadra che stava perdendo si servì di un'arma realizzata al momento per eliminare i rivali prima che riuscissero a fuggire","Siccome nessuna regola proibiva esplicitamente il ricorso alla violenza, questa squadra fu dichiarata vincitrice. Così nacque un nuovo classico del Torneo.","Devi trovare e recuperare il nucleo energetico del veicolo che si trova all'interno del deposito di rottami e riportarlo al tuo veicolo.","Quando il tuo veicolo diventa operativo, devi guidarlo attraverso il deposito di rottami e il cancello principale.","Per attraversare il ponte levatoio, devi abbassarlo premendo questo interruttore.","Una volta attraversato il ponte, devi raggiungere il punto di controllo.","Puoi raggiungere il punto di controllo seguendo questo percorso e aprendo i cancelli.","È anche possibile usare il magnete. Ti permetterà un percorso molto più breve, ma sarai molto più esposto e a rischio.","Una volta raggiunto il punto di controllo, vai verso il cancello principale per la tua fuga.")
+
+[Volume10]
+LocationName="Collina del magnete"
+
+[Volume11]
+LocationName="Scorciatoia per il magnete"
+
+[Volume12]
+LocationName="Cumulo di tubi"
+
+[Volume13]
+LocationName="Galleria dei rottami"
+
+[Volume14]
+LocationName="Demolitore di auto"
+
+[Volume15]
+LocationName="Drive in"
+
+[Volume16]
+LocationName="Punto di controllo"
+
+[Volume17]
+LocationName="Bagno"
+
+[Volume18]
+LocationName="Torre di comunicazioni"
+
+[Volume19]
+LocationName="Cancello principale"
+
+[Volume4]
+LocationName="Torre del nucleo"
+
+[Volume5]
+LocationName="Collina di difesa"
+
+[Volume7]
+LocationName="Ponte"
+
+[Volume8]
+LocationName="Garage"
+
+[Volume9]
+LocationName="Buca in fiamme"
+
+[ZoneInfo1]
+LocationName="Il deposito rottami"
+

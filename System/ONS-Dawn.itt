@@ -1,0 +1,34 @@
+[LevelInfo0]
+Title="Alba"
+
+[LevelSummary]
+Title="Alba"
+Description="Nel 2352, un'eruzione vulcanica anomala alla periferia di Gerusalemme ha parzialmente dissotterrato un centro abitato che si trovava in profondità, sotto la città perduta di Ekron. Dopo quattro anni di scavi, si è scoperta una civiltà molto più antica della storia umana. Il sito è stato poi acquistato dalla Corporazione Liandri, così le anime dei combattenti morti nell'arena potranno tenere compagnia agli antichissimi cadaveri qui sepolti."
+
+
+[Volume0]
+LocationName="Base blu"
+
+[Volume1]
+LocationName="Base rossa"
+
+[Volume10]
+LocationName="Nodo centro-ovest"
+
+[Volume5]
+LocationName="Nodo nord-est"
+
+[Volume6]
+LocationName="Nodo nord-ovest"
+
+[Volume7]
+LocationName="Node sud-ovest"
+
+[Volume8]
+LocationName="Nodo sud-est"
+
+[Volume9]
+LocationName="Nodo centro-est"
+
+[ZoneInfo0]
+LocationName="Esterno"

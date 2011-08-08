@@ -1,0 +1,54 @@
+[LevelInfo0]
+Title="Tutorial Dominación"
+
+[LevelSummary]
+Title="Tutorial Dominación"
+
+[ZoneInfo0]
+LocationName="Interior"
+
+[ZoneInfo1]
+LocationName="Pasillo Negro B"
+
+[ZoneInfo14]
+LocationName="Exterior"
+
+[ZoneInfo15]
+LocationName="Interior"
+
+[ZoneInfo16]
+LocationName="Aparición Azul"
+
+[ZoneInfo17]
+LocationName="Pasillo Frontal A"
+
+[ZoneInfo18]
+LocationName="Pasillo Frontal A"
+
+[ZoneInfo19]
+LocationName="Habitación A"
+
+[ZoneInfo20]
+LocationName="Pasillo Negro A"
+
+[ZoneInfo3]
+LocationName="Interior"
+
+[ZoneInfo4]
+LocationName="Interior"
+
+[ZoneInfo5]
+LocationName="Interior"
+
+[ZoneInfo6]
+LocationName="Pasilo Frontal B"
+
+[ZoneInfo7]
+LocationName="Aparición Roja"
+
+[ZoneInfo8]
+LocationName="Pasillo Frontal B"
+
+[ZoneInfo9]
+LocationName="Habitación B"
+

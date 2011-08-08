@@ -1,0 +1,60 @@
+[LevelInfo0]
+Title="Asbestos"
+
+[LevelSummary]
+Title="Asbestos"
+
+[Trigger0]
+Message="0wnage"
+
+[Trigger1]
+Message="0wnage"
+
+[ZoneInfo0]
+LocationName="Fulminatore"
+
+[ZoneInfo10]
+LocationName="Piscina piccola"
+
+[ZoneInfo13]
+LocationName="Fucile Link"
+
+[ZoneInfo14]
+LocationName="Flak"
+
+[ZoneInfo15]
+LocationName="Fucile Shock"
+
+[ZoneInfo16]
+LocationName="Ascensore Flak"
+
+[ZoneInfo17]
+LocationName="Fulminatore"
+
+[ZoneInfo18]
+LocationName="Biofucile"
+
+[ZoneInfo19]
+LocationName="Danni doppi"
+
+[ZoneInfo2]
+LocationName="Danni doppi"
+
+[ZoneInfo3]
+LocationName="Fulminatore"
+
+[ZoneInfo4]
+LocationName="Fucile Shock"
+
+[ZoneInfo5]
+LocationName="Danni doppi"
+
+[ZoneInfo6]
+LocationName="Flak"
+
+[ZoneInfo7]
+LocationName="Ascensore danni doppi"
+
+[ZoneInfo8]
+LocationName="Fucile Shock"
+

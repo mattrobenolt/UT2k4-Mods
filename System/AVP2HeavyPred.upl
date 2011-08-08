@@ -1,0 +1,14 @@
+[Public]
+Player=(DefaultName="AVP2 Heavy Predator",Race="ICCS",Mesh=HeavyPred.HeavyPred,species=xGame.SPECIES_Alien,BodySkin=HeavyPred.Legs,FaceSkin=HeavyPred.Torso,Portrait=HeavyPred.Masked,Sex=Male,Menu="",TeamFace=1,Voice=Predator3.Predator3,Text="Name: AVP2 Heavy Predator|Age: Unknown|Race:  ICCS||Data:||From the AVP2 online game, Heavy Predator enters the tournament.||")
+
+Player=(DefaultName="AVP2 Heavy Predator with Alien Drone Armor",Race="ICCS",Mesh=HeavyPred.HeavyPredDrone,species=xGame.SPECIES_Alien,BodySkin=HeavyPred.Legs,FaceSkin=HeavyPred.Torso,Portrait=HeavyPred.DroneMasked,Sex=Male,Menu="",TeamFace=1,Voice=Predator3.Predator3,Text="Name: AVP2 Heavy Predator|Age: Unknown|Race:  ICCS||Data:||AVP2 Heavy Predator with Alien Drone Armor.||")
+
+Player=(DefaultName="AVP2 Heavy Predator Unmasked",Race="ICCS",Mesh=HeavyPred.HeavyPredUnmasked,species=xGame.SPECIES_Alien,BodySkin=HeavyPred.Legs,FaceSkin=HeavyPred.Torso,Portrait=HeavyPred.UnMasked,Sex=Male,Menu="",TeamFace=1,Voice=Predator3.Predator3,Text="Name: AVP2 Heavy Predator|Age: Unknown|Race:  ICCS||Data:||AVP2 Heavy Predator Unmasked.||")
+
+Player=(DefaultName="AVP2 Heavy Predator Unmasked with Alien Drone Armor",Race="ICCS",Mesh=HeavyPred.HeavyPredDroneUnmasked,species=xGame.SPECIES_Alien,BodySkin=HeavyPred.Legs,FaceSkin=HeavyPred.Torso,Portrait=HeavyPred.DroneUnmasked,Sex=Male,Menu="",TeamFace=1,Voice=Predator3.Predator3,Text="Name: AVP2 Heavy Predator|Age: Unknown|Race:  ICCS||Data:||AVP2 Heavy Predator Unmasked with Alien Drone Armor.||")
+
+Player=(DefaultName="AVP2 Heavy Predator - Tatical Armor",Race="ICCS",Mesh=HeavyPred.HPUnmaskedNoSkull,species=xGame.SPECIES_Alien,BodySkin=HeavyPred.Legs2,FaceSkin=HeavyPred.Torso2,Portrait=HeavyPred.TacVersion,Sex=Male,Menu="",TeamFace=1,Voice=Predator3.Predator3,Text="Name: AVP2 Heavy Predator|Age: Unknown|Race:  ICCS||Data:||AVP2 Heavy Predator Unmasked  with Tatical Armor variant.||")
+
+Player=(DefaultName="AVP2 Heavy Predator Drone Hunter",Race="ICCS",Mesh=HeavyPred.HPDroneHunter,species=xGame.SPECIES_Alien,BodySkin=HeavyPred.Legs3,FaceSkin=HeavyPred.Torso3,Portrait=HeavyPred.DroneHunter,Sex=Male,Menu="",TeamFace=1,Voice=Predator3.Predator3,Text="Name: AVP2 Heavy Predator Drone Hunter|Age: Unknown|Race:  ICCS||Data:||AVP2 Heavy Predator Drone Hunter.||")
+
+Player=(DefaultName="AVP2 Heavy Predator Drone Hunter Killer",Race="ICCS",Mesh=HeavyPred.HPDroneHunterKiller,species=xGame.SPECIES_Alien,BodySkin=HeavyPred.Legs3,FaceSkin=HeavyPred.Torso3,Portrait=HeavyPred.DroneHunterKiller,Sex=Male,Menu="",TeamFace=1,Voice=Predator3.Predator3,Text="Name: AVP2 Heavy Predator Drone Hunter Killer|Age: Unknown|Race:  ICCS||Data:||AVP2 Heavy Predator Drone Hunter Killer.||")

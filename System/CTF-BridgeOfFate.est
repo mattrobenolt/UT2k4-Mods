@@ -1,0 +1,124 @@
+[LevelInfo0]
+Title="Bridge of Fate"
+
+[LevelSummary]
+Title="Bridge of Fate"
+Description="Dos bandos, una gran caverna que los separa, un puente que une cada lado, cruzando el vacío que los separa, el vacío que une la esperanza y la desesperación."
+
+[ZoneInfo0]
+LocationName="Cueva central"
+
+[ZoneInfo1]
+LocationName="Entrada escudo azul"
+
+[ZoneInfo10]
+LocationName="Sala pilar azul"
+
+[ZoneInfo11]
+LocationName="Sala de bandera azul"
+
+[ZoneInfo12]
+LocationName="Lado cohete trasero azul"
+
+[ZoneInfo13]
+LocationName="Entrada biorifle azul"
+
+[ZoneInfo14]
+LocationName="Sala de bandera roja"
+
+[ZoneInfo15]
+LocationName="Entrada biorifle roja"
+
+[ZoneInfo16]
+LocationName="Entrada escudo roja"
+
+[ZoneInfo17]
+LocationName="Entrada escudo roja"
+
+[ZoneInfo18]
+LocationName="Entrada biorifle roja"
+
+[ZoneInfo19]
+LocationName="Sala pilar roja"
+
+[ZoneInfo2]
+LocationName="Entrada biorifle azul"
+
+[ZoneInfo20]
+LocationName="Entrada biorifle roja"
+
+[ZoneInfo21]
+LocationName="Sala de bandera roja"
+
+[ZoneInfo22]
+LocationName="Lado antiaéreo vanguardia rojo"
+
+[ZoneInfo23]
+LocationName="Entrada escudo roja"
+
+[ZoneInfo24]
+LocationName="Entrada escudo azul"
+
+[ZoneInfo25]
+LocationName="Entrada escudo azul"
+
+[ZoneInfo26]
+LocationName="Entrada biorifle azul"
+
+[ZoneInfo27]
+LocationName="Sala de bandera azul"
+
+[ZoneInfo28]
+LocationName="Sala de bandera azul"
+
+[ZoneInfo29]
+LocationName="Sala de bandera roja"
+
+[ZoneInfo3]
+LocationName="Lado antiaéreo trasero azul"
+
+[ZoneInfo30]
+LocationName="Lado antiaéreo trasero rojo"
+
+[ZoneInfo31]
+LocationName="Lado cohete trasero rojo"
+
+[ZoneInfo32]
+LocationName="Lado antiaéreo vanguardia rojo"
+
+[ZoneInfo33]
+LocationName="Lado cohete vanguardia rojo"
+
+[ZoneInfo34]
+LocationName="Lado antiaéreo vanguardia rojo"
+
+[ZoneInfo35]
+LocationName="Lado cohete vanguardia azul"
+
+[ZoneInfo36]
+LocationName="Lado antiaéreo vanguardia azul"
+
+[ZoneInfo38]
+LocationName="Entrada biorifle roja"
+
+[ZoneInfo39]
+LocationName="Entrada escudo roja"
+
+[ZoneInfo4]
+LocationName="Sala pilar azul"
+
+[ZoneInfo5]
+LocationName="Lado antiaéreo vanguardia azul"
+
+[ZoneInfo6]
+LocationName="Lado cohete vanguardia azul"
+
+[ZoneInfo7]
+LocationName="Sala pilar roja"
+
+[ZoneInfo8]
+LocationName="Entrada escudo azul"
+
+[ZoneInfo9]
+LocationName="Entrada biorifle azul"
+

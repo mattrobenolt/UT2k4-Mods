@@ -1,0 +1,51 @@
+[LevelInfo0]
+Title="Torlan"
+
+[LevelSummary]
+Title="Torlan"
+Description="Presso gli aridi confini di un fertile continente coperto di giungle, due fazioni lottano accanitamente per controllare un'importante torre di comunicazioni e il vicino generatore. Siccome la diga trattiene l'acqua proveniente dalla vicina giungla, il letto del fiume che attraversa questo scenario è in secca. È un comodo percorso di attacco al territorio nemico e può consentire una vittoria decisiva, che significa il possesso della preziosa torre."
+
+[Volume0]
+LocationName="Base blu"
+
+[Volume1]
+LocationName="Canyon centrale"
+
+[Volume10]
+LocationName="Punto di rientro centrale"
+
+[Volume11]
+LocationName="Canyon centrale"
+
+[Volume12]
+LocationName="Nodo energetico rosso 1"
+
+[Volume13]
+LocationName="Ponte della torre"
+
+[Volume2]
+LocationName="Base rossa"
+
+[Volume3]
+LocationName="Torre blu"
+
+[Volume4]
+LocationName="Torre rossa"
+
+[Volume5]
+LocationName="Nodo energetico centrale"
+
+[Volume6]
+LocationName="Nodo energetico rosso 2"
+
+[Volume7]
+LocationName="Nodo energetico blu 2"
+
+[Volume8]
+LocationName="Nodo energetico blu 1"
+
+[Volume9]
+LocationName="Torre centrale"
+
+[ZoneInfo0]
+LocationName="Esterno"

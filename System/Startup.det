@@ -1,0 +1,33 @@
+[General]
+Run="Los!"
+FirstTime="Unreal Tournament 2004 Erstkonfiguration"
+SafeMode="UT2004 - Sicherer Modus"
+RecoveryMode="UT2004 Wiederherstellen-Modus"
+WebPage="http://unreal.epicgames.com/versions.htm"
+Detecting="Suche nach vorhan. 3D-Geräten, warten ..."
+
+[IDDIALOG_ConfigPageDetail]
+IDC_ConfigPageDetail=""
+IDC_DetailPrompt="Auf Basis Ihrer Rechnermerkmale (Geschwindigkeit, Speicher, Grafikkarte) hat die Unreal-Engine folg. Einstellungen für optimale Leistung ausgewählt."
+IDC_DetailNote="Sie haben die Möglichkeit, diese Optionen später im Menü 'Einstellungen' zu ändern."
+
+[IDDIALOG_ConfigPageFirstTime]
+IDC_ConfigPageFirstTime=""
+IDC_Prompt="Unreal Tournament 2004 wird zum ersten Mal gestartet. Falls Probleme auftreten, lesen Sie bitte in den 'Versionshinweisen' nach (Startmenü / Programme / Unreal Tournament 2004)."
+
+[IDDIALOG_ConfigPageSafeMode]
+IDC_ConfigPageSafeMode=""
+IDC_SafeModePrompt="UT2004 wurde beim letzten Mal nicht ordnungsgemäß beendet. Falls dies mit einem Programmfehler zusammenhängt, können Sie folgende Wiederherstellen-Optionen verwenden."
+IDC_SafeModePrompt2="Optionen für Sicheren Modus von UT2004: Falls Probleme auftreten, folgende Wiederherstellen-Optionen verwenden."
+IDC_Run="Unreal Tournament 2004 starten"
+IDC_SafeMode="UT2004 im Sicheren Modus ausführen - zur Fehlerbehebung"
+IDC_Web="Website aufrufen - Tipps zur Fehlerbehebung"
+
+[IDDIALOG_ConfigPageSafeOptions]
+IDC_ConfigPageSafeOptions=""
+IDC_SafeOptions="Optionen für Sicheren Modus (zur Fehlerdiagnose)"
+IDC_NoSound="Sound deaktivieren"
+IDC_Res="Standardauflösung 640x480 wählen"
+IDC_ResetConfig="Alle Optionen auf Standardwerte setzen"
+IDC_NoProcessor="Pentium III/3DNow-Prozessor-Erweiterungen deakt."
+IDC_NoJoy="Joystick-Support deakt."

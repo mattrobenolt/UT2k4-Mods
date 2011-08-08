@@ -1,0 +1,69 @@
+[Setup]
+LocalProduct="Unreal Tournament 2004"
+DefaultFolder="C:\UT2004"
+ReadMe=Help\ReadMe.det.txt
+SetupWindowTitle=Unreal Tournament 2004 Setup
+AutoplayWindowTitle="Unreal Tournament 2004 Optionen"
+ProductURL=http://www.unrealtournament2004.com/
+VersionURL=http://unreal.epicgames.com/versions.htm
+Developer="Epic Games"
+DeveloperURL=http://www.epicgames.com/
+Logo=Help\InstallerLogo.bmp
+License=License.int
+
+[General]
+PlayLevelCommand="Dieses UT2004-Level spielen"
+OpenLinkCommand="Diesen UT2004-Link öffnen"
+InstallModuleCommand="Dieses UT2004-Modul installieren"
+EditLevelCommand="Dieses UT2004-Level bearbeiten"
+SafeDiscAdminRights="Sie müssen sich für dieses Programm als Administrator anmelden. Es ist für andere Benutzer nicht zugänglich."
+SafeDiscNoDisk="Kein Datenträger im Laufwerk. Bitte legen Sie den Datenträger mit der Aufschrift 'Unreal Tournament 2004 Play Disc' ein, um fortzufahren."
+SafeDiscNoDrive="Kein CD-ROM- oder DVD-Laufwerk gefunden."
+SafeDiscTitlebar="Unreal Tournament 2004"
+SafeDiscWrongDisc="Falscher Datenträger im Laufwerk. Bitte legen Sie den Datenträger mit der Aufschrift 'Unreal Tournament 2004 Play Disc' ein, um fortzufahren."
+
+[UnrealGameContentGroup]
+Caption="Spiel-Daten"
+Description="Installieren für optimale Leistung. Wenn Sie diese Option nicht wählen, werden die Daten während des Spiels von CD abgerufen. Dadurch verschlechtert sich die Performance, aber es wird weniger Platz auf der Festplatte benötigt."
+
+[GameGroup]
+Caption="UT2004 Spiel"
+Description="Installation ist erforderlich."
+
+[DirectXGroup]
+Caption="DirectX 9.0b"
+Description="Optionale Microsoft DirectX 9.0b-Treiber für verbesserte Grafik und Sound sowie Joystick-Support."
+
+[OpenALGroup]
+Caption="OpenAL"
+Description="Wird für bessere 3D-Soundeffekte benötigt."
+
+[Win2000XPGroup]
+Caption="Windows 2000/XP Direct3D"
+Description="Wird für Windows 2000/XP benötigt [befristet-wird nicht verschifft]."
+
+[EditorGroup]
+Caption="Unreal Editor"
+Description="Unreal World Editor zur Erstellung Ihrer eigenen 3D Unreal-Umgebung. Für fortgeschrittene Anwender; Installation optional."
+
+[PlayShortcut]
+Caption="UT2004 spielen"
+
+[SafeModeShortcut]
+Caption="UT2004 (Sicherer Modus)"
+
+[EditorShortcut]
+Caption="UT2004 Editor"
+
+[DocumentationShortcut]
+Caption="Versionshinweise"
+
+[WebShortcut]
+Caption="UT2004 Webseite"
+
+[UninstallShortcut]
+Caption="Unreal Tournament 2004 deinstallieren"
+
+[DesktopGroup]
+Caption="Desktop Verknüpfung"
+Description="Erstellen einer Destkop Verknüpfung zu UT2004"
