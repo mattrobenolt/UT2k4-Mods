@@ -1,0 +1,3 @@
+[Public]
+Player=(DefaultName="PaulTeutulSr",Mesh=Jugg.JuggMaleA,species=xGame.SPECIES_Bot,BodySkin=PaulTeutulSr.PaulTeutulSrBody,FaceSkin=PaulTeutulSr.PaulTeutulSrHead,Portrait=PaulTeutulSr.PaulTeutulSrPortrait,Text="Name: Paul Teutul Sr|Age: 55|Race: Homo Sapiens|       (Geneboosted)||Data:|This is one badass that would take your head off if you looked at him funny so don't...||",Sex=Male,Menu="",BodySkin=PaulTeutulSr.PaulTeutulSrBody,FaceSkin=PaulTeutulSr.PaulTeutulSrHead,Accuracy=-0.2,StrafingAbility=0.6,Tactics=0.5)
+

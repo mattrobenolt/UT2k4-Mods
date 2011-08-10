@@ -1,0 +1,2 @@
+[Public]
+Player=(DefaultName="HellBoy",Mesh=HellBoy.HellBoy,species=xGame.SPECIES_Night,BodySkin=hellboy_txtrs.hellboy_head,FaceSkin=hellboy_txtrs.hellboy_body,Portrait=hellboy_txtrs.hellboyp,Text=XPlayers.hellboy,Sex=Male,Menu="SP",Aggressiveness=+0.4,CombatStyle=+0.4,FavoriteWeapon=xWeapons.RocketLauncher,bJumpy=1,StrafingAbility=+0.5,Ragdoll=hellboy,Skeleton=hellboy.hellboy)

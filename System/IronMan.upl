@@ -1,0 +1,3 @@
+[Public]
+Player=(DefaultName="IronMan",Mesh=HumanMaleA.MercMaleA,species=xGame.SPECIES_Merc,Portrait=IronMan.IronManPortrait,Text=XPlayers.MercMaleAA,Sex=Male,FavoriteWeapon=xWeapons.RocketLauncher,BodySkin=IronMan.IronManBody,FaceSkin=IronMan.IronManHead,bJumpy=1,Tactics=-0.2,Aggressiveness=0.2,Accuracy=-0.1,StrafingAbility=0.5)
+

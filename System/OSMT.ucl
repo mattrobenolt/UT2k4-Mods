@@ -1,0 +1,1 @@
+Game=(ClassName=OSMT.OSMGame,GameName=OSMT.OSMGame.GameName,TeamGame=0,GameAcronym=OSM,MapPrefix=OSM,Screenshot=OSMTex.OSMGameScreen,MapListClassName=OSMT.MapList_OSMAdventure,Description=OSMT.OSMGame.Description,FallbackName="OSM Adventure",FallbackDesc="Story-driven adventures that offer monsters, traps and puzzles to conquer within a limited number of lives.")

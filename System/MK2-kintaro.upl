@@ -1,0 +1,2 @@
+[Public]
+Player=(DefaultName="Kintaro",Mesh=MK2-Kintaro_anim.MK2-Kintaro,species=xGame.SPECIES_Merc,BodySkin=MK2-Kintaro_tex.MK2-Kintaro,FaceSkin=MK2-Kintaro_tex.MK2-Kintaro,Portrait=MK2-Kintaro_tex.MK2-KintaroPort,Text=MK2-Kintaro.MK2-Kintaro,Sex=Male,Menu="",Ragdoll=Male,Tactics=2.0,StrafingAbility=+2.0,Accuracy=0.5,BotUse=1)

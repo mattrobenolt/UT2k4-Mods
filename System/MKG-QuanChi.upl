@@ -1,0 +1,2 @@
+[Public]
+Player=(DefaultName="Quan-Chi",Mesh=MKG-QuanChi_anim.MKG-QuanChi,species=xGame.SPECIES_Merc,BodySkin=MKG-QuanChi_tex.MKG-QuanChi,FaceSkin=MKG-QuanChi_tex.MKG-QuanChi,Portrait=MKG-QuanChi_tex.MKG-QuanChiPort,Text=MKG-QuanChi.MKG-QuanChi,Sex=male,Menu="",Ragdoll=Male,Tactics=2.0,StrafingAbility=+2.0,Accuracy=0.5,BotUse=1)

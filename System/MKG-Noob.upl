@@ -1,0 +1,2 @@
+[Public]
+Player=(DefaultName="Noob-Saibot",Mesh=MKG-Noob_anim.MKG-Noob,species=xGame.SPECIES_Merc,BodySkin=MKG-Noob_tex.MKG-Noob,FaceSkin=MKG-Noob_tex.MKG-Noob,Portrait=MKG-Noob_tex.MKG-NoobPort,Text=MKG-Noob.MKG-Noob,Sex=male,Menu="",Ragdoll=Male,Tactics=2.0,StrafingAbility=+2.0,Accuracy=0.5,BotUse=1)

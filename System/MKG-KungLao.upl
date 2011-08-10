@@ -1,0 +1,2 @@
+[Public]
+Player=(DefaultName="Kung-Lao",Mesh=MKG-KungLao_anim.MKG-KungLao,species=xGame.SPECIES_Merc,BodySkin=MKG-KungLao_tex.MKG-KungLao,FaceSkin=MKG-KungLao_tex.MKG-KungLao,Portrait=MKG-KungLao_tex.MKG-KungLaoPort,Text=MKG-KungLao.MKG-KungLao,Sex=male,Menu="",Ragdoll=Male,Tactics=2.0,StrafingAbility=+2.0,Accuracy=0.5,BotUse=1)

@@ -1,0 +1,10 @@
+;INT file for briangriffvoice.u
+;TITLE:    briangriffvoice
+;DATE:     08-27-2005 (00:15:33)
+;BUILD:    4
+;GAME:     Unreal Tournament 2004
+;UTILITY:  This package was built with UT2K4VoicePackager by Paul Catalano (www.xgxlan.com/vp)
+[Public]
+Object=(Name=briangriffvoice.briangriffvoice,Class=Class,MetaClass=XGame.xVoicePack)
+[briangriffvoice]
+VoicePackName="briangriffvoice"

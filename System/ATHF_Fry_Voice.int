@@ -1,0 +1,4 @@
+[Public]
+Object=(Name=ATHF_Fry_Voice.ATHF_Fry_Voice,Class=Class,MetaClass=XGame.xVoicePack)
+[ATHF_Fry_Voice]
+VoicePackName="ATHF - Fry"

@@ -1,0 +1,2 @@
+[Public]
+Player=(DefaultName="Scorpion",Mesh=MKG-Scorpion_anim.MKG-Scorpion,species=xGame.SPECIES_Merc,BodySkin=MKG-Scorpion_tex.MKG-Scorpion,FaceSkin=MKG-Scorpion_tex.MKG-Scorpion,Portrait=MKG-Scorpion_tex.MKG-ScorpionPort,Text=MKG-Scorpion.MKG-Scorpion,Sex=male,Menu="",Ragdoll=Male,Tactics=2.0,StrafingAbility=+2.0,Accuracy=0.5,BotUse=1)

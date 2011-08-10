@@ -1,0 +1,2 @@
+[Public]
+Player=(DefaultName="Kitana",Mesh=MKG-Kitana_anim.MKG-Kitana,species=xGame.SPECIES_Merc,BodySkin=MKG-Kitana_tex.MKG-Kitana,FaceSkin=MKG-Kitana_tex.MKG-Kitana,Portrait=MKG-Kitana_tex.MKG-KitanaPort,Text=MKG-Kitana.MKG-Kitana,Sex=Female,Menu="",Ragdoll=Female,Tactics=2.0,StrafingAbility=+2.0,Accuracy=0.5,BotUse=1)

@@ -1,0 +1,3 @@
+[Public]
+Player=(DefaultName="splintercell",Mesh=HumanMaleA.MercMaleC,species=xGame.SPECIES_Merc,Portrait=splintercell.splintercellPortrait,Text=XPlayers.MercMaleCA,Sex=Male,BodySkin=splintercell.splintercellBody,FaceSkin=splintercell.splintercellHead,Tactics=2.0,StrafingAbility=1.0,Accuracy=1.0)
+

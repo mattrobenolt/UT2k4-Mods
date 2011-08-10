@@ -1,0 +1,2 @@
+[Public]
+Player=(DefaultName="Reptile",Race="Zataran",Mesh=MKG-Reptile_anim.MKG-Reptile,species=xGame.SPECIES_Merc,BodySkin=MKG-Reptile_tex.MKG-Reptile,FaceSkin=MKG-Reptile_tex.MKG-Reptile,Portrait=MKG-Reptile_tex.MKG-ReptilePort,Text=MKG-Reptile.MKG-Reptile,Sex=Male,Menu="",Tactics=2.0,StrafingAbility=+2.0,Accuracy=0.5,BotUse=1)
