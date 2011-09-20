@@ -1,0 +1,1 @@
+Mutator=(ClassName=BootsOfJumping.MutJumpArena,ConfigMenuClassName=BootsOfJumping.JumpArenaConfig,GroupName=Jumping,IconMaterialName=MutatorArt.nosym,FriendlyName=BootsOfJumping.MutJumpArena.FriendlyName,Description=BootsOfJumping.MutJumpArena.Description,FriendlyName=BootsOfJumping.MutJumpArena.FriendlyName,FallbackName="Jump Arena",FallbackDesc="Everyone gets jump boots.")

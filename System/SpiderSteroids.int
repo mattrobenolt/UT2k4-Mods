@@ -1,0 +1,10 @@
+[Public]
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=SpiderSteroids.MutSpiderSteroidReplacer,Description="Spider Mines grow with the Link Gun secondary, increasing their damage and damage radius.||2004 Rachel 'Angel Mapper' Cordone")
+Object=(Class=Class,MetaClass=Engine.Weapon,Name=SpiderSteroids.SpiderSteroidLayer,Description="Spider Mines grow with the Link Gun secondary, increasing their damage and damage radius.||2004 Rachel 'Angel Mapper' Cordone")
+
+[MutSpiderSteroidReplacer]
+FriendlyName="Spider Steroids"
+Description="Spider Mines grow with the Link Gun secondary, increasing their damage and damage radius.||2004 Rachel 'Angel Mapper' Cordone"
+
+[SpiderSteroidLayer]
+Description="Spider Mines grow with the Link Gun secondary, increasing their damage and damage radius.||2004 Rachel 'Angel Mapper' Cordone"
